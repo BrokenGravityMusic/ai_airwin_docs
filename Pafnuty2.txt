@@ -1,0 +1,24 @@
+Pafnuty2
+
+A Chebyshev filter that adds harmonics to audio signals.
+
+Key Controls and Settings:
+
+* Harmonic multiplier: adjusts the harmonic frequency multiples (twice, three, four times the original frequency, etc.)
+	+ Range: up to 13th harmonic
+	+ Type: sine waves
+* Attenuverter: controls both the addition and subtraction of harmonics
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Dry/Wet control: mixes the original audio with the filtered output
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+Perfect aliasing-free harmonic enhancement is only achieved if no frequencies multiplied by the filter's output exceed the sampling rate. If higher frequencies do exceed the sampling rate, aliasing will occur but the filter will resist adding extra harmonics to minimize its effect.
+
+Best Use Cases:
+Harmonic enhancement in audio processing applications where aliasing-free results are crucial, color-adding effects in music production and sound design.
+
+Tips on Optimal Settings:
+Adjust harmonic multipliers for specific sonic textures, such as adding a 3rd or 5th harmonic to enhance clarity and presence. Experiment with the attenuverter to fine-tune the balance between addition and subtraction of harmonics.

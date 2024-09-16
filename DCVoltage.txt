@@ -1,0 +1,22 @@
+DCVoltage
+
+An artificial DC control voltage simulator
+
+Key Controls and Settings:
+
+* `Value`: Adjusts the level of the simulated DC voltage
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Meters`: Displays the current value of the simulated DC voltage, useful for metering and canceling out DC offsets
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+Misusing this plugin can lead to damage caused by misapplying a DC-coupled system directly to woofers. Use with caution.
+
+Best Use Cases:
+* Creating and modulating control voltages in a DAW for analog modular synthesizers or DC-coupled converters.
+* Canceling out fixed DC offsets without altering bass frequencies through the use of metering and "DC servo" techniques.
+
+Tips on Optimal Settings:
+To cancel out DC offsets, use metering to get an accurate reading, then adjust Value to compensate. Bouncing files with a center-corrected section can help minimize sonic penalties when working with this plugin.

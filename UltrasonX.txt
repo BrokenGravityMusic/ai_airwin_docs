@@ -1,0 +1,23 @@
+UltrasonX
+
+A plugin that allows you to use any one of five stages in isolation, with settings for A, B, C, D, and E stages.
+
+Key Controls and Settings:
+
+* Stage Select: Choose which stage (A-E) to use.
+* Resonance Value: Set the resonance value for each stage (A-E), which adds up to nice and flat and clear all the way up to the supersonic region.
+* Number of Instances: Decide how many instances of UltrasonX to use in a signal path, from 1 to 5.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* Constructing a Console system where channels aren't overly brightening, but feeding a submix buss that is more crunchy.
+* Using as pre-brightening or complementary darkening filters in a signal path.
+
+Tips on Optimal Settings:
+
+* Experiment with different stage combinations and resonance values to achieve the desired tone.
+* Use multiple instances of UltrasonX in a signal path for a Console topology effect.
+* Place UltrasonX before distortion for a more resonant sound, or after distortion for a softer, more compensating effect.

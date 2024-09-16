@@ -1,0 +1,32 @@
+Righteous4's Spiral Algorithm in Overdrive
+
+insert one-line description
+
+Key Controls and Settings:
+
+* `ADClip:` Clips peaks with precision to prevent distortion
+	+ Range: [insert text]
+	+ Type: Peak energy handling
+* `ShortBuss:` Fills saturated signal back into mix as second harmonics, adding tone and warmth
+	+ Range: [insert text]
+	+ Type: Saturation and dithering
+* `Spiral Algorithm (Overdrive):` Handles peak energy and dynamic range compression
+	+ Range: [insert text]
+	+ Type: Noise shaping and dithering
+
+Caveats:
+
+* Exceeding target LUFS levels can cause audible distortion, especially on bass and mix fullness.
+* Clipping peaks too hard can lead to loss of headroom and distorted sound.
+
+Best Use Cases:
+
+* Mastering for YouTube (-13 LUFS), Apple (-17 LUFS), Tidal/Spotify (-14 LUFS)
+* Pushing mixes beyond target LUFS levels requires careful adjustment
+
+Tips on Optimal Settings:
+
+* Set target LUFS level according to service requirements
+* Adjust levels carefully to avoid audible distortion
+* Listen to mix in Righteous4 and adjust accordingly
+* Use lower target LUFS levels for more headroom, higher for louder masters

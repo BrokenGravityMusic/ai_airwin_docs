@@ -1,0 +1,19 @@
+ContentHideD
+
+Mutes audio except for brief glimpses, allowing highly protected audio to be played without engaging Content ID.
+
+Key Controls and Settings:
+
+* `Mute Duration`: Adjusts the length of time that audio is muted before a brief glimpse is allowed. Values range from 0-5 seconds.
+	+ Type: Time (seconds)
+* `Glimpse Duration`: Sets the length of time for which audio is allowed to pass through during a glimpse. Less than 1 second in length.
+	+ Type: Time (seconds)
+
+Caveats:
+This plugin is not intended for playing music, as it renders the audio useless for that purpose. Legally, you get zero seconds of grace before copyright can be claimed if the sound can be identified.
+
+Best Use Cases:
+Playing brief clips of contentious or protected audio to illustrate points in educational contexts, such as metering and measurement.
+
+Tips on Optimal Settings:
+Experiment with different mute durations to find a balance between minimizing Content ID engagement and maintaining audible glimpses.

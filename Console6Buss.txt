@@ -1,0 +1,28 @@
+Console6Buss
+
+Simulates a high-gain console with peak level control, designed to add intensity and depth to audio signals.
+
+Key Controls and Settings:
+
+* `Gain`: Adjusts the overall gain of the simulated console.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Peak Level`: Sets the maximum allowed signal level, useful for preventing distortion or clipping.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Character` (from other versions): Selects from various tone-shaping options to influence the simulated console's sound.
+
+Caveats:
+
+* May introduce coloration or distortion if pushed too hard; be mindful of the peak level setting to avoid unwanted effects.
+* Peaks at lower dB levels than other consoles, limiting the available headroom in the mix.
+
+Best Use Cases:
+Ideal for adding intensity and depth to audio signals in mixing applications, particularly in situations where a more aggressive console tone is desired. Also suitable for creating intense, loud mixes that require maximum volume without excessive headroom.
+
+Tips on Optimal Settings:
+
+* Start with moderate gain settings and adjust upwards as needed to avoid distortion.
+* Experiment with different character options to find the desired tone (if applicable).
+* Pay close attention to peak level settings to prevent unwanted clipping or distortion.
+* Set Peak Level to a moderate value (around -12 dB) and adjust Gain accordingly to achieve the desired balance.

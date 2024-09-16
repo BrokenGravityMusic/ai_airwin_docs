@@ -1,0 +1,17 @@
+Full-Wave Rectifier
+
+A full-wave rectifier plugin, similar to a Green Ringer guitar effect, with a biquad filter that applies full-wave rectification, mimicking analog circuitry and DC-blocking capacitors.
+
+Key Controls and Settings: None. The plugin can be bypassed to disable its effects.
+
+Caveats:
+* Will not remove huge DC offsets
+* Avoid using on mastering consoles, as it may introduce unwanted artifacts.
+* Use caution when applying to sensitive audio signals.
+
+Best Use Cases:
+Ideal for use on guitar solo or other audio material where a unique tone color is desired.
+
+Tips on Optimal Settings:
+Use by ear to find suitable settings. Can cover DC to Nyquist at any sample rate.
+Bypass the plugin when not needed to minimize CPU usage.

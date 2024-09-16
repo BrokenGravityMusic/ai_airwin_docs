@@ -1,0 +1,20 @@
+Parametric
+
+A three-band EQ that provides detailed tone shaping, similar to an SSL-style console.
+
+Key Controls and Settings:
+
+* Three bands of EQ, each with frequency, gain, and bandwidth controls.
+	+ Frequency control: Adjusts the center frequency of each band (Band 1: 50 Hz - 200 Hz, Band 2: 200 Hz - 800 Hz, Band 3: 800 Hz - 5 kHz).
+	+ Gain control: Boosts or cuts the level of each band.
+	+ Bandwidth control: Tightens or widens the resonance of each filter (Q range: 0.3 - 20).
+* Mix: A blend control for mixing the processed sound with the original.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Detailed tone shaping for individual tracks or submixes, ideal for SSL-style EQ applications.
+
+Tips on Optimal Settings:
+Use the Low Mid control to extend into bass range and tighten bandwidth by turning Q left. Adjust gain and slope controls for each band to shape desired frequency response.

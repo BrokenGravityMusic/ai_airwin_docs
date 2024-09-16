@@ -1,0 +1,25 @@
+Slew2
+
+Controls extreme highs, useful as a de-esser or acceleration limiter.
+
+Key Controls and Settings:
+
+* Slider: Sets the threshold where Slew2 refuses to let more brightness through. Turning up this slider makes Slew2 harder to exceed.
+* Dry/Wet control (moderates the effect of Slew2, allowing for a balance between the filtered sound and the original)
+	+ Range: Not specified
+	+ Type: Control
+* Intermediate value setting: For acceleration limiting
+	+ Range: Not specified
+	+ Type: Setting
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* De-essing: Slew2 is well-suited for removing harsh high frequencies from vocals or other sounds.
+* High-end control: The brickwall filter response makes it ideal for controlling extreme highs in a mix.
+* Classic analog tone: Using Slew2 on the 2-buss can help achieve a warm, classic sound.
+
+Tips on Optimal Settings:
+Experiment with different settings to find the right balance between controlling extreme highs and preserving lower treble. Use the slider to set a threshold where Slew2 will refuse to let more brightness through, especially in mastering scenarios.

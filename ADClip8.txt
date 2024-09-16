@@ -1,0 +1,26 @@
+ADClip8
+
+A plugin that provides intense, saturated sound with resistance to intersample peaking through slew clipping and repeated use of the ClipOnly2 algorithm.
+
+Key Controls and Settings:
+
+* `Mode`: Select from Normal, Gain Matched, Clip Only, Afterburner, Explode, Nuke, Apocalypse, or Apotheosis.
+	+ Range: Various (see individual modes)
+	+ Type: Modes
+* `Ceiling`: A ceiling control to dial back the maximum clipping level
+	+ Range: [insert text]
+	+ Type: Control
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+
+* For producing intensely saturated sound with resistance to intersample peaking
+* For extreme, competitive loudness
+
+Tips on Optimal Settings:
+
+* Adjust mode and ceiling settings based on specific needs and material
+* Add stages for "bigger, bassier, thicker" sound (from third source)
+* Consider using Apotheosis mode for moderate transparent clipping

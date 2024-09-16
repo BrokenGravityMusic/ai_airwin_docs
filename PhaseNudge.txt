@@ -1,0 +1,21 @@
+PhaseNudge
+
+A phase rotator that produces a blur or smear effect on audio signals by delaying low frequencies relative to high frequencies.
+
+Key Controls and Settings:
+
+* `Calibration`: A setting that determines the degree of delay between low and high frequencies (default value is 0.618, which corresponds to the golden ratio). Range: n/a. Type: calibration.
+* `Delay Time`: A control that allows for short delays (normal for a phase rotator) to unusually long delays, making it suitable for slapback/echo effects. Range: from short (phase rotator) to long (slapback/echo effect). Type: delay time.
+
+Caveats:
+None mentioned in the provided text.
+
+Best Use Cases:
+* Diffuse pads
+* Overly pointy percussive elements
+* Effects loop of a lead guitar sound
+
+Tips on Optimal Settings:
+* Adjust calibration to 0.618 (golden ratio) for optimal results.
+* Experiment with delay times to achieve desired smear or blur effect.
+* Use PhaseNudge in conjunction with other plugins to enhance sound texture and depth.

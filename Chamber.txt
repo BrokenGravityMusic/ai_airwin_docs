@@ -1,0 +1,36 @@
+Chamber
+
+
+A feedforward reverb plugin that utilizes a Householder feedback matrix and golden ratio-based delays, allowing users to dial in any degree of feedback or none.
+
+
+Key Controls and Settings:
+
+
+* Chamber: [insert text]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Darkness: A control for simulating room decay
+	+ Range: 0% to 100%
+* Highpass: A tone-shaping control
+	+ Range: 0% to 100%
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+
+
+insert text
+
+Best Use Cases:
+
+
+insert text
+
+Tips on Optimal Settings:
+
+
+insert text
+
+
+In this version, I've combined the essential information from all three options. The Chamber plugin is described as a feedforward reverb with a Householder feedback matrix and golden ratio-based delays. Key controls include Darkness for simulating room decay, Highpass for tone-shaping, and Mix for blending processed sound with the original.

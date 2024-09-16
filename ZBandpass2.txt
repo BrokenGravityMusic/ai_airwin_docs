@@ -1,0 +1,32 @@
+ZBandpass2
+
+
+Emulates a bandpass filter with coefficient interpolation, similar to the Emu e6400 Ultra sampler.
+
+
+Key Controls and Settings:
+
+* `Coefficient Interpolation:` Enables or disables coefficient interpolation for smoother performance.
+	+ Type: On/Off
+* `Input Level:` Adjusts the input signal level. Set to 0.1 for unity gain.
+	+ Range: -20 to +20 dB
+	+ Type: Gain control
+* `Output Level:` Adjusts the output signal level. Use to pad or boost the signal as needed.
+	+ Range: -20 to +20 dB
+	+ Type: Gain control
+* `Bandpass Filter:` Emulates the bandpass filter of an Emu e6400 Ultra sampler.
+
+
+Caveats:
+
+* May introduce distortion and zipper noise, especially when run at high levels.
+* High levels of distortion and gain can be unstable if not handled carefully.
+
+Best Use Cases:
+
+* Ideal for creative sound design, effects processing, and simulating vintage hardware behavior.
+* Adding smoothing and interpolation to bandpass filters in audio processing chains.
+
+Tips on Optimal Settings:
+* Keep input and output levels low when using distortion or high gain settings.
+* Adjust coefficient interpolation as needed to balance smoothness with filter tone.

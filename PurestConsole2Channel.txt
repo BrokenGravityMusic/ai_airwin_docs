@@ -1,0 +1,19 @@
+PurestConsole2Channel
+
+A distributed filter version of PurestConsole that prevents aliasing by rolling off frequencies above 30k.
+
+Key Controls and Settings:
+* `Filter Start Frequency`: Set to 44 or 48k for optimal results.
+	+ Range: Adjustable, but defaults to around 30k
+* `Filter End Frequency`: Adjustable, but defaults to around 30k
+* `Filter Sharpness`: Sharper filtering compared to Console7
+* `Gain`: Adjust the overall gain of the plugin
+
+Caveats:
+Not suitable for very high frequencies (above 30k) due to aliasing prevention.
+
+Best Use Cases:
+Ideal for mixes that require a cool, airy clarity and resolution. Suitable for harmony vocal beds, orchestral stems, or summing busses.
+
+Tips on Optimal Settings:
+Use PurestConsole2Channel in the final stages of mixing to maintain transparency and resolution. Consider using Console7 for main mix and Console2Purest for summing busses or specific tracks.

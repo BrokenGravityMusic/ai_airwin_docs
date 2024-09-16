@@ -1,0 +1,29 @@
+Aura
+
+A resonant lowpass EQ that averages the rate of change OF the rate of change of the waveform.
+
+Key Controls and Settings:
+
+* Dry/Wet control: Adjusts the amount of effect, with enhanced resonant quality at full wet.
+	+ Range: 0% to 100%
+	+ Tip: Explore half-wet or barely-wet settings for optimal results
+* Resonance control:
+	+ Range: Not mentioned in the provided text
+
+Caveats:
+
+* The plugin's algorithm can be unstable when expanded beyond its intended frequency range, particularly into the bass frequencies.
+* Pre-ring is absent due to the unique implementation method.
+* Be cautious with half-wet or barely-wet settings as it can become too scary-resonant.
+
+Best Use Cases:
+
+* Projecting audio as if from an acoustic space.
+* Enhancing treble effects in a mix.
+* Cutting or enhancing treble texture in a mix.
+
+Tips on Optimal Settings:
+
+* Experiment with different dry/wet settings to find the optimal balance between effect and original signal.
+* Pull back on the resonance control if the plugin becomes too resonant.
+* Use Aura in conjunction with other plugins or effects to create interesting textures in your mix.

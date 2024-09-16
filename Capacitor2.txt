@@ -1,0 +1,18 @@
+Capacitor2
+
+A plugin that adds analog modeling and mojo to the original Capacitor algorithm, modulating the cutoff frequency based on the input signal.
+
+Key Controls and Settings:
+
+* `NonLin`: A control that allows you to crank up the distortedness of the capacitors' behavior from very minimal to quite extreme. Sensitive to input level.
+* `Boost Area:` A setting for dialing in your desired boost area.
+* (matching those of Capacitor, with added NonLin control for modulating cutoff frequency)
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Ideal for adding intense analog coloration and emphasizing transients in sounds. Can also be used to boost narrow bandpasses for effect.
+
+Tips on Optimal Settings:
+Adjust the `NonLin` control to taste to achieve desired levels of distortedness. Experiment with different `Boost Area` settings to find the optimal range for your signal. Use the (balance) control to blend the effect with the original sound.

@@ -1,0 +1,24 @@
+Isolator3
+
+A filter that simulates an isolator effect on one knob, with band-narrowing capabilities.
+
+Key Controls and Settings:
+
+* Iso: Controls the crossover frequency between lowpass and highpass filters.
+	+ Range: Full range to low-pass or high-pass
+* Band-Narrower (BN): Narrows the bandwidth of the filters.
+* Q: Adjusts the cutoff frequencies of the filters to approach each other, creating a bandpass effect or resonance.
+	+ Range: 0% to infinity
+
+Caveats:
+
+* The plugin uses biquad filters, which can be unstable when modulated.
+* Running the plugin with high Q values or rapid control changes can cause glitches and distortions.
+
+Best Use Cases:
+Ideal for simulating an isolator effect on one knob, creating a bandpass effect, or adding resonance to audio signals. Suitable for use in traditional effects processing and experimental sound design scenarios.
+
+Tips on Optimal Settings:
+Use smooth intentional motions when adjusting the controls for traditional effects.
+Experiment with rapid control changes to create unusual effects and textures.
+Set Q to zero and Iso to 0.5 to restore full-range filtering.

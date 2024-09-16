@@ -1,0 +1,27 @@
+ShortBuss
+
+A plugin that chases second harmonic to add or remove it, providing an asymmetry effect by finding imbalance in the waveform.
+
+Key Controls and Settings:
+
+* `Asymmetry:` Adjusts the level of asymmetry in the waveform.
+	+ Range: 0% to ?
+	+ Type: Control
+* `Second Harmonic:` Toggles on/off the effect of chasing second harmonic.
+	+ Range: On/Off
+	+ Type: Toggle
+* `Reverse:` Toggles on/off the reverse mode, which fights even harmonics.
+	+ Range: On/Off
+	+ Type: Toggle
+
+Caveats:
+The effect can be subtle and may require experimentation to hear its impact. Not an EQ or saturation plugin.
+
+Best Use Cases:
+
+* Adding warmth and interest to bass-heavy mixes
+* Conditioning effects for guitar going into heavy distortion
+* Creating unique bass-conditioner effects
+
+Tips on Optimal Settings:
+Start with a low Asymmetry value and gradually increase to taste. Experiment with both Second Harmonic and Reverse modes to achieve desired results.

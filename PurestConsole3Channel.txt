@@ -1,0 +1,22 @@
+PurestConsole3Channel
+
+An alternate algorithm for minimalist Console, using a custom sin()/asin() implementation with bit shifts for fast calculation and preservation of mantissas.
+
+Key Controls and Settings:
+
+* Channel/Buss: Select the mode of operation (channel or buss)
+	+ Type: Selection
+* Version: Choose from various Console versions to combine
+	+ Type: Selection
+* Oversampling: Enable oversampling for increased processing power
+	+ Type: Toggle
+
+Caveats:
+Not optimized for non-oversampled processing (may be less CPU-efficient than other Airwindows Console versions)
+May introduce a unique "sound" due to oversampling and bit-shift-based calculations
+
+Best Use Cases:
+Ideal for mixing large projects without excessive CPU usage, ideal for projects requiring fast, efficient processing with minimal CPU load. Suitable for use in conjunction with chain and individual FX oversampling.
+
+Tips on Optimal Settings:
+Use PurestConsole3Channel in conjunction with other Airwindows plugins that take advantage of oversampling capabilities (e.g., UltrasonX or HypersonX) to achieve optimal results. Use with oversampling enabled in your DAW to take advantage of PurestConsole3Channel's optimized calculations. Adjust settings according to personal preference to achieve the desired sound quality.

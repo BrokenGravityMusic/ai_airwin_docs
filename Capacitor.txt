@@ -1,0 +1,24 @@
+Capacitor
+
+A lowpass/highpass filter with a unique tone for DAYS, offering an analog-synth-like effect.
+
+Key Controls and Settings:
+
+* `Frequency Control`: Adjusts the cutoff frequency between highpass and lowpass modes.
+	+ Range: Reaches 1 (full crank) seamlessly bypasses itself while still calculating the filtered signal
+	+ Type: Control
+* `High/Low Mode Switcher`: Selects between highpass and lowpass filtering
+	+ Range: 
+	+ Type: Switch
+* `Dry/Wet Mix Control`: Adjusts the balance between the filtered and dry signals.
+	+ Range: 
+	+ Type: Blend control
+
+Caveats:
+Has a little characteristic response quirk at 1/3 the sampling rate, resulting in an odd notch under some circumstances. May not be suitable for precise or critical applications due to its unique implementation details.
+
+Best Use Cases:
+Tightening bass or rolling off brightness in mastering; Creating presence boosts by isolating areas of interest; Using as a shelf or presence enhancer
+
+Tips on Optimal Settings:
+Experiment with the frequency control and dry/wet mix to find the ideal balance for your specific needs. Use automation to take advantage of the filter's ability to reject zipper noise and clicks.

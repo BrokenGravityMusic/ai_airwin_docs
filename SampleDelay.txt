@@ -1,0 +1,27 @@
+SampleDelay
+
+A plugin that combines millisecond, sample, and subsample delay ranges to create a single delay effect.
+
+Key Controls and Settings:
+
+* Millisecond Delay: Up to 100ms of delay adjustment
+	+ Range: 0-100ms
+	+ Type: Time-based delay
+* Sample Delay: 0-10 samples of delay
+	+ Range: 0-10 samples
+	+ Type: Time-based delay
+* Subsample Trim: Zero to one sample of subsample trim
+	+ Range: 0-1 sample
+	+ Type: Phase-correction and timing adjustment
+* Inverse/Dry/Wet Control: Adjusts the blend between dry, inverse, and wet signals
+	+ Range: Blend control for mixing processed sound with original
+	+ Type: Level control
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for creating a single slapback echo, comb-filter effect, or timing adjustment on multimiked setups. Useful for isolating and phase-correcting specific microphones (e.g., snare mic with overheads).
+
+Tips on Optimal Settings:
+For creating a comb-filter effect, set the delay to half-inverse and adjust the dry/wet mix accordingly. To enhance brightness and complexity, keep the spot microphone inverted and use subtle settings for the other two delays.

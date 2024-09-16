@@ -1,0 +1,38 @@
+Monitoring
+
+Settings:
+
+* Bit Depth: 24-bit and 16-bit options
+* Not Just Another Dither (24-bit and 16-bit dither): enabled by default
+* Monitoring options:
+	+ PeaksOnly, SlewOnly, SubsOnly: extreme monitoring situations
+* Utilities:
+	+ Mono and Side: quick mono check
+* Vinyl, Aurat, and Phone options:
+	+ Bandwidth limiting: ultra-broad bandpass filtering (Vinyl)
+	+ Narrower bandpass filtering (Aurat): simulates output of one-driver mix check speakers
+	+ Very narrow bandpass filtering (Phone): simulates output of cellphone speakers
+* Cans A and B crossfeed algorithms:
+	+ Uses allpasses from PeaksOnly to blur and extend stereo content
+	+ Localizes stereo information while hinting at peak monitoring cues
+	+ Two modes available: subtle (Cans A) and more obvious (Cans B)
+* Cans C and D crossfeed algorithms:
+	+ Cans C: stronger, but still normal crossfeed algorithm
+	+ Cans D: 'headphones energy redistributor' that attacks exaggerated stereo while maintaining some characteristics of Peaks monitoring
+
+Key Controls and Settings:
+
+* `Control1:` [insert text]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+insert text
+
+Best Use Cases:
+insert text
+
+Tips on Optimal Settings:
+insert text

@@ -1,0 +1,21 @@
+Noise
+
+Generates brownian-motion noise without excessive DC offset, allowing for deep rumble or subsonic effects.
+
+Key Controls and Settings:
+
+* `Dry/Wet`: Adjusts the balance between the input sound and the generated noise.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Distance`: Affects both the dry and wet signals, blending and darkening them together.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for deep rumble generation, including purely subsonic rumble, as an audio stream.
+
+Tips on Optimal Settings:
+Adjust Dry/Wet to blend noise with input sound, and use Distance control to balance and darken the combined signal.

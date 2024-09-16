@@ -1,0 +1,22 @@
+MidAmp
+
+A clean amp simulator intended to produce a high-powered sound reminiscent of a Twin or similar combo.
+
+Key Controls and Settings:
+
+* `EQ:` A wide-range equalizer that can be rolled off significantly, with the ability to make the sound extra bright and spiky.
+	+ Adjusting the EQ curve allows for a broad range of tonal adjustments
+* 
+Slope adjustment: Not mentioned, but implied as part of the EQ setting (see CStrip description).
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* Clean or slightly overdriven guitar sounds
+* Bass amplification for a high-powered, aggressive sound
+* Drum enhancement to add brightness and spikiness
+
+Tips on Optimal Settings:
+Use the EQ to tailor the tone to your preference. For clean or slightly overdriven guitars, roll off excess low end and emphasize midrange. For bass, use the EQ to cut unwanted frequencies and emphasize the desired sound.

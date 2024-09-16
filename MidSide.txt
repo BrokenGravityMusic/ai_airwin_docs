@@ -1,0 +1,24 @@
+MidSide (mid/side conversion utility plugin)
+
+A mid/side conversion utility plugin for converting stereo tracks into mid/side format and back.
+
+Key Controls and Settings:
+
+* `Mid/Side Balance`: controls the balance between mid and side components
+	+ Adjust to gain stage the M/S content for further processing in other plugins
+	+ Can reverse the gain staging applied in other plugins
+* `Gain Staging` (not specified as a control, but mentioned as an option): Allows reversal of gain staging applied to mid/side content.
+* `Mix:` A blend control for mixing the processed sound with the original is not applicable here.
+
+Caveats:
+None
+
+Best Use Cases:
+
+* Mid/side conversion for processing and recombination
+* Saturating center content with other plugins while maintaining stereo width
+* Fresh takes on stereo reverbs
+* Funky routing techniques in DAWs, such as sending L and R to separate busses
+
+Tips on Optimal Settings:
+Experiment with different mid/side balances to achieve desired effects.

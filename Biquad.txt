@@ -1,0 +1,31 @@
+Biquad Filter Plugin
+
+A flexible and powerful tool that provides four common biquad options: lowpass, highpass, bandpass, and notch.
+
+Key Controls and Settings:
+
+* `Filter Type:` Select from Lowpass, Highpass, Bandpass, or Notch
+	+ Range: None specified
+	+ Type: Dropdown menu
+* Frequency control for each filter type:
+	+ Range: From DC to Nyquist frequency (adjustable)
+	+ Type: Adjustable knob/slider
+* Long double precision arithmetic for accurate calculations and stability.
+* Console integration for seamless operation with other plugins and processing chains.
+
+Caveats:
+
+* Designed to work in series with other filters for better behavior.
+* May run into trouble with 32-bit coefficients on some filter curves.
+* Requires a signal between -1 and 1 (or lower than 0dBFS in the DAW) for optimal performance.
+
+Best Use Cases:
+
+* Creating unique tonal colors and effects in various audio processing applications.
+* Using as a sample-instrument tone shaper or under-the-hood voice shaping.
+
+Tips on Optimal Settings:
+
+* Adjust frequency settings carefully to achieve desired results.
+* Experiment with different filter types and settings to find optimal sound.
+* Use Console integration for enhanced sound quality and DC offset removal.

@@ -1,0 +1,20 @@
+Single Ended Triode (SET), Class AB Distortion, and Class B Distortion
+
+These are three types of saturation/distortion algorithms used in audio processing.
+
+* `PurestWarm` is not listed here but has been noted to be an asymmetrical saturation algorithm that introduces soft distortion on one half of the waveform by applying a bias voltage.
+* `Single Ended Triode (SET)`: This algorithm uses asymmetrical saturation, with a continuous waveshaping curve similar to using a real triode tube single-ended circuit. It's great for adding warmth and sweetness to audio without crossover issues between push/pull sides of the circuit.
+* `Class AB/B distortion`: These algorithms add nonlinearities as the signal passes through zero, resulting in strong tone coloring. Class B is particularly harsh and can cause treble grit, while Class AB transitions through the middle of the wave in a more curvy way, leaning towards gritty upper-mids.
+
+Key Features:
+
+* SET: continuous waveshaper for warm effects, no crossover point
+* Class AB: strong tone coloring effect with gritty upper-mid sound
+* Class B: extremely harsh treble grit without Gibb effect converter clipping
+
+Caveats and Best Use Cases:
+These distortions are not ideal for certain applications (e.g., 2-buss or nice mellow music) but can be useful creative tools for adding specific coloration to audio. They should be used judiciously, as they can significantly alter the sound of a mix or individual tracks.
+
+Tips on Optimal Settings:
+* SET: great for subtle warm effects, but may not be ideal for the 2-buss
+* Class AB and Class B: more suitable for adding grit and attitude to specific sounds

@@ -1,0 +1,22 @@
+PurestAir
+
+A brightness experiment that boosts or cuts air-band frequencies with a limiting factor to prevent excessive treble boost.
+
+Key Controls and Settings:
+
+* `Boost/Cut:` Adjusts the air-band boost or cut.
+	+ Range: Not specified
+	+ Type: Boost/Cut
+* `Limit Intensity:` Sets the maximum intensity of treble before limiting occurs.
+	+ Range: Not specified
+	+ Type: Threshold
+
+Caveats:
+* The plugin's limiting factor can make it difficult to hear what adjustments are being made.
+* Adjusting the controls may not produce the expected results due to the unique interaction with the sample rate.
+
+Best Use Cases:
+Ideal for situations where a precise air-band boost or cut is desired, and excessive treble needs to be controlled.
+
+Tips on Optimal Settings:
+Approach adjustments slowly and carefully to avoid being overwhelmed by the plugin's limiting factor. Focus on subtle changes in frequency response rather than trying to make dramatic adjustments.

@@ -1,0 +1,23 @@
+TripleSpread
+
+A stereo tripler with extra wideness and GlitchShifter processing, designed to create a hyper-wide effect by fading out mid content as dry/wet is brought up.
+
+Key Controls and Settings:
+
+* `Dry/Wet`: Adjusts the balance between original signal and widened sound.
+	+ As Dry/Wet increases, mid content of added stereo sound fades out, creating a hyper-wide effect.
+* `Tightness` (from GlitchShifter):
+	+ Increase to glitch or revert to dry.
+	+ Decrease for an unpredictable echoey effect with pitch-shifted tripled voices.
+
+Caveats:
+None noted.
+
+Best Use Cases:
+
+* Widening LCR guitars while keeping the 'guitar orchestra' effect relatively tight.
+* Creating a wide stereo effect on a LR pair of instruments.
+* Making a big wide stereo effect on an LCR submix, sounding like about twelve instruments.
+
+Tips on Optimal Settings:
+Adjust Dry/Wet to balance between original signal and widened sound. Experiment with Tightness control for unpredictable effects or rhythmic tying.

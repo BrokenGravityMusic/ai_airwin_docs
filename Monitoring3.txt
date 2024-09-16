@@ -1,0 +1,28 @@
+Monitoring3
+
+A plugin that allows for various monitoring options, including different wordlength reduction and final dithers.
+
+Key Controls and Settings:
+
+* Output bit depth: 16-bit or 24-bit
+* Reference sounds:
+	+ SubsOnly: hears deepest subs only
+	+ SlewOnly: hears brightest highs only
+	+ PeaksOnly: fake and unnatural sound to highlight peak energy
+* Cans variations for headphone mixing (crossfeed in form of allpassed, blurred audio)
+* Mono check
+* Side check
+* Narrowed-bandwidth checks:
+	+ Aurat: narrow bandwidth check
+	+ One-side mono versions: resembles use of real mono mix-check speaker
+* Utilities:
+	+ VoiceTrick: outputs mono with one speaker out of phase, suitable for vocal tracking without headphones
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Monitoring audio mixes in different ways to identify balance issues, saving mixdowns as 16-bit files, using reference sounds to highlight specific frequency ranges, checking headphone mixes with Cans variations, and utilizing narrowed-bandwidth checks for precision monitoring.
+
+Tips on Optimal Settings:
+Adjust output bit depth according to requirements, use PeaksOnly to highlight peak energy, use Cans variations for optimal headphone mixing, and adjust reference sounds to suit specific monitoring needs.

@@ -1,0 +1,22 @@
+Dither Me Timbers
+
+A filter that takes the tiny microdetails in the sampling theorem and makes them darker and deeper.
+
+Key Controls and Settings:
+
+* `Latency`: The plugin runs one sample of latency.
+* `Noise Shaping`: A gentler noise shaping algorithm compared to Not Just Another Dither, making whatever noise is produced as loud as the original sound would have been.
+* `Rounding Method`: For every sample, the plugin asks whether it's larger or smaller than its surroundings. If it's the top of a corner or a spike of treble, it simply picks whichever 'rounding' will smooth out the treble the most.
+
+Caveats:
+
+* The plugin is a filter that takes the most delicate subtleties of the digital waveform and darkens them up, on purpose.
+* It's not suitable for users who prefer sparkling detail or airy texture in their audio.
+
+Best Use Cases:
+Creating depth and distance in ambient sounds, making natural organic tones feel solid and real, adding body to quiet musical notes.
+
+Tips on Optimal Settings:
+
+* Use the plugin to add warmth and character to your audio.
+* Experiment with different settings to find the right balance of darkness and depth for your music.

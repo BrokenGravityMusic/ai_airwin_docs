@@ -1,0 +1,25 @@
+kPlateA
+
+A plate reverb plugin using multiple Householder feedforward matrices, filtering, and undersampling for 96k and 192k compatibility.
+
+Key Controls and Settings:
+
+* `Room Size`: Adjusts the size of the plate reverb space (0-100%).
+* `Low Cut`: Sets the low-frequency cutoff for the plate reverb.
+* `High Cut`: Sets the high-frequency cutoff for the plate reverb.
+* `Mix`: Balances the blend between dry sound and plate reverb effect.
+* `Decay Time`: Adjusts the reverb tail length in milliseconds (ms).
+* `Damping`: Regulates the reverberation's low-frequency emphasis (0-100%).
+
+Caveats:
+None noted, but best results may vary depending on input source material.
+
+Best Use Cases:
+
+Adding depth and ambiance to music mixes, particularly in genres requiring a clean and intense plate reverb sound.
+
+Tips on Optimal Settings:
+Experiment with different Room Size settings to achieve desired spatial characteristics.
+Adjust Low Cut and High Cut filters to suit specific instrument types or frequency ranges.
+Adjust Decay Time for a desired reverb tail length.
+Use Damping to control low-frequency emphasis in the plate's response.

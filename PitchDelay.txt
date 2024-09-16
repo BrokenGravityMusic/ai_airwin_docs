@@ -1,0 +1,21 @@
+TapeDelay2 / PitchDelay
+
+A tape echo plugin with a long delay time, undersampled content, and Airwindows bandpasses. It provides a flexible tone shaping system with two separate bandpasses.
+
+Key Controls and Settings
+
+* `Delay Time:` Adjusts the length of the delay.
+* `Resonance:` Tightens or loosens the bandwidth of the Airwindows bandpasses (TapeDelay2), or undersampling resonance (PitchDelay).
+* `Frequency Control:` Adjusts the frequency range highlighted by the bandpasses (TapeDelay2) or tones down/buots specific frequencies within the delay line (PitchDelay).
+* `Dry/Wet Mix:` Blends the original signal with the delayed signal, allowing for subtle echoes without gain alteration.
+* `Tape Flutter/Pitch Shift:` Modulates the tape speed to create a wavy and irregular effect (TapeDelay2), or creates extreme and creative pitch manipulations (PitchDelay).
+* `Regeneration Amount:` Sets the amount of feedback in the delayed audio, with subtle restraint to avoid total feedback.
+
+Caveats:
+None specified for TapeDelay2, requires some noise beyond digital black to start with for PitchDelay.
+
+Best Use Cases:
+Use as a delay or reverb plugin for adding subtle echoes or texture to tracks (TapeDelay2), creating extreme and creative pitch manipulations, experimental sounds, and unique textures (PitchDelay).
+
+Tips on Optimal Settings:
+To get the best results from TapeDelay2: experiment with different delay times and resonance settings; use the frequency control to emphasize specific frequencies within the bandpasses. For PitchDelay: experiment with different pitch-shift values and regeneration settings; use the filter to shape the overall tone and resonance of the pitch-shifted sound.

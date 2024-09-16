@@ -1,0 +1,16 @@
+PaulDither
+Highpassed TPDF dither that provides mathematically correct dither without volume fluctuation.
+
+Key Controls and Settings:
+* Bit Depth: Switch between 24-bit and 16-bit operation.
+* DeRez: A control to adjust the noise floor. Lower values will make the dither quieter.
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Use when a highpassed TPDF dither is desired, providing a brighter tone and a quieter bed of noise. Suitable for mixing and mastering applications where detail and subtle revoicing are priorities.
+
+Tips on Optimal Settings:
+* Adjust the DeRez control to suit your preferences regarding noise floor.
+* Use 24-bit operation when monitoring on a DAC that takes 24-bit input, and for matching 24-bit files with what you hear.

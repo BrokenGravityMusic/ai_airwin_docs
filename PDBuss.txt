@@ -1,0 +1,17 @@
+PurestDrive
+
+Saturates audio signals with a smooth saturation curve, applying the effect dynamically based on the current and previous samples.
+
+Key Controls and Settings:
+* `Intensity`: A slider control from 0 to 1 that determines how much of the saturated signal is applied.
+	+ Range: 0% to 100%
+* `Apply`: The combination of the dry and saturated signals, calculated as the average of the previous and current samples, scaled by intensity.
+
+Caveats:
+If the input gets super hot, a little dry may be subtracted from the saturated input sample. Overdriven inputs may result in subtraction of a little dry from the saturated input sample.
+
+Best Use Cases:
+Ideal for adding subtle saturation to individual tracks or busses, preserving airy highs and subtleties while enhancing dense material. Suitable for a wide range of genres and musical styles. Mixing: Apply PurestDrive to individual tracks or groups to add warmth and texture without overpowering subtleties. Mastering: Use PurestDrive on the master bus to refine tone and balance.
+
+Tips on Optimal Settings:
+Start with low intensity values (0.1-0.3) and adjust to taste. Adjust Intensity to find the optimal balance between saturation and dry audio for your specific sound. Experiment with different settings to achieve unique textures and tones.

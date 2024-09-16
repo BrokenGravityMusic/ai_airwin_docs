@@ -1,0 +1,29 @@
+Edge
+
+
+Adjusts overall gain of the plugin
+
+
+Key Controls and Settings:
+
+* `Lowpass`: Sets cutoff frequency from 25k down into deep bass.
+* `Highpass`: Enhances texture when used as a guitar amp; dial in lows using this input highpass.
+* `Output` and `Dry/Wet`: Controls output level and blend of wet and dry signals.
+
+
+Caveats:
+
+
+None specified.
+
+
+Best Use Cases:
+
+
+Ideal for high-gain distortion, use with guitars or other instruments where extreme tonal shaping is desired. Also suitable for adding texture to low-passed signals.
+
+
+Tips on Optimal Settings:
+
+
+Experiment with gain and filtering controls to achieve unique tone combinations. Adjusting the lowpass cutoff can produce interesting tonal effects when used in conjunction with high-gain clipping. Use the highpass control to enhance texture and add definition to low-passed signals.

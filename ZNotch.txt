@@ -1,0 +1,22 @@
+ZNotch
+
+A notch filter made to sound and act like the Emu e6400 Phaser, with constant highs, deep bass notching capabilities, overdrive, and subtle color addition to the dry signal.
+
+Key Controls and Settings:
+
+* `Poles:` Adjusts the number of poles in the filter, affecting its cutoff frequency and resonance. (Range: 0-5)
+	+ Zeroing this control will allow you to add color to the dry signal.
+* `Cutoff Frequency:` Sets the frequency at which the notch is applied. Range: 20 Hz - 22 kHz.
+* `Q (Resonance):` Adjusts the width of the notch. Range: 0.1-100.
+* `Gain:` Controls the amount of signal that passes through the notch. Range: -24 dB to +6 dB.
+* `Poles in Dry Signal:` Toggles whether the filter's poles are applied to the dry signal as well.
+* `Drive:` Adds overdrive to the filtered tone, allowing for subtle character addition.
+
+Caveats:
+The plugin's behavior may vary depending on the input signal's characteristics and the desired notching effect.
+
+Best Use Cases:
+Ideal for adding depth and character to sound designs or mixes where a notch-like filter is desired. Suitable for creating unique tonal effects by manipulating the filter's cut frequency and drive level.
+
+Tips on Optimal Settings:
+Experiment with different pole counts to achieve the desired coloration of the dry signal. Adjust the cut frequency and drive level to suit the specific sound design or mixing needs.

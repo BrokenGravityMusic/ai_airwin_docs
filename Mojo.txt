@@ -1,0 +1,21 @@
+Mojo
+A plugin that adds weight and loudness to sounds, making them fatter and more energetic.
+
+Key Controls and Settings:
+
+* `Curve Factor:` A control that modifies the algorithm's behavior, adding complexity and character to the sound.
+	+ Adjusting this control affects how much fatness and energy are added to the sound.
+* `Gain:` A control for increasing or decreasing the overall loudness of the sound.
+	+ Note: Mojo can soak up input gain like nothing I've seen.
+* `Input Gain:` Adjusts the amount of input gain the plugin can handle.
+
+Caveats:
+Mojo is not a clean plugin, it thickens and fattens the sound without changing EQ. Pushing beyond its limits can cause wavefolding. Be aware that Mojo has an extreme fattening effect and may not be suitable for all types of sounds.
+
+Best Use Cases: Mojo is ideal for adding weight and energy to sounds in various contexts, such as:
+Making drums or percussion sound more powerful
+Enhancing the low end of bass guitars
+Adding a fat and loud character to synth sounds
+
+Tips on Optimal Settings: 
+Experiment with different Curve Factor settings to find the right balance between fatness and energy. Be cautious when pushing beyond Mojo's limits, as it can cause wavefolding.

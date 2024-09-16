@@ -1,0 +1,27 @@
+ZLowpass2
+
+A low-pass filter that emulates the Emu e6400 Ultra lowpass in motion, with coefficient interpolation, and is designed to give a seamless blend through several options.
+
+Key Controls and Settings:
+
+* `Cutoff Frequency:` Adjusts the point at which the filter starts to attenuate high frequencies.
+	+ Range: unknown
+	+ Type: control
+* `Resonance:` Controls the peak amplification of the frequency at the cutoff point.
+	+ Range: unknown
+	+ Type: control
+* `Gain Control:` Provides a significant amount of gain for internal clipping in samplers.
+	+ Range: up to 24 dB
+	+ Type: control
+* `Coefficient Interpolation:` Allows for smooth filtering by interpolating between coefficients.
+	+ Range: unknown
+	+ Type: control
+
+Caveats:
+This filter is designed to shine when sweeping controls in motion, rather than with static settings. Automating the controls can help achieve optimal results. May exhibit zipper noise when used with high CPU efficiency settings.
+
+Best Use Cases:
+Ideal for use as a sampler filter, providing a seamless blend of options and high gain for internal clipping. Suitable for DnB and neuro-sparkle effects. Achieve a more glitchy effect by sweeping the controls around.
+
+Tips on Optimal Settings:
+Sweeping the controls in motion to "play" the sampler EQ can help achieve the best results. Automate the controls to achieve dynamic, evolving sounds.

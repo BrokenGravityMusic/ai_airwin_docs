@@ -1,0 +1,25 @@
+TexturizeMS
+
+A hidden-noise plugin for adding mid-side sonic texture to audio signals.
+
+Key Controls and Settings:
+
+* `Bright:` Adjusts high-frequency emphasis.
+	+ Turning up Bright adds more energy, while pushing too far can hype-up high frequencies.
+* `Punchy:` Controls the sound's fullness or spikiness.
+	+ Softer settings produce a fuller sound, while cranking Punchy creates a choppy effect.
+* `Dry/Wet:` Adjusts the blend of original and processed audio.
+	+ Settings below 0.5 keep the noise entirely inaudible, allowing for a subliminal effect.
+
+Caveats:
+- Avoid pushing Bright or Punchy too far, as this can lead to unwanted results.
+- Dry/Wet should be kept at moderate levels (below 0.5) for optimal use.
+- Cranking Dry/Wet too high can make the noise overpowering.
+
+Best Use Cases:
+- Add subtle texture and interest to flat or synthetic audio elements.
+- Enhance the sonic quality of music by subtly blending processed noise with the original signal.
+
+Tips on Optimal Settings:
+- Tweak controls on a subliminal level (e.g., Dry/Wet around 0.2) for maximum effect.
+- Experiment with different settings to find the perfect balance between texture and fidelity.

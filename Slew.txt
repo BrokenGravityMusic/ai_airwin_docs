@@ -1,0 +1,27 @@
+Slew Clipper
+
+A slew clipper that darkens treble in an unusual way.
+
+Key Controls and Settings:
+
+* `Threshold`: Adjusts the level above which slewing occurs
+	+ Range: 0-1
+* `Drive`: Increases the intensity of the clipping effect
+	+ Range: N/A (increases effect)
+* `Ratio`: Sets the balance between the original signal and the clipped signal
+	+ Range: N/A (sets balance)
+* `Attack Time`: Sets the time it takes for slewing to reach maximum effect
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Release Time`: Sets the time it takes for slewing to decay back to normal
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+Excessive use may lead to loss of high-frequency content.
+
+Best Use Cases:
+Morphing and transforming percussive sounds or hats, adding a unique "grind" sound to instruments or gluing sounds together into a retro sound, enhancing reverb sends.
+
+Tips on Optimal Settings:
+Experiment with Threshold and Drive settings to find the desired balance between treble darkness and overall sound. Use Ratio setting to adjust the character of the slew clipping effect. Adjust Attack Time and Release Time as needed for optimal results.

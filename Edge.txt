@@ -1,0 +1,17 @@
+Edge
+A seven-stage distortion with Hypersonic filtering and tone shaping controls, designed for high-gain guitar-grade distortion.
+
+Key Controls and Settings:
+* `Gain`: Adjusts the overall gain of the plugin.
+* `Lowpass`: Sets the cutoff frequency for the ultrasonic filter, ranging from 25k down to deep bass. This control doubles as an ultrasonic filter and can be used to improve aliasing performance at elevated sample rates.
+* `Highpass`: An input highpass filter that helps to enhance texture when using the plugin as a guitar amp.
+* `Output` and `Dry/Wet`: Used in combination to create a hard clipper effect, although this is never exactly smooth due to the plugin's design.
+
+Caveats:
+The Lowpass control should not be swept aggressively, as this can introduce crackles. Running the plugin at elevated sample rates can improve aliasing performance and produce an interesting tonality at the cutoff.
+
+Best Use Cases:
+Ideal for high-gain guitar-grade distortion, tone shaping, and as a component in the DI Guitar system (combined with other plugins like Cabs).
+
+Tips on Optimal Settings:
+Adjusting the Lowpass control can help to improve aliasing performance and produce an interesting tonality at the cutoff. Using the Highpass input filter in combination with the rest of the system can help to enhance texture when using the plugin as a guitar amp.

@@ -1,0 +1,26 @@
+Galactic2
+
+
+A super-reverb plugin with a single stereo reverb matrix that uses cross-accessing delay values to create a wide soundstage.
+
+
+Key Controls and Settings:
+
+* `Drive`: Adjusts the gain of new audio fed into the reverb space.
+	+ Range: 0-100%
+* `Sustain`: Controls the length of time the reverb decays.
+	+ Range: 0-100% (feedback loops indefinitely past 2/3 up)
+* `Darken`: Adjusts the tone and brightness of the reverb output.
+	+ Range: 0-100% (bright to mellow and distant-sounding)
+* `Wetness`: Controls the amount of reverb mixed with the original audio.
+	+ Adjustment: 0-100%
+
+
+Caveats:
+Be cautious when cranking up Drive to avoid distortion.
+
+Best Use Cases:
+Ideal for creating wide soundscapes and ambient textures in music production.
+
+Tips on Optimal Settings:
+Use Sustain to control the length of time the reverb decays. Adjust Darken to balance tone and brightness. Set Wetness to maximum (likely full crank) for most use cases.

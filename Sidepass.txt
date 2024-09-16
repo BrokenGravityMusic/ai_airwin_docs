@@ -1,0 +1,28 @@
+Sidepass
+
+A highpass filter on the side channel, going up the full range from subs to highs.
+
+Key Controls and Settings:
+
+* `Highpass Control`: Adjusts the cutoff frequency of the highpass filter.
+	+ Range: 0-100 (0 = flat, 100 = full range)
+	+ Note: Aware of sample rates to maintain consistent performance across different sampling frequencies.
+* `Threshold`: Sets the sensitivity of the highpass filter.
+* Dry/Wet Mix: Blend ratio between original and side-passed signal.
+
+Caveats:
+
+* Not very fancy, but can be a useful tool for mono-making.
+* Designed to work up the full range from subs to highs, so at full crank it'd be purely mono.
+
+Best Use Cases:
+Ideal for use in situations where a clear and distinct stereo image is desired, such as:
+
+* Mixing and mastering
+* Surround sound production
+* Music production
+
+Tips on Optimal Settings:
+
+* Adjust the Highpass Control to taste to achieve the desired level of high-frequency reduction.
+* Be mindful of sample rates when using Sidepass to maintain consistent performance.

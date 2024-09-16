@@ -1,0 +1,28 @@
+Hull
+
+Alternate form of highpass/lowpass filter that can work as either a lowpass or highpass filter
+
+Key Controls and Settings:
+
+* `Bright`: A dry/wet control for adjusting the balance between filtered and unfiltered audio.
+	+ Hard left gives darkening, hard right subtracts output giving highpass
+* `Freq`: Adjusts the cutoff frequency of the filter.
+	+ High values increase averaging and lower cutoff frequency, which can lead to CPU-intensive processing
+* `Lowpass/Highpass Mode`: A control that switches between lowpass and highpass filtering modes
+
+Caveats:
+
+* High Freq values can result in significant CPU usage, especially at high sample rates
+* The filter produces artifacts and accentuates unwanted audio content when used for sound effects or noise reduction
+* Lowpassing at very low frequencies (bass) can be particularly CPU-intensive
+
+Best Use Cases:
+
+* Sound effects filtering
+* Creative EQing and tone shaping
+* Experimental processing and noise reduction
+
+Tips on Optimal Settings:
+Adjust Bright control to balance filtered and unfiltered audio.
+Experiment with Freq control to find optimal cutoff frequency for your specific use case.
+Be cautious when using lowpass or highpass modes at very low frequencies, as this can lead to significant CPU usage.

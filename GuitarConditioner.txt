@@ -1,0 +1,24 @@
+GuitarConditioner
+
+A tone shaping plugin with a parallel matrix arrangement using Slew and Highpass, providing sonority, focus, and impact for Djent style sounds.
+
+Key Controls and Settings:
+
+* `Tone Matrix:` A combination of Slew and Highpass in a parallel matrix arrangement.
+	+ `Slew Levels:` Two separate levels of Slew clipping with different voicings:
+		- `High Slew Level:` Set to Tight tone shaping behavior for extreme lows.
+		- `Low Slew Level:` Set to Loose rolloff for the proper texture on boosted mids circuit.
+* `Dry/Wet Control:` A blend control to balance the effect of the Tone Matrix.
+* `Slew 1 & Slew 2:` Two separate slew clipping levels with different voicings.
+	+ Adjusting these controls affects the tone quality of the plugin.
+* `Highpass:` Tone shaping feature that boosts midrange frequencies and restricts extreme lows.
+	+ The "Tight" mode tightens low-end tones, while the "Loose" mode creates a boosted mids circuit with loose rolloff.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for creating Djent-style sounds, enhancing guitar tone for aggressive playing styles, and adding sonority and focus to instrument sound.
+
+Tips on Optimal Settings:
+Experiment with Slew levels and tone shaping behavior to achieve desired sonority, focus, and impact. Adjusting Highpass control can significantly alter the overall tone of the plugin. Using Dry/Wet control can help balance the processed sound with the original.

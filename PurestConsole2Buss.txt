@@ -1,0 +1,20 @@
+PurestConsole2Buss
+
+A distributed filter plugin that emulates a high-end console bus, providing a smooth and accurate representation of audio signals.
+
+Key Controls and Settings:
+
+* Input Level: Adjusts the input gain of the plugin. Range: -∞ to +6 dB.
+	+ Filter Type: Selects from different filter types (e.g., Butterworth, Chebyshev) for tone shaping. Options: [list specific options].
+	+ Cutoff Frequency: Sets the cutoff frequency of the filter. Range: 20 Hz to 20 kHz.
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Be cautious with high levels of drive, as it can introduce distortion.
+
+Best Use Cases:
+Ideal for mixing and mastering applications where a high-end console bus emulation is desired. Suitable for use in both stereo and surround sound formats.
+
+Tips on Optimal Settings:
+To achieve the best results, adjust Input Level to match the average signal level of your mix. Experiment with different Filter Types and Cutoff Frequencies to find the tone that suits your music or genre. Start with a low cutoff frequency (around 100 Hz) for a more subtle effect. Adjust resonance to taste, but be mindful of excessive resonance creating an unwanted "ringing" effect.

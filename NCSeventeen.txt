@@ -1,0 +1,35 @@
+NCSeventeen
+
+
+A loudness maximizer that uses a soft-clipper with energy redistribution and a Chebyshev filter to produce second harmonic distortion.
+
+
+Key Controls and Settings:
+
+* `Threshold/Loudenator Level:` Adjusts the overall loudness.
+	+ Range: N/A
+	+ Type: Knob
+* `Gain:` Increases or decreases the overall output of the plugin.
+	+ Range: N/A
+	+ Type: Knob
+* `Dirt Factor/Surface Tension:` Control the amount of added distortion.
+	+ Range: N/A
+	+ Type: Knob
+* `Filter Resonance:` Adjusts the frequency response of the Chebyshev filter.
+	+ Range: N/A
+	+ Type: Knob
+* `Soft Clip Threshold/Drive:` Set the level at which the soft-clipper engages.
+	+ Range: N/A
+	+ Type: Knob
+
+Caveats:
+Be cautious when adjusting settings, as the tone and texture may change unexpectedly. The plugin's effect changes significantly as you push loudness. May not work well with very clean or delicate sounds.
+
+Best Use Cases:
+
+* Mixing loud sources (e.g., drums, bass)
+* Enhancing synthesizer tones
+* Adding a warm, distorted sound to EDM tracks
+
+Tips on Optimal Settings:
+Start by adjusting the Loudenator Level and Dirt Factor in small increments. Pay attention to how the tone and texture change as you push loudness. Experiment with different Filter Resonance settings to find the desired frequency response.

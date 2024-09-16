@@ -1,0 +1,25 @@
+Console8BussHype
+
+Simulates an improved 8-bus topology with analog characteristics, providing a brighter and sparklier design compared to Console8BussIn.
+
+Key Controls and Settings:
+
+* `Topology:` Switch between bus, channel, or submix routing.
+	+ Range: Not specified
+	+ Type: Dropdown selection
+* `Swap mode (or Swap Circuit):` A switch to enable or disable the simulated upgrade, allowing you to choose between the original Console8BussIn circuit and a brighter, sparklier design.
+	+ Range: On/Off
+	+ Type: Toggle button
+* `Analog Simulation:` Engage for a brighter and sparklier circuit (same as Swap mode in other versions).
+	+ Range: Not specified
+	+ Type: Toggle button
+
+Caveats:
+None documented.
+
+Best Use Cases:
+Ideal for mixing and mastering applications where an enhanced 8-bus topology is desired.
+
+Tips on Optimal Settings:
+* Adjust Topology to suit your mixing style.
+* Engage Analog Simulation (or Swap mode) for a brighter sound, but be aware it replaces the original Console8BussIn configuration.

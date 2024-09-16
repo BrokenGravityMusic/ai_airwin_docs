@@ -1,0 +1,27 @@
+XLowpass
+
+A distorted digital EQ that emulates a retro sampler DSP.
+
+Key Controls and Settings:
+
+* `Distortion`: A control for adjusting the amount of internal distortion in the plugin.
+	+ Adjusting this control will affect the overall tone and character of the EQ.
+* `Filter Type/Cutoff Frequency`: A selection menu and control for choosing between different biquad filter types (e.g. lowpass, highpass) and adjusting the cutoff frequency of the lowpass filter.
+	+ This setting determines the type of filtering applied to the audio signal and can greatly affect the tone of the filtered signal.
+* `Stage Count`: A control for adjusting the number of stages in the internal distortion circuit.
+	+ Increasing this value will add more complexity and character to the distortion.
+* `Resonance/Gain`: A control for boosting or cutting the response at the cutoff frequency (if applicable) and adjusting the overall gain of the plugin.
+	+ Adjusting these values can affect the tone and resonance of the filtered signal.
+
+Caveats:
+* This plugin is experimental and may produce unusual or unpredictable results.
+* The internal distortion circuit can be prone to clipping and aliasing if pushed too hard.
+
+Best Use Cases:
+* Mixing and mastering: Use XLowpass as a creative tool for adding unique coloration and texture to your audio.
+* Sound design: Experiment with XLowpass to create interesting and unusual sounds.
+
+Tips on Optimal Settings:
+* Start by adjusting the Distortion control to taste, then experiment with different Filter Types/Cutoff Frequencies and Stage Counts to find the desired sound.
+* Pay attention to the tone and resonance of the filtered signal when using the lowpass filter.
+* Use XLowpass in conjunction with other plugins for more complex tones.

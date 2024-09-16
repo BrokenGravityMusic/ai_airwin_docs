@@ -1,0 +1,25 @@
+Channel6
+
+Applies a simple IIR highpass, distortion using the Spiral algorithm, and slew clipping with minimal processing, preserving data integrity through long double math and noise shaping.
+
+Key Controls and Settings:
+
+* `API/Neve/SSL:` Selects the distortion model used by Channel6.
+	+ API: Uses the original Density algorithm for its saturation model.
+	+ Neve: Uses the Spiral algorithm for its distortion model (default).
+* `Drive/Dry/Wet:` Adjusts the level of dry signal blended with the distorted signal.
+	+ Drive: Controls the amount of distortion added to the signal.
+	+ Wet: Controls the amount of processed signal mixed with the dry signal.
+* Highpass: Apply a gentle highpass using an IIR filter.
+	+ Control the steepness of the highpass.
+* Slew Clipping: Set the slew clipping level to avoid unwanted distortion.
+	+ Choose from various settings for optimal results.
+
+Caveats:
+None reported.
+
+Best Use Cases:
+Ideal for adding subtle, analog-style sound to audio signals with minimal processing impact. Suitable for preserving data integrity and CPU efficiency.
+
+Tips on Optimal Settings:
+Adjust the Drive/Dry/Wet controls to achieve the desired level of distortion and blending. Experiment with different algorithm settings using the API/Neve/SSL selector to find the best fit for your audio signal. Use the highpass setting carefully to avoid over-processing your signal, and adjust the slew clipping level to maintain data integrity.

@@ -1,0 +1,32 @@
+Pop
+
+insert one-line description
+
+Key Controls and Settings:
+
+* `Threshold`: Sets the level above which compression begins. Adjust carefully to achieve desired effect.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Ratio`: Determines the amount of compression applied. Higher ratios produce more extreme effects.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Attack`: Controls how quickly the compressor responds to changes in signal level. Short attacks can create a "bursting" effect.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Release`: Sets how long it takes for the compressor to recover after a transient has passed. Longer releases can produce a "smashed" sound.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Requires careful setting of threshold and ratio to avoid producing unwanted effects such as backwards decay or distortion.
+May not be suitable for all types of audio, particularly loud or complex signals.
+
+Best Use Cases:
+Ideal for creating unique, overcompressed sounds reminiscent of 80s Genesis and Phil Collins productions. Suitable for use on individual tracks or in mixing situations where a distinctive sound is desired.
+
+Tips on Optimal Settings:
+Experiment with different attack and release times to achieve the desired effect.
+Pay attention to threshold and ratio settings to avoid over-compression or distortion.
+Consider using Pop as part of a larger processing chain to create complex, textured sounds.

@@ -1,0 +1,23 @@
+PodcastDeluxe
+
+A compressor with curve-style compression and phase rotators, designed to emulate radio station processing.
+
+Key Controls and Settings:
+
+* Compressors: 5 curve-like compressors in series
+	+ Adjust the individual compressor settings to shape the overall compression response.
+* Phase Rotators: 5 phase rotators for additional processing
+	+ Used to create a 'radio station style processing' effect
+* ADClip-style Output Stage: for hard clipping the output
+
+Caveats:
+May not work to satisfaction due to imperfect design.
+Curve-style compression does not provide "pumping and swelling" effects.
+
+Best Use Cases:
+Mixing: as a unique, processed-sounding effect
+Drum Bussing: for high-impact drum busses without obvious distortion
+
+Tips on Optimal Settings:
+Experiment with different compressor settings to find the desired balance of compression and distortion.
+Use the phase rotators to create a balanced, radio-style processing effect.

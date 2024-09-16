@@ -1,0 +1,24 @@
+OneCornerClip
+
+A full-bandwidth clipper that shapes the distortion to match the input signal's frequency balance.
+
+Key Controls and Settings:
+
+* `Input Gain`: Adjusts the volume of the incoming audio.
+* `Threshold`: Sets the maximum output level before clipping occurs.
+* `Onset Control`: Slows down or speeds up the onset time of clipping.
+* `Departure Control`: Adjusts the time taken for the waveform to snap back into place after clipping.
+* `Clipping Type`: Selects between different clippage characteristics (e.g. bright and gritty, or brutal and ballsy).
+* `Waveform Shaping`: Controls how the waveform is shaped when exiting clipping.
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Should not be used for clean audio processing due to its distortion characteristics. May produce unpredictable results when used on transient-rich signals.
+
+Best Use Cases:
+
+Nasty industrial noise production Obliterating drum room tracks Creating big, fat, dirty distortions Adding size and scale to mixes
+
+Tips on Optimal Settings:
+Use a ratio of 0.618 for general use to achieve a good range of tones. Experiment with different slope values or clipping types to find the desired tone shape. Be cautious when using this plugin on transient-rich signals due to its aggressive clipping characteristics.

@@ -1,0 +1,22 @@
+Calibre
+
+A digital tone control simulator with a unique "steely" character.
+
+Key Controls and Settings:
+
+* `Character Control:` Adjusts the plugin's tone, affecting high-end frequency response.
+	+ Range: Not specified
+	+ Type: Affects high-end frequency response
+* `Phase Inversion (via external tools):` Flipping phase on a duplicated track or using an external utility can create a low-pass filter effect with unusual coloration.
+	+ Range: Not specified
+	+ Type: Creates a low-pass filter effect
+
+Caveats:
+
+* High character settings can cancel out bass frequencies.
+* Phase inversion may introduce unusual coloration when combined with other effects.
+
+Best Use Cases:
+Enhancing the tone of individual tracks, creating unusual low-pass filters by duplicating and phase-flipping the track.
+
+Tips on Optimal Settings: Experiment with moderate character settings (around 50-70%) to find a balance between tone shaping and bass preservation.

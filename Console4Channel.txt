@@ -1,0 +1,19 @@
+Console4Channel
+
+A two-plugin mix buss replacement that combines multiple channel plugins into a single, high-quality audio signal.
+
+Key Controls and Settings:
+
+* `Gain`: Adjusts the overall volume of the combined signal.
+* `Noise Shaping`: Enables or disables noise shaping to 64-bit floating-point bus (VST versions only).
+* `32-bit Replacing`: Enables or disables 32-bit replacing for compatibility with all hosts.
+* `Channel Count`: Sets the number of channels to combine.
+
+Caveats:
+Console4Channel does not allow individual channel volumes to be set to maximum, instead promoting layering and composite sounds.
+
+Best Use Cases:
+Mixing multiple audio sources into a single high-quality signal. Creating complex, layered soundscapes. Replacing traditional mix buss plugins with higher sound quality options.
+
+Tips on Optimal Settings:
+Experiment with different gain levels to find the optimal balance for your mix. Use noise shaping to enhance the overall sound quality of your combined signal (VST versions only). Consider layering multiple channels to create unique and interesting sounds.

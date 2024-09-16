@@ -1,0 +1,18 @@
+Hype
+
+A treble softening experiment gone awry, producing an unusual aural exciter effect.
+
+Key Controls and Settings:
+
+* None (plugin has no controls)
+* External control settings may cause unpredictable behavior
+* Oversampling may result in plugin or system instability
+
+Caveats:
+Unpredictable behavior when using external controls. Oversampling is not supported and may cause issues. Stacking multiple instances can lead to distorted crackling territory.
+
+Best Use Cases:
+Drop the plugin into your mix anywhere and observe its unusual effect. Use Hype in small quantities, either on its own or as a component of other plugins.
+
+Tips on Optimal Settings:
+Start with a single instance and adjust settings carefully. Avoid using external controls or oversampling. Be cautious when stacking multiple instances; use sparingly to avoid distortion.

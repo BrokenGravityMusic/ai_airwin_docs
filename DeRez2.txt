@@ -1,0 +1,25 @@
+DeRez2
+
+A plugin that simulates authentic retro-digital hardware tones by interpolating samples between sample-rate-crushed outputs and using arbitrary bit depth.
+
+Key Controls and Settings:
+
+* `Hard`: A control that affects the rate-crusher and bit-crusher algorithms. When set to zero, it changes the way intermediate samples are incorporated.
+	+ Range: 0% to 100%
+	+ Type: Adjustment of texture
+* `Dry/Wet`: Blends the output with the original audio.
+	+ Range: 
+	+ Type: Blend control
+* `Soft/Halfway/Hard` settings:
+	+ Soft: Engages uLaw encoding and decoding in a non-linear way, producing 'steps' in loud parts and small 'steps' in quiet parts.
+	+ Halfway: Enables wet/dry balance on the uLaws inside the plugin, adding volume and grunge to the output.
+	+ Hard: Maxes out at 100% with the previous algorithm.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Dialing in vintage-digital tonalities that are totally satisfying and convincing. Creating darkening and texture effects similar to classic samplers.
+
+Tips on Optimal Settings:
+Experiment with the 'Hard' control to find the perfect balance between sample-rate crush and bit-crusher textures. Automate the 'Hard' control for a unique effect, especially when blending with dry audio.

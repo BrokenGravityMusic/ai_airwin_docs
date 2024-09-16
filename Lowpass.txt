@@ -1,0 +1,21 @@
+Lowpass
+
+A mixing EQ filter that deepens the tone, adds a gloss, and provides textural modifications.
+
+Key Controls and Settings:
+
+* `Cutoff`: Controls the frequency at which the rolloff occurs.
+* `Soft/Hard (or Loose/Tight)`: A unique parameter that controls how the IIR filters are fed audio. Adjusting this parameter can alter the tone-character modification, providing two different textures at deeper cut settings. 
+	+ Range: Offsets from center position provide different tones.
+* `Dry/Wet`: Allows you to blend the original and processed signals.
+
+Caveats:
+Not suitable for mastering requirements; intended as a mixing tool. Has unique behavior compared to traditional EQs due to its interleaved IIR filter design.
+
+Best Use Cases
+Ideal for adding depth and coloration to huge synth pads or orchestral tracks. Also useful for texture shaping in various musical contexts.
+
+Tips on Optimal Settings
+* For a subtle treble rolloff, adjust the soft/hard control towards the center position.
+* To accentuate the tone-character modification, offset the soft/hard parameter away from its center position.
+* Balance the dry/wet control to suit your desired level of processing.

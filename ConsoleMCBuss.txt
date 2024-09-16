@@ -1,0 +1,55 @@
+ConsoleMCBuss
+
+An emulation of the MCI audio console.
+
+Key Controls and Settings:
+
+* Input Gain: Adjusts the overall level of the input signal.
+	+ Range: [not specified]
+	+ Type: adjustment
+* Output Level: Sets the output level of the plugin.
+	+ Range: not specified
+	+ Type: setting
+* Tone Shaping: Allows for adjustments to the tone of the input signal.
+	+ Not specified
+* Metering: Displays a VU meter to indicate the output level.
+	+ Not specified
+* Mix: Adjusts the overall mix level, ranging from -20 dB to 0 dB.
+	+ Range: -20 dB to 0 dB
+	+ Type: adjustment
+* Gain: Controls the gain makeup for the console, with a range of -6 dB to +6 dB.
+	+ Range: -6 dB to +6 dB
+	+ Type: setting
+* Tone: A four-band EQ with controls for Bass, Low Mid, High Mid, and Treble, each with a range of ±15 dB.
+	+ Range: ±15 dB
+	+ Type: adjustment
+* Gain (v2): Adjusts overall volume level (0-10 dB).
+	+ Range: 0-10 dB
+	+ Type: setting
+* Drive: Adds warmth and character to the sound (0-100%).
+	+ Range: 0-100%
+	+ Type: setting
+* Presence: Boosts high-end frequencies for added clarity (0-10 dB).
+	+ Range: 0-10 dB
+	+ Type: adjustment
+* Low Cut: Removes low-end rumble and hum (20 Hz - 200 Hz).
+	+ Range: 20 Hz - 200 Hz
+	+ Type: setting
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* Ideal for emulating the sound of an MCI audio console, particularly in film and television production.
+* Mixing vocals or instruments that require a warm, vintage sound.
+* Adding character to a mix without sacrificing clarity.
+* Mastering and mixing of music productions requiring a vintage console sound.
+* Adding warmth and character to individual tracks or stems.
+
+Tips on Optimal Settings:
+Experiment with Input Gain and Tone Shaping to achieve the desired tone. Adjust Output Level as needed to match the intended loudness.
+Adjust Mix and Gain settings to achieve the desired output level.
+Use Tone controls to enhance specific frequency ranges and create a balanced sound.
+For a bright, upfront sound, set Gain (v2) to 5 dB and Drive to 50%.
+To add more presence, increase Presence control up to 5 dB.

@@ -1,0 +1,21 @@
+Console8LiteChannel
+
+A simplified version of the full-featured Console8 plugin, optimized for use with a single mix bus.
+
+Key Controls and Settings:
+
+* `Mix Bus:` Adjusts the overall gain of the plugin's output.
+	+ Range: -30 dB to +6 dB
+	+ Default Value: 0 dB
+* Channel EQ (High/Mid/Low): 
+	+ Each band has a Q value (bandwidth) that can be adjusted.
+	+ High, Mid, and Low bands have separate gain controls.
+
+Caveats:
+None specified in the documentation.
+
+Best Use Cases:
+Ideal for use as a simplified channel strip or mix bus processor when the full-featured Console8 plugin is not required.
+
+Tips on Optimal Settings:
+Adjust the Mix Bus gain to match the average level of your tracks. Then, fine-tune the Channel EQ settings to taste, focusing on individual frequency ranges that need correction.

@@ -1,0 +1,29 @@
+ConsoleMDChannel
+
+A channel strip plugin that emulates the tone shaping capabilities of a classic MCI console.
+
+Key Controls and Settings:
+
+* `Fader:` Adjusts signal level in real-time (20 dB gain control)
+* `Treble:` High-frequency EQ section with multiple stages for saturation and clarity
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Mid Boost (Sweepable):` Mid-range EQ section that only boosts frequencies above a user-adjusted threshold, with increasing Q-factor as the boost is increased
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Bass:` Low-frequency EQ section with multiple stages for warmth and extension
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Pan Switching Network:` LCR panning system with an additional "evil cousin" mode for unique tone shaping
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+* Designed to run at 96k or 192k sample rate, but may also work at lower rates (e.g., 44.1k) with oversampling
+* May benefit from oversampling at low sample rates (2x or 4x)
+
+Best Use Cases:
+Ideal scenarios include mixing and mastering music requiring a classic MCI console tone, as well as live sound reinforcement where a high-end channel strip is needed.
+
+Tips on Optimal Settings:
+Use the mid stage sparingly to maintain clarity; crank up the EQ stages for tonal extremeness. Experiment with different settings to find the optimal balance of clarity and saturation.

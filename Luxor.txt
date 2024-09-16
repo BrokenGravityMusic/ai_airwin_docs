@@ -1,0 +1,22 @@
+Luxor
+
+A plugin that emulates a unique sound based on Manley impulses.
+
+Key Controls and Settings:
+
+* Input Level: Adjust the signal strength going into Luxor.
+* Output Level: Set the output volume of the plugin.
+* Tone Control: A EQ-like control to shape the tone of the output sound.
+* Character Control: A knob that adjusts the overall tone and character of the output.
+* Saturation: Adds harmonic distortion to the signal, simulating overdriven equipment.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* Cranking synthesizer drums through it for interesting effects.
+* Experimenting with unconventional sounds and uses.
+
+Tips on Optimal Settings:
+Experiment with different settings to find the unique sound you're looking for, paying attention to how the Character Control and Saturation interact with the input signal. Approach with caution when experimenting with high settings or combinations of controls.

@@ -1,0 +1,19 @@
+TPFD Dither
+
+Adds noise to the signal before conversion to help mask quantization errors and prevent "grating gnarlyness".
+
+Key Controls and Settings:
+
+* None: TPDFDither is a simple, high-resolution implementation of the TPDF algorithm that decorrelates two moments of quantization noise.
+	+ Range: N/A (only supports 24-bit audio)
+	+ Type: Noise injection
+* Compatibility: Works on quad and 5.1 channels automatically, more efficient on mono channels.
+
+Caveats:
+Truncation can still cause issues if not done properly; best used in conjunction with other plugins for optimal results.
+
+Best Use Cases:
+Dithering is essential when converting high-resolution audio signals into lower-bit-depth formats; TPDFDither works well in most situations.
+
+Tips on Optimal Settings:
+Use TPDFDither without adjusting its settings or opening it in the DAW; this plugin should be used in a non-fiddly way for best results.

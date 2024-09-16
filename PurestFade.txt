@@ -1,0 +1,23 @@
+PurestFade
+
+A plugin designed to create smooth and gradual fades from maximum volume to silence.
+
+Key Controls and Settings:
+
+* `Fader Time`: Adjusts the fade time in seconds (8-0.001). Dragging slower than 10 seconds allows for any slowness of fade.
+* `Manual Control`: Manually controls the fade speed. If set faster than the automatic fade, it will chase your fade speed.
+* `Top Control`: Allows rapid moves if needed. Also useful for assigning to a hardware controller.
+
+Caveats:
+None mentioned in the documentation.
+
+Best Use Cases:
+
+* Creating smooth and gradual fades from maximum volume to silence.
+* Mixing, where subtle fader movements are preferred.
+
+Tips on Optimal Settings:
+For best results, adjust the `Fader Time` control to achieve the desired fade duration. Use the `Manual Control` for more rapid or dynamic fades if needed.
+
+To achieve the ultimate smoothed fade, adjust the fader speed control according to your desired fade time.
+Use PurestGain if you prefer abrupt, dynamic effects, while opting for PurestFade when aiming for subtle, invisible fades.

@@ -1,0 +1,19 @@
+DeBess
+
+A high-end de-esser for vocal tracks that targets only sibilance sounds without affecting other content.
+
+Key Controls and Settings:
+* Sample Comparison Window: A slider that controls the window size for sample comparison.
+	+ Range: Lower values provide more similar to original DeEss, higher isolation of ess sounds.
+	+ Range: Higher values provide better rejection of faint softening in other content.
+* Filter Control: Allows shaping a better EQ on esses, rather than just trying to duck them.
+
+Caveats:
+* May not work well with low-end equipment or high sample rates if mics do not extend right up as far as the sampling lets you.
+* Should not be used for taking stage mics and making them lisp; it is designed for high-end vocal tracks.
+
+Best Use Cases: De-essing vocals, especially those with high treble content.
+
+Tips on Optimal Settings:
+* Try brightening before using DeBess if struggling to get action at high sample rates.
+* Adjust the Sample Comparison Window slider to match the characteristics of your source material and use the Filter Control to shape a better EQ on esses rather than just trying to duck them.

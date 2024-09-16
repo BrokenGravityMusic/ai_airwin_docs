@@ -1,0 +1,24 @@
+MultiBandDistortion
+
+A multiband distortion plugin that applies extreme, unnatural distortion across multiple frequency bands.
+
+Key Controls and Settings:
+
+* `Stability`: Adjusts the overall stability of the effect. Lower values introduce more chaotic behavior.
+	+ Range: 0-100
+	+ Default value: 50
+* `Band Gain`: Sets the gain for each band (see below).
+	+ Range: -20 to +20 dB
+* `Band Frequency`: Selects the frequency range for each band.
+	+ Range: 31 bands, spanning 10 Hz to 22 kHz
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Turning down "Stability" can introduce unpredictable behavior and a choppy effect similar to the ZVex Fuzz Factory pedal. The interaction between bands can be unstable and difficult to control.
+
+Best Use Cases:
+Use MultiBandDistortion for extreme, distorted sounds that are intentionally chaotic and unnatural. Suitable for creative, experimental applications where a highly distorted sound is desired.
+
+Tips on Optimal Settings:
+Experiment with different band frequencies and gains to achieve unique distortion characteristics. Be cautious when adjusting "Stability" as it can introduce unpredictable behavior. This plugin excels at creating extreme, over-the-top effects.

@@ -1,0 +1,32 @@
+GlitchShifter
+
+Audio pitch shifter with a raw tone and glitch effects.
+A unique algorithm finds seamless transitions between larger loops of sound.
+
+Key Controls and Settings:
+
+* `Note`: Pitch shift amount in semitones
+	+ Range: ?
+	+ Type: ?
+* `Trim`: Unquantized pitch shifting offset (use with caution)
+	+ Range: ?
+	+ Type: ?
+* `Tightness`:
+	+ Turning up: Shortens buffer size, creates harsh de-rezzing bitscrunch sound or tightly tracked, robotic effects
+	+ Turning down: Expands buffer size, creates smooth legato effects, but can lead to decoupling and pitch-delay artifacts
+	+ Range: ?
+	+ Type: ?
+* `Feedback`: Adds feedback to the pitch shifted signal
+	+ Range: ?
+	+ Type: ?
+
+Caveats:
+* Tightness control can cause the plugin to glitch out or produce uncontrolled effects.
+* Decreasing Tightness too low can lead to unpredictable pitch-delay behavior.
+* Be cautious when adjusting Trim setting to avoid detuned effects.
+
+Best Use Cases:
+Use for creating raw, upfront pitch shifting effects or subtle, tightly tracked shifts. Ideal for adding personality to audio tracks or creating sonic mayhem.
+
+Tips on Optimal Settings:
+Adjust Note and Trim controls to achieve desired pitch shifting. Balance Tightness to balance between smooth, legato effects and harsh glitch artifacts. Experiment with Feedback to create complex, layered effects.

@@ -1,0 +1,25 @@
+CrickBass
+
+Flexible but aggressive bass tone simulator that combines dual pickups characteristics.
+
+Key Controls and Settings:
+
+* `Drive`: Adjusts the gain level for both BigAmp (neck pickup) and LilAmp (bridge pickup) simulations.
+	+ Recommended to balance gain levels between neck and bridge pickups.
+* `Tone`: Adjusts the midrange articulation and tone quality of both simulations.
+	+ Recommended to match with snare drum percussive noises.
+
+Caveats:
+* Not designed for full-range sound, but rather to mimic a cab sim's EQ filtering.
+* Avoid setting drive levels too high to prevent excessive brightness and "supertweeter" effects.
+* Best results achieved by balancing drive levels between neck and bridge pickups.
+
+Best Use Cases:
+
+* Dual pickup bass DI tracking
+* Stereo bass tracking with neck and bridge pickups on separate outputs
+
+Tips on Optimal Settings:
+* Balance drive levels between neck and bridge pickups to achieve desired tone balance.
+* Adjust tone controls to match snare drum percussive noises and avoid excessive brightness.
+* This plugin is designed for dual pickups (neck and bridge), but can also be used with a mono bass input.

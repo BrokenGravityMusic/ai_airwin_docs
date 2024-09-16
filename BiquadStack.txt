@@ -1,0 +1,23 @@
+BiquadStack
+
+A parametric EQ plugin using stacked biquad filters to create very steep Butterworth highpass or lowpass filters without resonance.
+
+Key Controls and Settings:
+
+* Frequency: sets the frequency for all three filters in parallel.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Q: sets the quality factor for each filter, affects the roll-off slope.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Order: Choose the order of the Butterworth filter.
+* Boost/Nonlinearity: Add nonlinearity to the bandpass response, increasing as you add more boost or staying subtle at lower settings.
+
+Caveats:
+The biquads can be fussy about extreme settings and sudden changes in slider positions. Best results are achieved by making gradual adjustments to the filter settings.
+
+Best Use Cases:
+Ideal for creating steep parametric EQ bands, particularly when using sweepy automation. Suitable for both high-pass and low-pass applications.
+
+Tips on Optimal Settings:
+Experiment with different Q factors and frequencies to achieve the desired response. Use BiquadStack as a starting point for more complex parametric EQ designs, such as multi-band or SSL-style four-band configurations.

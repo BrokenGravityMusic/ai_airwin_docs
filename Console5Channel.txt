@@ -1,0 +1,29 @@
+Console5Channel
+
+Simulates a 5-channel analog console with a rich and warm sound.
+
+Key Controls and Settings:
+
+* Channel Gain: Adjusts the overall gain of each channel (1-100)
+	+ Range: 1-100
+	+ Type: Level adjustment
+* Channel EQ:
+	+ Range: Depends on specific frequencies selected
+	+ Type: Frequency correction
+* Channel Compressor:
+	+ Threshold, Ratio, Attack, Release: Control dynamic range for each channel
+	+ Type: Dynamic range control
+* Master Bus Compressor:
+	+ Threshold, Ratio, Attack, Release: Global dynamic range control
+	+ Type: Global dynamic range control
+* Mix: A blend control for mixing the processed sound with the original (not present in all versions)
+	+ Range: 0% to 100%
+
+Caveats:
+May require additional processing power due to increased feature set. Can introduce noticeable coloration to audio signals if settings are not adjusted carefully.
+
+Best Use Cases:
+Suitable for mixing and mastering music in various genres, especially those requiring a warm and rich sound.
+
+Tips on Optimal Settings:
+Adjust channel gain to optimal levels (-20 dB to -10 dB) before applying EQ and compression. Use Master Bus Compressor sparingly to maintain headroom. Adjust channel gain and EQ settings to match the specific instrument or voice being processed. Use compression judiciously to maintain dynamic range and prevent over-compression.

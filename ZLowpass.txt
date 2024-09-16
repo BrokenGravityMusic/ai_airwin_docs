@@ -1,0 +1,25 @@
+ZLowpass
+
+A lowpass filter simulator that emulates the sound of an Emu e6400 Ultra lowpass.
+
+Key Controls and Settings:
+
+* `Cutoff Frequency:` Adjusts the frequency below which audio signals are attenuated. Range: 10 Hz to 22 kHz.
+	+ Type: Frequency control
+* `Resonance:` Controls the peakiness or "bite" of the lowpass filter. Range: 1% to 100%.
+	+ Type: Resonance control
+* `Slope:` Selects the steepness of the lowpass filter's slope. Options: 6 dB/octave, 12 dB/octave.
+	+ Type: Slope selector
+* `Dry/Wet Mix:` Blends the original signal with the filtered signal.
+
+Caveats:
+None reported.
+
+Best Use Cases:
+
+* Post-processing audio signals to remove unwanted high-frequency content.
+* Simulating hardware lowpasses in digital audio workstations.
+* Mixing and mastering applications where subtle lowpass effects are desired.
+
+Tips on Optimal Settings:
+Adjust the cutoff frequency, resonance, and slope to taste for specific sound design tasks. Experiment with different settings to achieve desired tonal characteristics.

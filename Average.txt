@@ -1,0 +1,30 @@
+Average
+
+A lowpass filter that averages adjacent audio samples, adding a unique tonality and flangey quality.
+
+Key Controls and Settings:
+
+* Taps: Sets the number of input audio samples to average (integer values) or interpolates between taps for a smooth blend.
+	+ Range: 1-10
+	+ Type: Integer/Interpolation
+* Notch Frequency: Dial in unwanted high frequencies to be suppressed.
+	+ Range: 1000-20000 Hz
+	+ Type: Frequency control
+* Dry-Wet Control: Moderates the effect, allowing you to balance the original audio with the filtered result.
+	+ Range: 0% to 100%
+	+ Type: Blend control
+
+Caveats:
+
+* The filter is not technically correct and introduces a cancellation node into high frequencies.
+
+Best Use Cases:
+
+* Post-processing audio to moderate unwanted high frequencies and add character to the sound.
+* Creating distinctive lowpass filter effects in music production.
+
+Tips on Optimal Settings:
+
+* Experiment with different Taps values to find the desired frequency response.
+* Adjust notch frequencies to target specific high-frequency content for suppression.
+* Balance the Dry/Wet Control to achieve the desired blend between original and filtered audio.

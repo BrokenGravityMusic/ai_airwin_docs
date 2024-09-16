@@ -1,0 +1,27 @@
+Flutter2
+
+A standalone tape flutter effect plugin with adjustable speed and intensity.
+
+Key Controls and Settings:
+
+* `Speed`: Adjusts the frequency of the flutter effect.
+	+ Range: slow to fast
+* `Intensity`: Controls the overall level of the flutter effect.
+* `Dry/Wet Control`: Blends the dry (original) signal with the flattered signal.
+* `Flutter Speed`: Slows or speeds up the flutter effect.
+
+Mix: A blend control for mixing the processed sound with the original 
+Range: 0% to 100%
+
+Caveats:
+* Cranking up the speed and intensity can lead to a heavy guitar doubler sound.
+* At high settings, Flutter2 may occasionally go mono.
+
+Best Use Cases:
+* Emulating reel-to-reel, cassette, and VHS tape effects
+* Creating fake hard-panned doubled guitar sounds
+* Enhancing stereo spatiality in audio mixes
+
+Tips on Optimal Settings:
+* For a heavy guitar doubler sound, crank up the speed to a slow value.
+* Use multiple tracks with Flutter2 for thicker, wider sounds: one track for the original signal, another for doubling, and a third for using Flutter2 as a "thickener" in the center.

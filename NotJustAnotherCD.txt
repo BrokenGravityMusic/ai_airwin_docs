@@ -1,0 +1,20 @@
+DeRez
+
+An analog-style bit and sample rate crusher with continuous adjustments.
+
+Key Controls and Settings:
+
+* Frequency control: Adjusts the sample-rate crushing continuously
+	+ To sweep the sample-rate crushing, slide this control down.
+* Resolution control: Adjusts the bit crushing continuously
+	+ To sweep the bit crushing, slide this control down.
+* Algorithm: Does a simple samplerate crush with soft transitions, and a bit crush by chopping away bit-sized amounts and then truncating
+
+Caveats:
+None listed.
+
+Best Use Cases:
+Use in DAWs to create continuous sweeps of sample rate or bit crushing effects. Ideal for experimental music production, sound design, and audio processing.
+
+Tips on Optimal Settings:
+Adjust Frequency and Resolution controls to taste to achieve desired sonic characteristics. Automation can be used to program continuous sweeps.

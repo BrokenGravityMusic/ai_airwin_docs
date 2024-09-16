@@ -1,0 +1,26 @@
+Flutter
+
+Simulates tape flutter as a subtle, dynamic effect, reacting to the input waveform.
+
+Key Controls and Settings:
+
+* Rate Control: Adjusts the rate of warbling/flopping in response to the input signal.
+	+ Default value: 0.5
+	+ Range: unspecified
+* Flutter Algorithm Settings:
+	+ Reacts directly to the input waveform, creating a regular warble with test tones
+	+ Can produce aggressive flutter when pushed too far
+
+Caveats:
+May not work as intended if mis-calibrated
+Can be prone to noise and awkwardness with certain inputs
+
+Best Use Cases:
+Adding subtle layering and spread to digitally flat sounds using delay or reverb sends
+Destabilizing ultra-pure sounds like bells or electric pianos without tonal adjustments
+
+Tips on Optimal Settings:
+Start with the default rate setting (0.5) for a delicate aura of retro magic
+Adjust the rate control according to your desired level of warble/flopping
+Be cautious when mis-calibrating, as this can result in an intensified zone that adds treble energy
+Use low latency settings for live instrument processing

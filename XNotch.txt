@@ -1,0 +1,30 @@
+XNotch
+
+A distorted digital EQ with a notch filter topology, combining biquad filters with distortion stages.
+
+Key Controls and Settings:
+
+* Notch frequency: Sets the frequency of the notch filter.
+* Input drive (Nuke): Adjusts the intensity of the saturation effect.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Dry/wet control: Balances the amount of dry and processed signal.
+	+ Range: 0% to 100%
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Ideal for:
+* Thickening up percussive sounds by notching out specific frequencies and adding saturation.
+* Enhancing treble sparkle in drum overheads by notching out midrange and adding saturation.
+* Creating a phasey effect by sweeping the notch frequency around and balancing with dry signal.
+
+Tips on Optimal Settings:
+For optimal results:
+* Experiment with different notch frequencies to find the desired effect.
+* Gradually increase input drive (Nuke) to achieve the desired level of saturation.
+* Balance the dry/wet control to maintain a clear mix.
+* Use the notch filter to isolate frequencies you want to enhance or remove.
+* Adjust the saturation (Nuke) to taste, taking care not to overdo it.
+* Experiment with different dry/wet balances to achieve the desired effect.

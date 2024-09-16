@@ -1,0 +1,31 @@
+ClearCoat
+
+Selects a pre-defined reverb setting (17 options) using the top slider
+Controls the blend of dry and wet signal (0-100%) using the bottom slider
+
+Key Controls and Settings:
+
+* `Top Slider:` Selects a reverb setting (17 options)
+	+ Range: 1 to 17
+	+ Type: Pre-defined setting selection
+* `Bottom Slider:` Dry/Wet control
+	+ Range: 0% to 100%
+	+ Type: Blend control for dry and wet signals
+* `SubTight Refinement:` Adjusts the brightness and sub-frequency cut in the feedback path
+	+ Range: [insert text]
+	+ Type: [insert type]
+
+Caveats:
+May not work as intended at extreme sample rates
+SubTight refinement may cause issues if not scaled correctly
+
+Best Use Cases:
+
+Adding bright ambiance to instruments or submixes
+Creating "nearfield reflections" for a more intense, refined sound
+Using as a Verb 1 with the upcoming kCathedral plugin
+
+Tips on Optimal Settings:
+Adjust the top slider to select a desired setting (17 options)
+Use the bottom slider to control dry/wet mix balance (0-100%)
+Experiment with subtle adjustments to achieve the desired tone color

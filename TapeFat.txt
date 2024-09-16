@@ -1,0 +1,20 @@
+TapeFat
+
+A tone control plugin that uses an averaging filter based on prime-numbered delay taps to create a unique and densely packed ambience effect.
+
+Key Controls and Settings:
+
+* Tone shaping: Adjusts the filtering curve of the plugin.
+	+ To roll off highs, decrease the tone level.
+	+ To create a highpass, subtract the tone effect from the original signal.
+* Prime number selection: Selects from a set of prime numbers used to calculate the delay times.
+* Averaging settings: Adjusts the averaging process, affecting the tone and ambience produced by the plugin.
+
+Caveats:
+Requires a second to stabilize when using it as a normal delay. Can produce wild pitch bends if manipulated aggressively. May produce buffer smashings and dropouts if not used carefully.
+
+Best Use Cases:
+Creating unique and dense ambient effects. Adding tone shaping and filtering capabilities to audio signals. Using as a highpass or lowpass filter in place of traditional linear phase EQs.
+
+Tips on Optimal Settings:
+Experiment with different prime number selections to achieve desired ambience effects. Adjust the averaging settings to balance tone and density. Use sparingly when working with delicate or critical material due to potential for wild pitch bends.

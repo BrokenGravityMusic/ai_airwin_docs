@@ -1,0 +1,26 @@
+PowerSag2
+
+Models the problem of analog power supplies that can't source enough current to drive the output of the circuit.
+
+Key Controls and Settings:
+
+* `Depth`: Adjusts the effect range.
+	+ Range: unknown
+	+ Type: effect adjustment
+* `Speed`: Controls the response time, creating a variety of compressive or distorative effects.
+	+ Range: unknown
+	+ Type: effect creation
+* `Inverse/Wet control`: Adds an inverse/wet control to hear what's being taken away, allowing for more nuanced sound sculpting.
+	+ Range: 0% to 100%
+	+ Type: blend control
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for adding character and energy to sounds without pushing them forward in the mix. Great for creating a grungey or gatey effect. Add character and grind to sounds without making them fatiguing. Balance with traditional distortion and saturation for more energy and interest in mixes.
+
+Tips on Optimal Settings:
+* Exaggerate Depth and explore Speed to create various effects.
+* Return Depth to zero and sneak small amounts of it back in to achieve the desired effect.
+* Balance PowerSag2 with traditional distortion and saturation to get a lot of energy and character without making sounds too fatiguing.

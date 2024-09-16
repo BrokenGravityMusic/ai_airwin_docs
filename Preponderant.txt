@@ -1,0 +1,28 @@
+Preponderant
+
+A tone intensifier and balancer plugin that focuses on maximizing resonant sonority and intensity.
+
+Key Controls and Settings:
+
+* `Resonance`: Turn up to hear what frequency ranges Preponderant is focusing on.
+	+ Type: Gain control
+* `Wet`: Adjust the balance between the processed sound and the original sound.
+	+ Type: Blend control
+* `Narrow`, `Medium`, `Wide`:
+	+ Use these controls to select frequency bands (each band is twice as wide as the previous one).
+	+ Set them to areas in your sound, such as midrange or specific frequencies.
+	+ Range: None specified, but each band is twice as wide as the previous
+* `Dry/Wet`: Blend Preponderant output with original audio.
+	+ Range: 0% to 100%
+
+Caveats:
+Do not use Preponderant on room mics or overall mics. It may be suitable for spot mics, toms, kick, heavy guitar stems, and similar applications where retention of dynamics is desired.
+
+Best Use Cases:
+Spot mics, toms, kick drums, heavy guitar stems
+
+Tips on Optimal Settings:
+1. Set Narrow, Medium, and Wide controls to specific frequency ranges (midrange).
+2. Turn up Resonance and Wet to hear focused energy.
+3. Adjust Preponderant's balance based on selected bands' activity.
+4. Start with minimal Preponderant input; gradually increase for desired effect.

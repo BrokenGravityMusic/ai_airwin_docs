@@ -1,0 +1,21 @@
+Verbity
+
+Dual-mono reverb using feedforward topology.
+
+Key Controls and Settings:
+
+* `Darkness`: Lowpass filter control (range: 0-1.0). Avoid setting to total darkness (1.0) to prevent DC energy trapping.
+	+ Type: Lowpass filter
+* `Wetness`: Non-traditional dry/wet control (range: 0-1.0). Increases Wet signal without attenuating Dry up to 0.5, then starts attenuating Dry while leaving Wet at full crank.
+	+ Type: Reverb level control
+
+Caveats:
+* This is a dual-mono verb, providing no stereo gain unless actual stereo content is used as input.
+
+Best Use Cases:
+* Adding custom reverb spaces to stems and busses in Console mixes.
+* Creating deep, immersive reverbs for centered signals.
+
+Tips on Optimal Settings: 
+* Adjust Darkness carefully to avoid DC energy trapping.
+* Set Wetness to 0.5 or less for non-traditional dry/wet control behavior.

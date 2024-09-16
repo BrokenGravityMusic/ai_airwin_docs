@@ -1,0 +1,21 @@
+Desk
+
+A subtle analog modeling plugin that glues and thickens sounds, similar to a true analog console.
+
+Key Controls and Settings:
+
+* `Headroom`: Adjusts the maximum amount of gain before distortion, up to 30 dB.
+	+ Default value: 30 dB
+* `Tone Shaping`: Controls the amount of warm analog tone added to the sound.
+	+ Range: -20 dB to +10 dB
+
+Caveats:
+This plugin does not have elaborate tone colors or adjustable settings like some other plugins. It is designed for subtle analog modeling and may not be suitable for extreme processing needs.
+
+Best Use Cases:
+
+* Adding warmth and depth to individual channels, submixes, or busses.
+* Enhancing the overall sound of a mix by adding a subtle analog character.
+
+Tips on Optimal Settings:
+Experiment with different amounts of tone shaping to find the desired level of warmness. Use headroom to push the gain without introducing distortion, but avoid excessive processing that can lead to digital sludge and glitter.

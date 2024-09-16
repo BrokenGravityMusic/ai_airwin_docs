@@ -1,0 +1,20 @@
+Pear
+
+A highpass/lowpass shelf filter with a unique algorithmic implementation, offering adjustable frequency response with an increasing slope.
+
+Key Controls and Settings:
+* `Nodes`: Adjusts the number of filter nodes, affecting the EQ point and tone. Increasing or decreasing nodes can be used to shift the EQ point slightly.
+	+ Range: [insert text]
+	+ Type: stepped
+* `Inv/Wet`: A dual-control setting for highpassing or lowpassing, acting as a shelving control on the filter.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+Filter points are not calculated on the basis of frequencies but rather using bit-shifting in the algorithm. Does not include saturation or distortion capabilities.
+
+Best Use Cases:
+Ideal for adding clarity and depth to audio signals, particularly in desk filtering applications. Suitable for use in mastering and mixing applications, where a clear and musical tone is desired.
+
+Tips on Optimal Settings:
+Experiment with node values to fine-tune the EQ point and tone. Adjust the Inv/Wet control to balance highpassing or lowpassing levels according to your desired shelving effect. Use cascading multiple instances of the filter for increased effect, and adjust nodes to achieve the desired slope of the filter.

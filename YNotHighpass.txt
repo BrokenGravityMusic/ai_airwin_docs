@@ -1,0 +1,18 @@
+YNotHighpass
+
+A highpass filter with soft and smooth to nasty, edgy texture-varying filtering, no control smoothing.
+
+Key Controls and Settings:
+
+* `ResEdge:` Adjusts the resonant edge for a slightly asymmetrical distortion (warm analog sounds at lower settings) or aggressive glitchy sounds at higher settings.
+	+ Range: Lower (asymmetrical distortion) to Crank up (aggressive, glitchy sounds)
+* Mix: Not applicable
+
+Caveats:
+No control smoothing, which may affect CPU efficiency. Not suitable as a consistent tone component due to its distinctive and unnatural sound.
+
+Best Use Cases:
+Use in situations where low CPU overhead is required (e.g., small buffer sizes). Employ as a highpass filter for aggressive sweep-ups into the supersonic frequency range.
+
+Tips on Optimal Settings:
+Adjust ResEdge to taste for unique textures and tones. Experiment with ResEdge values for desired results, from warm analog sounds to harsh glitchy effects.

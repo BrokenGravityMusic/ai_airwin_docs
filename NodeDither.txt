@@ -1,0 +1,26 @@
+NodeDither
+
+A programmable dither plugin that uses a combination of noise and delay to create various types of dither noises.
+
+Key Controls and Settings:
+
+* `Delay Time`: Adjusts the time between the original and delayed noise signals.
+	+ Range: 1 sample to 8 samples
+	+ Type: Delay
+* `Sample Delay`: adjusts the delay time for the noise sample
+	+ 1 sample: PaulDither (very bright one-pole highpass)
+	+ 2 samples: silky texture (still very bright)
+	+ 4 samples: TapeDither (nice softer noise)
+	+ 8 samples: dark, flangey dither (CassetteDither or "TapeDither for 96K")
+* `Reinforce Lows`: adjusts the low-frequency response of the dither
+* `Flange Note`: tunes the flangey note of the dither to match your track
+* `Delay Time` and `Feedback` (from first version): Adjusts the time between the original and delayed noise signals, and controls the level of feedback between the two noise signals.
+
+Caveats:
+High delay values can produce heavy comb filtering and flange-like effects. Out-of-phase settings can reinforce lows rather than cancelling them.
+
+Best Use Cases:
+Use NodeDither to create a wide range of dither noises, from bright and silvery to dark and moody. It's ideal for situations where a standard TPDF dither is not sufficient, or when you want more creative control over your dither output.
+
+Tips on Optimal Settings:
+Experiment with different delay times, phase settings, and feedback levels to create unique dither sounds. Automate the mix control to create dynamic dither effects.

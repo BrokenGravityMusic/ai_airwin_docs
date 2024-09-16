@@ -1,0 +1,23 @@
+YNotNotch
+
+A biquad filter with texture-varying filtering capabilities.
+
+Key Controls and Settings:
+
+* `ResEdge:` Adjusts the sharpness of the edge in the filtered sound. Defaults to 0.1.
+	+ Range: Can be lowered to 0 for a softer tone or turned up for a nastier edge
+	+ Type: Controls distortion and resonance effects
+* Resonance: Dials in the resonance level.
+	+ Range: Can create an ultra-shallow slope cut or extreme low/high cut
+	+ Type: Affects filter resonance
+
+Caveats:
+No control smoothing is applied, resulting in slightly more CPU efficiency but potentially more erratic behavior.
+
+Best Use Cases:
+Use for fixed filter sound design, glitchy zipper-noise effects, and tiny buffer sizes in VCV Rack or similar environments.
+
+Tips on Optimal Settings:
+Experiment with the ResEdge control to find the desired level of distortion.
+Use the Resonance control to create extreme low/high cuts or ultra-shallow slope cuts.
+Be cautious when pushing the ResEdge value high, as it can lead to unpredictable filter behavior.

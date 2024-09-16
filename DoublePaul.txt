@@ -1,0 +1,16 @@
+DoublePaul
+
+A highpassed TPDF dither with redistributed high-frequency noise energy, ideal for mastering engineers seeking a quieter, more traditional sound with additional high-end detail.
+
+Key Controls and Settings:
+
+* None (default settings only)
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for mastering engineers seeking a quieter, more traditional TPDF dither sound with additional high-end detail. Suitable as an output dither for 16/24-bit formats.
+
+Tips on Optimal Settings:
+No specific settings are required, as the plugin operates with default values. To achieve the best results, compare DoublePaul to PaulDither and adjust your workflow accordingly based on personal preference.

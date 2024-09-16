@@ -1,0 +1,30 @@
+Channel5
+
+Insert one-line description
+
+Key Controls and Settings:
+
+* Output level control: allows for an extra level of control over the output signal (range 0.0 to 1.0)
+	+ Setting Output to 1.0 bypasses the plugin's effects, making it identical to Channel4
+* Live air denormalizing:
+	+ A permanent noise signal is always present, unless the result with the signal is digital black, in which case it is subtracted again
+	+ This creates a "live" silence that can be retained even when saving files in normal formats (e.g. 24-bit audio)
+* Noise shaping:
+	+ Accumulates and stores error energy over thousands of samples
+	+ Applies this energy smoothly to the output audio, rather than interleaving it with the original signal
+	+ A "pull-back" is applied per buffer to bleed away built-up energy
+
+Caveats:
+
+* The new noise shaping method may be imperceptible in double-blind tests
+* Some users may prefer the original interleaved noise shaping method
+
+Best Use Cases:
+
+* To create a unique, "alive" silence rather than traditional dead silence
+* To take advantage of the improved noise shaping approach for a more natural and seamless presentation of bass and mids
+
+Tips on Optimal Settings:
+
+* Experiment with different Output levels to find the ideal balance between sound quality and denormalizing effect
+* Consider using the pull-back factor to bleed away built-up energy and prevent distortion

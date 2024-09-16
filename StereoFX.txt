@@ -1,0 +1,24 @@
+StereoFX
+
+An aggressive stereo widener.
+
+Key Controls and Settings:
+
+* `Stereo Wide`: Adjusts the width of the stereo image with an aggressive effect.
+	+ Range: 0-100%
+	+ Default Value:
+* `Mono Bass`: A highpass filter on the side channel.
+	+ Frequency: Adjustable, range from low to high frequencies
+	+ Threshold: Adjustable, from -100 dB to 0 dB
+* `Center Squish`: Sine-based saturation or distortion on the mid channel only.
+	+ Range: 
+	+ Default Value:
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for music producers looking to add an aggressive widening effect to their stereo tracks.
+
+Tips on Optimal Settings:
+Experiment with different settings of Stereo Wide and Center Squish to achieve unique tone colorings. Combine Mono Bass with other plugins for added depth.

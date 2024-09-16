@@ -1,0 +1,24 @@
+CreamCoat
+
+A general-purpose reverb/ambience plugin that uses soft undersampling and a Bezier curve trick.
+
+Key Controls and Settings:
+
+* `Regen:` A wide-ranging control for infinite reverbs or extremely short ambiences
+	+ Adjust to achieve desired sustain or ambiance duration
+* `Predelay:` A control for setting the position of short ambiences in time
+	+ Adjust to place the reverb or ambiance exactly where needed
+* `Sample Rate Division:` An exact divisor of the sample rate used for undersampling
+	+ Set to a value that produces a smooth, lush effect without 'antique digital' artifacts
+
+Caveats:
+* Undersampling must be an exact divisor of the sample rate to avoid 'antique digital' artifacts
+* High sample rates allow more finely-grained reconstruction and additional 'DeRez' options
+
+Best Use Cases:
+* General purpose reverb/ambience, especially for applications where infinite sustain or short ambiences are needed
+
+Tips on Optimal Settings:
+* Adjust `Regen` to balance between infinite sustain and short ambiences
+* Experiment with `Predelay` to find optimal placement for short ambiences
+* Use a suitable sample rate division value to achieve the desired effect without artifacts

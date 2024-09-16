@@ -1,0 +1,31 @@
+Console8ChannelHype
+
+Adds analog simulation to the original 8-channel console input, moving it to a channel/submix/buss topology.
+
+Key Controls and Settings:
+
+* `Mode:` Changes the topology of the plugin from input to channel/submix/buss.
+* `Analog Simulation:` Activates or deactivates the analog circuit simulation.
+* `Gain:` Adjusts the overall gain level of the simulated analog circuit.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for applications where a brighter, sparklier sound is desired. Can be used to enhance the tone and character of individual channels or submixes.
+
+Tips on Optimal Settings:
+Adjust the gain to match the desired level of analog simulation. Experiment with different settings to achieve the optimal balance between brightness and sparkle.
+
+Console8ChannelIn
+
+Key Controls and Settings:
+
+* `Topology`: Switch between Console8ChannelHype (default) and Channel/Submix/Buss modes.
+* `Analog Simulation`: Toggle on/off for simulated warmth and character.
+* `Gain`: Adjust the overall gain level of the plugin.
+* `Trim`: Fine-tune individual channel gains.
+
+Caveats:
+* Analog simulation may introduce noise or artifacts in certain situations.
+* Topology changes may affect overall signal flow and headroom.

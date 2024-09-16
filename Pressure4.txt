@@ -1,0 +1,28 @@
+Pressure4
+
+A compressor adjustable between vari-mu and 'new york' peak-retaining behaviors.
+
+Key Controls and Settings:
+
+* `µ-iness control:` Adjusts the compressive behavior, allowing for a range of dynamic effects.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Speed control:` Changes the rate at which the compressor responds to audio input, affecting texture and tone.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Linked stereo mode:` A special mode that uses diade bridges in hardware compressors to create a natural and fluid compression effect.
+
+Caveats:
+None noted.
+
+Best Use Cases:
+
+* Compressing individual tracks or buses for dynamic control
+* Creating distinctive textures and tones using the µ-iness and speed controls
+* Taking advantage of the linked stereo mode for natural and cohesive compression effects
+
+Tips on Optimal Settings:
+
+* Experiment with different µ-iness settings to find the perfect balance between dynamic effect and tone.
+* Use the speed control to fine-tune the compressor's response time and create a range of tonal possibilities.
+* When using linked stereo mode, pay attention to how the compressor responds to both channels, as this can greatly affect the overall sound.

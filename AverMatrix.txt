@@ -1,0 +1,37 @@
+AverMatrix
+
+
+Average audio with adjustable number of taps and filtering capabilities.
+
+
+Key Controls and Settings:
+
+* Taps: Adjust the number of input samples to average (1-10)
+	+ Range: 1-10
+	+ Type: Continuous variable
+* Poles: Set the number of poles for filtering (1-10), affecting frequency response
+	+ Range: 1-10
+	+ Type: Continuous variable
+* Filter Setting: Tune comb-filtery artifacts at higher Tap settings
+	+ Range: Tunable
+* Inv/Dry/Wet: Select mode:
+	+ 0: Regular averaging
+	+ 100: Highpass filter with inverted wet signal
+	+ Intermediate values: Subtle treble lift or high-frequency boost
+
+
+Caveats:
+
+* Adjustments may be sample-rate dependent.
+* Native averaging at high numbers of taps may introduce funny notches that can be tuned.
+
+Best Use Cases:
+
+* Averaging for low-pass filtering and EQ
+* Highpass filtering for clarity and airy-ness
+* Treble lift and high-frequency boost with subtle peak control
+
+Tips on Optimal Settings:
+
+* Experiment with different tap numbers and filter settings to achieve the desired effect.
+* Adjust the poles setting for filtering as needed.

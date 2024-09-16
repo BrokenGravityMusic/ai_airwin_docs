@@ -1,0 +1,27 @@
+Huge
+
+A Chebyshev filter that adds harmonics to the input signal, capable of generating entirely new sine waves at harmonically related frequencies.
+
+Key Controls and Settings:
+
+* `Boost Control:` An input trim control that sets the overall gain level.
+	+ Range: 
+* `Nasty (or Placebo) Control:` A setting that controls how aggressively the plugin cuts off harmonics, allowing them to go closer to aliasing when increased.
+	+ Range: 
+	+ Type: Setting
+
+Caveats:
+
+* The plugin may introduce aliasing if frequencies exceed the Nyquist frequency.
+* Be cautious when using loud aggressive sounds as they can result in extreme amplification.
+
+Best Use Cases:
+
+* Adding subtle harmonics to audio signals for a smooth and mellow saturation effect.
+* Creating unique colorations by picking specific harmonics to add.
+
+Tips on Optimal Settings:
+
+* Start with the Boost Control set around 0.2 for unity gain.
+* Adjust Nasty (or Placebo) control to taste, but be aware that it can produce unexpected results.
+* When using loud aggressive sounds, proceed with caution as they may result in extreme amplification.

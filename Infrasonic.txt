@@ -1,0 +1,14 @@
+Ultrasonic
+
+A supersonic filter that cleans up aliasing problems in digital mixes by removing frequencies above 20KHz.
+Key Controls and Settings:
+* None, as this is a featureless add-and-forget plugin. The plugin uses a super high resolution tenth-order Butterworth lowpass filter with five poles.
+Caveats:
+* Not suitable for mastering highpasses due to steepness and phase shift.
+* May introduce a slight texture change or "slickness" to processed audio.
+Best Use Cases:
+* In digital mixes where aliasing is a concern, especially at high sample rates (96k or 192k).
+* To clean up nonlinearities in other plugins that can produce aliasing problems.
+Tips on Optimal Settings:
+* Insert the plugin before any nonlinear processing to effectively remove aliasing.
+* Experiment with using Ultrasonic on every channel in a digital mix to smooth out and un-digitalize the sound.

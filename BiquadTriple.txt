@@ -1,0 +1,23 @@
+BiquadTriple
+
+A cascaded biquad filter with steeper roll-off before resonance, ideal for steep filter slopes without cutoff resonance.
+
+Key Controls and Settings:
+
+* Frequency: Adjusts the frequency of each biquad filter.
+* Q: Sets the Q factor (bandwidth) for each biquad filter.
+* Dry/Wet/Inv: Controls the mix between the original signal and the processed signal. Note: This is a 3-band setup, with Wet/Dry/Wet equivalent to Inv/Dry/Wet.
+	+ Range: [Insert text]
+	+ Type: [Insert text]
+* Biquad settings: Configure each individual biquad filter.
+
+Caveats:
+Be cautious when adjusting controls abruptly, as extreme settings may cause instability. The filters can be sensitive to specific Q factor settings and stacking configurations.
+
+Best Use Cases:
+Use BiquadTriple for steep filter slopes without resonance issues. Ideal for mocking up effects and testing filter combinations.
+
+Tips on Optimal Settings:
+* Be cautious when adjusting frequency and Q factors to avoid resonance.
+* Use the 3-band setup to create a shelf effect by bleeding in dry signal.
+* Experiment with staggered Q factors to create isolator-style effects.

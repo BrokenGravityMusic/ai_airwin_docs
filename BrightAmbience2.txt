@@ -1,0 +1,26 @@
+BrightAmbience2
+
+A plugin that generates a super ultra bright ambience space, ideal for creating a glossy atmosphere around vocals.
+
+Key Controls and Settings:
+
+* `Delay Tap Selection`: Selects the delay taps using a series of prime numbers.
+	+ Can be used to specify a range of entries (e.g., entries 40-60) for a little ambient blur.
+	+ Total 489 entries available, which can create a half-second or more delay at 96k.
+* `Regeneration`: Controls the level of regeneration, ranging from clean digital slapback to fuzzy ambient slapback or sparkly atmosphere.
+* `Offset`: Alternates delay taps left and right, creating a dual-mono ambience with center signals spread to the sides.
+
+Caveats:
+* Not meant to be used as a traditional reverb plugin.
+* Best used on vocals, particularly lead vocals, for a star quality sound.
+* Not intended for use as a traditional reverb.
+
+Best Use Cases:
+
+* Mixing vocals with a bright, glossy atmosphere
+* Creating 80s-style gated verb effects on drums
+* Making dub-like ambiance using a blurry slapback effect
+
+Tips on Optimal Settings:
+* Use the regeneration control to achieve a clean digital slapback or fuzzy ambiance.
+* Experiment with different prime number ranges (e.g., entries 40-60) for a little ambient blur.

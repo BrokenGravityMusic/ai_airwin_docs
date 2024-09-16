@@ -1,0 +1,24 @@
+Infinity2
+
+Sustains and layers sounds forever with an infinite reverberation effect, tone shaping, and a kill-switch.
+
+Key Controls and Settings:
+
+* `Feedback:` Control the level of feedback in the reverb path.
+* `Damping:` Adjust the brightness and treble response of the reverb (0 = full brightness, 1 = significant treble fall-off). Setting to 0.125 or lower will replicate the original Damping effect.
+	+ Range: 0% to 100%
+* `Allpass Bypass:` Disable the allpasses at the beginning for brighter, more transient-rich input sounds.
+* `Verb Size:` Adjust the maximum reverb size (tied to sample rate).
+* `Pitch Crank:` Increase the pitch of the reverb for unusual effects.
+
+Caveats:
+Damping control can interact with frequencies and cause feedback reinforcement. Monitor levels when using this feature.
+
+Best Use Cases:
+Use Infinity2 to create ambient spaces, pads, and textures that sustain indefinitely. Ideal for experimental and ambient music production.
+
+Tips on Optimal Settings:
+* Adjust the Damping control to taste, but be aware of its potential effects on frequencies.
+* Use the Feedback control to shape the reverb response.
+* Experiment with the Verb Size and Pitch Crank controls to create unique textures and effects.
+* Disable allpasses for brighter input sounds.

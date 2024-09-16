@@ -1,0 +1,26 @@
+Pyewacket
+A high-definition transient compressor that adds no fatness, just energy.
+
+Key Controls and Settings:
+
+* Peak Energy Control: Adjusts the amount of peak energy brought forward in the soundstage.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Brickwall Filter Behavior: Activates or deactivates the brickwall filter behavior, which helps to control the transient definition.
+	+ Range: Yes/No
+	+ Type: Toggle
+* RMS Loudness Reduction: Reduces the overall loudness while preserving transient energy.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+Pyewacket is not a compressor that makes sounds louder and fatter. It's designed for energy and transient definition rather than loudness. Be cautious when using Pyewacket, as it can make things smaller or less prominent if used incorrectly.
+
+Best Use Cases:
+2-buss compression
+Condition individual tracks for focus and intensity
+
+Tips on Optimal Settings:
+Adjust the Peak Energy Control to achieve the desired balance between energy and soundstage.
+Experiment with Brickwall Filter Behavior to control transient definition.
+Be mindful of RMS Loudness Reduction to preserve overall dynamics.

@@ -1,0 +1,21 @@
+HighImpact
+
+Distorts audio without making it fatter, combining a distortion and anti-distortion circuit to reshape the transfer function.
+
+Key Controls and Settings:
+
+* `Aggro:` A knob that controls the level of distortion and raspiness in the output sound.
+	+ Range: Unknown (distorts quiet samples minimally, while amplifying medium samples significantly)
+	+ Type: Control
+* `Distortion Level:` A single knob for controlling the level of distortion, allowing for subtle or extreme effects.
+	+ Range: Unknown (can be used to add character and aggression to percussive noises or other audio elements)
+	+ Type: Control
+
+Caveats:
+The plugin is designed to be used intentionally and creatively, rather than as a preset or magic solution. Its purpose is to add character and aggression to audio elements.
+
+Best Use Cases:
+Adding character and aggression to percussive noises or other audio elements.
+
+Tips on Optimal Settings:
+Tailor the use of HighImpact to the specific needs of each project, using it to add subtle or extreme effects as needed.

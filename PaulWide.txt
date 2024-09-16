@@ -1,0 +1,25 @@
+PaulWide
+
+Highpassed Time-Proportioned Dither (TPDF) wide dither, offering a quieter, airier, and wider noise floor than ordinary TPDF dithers.
+
+Key Controls and Settings:
+
+* `DeRez control`: Adjusts the low-bit realm representation of the noise floor for better understanding.
+	+ Range: Not specified
+	+ Type: Control
+* `24/16 bit modes`: Switches between 24-bit and 16-bit operation when DeRez is set to 0
+	+ Range: Not specified
+	+ Type: Mode
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+Ideal for monitoring, file-making, and exporting to 16-bit formats. Suitable for anyone seeking a high-quality TPDF dither with added wideness.
+
+Tips on Optimal Settings:
+
+* Use the DeRez control to fine-tune your low-bit realm representation.
+* Switch between 24-bit and 16-bit modes as needed for optimal performance.
+* This plugin is designed to be used as a TPDF dither; other wordlength reduction techniques should not be applied simultaneously.

@@ -1,0 +1,25 @@
+Vibrato
+
+A plugin that simulates vibrato, chorus, flange, and other time modulation effects.
+
+Key Controls and Settings:
+
+* Speed Control: A main control with an extremely wide speed range.
+	+ Range: controls the speed of the main vibrato effect
+* Depth Control: For controlling the depth of the vibrato or chorus effect.
+	+ Range: adjusts the amount of modulation applied to the audio
+* Inverse Zone: To get a through-zero flange that'll cancel almost totally to silence.
+	+ Type: switch to reverse direction
+* FM Depth Control: For controlling the depth of the frequency modulation effect.
+	+ Range: adjusts the amount of frequency modulation applied to the main vibrato effect
+* Dry/Wet Control: Mixes the dry and wet signals.
+	+ Range: balance between original signal and modulated signal
+
+Caveats:
+High-speed settings can produce aliasing artifacts. Deep FM settings can introduce metallic tones that may not be desirable in all situations.
+
+Best Use Cases:
+Lush chorusing effects at moderate speeds and depths. Warbly or wobbly effects for adding texture to audio signals. Thin, airy effects by using inverse mode and low depth settings. Interesting overtones and resonances with full-wet FM modulation.
+
+Tips on Optimal Settings:
+Automate controls to taste. Use subtle amounts of FM modulation to add subtle interest to main vibrato or flange sounds.

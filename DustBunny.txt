@@ -1,0 +1,19 @@
+DustBunny
+A distorty noise simulator with unpredictable results.
+
+Key Controls and Settings:
+* `Bunny Control`: Adjusts the level of distortion and scrunch.
+	+ Range: 0-100%
+	+ Default: 50%
+* `Gain Trim`: Optional gain adjustment before applying DustBunny.
+	+ Range: -20dB to +10dB
+	+ Default: 0dB
+
+Caveats:
+Avoid using on the 2-buss or in mastering due to unpredictable results. High levels can cause jittery behavior.
+
+Best Use Cases:
+Adding unique texture and distortion to sound effects, such as in sound design for video games (e.g., DOOM soundtrack). Creating unusual plugin matrix chains for experimental soundscapes.
+
+Tips on Optimal Settings:
+Apply restrained levels to avoid jittery behavior. Consider adding a delay or flanger before DustBunny to pad the signal and add interest.

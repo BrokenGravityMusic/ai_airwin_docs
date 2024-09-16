@@ -1,0 +1,36 @@
+Channel 7 Plugin
+
+A three-pole IIR highpass filter that subtracts a pre-averaged sample and slew limits against an initial stage IIR lowpassed reference point.
+
+Key Controls and Settings:
+
+* `Level:` Adjusts the overall gain.
+	+ Range: 
+	+ Type: 
+* `Gain`: A gain control that goes up to 200%, with:
+	+ Up to 100%: same as Channel 6, but with improved slew clipping
+	+ 100-200%: crossfades into Channel 5's Density algorithm
+* `Blend Control`: A slider or switch that smoothly transitions between the two algorithms
+
+Caveats:
+
+* Does not eliminate DC offset
+* Reshapes lows in a characteristic way, allowing extended lows
+* Restricts treble slews based on overall energy in the circuit
+* Slew clipping fix is most noticeable at high sample rates
+
+Best Use Cases:
+
+* Adding analog-like character to audio without heavy processing
+* Correcting for slew clipping at high sample rates
+* Blending with other plugins to create a unique sound
+* Upgrading from previous Channels for improved slew clipping and blending options
+* Seeking a balance between clean, saturated sound with added fatness
+* Fading between Spiral's purity and Density's saturation
+
+Tips on Optimal Settings:
+
+* Experiment with the gain control to find the right balance of clarity and saturation
+* Adjust the blend control to smoothly transition between the two algorithms for unique soundscapes
+* Adjust the Blend control to taste, experimenting with different settings to achieve the desired balance between Spiral's purity and Density's saturation
+* If using high sample rates, ensure Channel7 handles them well by checking its slew clipping performance

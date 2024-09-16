@@ -1,0 +1,22 @@
+Kalman Plugin
+
+A tool typically used in GPS satellite technology, repurposed for audio processing. It's not meant to be used as a traditional audio filter, but rather as a tool for texture shaping and transformation.
+
+Key Controls and Settings:
+
+* `Inv:` [insert text]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Wet:` A control for blending the processed sound with the original
+	+ Range: 0% to 100%
+* Subtracting Kalman's output from the dry signal creates a hot, lively, aggressive texture
+* Blending both elements in balance creates a wide range of tonal possibilities
+
+Caveats:
+The Kalman filter should be experienced as a crossover, not a traditional synth-style filter.
+
+Best Use Cases:
+Using the "inv" setting or subtracting its output from the dry signal can create interesting textures and effects that defy traditional frequency-based thinking.
+
+Tips on Optimal Settings:
+Use subtlety when blending both elements in balance to achieve nuanced sound design across a wide range of tonal possibilities.

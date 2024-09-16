@@ -1,0 +1,24 @@
+TapeDither
+
+A TPDF (Triangular Pulse Density Function) dithering algorithm with a softer tonal voicing that rolls off in an obvious way around 1.5K Hz, similar to reel-to-reel tape noise.
+
+Key Controls and Settings:
+
+
+* `Delay Time:`
+	+ Range: Powers-of-two delay times (1, 2, 4, 8 samples)
+	+ Type: Integer
+* `Noise Inversion:`
+	+ Range: Toggleable inversion of the noise
+	+ Type: Boolean
+
+Caveats:
+TapeDither is not suitable for use on the 2-buss; fancier boutique dithers are recommended instead.
+
+Best Use Cases:
+
+* Analog mixing and summing: TapeDither provides a natural-sounding dither that won't introduce an exaggerated tone signature when stacked up with multiple tracks.
+* Outboard processing: Send processed stems or tracks outboard to a multichannel DAC for mixing or summing, using TapeDither to preserve a relaxed tone signature.
+
+Tips on Optimal Settings:
+Experiment with different delay times (powers-of-two) and noise inversion settings to find the optimal combination that suits your specific application.

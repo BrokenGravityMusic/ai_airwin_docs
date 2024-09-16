@@ -1,0 +1,26 @@
+Console Zero
+
+A plugin that creates a distinct sonic character by limiting math operations to just 8 across the entire mix buss and relying heavily on bit-shifting, allowing for a more "life-like" sound.
+
+Key Controls and Settings:
+
+* `Bit Shifter:` Adjusts level and pan without altering the mantissa
+	+ Range: N/A (bit-shifting based)
+	+ Type: Discrete
+* `Simple Averager:` Filters the mix with one operation and a bit shift, preserving original gain
+	+ Range: 0% to 100%
+	+ Type: Simple average
+
+Caveats:
+
+Limited expressiveness; not suitable for precise EQing or compression. High sample rates (96k or higher) are recommended.
+
+Best Use Cases:
+
+* Mixing with high track counts and a focus on broad-stroke adjustments
+* Creating mixes that prioritize the raw, untouched signal above all else
+
+Tips on Optimal Settings:
+
+* Run at 96k or 192k to take advantage of averaging and filtering
+* Think in aggregates and manage groups of tracks as a whole rather than individual tracks

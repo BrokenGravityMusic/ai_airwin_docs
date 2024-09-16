@@ -1,0 +1,26 @@
+Holt
+
+A synth-like resonant lowpass filter focused on bass frequencies.
+
+Key Controls and Settings:
+
+* Cutoff Frequency: Sets the frequency below which the filter begins to affect the audio.
+	+ Adjusting this control will make the plugin go from a sophisticated lowpass on upper mids and highs to an extreme low-frequency version.
+* Resonance: Controls the peakiness of the filter's response at the cutoff frequency.
+	+ Higher resonance settings can make the plugin self-resonate.
+* Dry/Wet Control: Mixes between the dry (unfiltered) audio and the filtered audio.
+	+ Can be used to tame the plugin's low-frequency madness.
+* Poles Control: Sets the number of poles in the filter, which controls how many stages of filtering are applied.
+	+ Four different dry/wet controls bundled into one, allowing for morphing between different filter settings.
+
+Caveats:
+The Holt method is not designed to track consistently over different resonance settings and may require manual adjustments to achieve consistent results. The plugin can exhibit discontinuities in its response due to the underlying mathematical model. These can be mitigated by using the Spiral control to stabilize the output.
+
+Best Use Cases:
+
+* As a low-frequency synth-like resonant lowpass filter.
+* As a sophisticated lowpass on upper mids and highs.
+* Adding low-frequency emphasis to tracks, creating bass-heavy synth sounds, or using as a sophisticated lowpass filter on upper mids and highs.
+
+Tips on Optimal Settings:
+To achieve the best results, experiment with adjusting the cutoff frequency, resonance, dry/wet control, and poles control to find the desired balance between bassiness and clarity. The dry/wet control can also be used to blend the filtered signal with the original audio for a more subtle effect. Experiment with different pole counts and resonance settings to find the desired balance between clarity and low-end presence.

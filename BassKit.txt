@@ -1,0 +1,27 @@
+BassKit
+
+Centered bass reinforcement with mono-only bass and sub augmentation.
+
+Key Controls and Settings:
+
+* `Bass Reinforcement:` Adds or subtracts low-frequency content to the dry signal, like a head bump in ToTape.
+	+ Use as an addition to dry (not "wet only") for mastering and 2-buss duties.
+* `Sub Output:` Adds deep subwoofer content to the mix, but requires good subwoofers or SubsOnly testing to hear effects.
+	+ Range: Not specified
+	+ Type: Not specified
+
+Caveats:
+
+* The sub output may not be audible without good subwoofers or using SubsOnly.
+* This plugin uses bass and sub augmentation only as additions to dry signal, never "wet only".
+* Exaggerating the controls is possible, but intended use is for adding bass and subs in a sensible, controlled way.
+
+Best Use Cases:
+
+Ideal for mastering and 2-buss duties where centered bass reinforcement and subs fill are desired. Ideal for adding bass and subs in a controlled way for mastering and 2-buss duties.
+
+Tips on Optimal Settings:
+
+Use SubsOnly to test the sub output before mastering or using on full tracks.
+Adjust the Bass Reinforcement control in small increments to achieve desired results.
+Exaggerate the controls only if necessary, as intended use is for subtle additions.

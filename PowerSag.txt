@@ -1,0 +1,24 @@
+PowerSag
+
+Emulates power supply limitations in analog modeling, creating a compressey or distortey effect by reducing energy output.
+
+Key Controls and Settings:
+
+* `Depth`: Control the amount of compression or distortion. Exaggerate Depth to dial in the effect.
+	+ Range: Not specified
+	+ Type: 
+* `Speed`: Adjust the rate at which the plugin sucks energy out of the sound, affecting the type of distortion produced:
+	+ Extremely slow Speed: produces a tubey effect
+	+ Quick Speed: produces a big-console transistor-like effect
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Ideal for adding character and energy to sounds while pulling them back in the mix. Balance with normal overdrive for sculpting mixes with distortion and saturation.
+
+Tips on Optimal Settings:
+
+* Return Depth to zero and add small amounts back in to achieve the desired effect.
+* Experiment with Speed to create different types of distortion or compressey effects.
+* Use PowerSag to add grind to sounds while pulling them back in the mix.

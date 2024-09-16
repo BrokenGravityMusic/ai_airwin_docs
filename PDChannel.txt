@@ -1,0 +1,22 @@
+PDChannel
+
+A plugin that combines Console5 and PurestDrive, offering a stage in every channel and on the bus.
+
+Key Controls and Settings:
+
+* `Channel/Bus Select`: Choose between individual channels or the master bus.
+* `PurestDrive Stage`: Dedicated control for each stage, allowing tweaking of its characteristics.
+* `Console5 Variant`: Utilize any other Console5 plugin of the same type as a direct swap-in.
+* `Settings`: Configure channel EQ and other parameters using more normal tools.
+
+Caveats:
+Using different Console variations for individual channels and the bus can result in an inconsistent sound. It's recommended to use the same ones for a cohesive mix.
+
+Best Use Cases:
+
+* Analog warmth of the recording-console type: PDConsole is ideal.
+* Lush, big-console sound: Consider other Console variations or plugins designed for these specific effects.
+* Holographic imaging or great depth: Use the same channels and bus combination throughout.
+
+Tips on Optimal Settings:
+Find an optimal combination of channels and bus that matches your preferences. Tweak channel EQ and other parameters using more normal tools to fine-tune the mix.

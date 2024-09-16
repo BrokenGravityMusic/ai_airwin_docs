@@ -1,0 +1,27 @@
+Slew Clipper
+
+insert one-line description
+
+Key Controls and Settings:
+
+* `Threshold:` Adjusts the point at which the clipper starts to reduce high frequencies.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Slew:` Controls the rate at which the clipper reduces high frequencies as it approaches regular clipping.
+	+ Low values: Slew clipping becomes more aggressive closer to regular clipping.
+	+ High values: Slew clipping remains relatively gentle even close to regular clipping.
+
+Caveats:
+Due to its non-linear nature, slew clipping can produce unexpected effects when pushed to extreme values.
+The plugin's behavior changes significantly depending on the slew value setting.
+
+Best Use Cases:
+Ideal for making heavy guitars louder, adding grit to drums, or enhancing sounds with a tape bias-like quality.
+Morphing percussive sounds
+Adding a unique "grind" to instruments
+Gluing stuff together into a retro sound
+
+Tips on Optimal Settings:
+Experiment with extreme Slew Threshold values to achieve interesting distortions.
+Pay attention to the character of your sound as you adjust settings, and try to hear when it is subtly affecting the signal.
+Also experiment with Threshold and Slew settings to achieve the desired effect.

@@ -1,0 +1,22 @@
+uLawEncode
+
+insert one-line description
+
+Key Controls and Settings:
+
+* Gain control: Adjusts the overall level of the encoded signal.
+	+ Default value: 1.0
+* Wet/Dry control: Controls the amount of encoded signal blended with the original audio.
+	+ Default value: 1.0
+* Mode: Selects the type of uLaw compression to apply (not specified)
+
+Caveats:
+This plugin is designed for use with a bitcrusher or other plugins that can help tame the distorted signal.
+
+Best Use Cases:
+
+* As part of a console-like encode/decode pair with bitcrushers
+* As a distortion plugin to create unusual sounds
+
+Tips on Optimal Settings:
+Typical configuration: insert a bitcrusher (such as DeRez) between uLawEncode and the next processing step for cleaner results.

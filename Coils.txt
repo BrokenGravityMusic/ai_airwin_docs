@@ -1,0 +1,24 @@
+Coils
+
+Models distortion found in transformers by saturating extreme highs and lows, leaving midrange untouched.
+
+Key Controls and Settings:
+
+* `Top Control:` Increases distortion of high frequencies.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Middle Control (DC Bias):` Adds second harmonics to the signal when less saturated.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Dry/Wet Control:` Blends distorted signal with original audio.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for adding subtle transformer-style distortion to specific frequency ranges, or for emulating classic console sounds. Suitable for use on individual tracks or submixes.
+
+Tips on Optimal Settings:
+To get a subtle effect, keep top control low. To increase distortion, raise top control. Adjust middle control to balance DC bias and second harmonics.

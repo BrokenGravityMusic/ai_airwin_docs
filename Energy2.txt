@@ -1,0 +1,26 @@
+Energy2
+
+A high sample rate fixed-frequency treble boost plugin with an algorithm tied to the sample rate, providing CPU-efficient energy boosts.
+
+Key Controls and Settings:
+
+* High Treble Boost: Boosts high frequency range (above 10k Hz) for added energy and air.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Upper Mids: Adds aggression and body to mid-range frequencies (around 2-5k Hz).
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Inv/Dry/Wet:
+	+ Invert: Inverts phase of added energy.
+	+ Dry: Sets amount of original sound retained.
+	+ Wet: Sets amount of added energy mixed with original sound.
+	+ Range: [insert text]
+
+Caveats:
+Avoid combining sliders in ways that produce unpredictable tone colors, instead focus on one color at a time with minimal adjustments.
+
+Best Use Cases:
+Boosting treble frequencies for high sample rate applications and adding aggression in high-mids for a more intense sound.
+
+Tips on Optimal Settings:
+Focus on one color at a time, adding or subtracting tones as needed. Crank out sliders to extreme levels and then use Inv/Dry/Wet to balance added energy.

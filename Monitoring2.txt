@@ -1,0 +1,21 @@
+Monitoring2
+
+An end-of-2-buss plugin that allows checking of mix in various ways, with options for 24-bit and 16-bit output.
+
+Key Controls and Settings:
+
+* Reference sounds: SubsOnly, SlewOnly, PeaksOnly
+	+ Options also include Cans variations (4) for headphone mixing
+* Mono and side checks
+* Narrowed-bandwidth checks like Aurat, including one-side mono versions
+* Utilities: VoiceTrick for vocal tracking without headphones
+* Wordlength reducer: Dark (replaces Not Just Another Dither)
+
+Caveats:
+Wordlength reducer Dark may not be suitable for everyone's taste; creates deeper blacks in silences and darker, warmer tones.
+
+Best Use Cases:
+Checking mix balance in various frequency ranges; mixing and mastering; vocal tracking without headphones using VoiceTrick.
+
+Tips on Optimal Settings:
+Adjust reference sounds to suit specific mixing needs; experiment with different Cans variations for headphone mixing; use Dark wordlength reducer for a retro aesthetic or cassette-release sound.

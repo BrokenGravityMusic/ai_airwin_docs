@@ -1,0 +1,21 @@
+PurestWarm2
+
+Adds softest-possible-saturation effect to one side of the waveform while passing through the exact bits that came in on the other half.
+
+Key Controls and Settings:
+
+* `Side 1 Dry/Wet Control`: Adjusts the amount of saturation applied to the positive side of the waveform, ranging from 0 (bypass) to 100% (full saturation).
+	+ Range: 0-100%
+	+ Type: Percentage
+* `Side 2 Dry/Wet Control`: Adjusts the amount of saturation applied to the negative side of the waveform, ranging from 0 (bypass) to 100% (full saturation).
+	+ Range: 0-100%
+	+ Type: Percentage
+
+Caveats:
+Saturation may introduce second harmonics.
+
+Best Use Cases:
+Ideal for adding subtle warmth and texture to waveforms, especially electric bass guitars where the string swings near the pickup. Sweetening waveforms that need a little texture added without affecting frequency or EQ. Bass tone optimization.
+
+Tips on Optimal Settings:
+Adjust the Side 1 and Side 2 Dry/Wet Controls independently to massage both sides of the waveform to taste. No way to perfectly integrate bypass and effected halves; they switch off like a push-pull power amp.

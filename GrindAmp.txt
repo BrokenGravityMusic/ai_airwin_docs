@@ -1,0 +1,21 @@
+GrindAmp
+
+A heavier amp simulator designed for chugging guitars with a Mesa-y tone.
+
+Key Controls and Settings:
+
+* Dry/Wet Control: Blend dry AMP sound against the cab sim, and dry guitar sound against the amp sim.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Gain: Adjusts the overall gain of the plugin.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+GrindAmp has limited dynamics and no over-hang beyond the immediate sound, resulting in a truncated cabinet emulation effect.
+
+Best Use Cases:
+Ideal for creating a Rockman-type, extremely direct and dry tone, or an amped, miked tone with low-end punch. Useful for arranging parts and emphasizing certain qualities in your music.
+
+Tips on Optimal Settings:
+Experiment with different gain levels to achieve a percussive effect, and use the Dry/Wet control to balance the amount of dry guitar sound against the amp sim.

@@ -1,0 +1,41 @@
+Supersonic Filter Stage
+
+
+A one-stage filter simulator designed for use in digital mixes, simulating ultrasonic filtering for enhanced high-frequency detail and control.
+
+
+Key Controls and Settings:
+
+* `Filter Type`: Select from various filter types (e.g. low-pass, high-pass)
+	+ Type: [insert text]
+* `Cutoff Frequency`: Adjust the cutoff frequency of the filter
+	+ Range: [insert text]
+* `Resonance`: Adjust the resonance of the filter
+	+ Range: [insert text]
+* `Q Factor`: Adjust the Q factor of the filter
+	+ Range: [insert text]
+* `Frequency`: Adjusts the frequency range of the filter (e.g., 10 kHz to 20 kHz)
+	+ Range: [insert text]
+* `Gain`: Sets the overall gain level of the filter's output
+	+ Range: [insert text]
+* `Slope`: Selects the steepness of the filter's slope (e.g., -6 dB/octave, -12 dB/octave)
+	+ Type: [insert text]
+
+Caveats:
+
+* May introduce artifacts in certain audio signals
+* Best used in conjunction with other effects or processing stages to maintain a balanced sound
+
+Best Use Cases:
+
+* Use as a tone-shaping tool for individual tracks or buses
+* Enhancing high-frequency detail and clarity in digital mixes
+* Adding depth and presence to vocals and instruments
+* Experiment with different filter types and settings to create unique sounds
+
+Tips on Optimal Settings:
+
+* Start with moderate Q factor values (around 5-10) and adjust to taste
+* Be cautious when adjusting cutoff frequencies, as this can affect the overall tone of your mix
+* Start by adjusting the Frequency control to target specific frequency ranges (e.g., 15 kHz, 20 kHz)
+* Adjust Gain and Slope controls to balance the filter's output with the original signal

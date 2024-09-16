@@ -1,0 +1,34 @@
+ZHighpass2
+
+
+Emulates a highpass filter inspired by the Emu e6400 Ultra sampler's tone and behavior.
+
+
+Key Controls and Settings:
+* `Input`: The input level of the signal.
+	+ To achieve unity gain, set to 0.1 or lower.
+* `Output`: The output level of the filtered signal.
+	+ Use to pad the signal if needed.
+* `Highpass Frequency`: Not mentioned (use discretion)
+* `Wet Control`: Automate and smooth with coefficient interpolation for a more dynamic sound.
+	+ Type: not specified
+* `Gain and Distortion`: Set high for aggressive filtering.
+	+ Range: not specified
+
+
+Caveats:
+Keep input and output levels low to avoid excessive distortion.
+Uninitialized variable in previous version fixed; redownload ZLowpass2 if necessary.
+Unstable behavior may occur when sweeping the highpass frequency too high, due to output stage characteristics not unlike Mackity.
+
+
+Best Use Cases:
+High-passing instruments or signals for added clarity.
+Automating the filter cutoff for dynamic effects.
+Achieving aggressive tone with intentional overdrive.
+
+
+Tips on Optimal Settings:
+Keep input and output levels moderate to avoid distortion.
+Adjust smoothing as needed for optimal coefficient interpolation.
+Sweep highpass frequency judiciously, especially when driven hard.

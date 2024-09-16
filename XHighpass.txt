@@ -1,0 +1,20 @@
+XHighpass
+
+A digital EQ with a distorted high-pass filter, inspired by retro sampler DSP.
+
+Key Controls and Settings:
+
+* Frequency: Adjusts the cutoff frequency of the high-pass filter (range: 20 Hz to 22 kHz).
+* Resonance: Boosts the high-pass response at the selected frequency (range: -12 dB to +24 dB).
+* Distortion Amount: Adds distortion to the filtered signal, affecting the overall tone and character (range: 0% to 100%).
+* Output Gain: Adjusts the overall output level of the plugin.
+* Dry/Wet Mix: Balances the original signal with the filtered output.
+
+Caveats:
+High levels of distortion can cause zapping noises and clipping. High distortion settings can also cause "zapping" noises, especially when filtering low-end content.
+
+Best Use Cases:
+Aggressive high-passing for brightening up tracks or removing unwanted low-end energy. Creating aggressive high-pass filters for percussion or bass sounds.
+
+Tips on Optimal Settings:
+Use moderate resonance (around +6 dB) to maintain a clear high-pass response and keep distortion levels below 50% to avoid excessive zapping noises. Adjust the frequency to taste, but be mindful of the high-pass characteristics and start with moderate values to avoid introducing excessive tone coloration.

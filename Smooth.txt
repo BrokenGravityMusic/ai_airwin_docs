@@ -1,0 +1,30 @@
+Smooth
+
+A multi-purpose plugin that can tame pointy sounds or make drums explode. It's a clipper that can be used to soften spikes in audio signals, similar to ToVinyl or Acceleration, but with more of a clipping effect.
+
+Key Controls and Settings:
+
+* `Amount`: Adjusts the amount of smoothing applied.
+	+ Range: 0-100%
+	+ Type: Adjustment
+* `Output Level`: Sets the output level of the smoothed signal.
+	+ Range: -24.8 dB to +6.0 dB
+	+ Type: Adjustment
+* `Dry/Wet`: Mixes the original and smoothed signals.
+	+ Range: 0-100%
+	+ Type: Adjustment
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+None mentioned in the text.
+
+Best Use Cases:
+
+* Softening spikes in audio signals, such as spikey acoustic guitars or overly edgy mics.
+* Cranking up large amounts of smoothing on drums to produce a huge explosive effect.
+
+Tips on Optimal Settings:
+
+* For subtle use, adjust the Amount control carefully to just snip off stray edges without affecting tone.
+* When used aggressively, pull back the Smooth plugin until it sounds like it's not doing anything, and then gradually increase the amount to achieve the desired effect.

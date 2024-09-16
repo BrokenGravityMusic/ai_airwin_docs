@@ -1,0 +1,19 @@
+LRFlipTimer
+
+Swaps Left and Right audio channels every few (1-10) minutes, sweeping them across in about a tenth of a second to prevent pops.
+
+Key Controls and Settings:
+
+* `Swap Interval`: Set the number of minutes between swaps (1-10)
+	+ Range: 1-10 minutes
+	+ Type: Timer
+* `Sweep Time`: Adjust the time taken for the swap operation (~0.1 seconds)
+
+Caveats:
+Not intended for use in mixdown, but rather as a tool for testing asymmetric mixing.
+
+Best Use Cases:
+Ideal for solo artists, musicians, or sound designers who want to check the balance of their audio material by flipping channel assignments.
+
+Tips on Optimal Settings:
+Set a reasonable Swap Interval based on your workflow. For best results, minimize Sweep Time to prevent audible clicks during swaps.

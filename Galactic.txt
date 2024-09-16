@@ -1,0 +1,26 @@
+Galactic
+
+A super-reverb designed specifically for pads and space ambient music, capable of creating deep and expansive stereo reverberations.
+
+Key Controls and Settings:
+
+* `Replace`: Determines how much of the new sound coming in should replace the space currently in the reverb.
+	+ Range: 0-100
+* `Detune`: Shifts the pitch for both channels (quadraphonic pitch shift arrangement).
+	+ Range: ±12.7%
+	+ Type: Quadrature pitch shift
+* `Brightness`: Controls brightness going into and coming out of the reverb.
+	+ Range: ±18 dB
+* `Bigness`: Reverb buffer size, affecting overall ambiance.
+	+ Note: Adjusting Bigness can result in crashing noises.
+
+Caveats:
+* Modifying Bigness can cause crashing noises that become infinite spaces.
+
+Best Use Cases:
+* Space ambient music
+* Pad synthesis and sound design
+
+Tips on Optimal Settings:
+* For pads and normal use, set Replace to a high value and adjust Brightness and Bigness accordingly.
+* Use Detune to chorus out synth pads for unreasonably wide stereo fields.

@@ -1,0 +1,26 @@
+RawTimbers
+
+Truncates highs, softens audio, generates bright quantization noise
+
+Key Controls and Settings:
+
+* `Gain:` [Adjusts fixed loudness level above 24-bit noise floor]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `LowPass:` [Cutoff frequency for rolling off highs]
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Key Points:
+
+* Similar to dithering, but without noise shaping
+* Can be used in combination with RawGlitters to create interesting third sound
+
+Caveats:
+Users should keep volume levels reasonable during testing
+
+Best Use Cases:
+Creating matching files for double-blind testing, CD-making
+
+Tips on Optimal Settings:
+Use RawTimbers first followed by RawGlitters for unique sound combinations

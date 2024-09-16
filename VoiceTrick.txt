@@ -1,0 +1,30 @@
+VoiceTrick
+
+A stereo plugin that exploits microphones and human ear quirks to allow recording vocals with monitor speakers or open-ear headphones, canceling out backing tracks.
+
+Key Controls and Settings:
+
+* Mix: Stereo mix output
+	+ Range: N/A (mono/mix toggle)
+	+ Type: Stereo/Mono switch
+* Mono: Convert stereo mix to mono
+	+ Range: Toggle on/off
+	+ Type: Switch
+* Filter: Optional low-pass filter (based on Airwindows Capacitor)
+	+ Range: N/A (on/off toggle)
+	+ Type: Switch
+* Phase Flip: Flip phase on one side of the stereo mix
+	+ Range: N/A (toggle on/off)
+	+ Type: Switch
+
+Caveats:
+
+Results may vary depending on mic placement, room acoustics, and EQ settings. The plugin is not meant for end listeners and does not affect the sound quality.
+
+Best Use Cases:
+
+Vocal tracking with monitor speakers or open-ear headphones, especially in situations with high latency or dense mixes.
+
+Tips on Optimal Settings:
+
+Place vocal mic exactly between two speakers, perfect mirror image, pointed away from the speakers and towards the vocalist. Adjust EQ to compensate for room reverb and darkening if needed. Use heavy sturdy stand to lock mic in place for best results.

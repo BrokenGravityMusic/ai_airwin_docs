@@ -1,0 +1,26 @@
+YLowpass
+
+A low-pass filter with interpolated coefficients, double ultrasonic filtering, and internal distortion capabilities.
+
+Key Controls and Settings:
+
+* `Resonant Edge`: Adjusts the resonant frequency of the filter, affecting its tone and character.
+	+ Less than normal: Produces a slightly asymmetrical distortion for warm analog filter sounds.
+	+ Greater than normal: Allows for more aggressive, glitchy sounds (set to around 0.1 for balanced tone).
+* `Filter Type`: Interpolated coefficients with double ultrasonic filtering.
+
+Caveats:
+
+* Heavy CPU usage due to complex filtering algorithms.
+* Potential issues with zipper noise reduction may be mitigated by adjusting settings.
+
+Best Use Cases:
+
+* Warm and smooth low-pass filtering for general audio processing.
+* Aggressive, glitchy sound design for experimental and electronic music production.
+
+Tips on Optimal Settings:
+
+* Adjust Resonant Edge to around 0.1 for a balanced tone.
+* Experiment with greater or lesser values of Resonant Edge to achieve desired filter characteristics.
+* Use YLowpass in conjunction with other plugins to further refine and optimize sound design.

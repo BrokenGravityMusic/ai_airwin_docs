@@ -1,0 +1,25 @@
+Spiral2
+
+A plugin that simulates an amp simulator with added controls for Presence.
+
+Key Controls and Settings:
+
+* `Presence:` A slider control that blends between dry signal and the saturated signal using the PREVIOUS sample as the blend factor.
+	+ When set to 0, the original Spiral effect is retained.
+	+ At full Presence, onset transients are preserved, and high frequency peaks are allowed through.
+	+ Halfway setting allows for peaking at exactly 0 dB.
+* `Pre Gain and Post Gain:` Controls for adjusting the intensity of the plugin's effect.
+* `Highpass Filter:` A filter to remove low-frequency content from the signal.
+* `Dry/Wet Mix:` A blend factor between dry and processed signal.
+
+Caveats:
+Using excessive Presence can introduce too much "air" or distortion in extreme cases. Setting Presence to 0 returns the plugin to its original Spiral behavior.
+
+Best Use Cases:
+
+* Mixing and mastering applications where transient preservation is desired.
+* Enhancing high frequency peaks without over-driving the signal.
+* Creating a 'distorted-but-not-quite' effect with Presence set to maximum.
+
+Tips on Optimal Settings:
+Adjust Presence for optimal transient preservation, depending on the specific mix or master. Balance Pre Gain and Post Gain controls for best results in each application. Use Highpass to remove unwanted low-frequency content if necessary.

@@ -1,0 +1,29 @@
+Loud
+
+A distortion plugin that models air molecule distortion, allowing for extreme nonlinearity and dynamic range control.
+
+Key Controls and Settings:
+
+* `Distortion Level`: Adjusts the overall distortion amount, from subtle to extreme.
+	+ Range: 0% to 100%
+* `Compress/Release Control`:
+	+ `Compress Time`: Sets the time for compressing air molecules.
+	+ `Release Time`: Controls the speed at which compressed air molecules rebound.
+* `Heat Control`: Increases heat when air molecules are compressed, affecting the distortion sound.
+
+Caveats:
+
+* Extreme settings can result in unsoundable levels beyond human hearing range.
+* Proper gain staging is essential to avoid audible artifacts.
+
+Best Use Cases:
+
+* Adding scope and authority to a mix by applying subtle yet aggressive distortion.
+* Enhancing individual tracks like guitars and drums with intense ferocity.
+* Creating a unique sonic glue effect at zero boost.
+
+Tips on Optimal Settings:
+
+* Start with low Distortion Level settings for subtle coloration, then gradually increase for more extreme effects.
+* Adjust Compress/Release Control to balance compression and release times, depending on the desired sound.
+* Use Heat Control to further shape the distortion sound.

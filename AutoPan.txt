@@ -1,0 +1,19 @@
+AutoPan
+
+Simulates organic stereo movement in a mix by automating panning effects.
+
+Key Controls and Settings:
+
+* `Rate`: Adjusts the speed of pan movement (from nearly static to rapid flutter).
+* `Phase`: Controls the relative movement between left and right channels, creating mono tremolo at center, swirling circular motion at off-center positions.
+* `Wide`: Cuts the mid channel, allowing side channels to bleed into each other, creating a stereo effect beyond speaker edges.
+* `Dry/Wet`: Balances the amount of dry (original) sound with panned sound, allowing for subtle or extreme effects.
+
+Caveats:
+None mentioned in provided text.
+
+Best Use Cases:
+Adding organic stereo movement to mixes, creating subtle or dramatic pan effects.
+
+Tips on Optimal Settings:
+Experiment with Rate and Phase settings to achieve desired pan motion. Adjust Wide amount to balance side channel bleed and create a natural stereo effect. Utilize Dry/Wet to control the intensity of panned sound, especially when using extreme settings.

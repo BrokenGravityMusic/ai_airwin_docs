@@ -1,0 +1,20 @@
+Pressure5
+
+Adjustable vari-mu compressor with 'new york' peak-retaining behaviors, featuring a unique 'mewiness' control for dynamic inversion and audio super-squishing.
+
+Key Controls and Settings:
+
+* `Mewiness`: Manages the ratio engagement intensity.
+* `PawClaw`: Adjusts how 'mewiness' handles transients, allowing for extra squishing on 'Paw' or letting them through more on 'Claw'.
+* `Speed`: A wide speed range for dense and distorted sounds.
+* `Output Control`: Boosts into a built-in ClipOnly2 for chunky hard clipping drive. 
+	+ Pad output control to bypass ClipOnly2 when not needed.
+* `ClipOnly2`: Suppresses brightness of digital clipping without affecting unclipped samples.
+
+Caveats:
+None specified, but note that ClipOnly2 may bypass itself if the output control is padded to prevent clipping.
+
+Best Use Cases:
+Final buss comp/clip stage for mixing and mastering. Adjust 'mewiness' and 'PawClaw' controls to tailor compression behavior.
+
+Tips on Optimal Settings: None provided, however, adjusting 'mewiness' and 'PawClaw' controls can help tailor the compressor's behavior to suit specific needs.

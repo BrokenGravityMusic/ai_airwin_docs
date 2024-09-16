@@ -1,0 +1,32 @@
+VariMu
+
+A compressor plugin with a distinct sound compared to other plugins, using different math to trigger the effect, and handling brief transients differently.
+
+Key Controls and Settings:
+
+* Threshold: Adjusts the level above which compression occurs
+	+ Range: not specified
+	+ Type: numeric control
+* Ratio: Determines the amount of compression applied
+	+ Range: not specified
+	+ Type: numeric control
+* Attack: Time it takes for compression to kick in after a transient
+	+ Range: not specified
+	+ Type: time-based control
+* Release: Time it takes for compression to return to normal after a transient has passed
+	+ Range: not specified
+	+ Type: time-based control
+* Input Method: Can use either the signal alone or its square, changing the plugin's behavior
+	+ Range: not specified
+	+ Type: dropdown menu
+
+Mix: N/A
+
+Caveats:
+None mentioned
+
+Best Use Cases:
+Ideal for use in music production where a unique compressor sound is desired, particularly for those who like Pressure but want to try something different.
+
+Tips on Optimal Settings:
+Experiment with the controls to find the desired sound. Consider using the linked stereo form of VariMu for optimal results.

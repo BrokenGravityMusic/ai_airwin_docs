@@ -1,0 +1,20 @@
+Bite
+
+Edge-maker plugin that adds or reduces midrange harshness in audio.
+
+Key Controls and Settings:
+
+* `Edge Control:` Adjusts the level of midrange edge added to or removed from the audio signal.
+	+ High settings: Increases treble and midrange harshness.
+	+ Low settings: Reduces midrange edge.
+* `Sample Rate Compensation:` Controls how much the edge is affected by high sample rates.
+* `Latency:` Produces 2-3 samples of latency, equivalent to a delay effect in VST.
+
+Caveats:
+Runs with a couple samples of latency, which can affect VST plugin performance. Not intended for standard audio processing, but rather as an experimental tool.
+
+Best Use Cases:
+Experimental audio processing and sound design. Removing unwanted midrange edge from signals.
+
+Tips on Optimal Settings:
+Adjust Edge Control to taste, and monitor the effect at various sample rates to achieve the desired edge character.

@@ -1,0 +1,17 @@
+NaturalizeDither
+
+A deterministic dither plugin using Benford's Law calculations to produce a noise floor that hides behind reverb tails.
+
+Key Controls and Settings:
+
+* `Benford's Law settings:` No specific controls or settings are mentioned, but note the weighting factors for '1' as the first digit (byn[0] = 1000;) and so on.
+* `Sample direction control:` Truncates each sample up or down to the nearest value, then applies Benford's Law calculation.
+
+Caveats:
+Note that NaturalizeDither is meant to be used with BitShiftGain for 16-bit output, as it is currently set to run at 24 bits.
+
+Best Use Cases:
+Ideal for use in any genre at any sample rate, adding no tonal color and producing a quiet noise floor that "hides" behind reverb tails.
+
+Tips on Optimal Settings:
+No specific settings are mentioned as optimal. However, the plugin's design allows it to work well with all genres and sample rates.

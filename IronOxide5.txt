@@ -1,0 +1,37 @@
+IronOxide5
+
+Heavily colored Airwindows tape emulation with extensive features for intense tone shaping.
+
+Key Controls and Settings:
+
+* `Drive:` Adjusts tape saturation.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Output Level:` Sets the overall output level.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `ips Top/Bottom Cutoffs:` Varies bandpass quality by adjusting top and bottom cutoff frequencies separately.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Tape Noise:` Adds anti-aliasing through a 'tape noise' factor that blurs slew.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Flutter Range:` Adjusts the range of fuzzy smear across samples produced by flutter.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Inv/Dry/Wet Control:` Subtracts or adds dynamic energy to specific frequency ranges, useful for cutting out fat and leaving punch.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+The plugin produces a fuzzy smear across one or two samples due to its non-zero latency design. This persists in all versions of IronOxide.
+
+Best Use Cases:
+Ideal for tone shaping individual tracks, such as making a snare sound more aggressive, rather than being used on the full mix.
+
+Tips on Optimal Settings:
+To achieve optimal results:
+* Experiment with the Inv/Dry/Wet control to cancel or accentuate specific frequency ranges.
+* Adjust the Drive and Tape Noise settings to achieve desired saturation levels.
+* Use the ips Top/Bottom Cutoffs to vary bandpass quality.
+* Be cautious when using the plugin on the full mix, as it's designed for individual track tone shaping.

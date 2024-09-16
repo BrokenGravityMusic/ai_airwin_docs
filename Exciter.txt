@@ -1,0 +1,25 @@
+Exciter
+Simulates an aural exciter effect by adding subtle to extreme transients and distortion to audio signals
+
+Key Controls and Settings:
+
+* `Frequency`: Adjusts the frequency band used for extraction (Hz)
+	+ Range: Hz
+	+ Type: Frequency control
+* `Amount`: Controls the intensity of the effect (0-100%)
+	+ Range: 0% to 100%
+	+ Type: Intensity control
+* `Soft Clip`: Soft clipping function for distorting extracted frequencies (sin() function or similar)
+	+ Range: Not specified
+	+ Type: Distortion type
+* `Band Filter`: Sharp band filter for extracting certain types of information
+	+ Range: Not specified
+	+ Type: Filtering type
+
+Caveats:
+Cranking up the effect too much can lead to obvious crunch and distortion. Best used in moderation to maintain a "late seventies heightened detail" tone.
+
+Best Use Cases:
+Adding subtle transients to quiet signals, creating gritty, evil distortion for effect on bright or excitable sources, experimenting with unique tones by misusing transistors and chips (analog-style).
+
+Tips on Optimal Settings: Fine-tune the effect in small increments to achieve desired results. Be cautious not to overdo it, as excessive distortion can be unpleasant.

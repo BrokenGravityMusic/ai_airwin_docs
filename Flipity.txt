@@ -1,0 +1,18 @@
+Flipity
+
+A utility plugin that flips or swaps the phase of audio channels, allowing for various combinations of left and right channel manipulation.
+
+Key Controls and Settings:
+
+* Channel selection: Choose which channel(s) to manipulate (left, right, both)
+* Flip mode: Select from multiple options, including flipping one channel, swapping channels, and combining flip and swap operations
+* Phase inversion: Invert the phase of the selected channel(s)
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for use cases where phase manipulation or stereo imaging modification are desired, such as correcting phase issues in a mix, creating unusual spatial effects, or manipulating stereo width or depth.
+
+Tips on Optimal Settings:
+Experiment with different flip modes to achieve desired results. Consider using swap and flip options to create unique sounds. Be cautious when swapping channels, as this can affect the overall balance of the mix.

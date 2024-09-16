@@ -1,0 +1,28 @@
+MV (Dual-Mono Reverb)
+
+A unique digital reverb with a custom allpass filter that uses bit shift increments, allowing for infinite sustain and bloom-like effects.
+
+Key Controls and Settings:
+
+* `Bit Shift Amount`: Selects the amount of gain change in 6 dB increments.
+* `Feedback`: Sets the feedback level, which will be rounded down to the nearest available bit shift amount.
+* `Bright Control`: Adjusts the degree of high-frequency roll-off using averaging output samples of the allpasses.
+* `Regeneration Level`: Selects the regeneration level (full, 1/2, 1/4, 1/8, or 1/16).
+* Size: controls the number of allpasses in the chain
+
+Additional Features:
+
+* Dual-mono operation allows for separate control of each channel's reverb tail.
+* Infinite regeneration enables sustainable "bloom" effects without limiting or compressing the output.
+* Gated reverb effect can be created by setting regeneration to zero, cleaning up the mix and then fading out.
+
+Caveats:
+Removing too many allpasses can result in a "nasty" sound. Infinite regenerations may cause runaway and require output trimming.
+
+Best Use Cases:
+
+* Sustain bloom-like effects
+* Create ambiance generators or on auxes and submixes to add space and purity
+
+Tips on Optimal Settings:
+Experiment with different regeneration levels, bit shift amounts, and bright control settings to achieve the desired reverb effect.

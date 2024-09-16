@@ -1,0 +1,25 @@
+SideDull
+
+A lowpass filter on just the side channel, narrowing highs and centering mids.
+
+Key Controls and Settings:
+
+* `Setting`: Adjusts the frequency cutoff for the lowpass filter (DC to 22K)
+	+ Adjustment: Increase or decrease the setting value to adjust the frequency cutoff
+	+ Range: 0.01 to 1.00, where 1.00 is full range and 0.01 cuts at DC
+
+* `Mix:` A blend control for mixing the processed sound with the original (not applicable in this case)
+
+Caveats:
+If you are sure you won’t be processing just top end, or center mids and up while not touching lows, don't install this plugin
+This plugin is built on a time-capsule 10.6.8 system and the VST’s built on a time-capsule isolated-from-the-internet virtual Windows 7
+SideDull should be used with caution, as it can create an unnatural stereo image by cutting highs in one channel
+
+Best Use Cases:
+
+* Narrowing highs and down to mono in a mix or mastering context
+* Mono-ing high frequencies on a mix to prevent them from becoming too fatiguing
+* Creating a unique stereo imaging effect by cutting highs in one channel
+
+Tips on Optimal Settings:
+Adjust the setting value based on the specific audio material and desired outcome. Start with a low setting value (0.01) and increase it gradually to achieve the desired result.

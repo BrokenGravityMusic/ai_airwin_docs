@@ -1,0 +1,32 @@
+Console8ChannelOut
+
+An audio plugin that converts the processing chain into a standard channel, submix, or buss topology with analog simulation.
+
+Key Controls and Settings:
+
+* Channel/Bus Topology: Selects the desired topology for the plugin (channel, submix, or buss).
+	+ Range: Various options available
+	+ Type: Standard channel, submix, or buss topology
+* Analog Simulation Type: Chooses from various analog simulation models to apply to the processed audio.
+	+ Range: Various analog simulation models available
+	+ Type: Analog simulation effect
+* Bus Size: Sets the number of channels in the simulated bus.
+	+ Range: Adjustable
+	+ Type: Number of channels
+* Gain Staging: Adjusts the overall gain of the plugin.
+	+ Range: Adjustable
+	+ Type: Gain control
+* Mix Bus Topology: Selects the type of bus topology (e.g., channel, submix, buss) for processing.
+	+ Range: Various options available
+	+ Type: Bus topology selection
+
+Caveats:
+The plugin's performance may degrade with very high bus sizes or complex mixes.
+
+Best Use Cases:
+
+* Mixing and mastering music, particularly for genres that benefit from warm, analog sound.
+* Creating a custom submix bus for specific instruments or groups of tracks.
+
+Tips on Optimal Settings:
+Start with low analog simulation levels and adjust to taste. Experiment with different bus sizes to find the optimal configuration for your mix.

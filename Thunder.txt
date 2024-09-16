@@ -1,0 +1,33 @@
+Thunder
+
+A compressor plugin that retains or exaggerates subsonic bass when driven hard.
+
+Key Controls and Settings:
+
+* Threshold: Adjusts the level above which compression is applied.
+	+ Range: N/A
+	+ Type: Level metering input
+* Ratio: Sets the amount of compression applied to the signal.
+	+ Range: N/A
+	+ Type: Integer value
+* Attack: Determines how quickly the compressor responds to changes in signal level.
+	+ Range: N/A
+	+ Type: Time measurement (e.g. ms)
+* Release: Controls how quickly the compressor returns to its normal state after a transient has passed.
+	+ Range: N/A
+	+ Type: Time measurement (e.g. ms)
+* Transform Factor: Adjusts the sensitivity and behavior of the compressor's subsonic bass modulation.
+	+ Range: 0% to 100%
+	+ Type: Sliding scale with increments
+
+Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Requires careful monitoring of extreme lows, especially when pushing the plugin hard. Can be used as a glue compressor for gentle compression at low settings.
+
+Best Use Cases:
+Preparing music for large sound systems or audiophile playback. Adding punch and energy to mixes with subsonic bass.
+
+Tips on Optimal Settings:
+Start with gentle compression settings for a subtle effect, and gradually increase the intensity as needed. Pay attention to the threshold setting to avoid over-compressing the signal. Experiment with different transform factor settings to find the optimal balance between subsonic bass modulation and overall compressor behavior.

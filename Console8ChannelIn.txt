@@ -1,0 +1,38 @@
+Console8ChannelIn
+
+
+Converts mono or stereo input to 8-channel submix, with added analog simulation.
+
+
+Key Controls and Settings:
+
+
+* `Input Type:` [insert text]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Simulator Type:` Choose from different analog simulation types
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Mix Control:` Blend the original input signal with the simulated output
+	+ Range: 0% to 100%
+* `Gain:` Adjust the overall gain of the simulated output
+	+ Range: [insert text]
+
+Caveats:
+
+
+None specified.
+
+
+Best Use Cases:
+
+
+Ideal for converting mono or stereo sources to a 8-channel submix, adding a touch of analog warmth. Suitable for mixing and mastering applications.
+
+
+Tips on Optimal Settings:
+
+
+* Experiment with different simulator types to find the desired tone.
+* Adjust the mix control to balance the original input signal with the simulated output.
+* Use the gain control to optimize the overall level of the simulated output.

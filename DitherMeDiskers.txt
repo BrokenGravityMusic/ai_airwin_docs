@@ -1,0 +1,23 @@
+DitherMeDiskers
+
+Generates a type of noise, known as "dither", used to reduce quantization errors in digital audio.
+
+Key Controls and Settings:
+
+* `Bit Depth:` Sets the resolution of the dither signal (set to 16-bit by default).
+	+ Range: N/A
+	+ Type: Control
+* `Noise Shape:` Adjusts the spectral shape of the dither signal.
+	+ Range: N/A
+	+ Type: Control
+
+Caveats:
+None
+
+Best Use Cases:
+
+* Reducing quantization errors in digital audio recordings
+* Improving the dynamic range and overall quality of digital audio signals
+
+Tips on Optimal Settings:
+Adjust the bit depth to match the resolution of your digital audio signal.

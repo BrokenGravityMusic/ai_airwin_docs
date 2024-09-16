@@ -1,0 +1,18 @@
+kPlateC
+
+A plate reverb plugin resembling the sound of Plate C from Abbey Road studio, designed to evoke a shorter and brighter atmosphere.
+
+Key Controls and Settings:
+
+*   `Damping`: Adjusts the amount of damping, with higher numbers equaling more damping.
+*   `Reverb Matrix Algorithm`: Runs a completely different algorithm compared to kPlateB, resulting in a unique sound.
+*   `Internal Delays`: Different from kPlateB, these delays contribute to the distinct character of the plugin.
+
+Caveats:
+None specific to this plugin. Refer to general caveats for Airwindows plugins.
+
+Best Use Cases:
+kPlateC is ideal for music productions requiring a shorter and brighter plate reverb sound. It can be used in scenarios where kPlateB may not produce the desired effect, or vice versa.
+
+Tips on Optimal Settings:
+Experiment with different settings to find the perfect balance between kPlateC's unique character and your specific musical needs.

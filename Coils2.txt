@@ -1,0 +1,27 @@
+Coils2
+A transformer overdrive emulator that shapes the way a transformer produces sonority.
+
+`Key Controls and Settings:`
+* `Saturation:` Determines what happens outside the 'resonant band'. It clamps down, not boosting into maximum overload. Turning it up all the way creates a bandpass effect.
+* `Cheapness:` Narrows the band in which the transformer's putting out clean, pure sound. Increasing Cheapness distorts and loses lows and highs, and introduces a hysteresis effect of magnetizing the transformer core.
+
+`Caveats:`
+* Do not use too much saturation and cheapness for full mixes.
+* Turning everything up all the way is not recommended.
+
+`Best Use Cases:`
+* Shaping and sculpting existing audio, such as on a 2-buss to tighten lows and give more impact and vibe.
+* Combining with tube distortion effects to get an 'amp-like' character.
+
+* Subtle use on individual tracks or buses to add warmth and character.
+* Combining with tube distortion effects for an "amp-like" tone.
+* Tightening lows and adding impact to a 2-buss mix.
+
+`Tips on Optimal Settings:`
+* Play with the knobs to find the desired effect.
+* Use Saturation to control overload, not gain.
+* Adjust Cheapness to balance distortion and sonority.
+* Combine Coils2 with other plugins for unique sounds.
+* Experiment with the knobs to find the desired balance between Saturation and Cheapness.
+* Use subtle settings to maintain accuracy, rather than treating Coils2 as a stompbox effect.
+* Remember to not overdo it on full mixes!

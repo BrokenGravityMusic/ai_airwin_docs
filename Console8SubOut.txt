@@ -1,0 +1,42 @@
+Console8SubOut
+
+insert one-line description
+
+Key Controls and Settings:
+
+* `Channel/Submix/Buss Topology`: Moves input to a channel/submix/buss topology
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle with sample rate-dependent behavior
+* `Analog Simulation`: Adds analog simulation to the signal path
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle
+* `Ultrasonic Filtering`: Enabled at 24k sample rate, distributed across multiple stages for extended highs
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle with sample rate-dependent behavior
+* `Highpass Filtering`: Distributed highpass filtering emulating real analog gear
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle
+* `Treble Softening`: Gradiated treble softening across the whole mix topology
+	+ Range: Adjustable via gain staging
+	+ Type: Gain staging control
+* `Mix Topology`: Uses six dedicated plugins in six places:
+	+ ChannelIn, SubIn, and BussIn: First on channels, submixes, and master buss
+	+ ChannelOut, SubOut, and BussOut: Last on channels, submixes, and master buss
+* `Unity Gain`: Required between Out plugins and In plugin on each stage (channel/submix/master buss)
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle with warning for incorrect use
+* `Wordlength Reducer`: Enabled with a version of ClipOnly2 plus a new wordlength reducer, optimized for Console8
+	+ Range: Enabled/disabled toggle (24-bit mode only)
+	+ Type: Toggle
+* `Dither`: Optional 16-bit dither can be added if desired
+	+ Range: Enabled/disabled toggle
+	+ Type: Toggle
+
+Caveats:
+Incorrect use of Unity Gain may result in distortion.
+
+Best Use Cases:
+Place ChannelIn, SubIn, and BussIn first on channels, submixes, and master buss. Place ChannelOut, SubOut, and BussOut last on channels, submixes, and master buss.
+
+Tips on Optimal Settings:
+Use unity gain between Out plugins and In plugin on each stage (channel/submix/master buss). Faders on the Out plugins are good to assign to midi controllers so you can adjust them with physical controls and not the mouse. The faders on ChannelOut, SubOut, and BussOut fade down to zero at levels below 0.5 and boost by approximately 12dB at levels above 0.5 (channel and submixes).

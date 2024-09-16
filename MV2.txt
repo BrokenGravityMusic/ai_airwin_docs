@@ -1,0 +1,20 @@
+MV2
+
+A dual-mono reverb plugin that utilizes BitShiftGain and Midiverb's algorithm to create a high-sample-rate capable sound with configurable treble rolloff and regeneration.
+
+Key Controls and Settings:
+
+* Sample Rate: High sample rate capability for accurate sound at 96k or 192k.
+* Bright Control: Configurable highs roll-off using bit shifts, allowing for varying degrees of brightness (0-100%).
+* Feedback: Regeneration control with options for full, 1/2, 1/4, 1/8, and 1/16 level regenerations. The plugin will use the nearest bit shift amount below the set feedback value to maintain audio character.
+* Bit Shift Control: Selects the number of bits to shift for allpass filtering.
+* Allpass Filter Count: 26 allpasses with different increasing prime lengths.
+
+Caveats:
+Undersampling may affect high sample rates, but bit shifts retain audio character and prevent reverb runaway.
+
+Best Use Cases:
+Ideal for ambiance generators on auxes and submixes, or as a reverb plugin for mixing and mastering applications.
+
+Tips on Optimal Settings:
+Use the Bright Control to adjust treble rolloff according to your desired sound. For best results, experiment with different Bit Shift Control settings to find the optimal balance between clarity and depth.

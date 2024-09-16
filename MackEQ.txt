@@ -1,0 +1,22 @@
+MackEQ
+
+A plugin simulating the Mackie distortion with added treble and bass controls.
+
+Key Controls and Settings:
+
+* `Gain`: Adjusts the overall gain level of the plugin.
+* `Treble`: Controls the high-frequency response.
+* `Bass`: Controls the low-frequency response.
+* `Distortion Level`: Adjusts the amount of distortion applied to the signal.
+	+ Range: -∞ to +∞ dB
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+This plugin may not accurately capture the exact tone and texture of a real Mackie 1202, especially when aggressively distorting high frequencies. Users may need to pad down the output to avoid excessive loudness or distortion.
+
+Best Use Cases:
+MackEQ is suitable for users who want to create a distorted sound reminiscent of old school drum machines or effects pedals. It's also useful for adding grit and character to electronic music sounds, such as aggressively distorting sounds in drum and bass music.
+
+Tips on Optimal Settings:
+Start with moderate input gain settings (around -20 dB) and adjust the treble and bass controls to taste. Use the distortion level control to find the optimal balance between grit and noise floor, and be aware that excessive boosting may lead to distortion.

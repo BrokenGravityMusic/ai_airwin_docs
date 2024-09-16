@@ -1,0 +1,24 @@
+YNotLowpass
+
+A soft and smooth to nasty, edgy texture-varying filtering plugin.
+
+Key Controls and Settings:
+
+* `Resonant Edge`: A control that introduces a new way to internally distort filters.
+	+ Lower values result in slightly asymmetrical distortion for warm analog filter sounds.
+	+ Higher values produce aggressive and glitchy sounds similar to circuit bending.
+	+ Default position is around 0.1 on the control.
+
+Caveats:
+No control smoothing, which may reduce CPU usage but also affect plugin performance.
+May be less suitable for applications requiring precise filtering or high-smoothing due to its non-control smoothed nature.
+
+Best Use Cases:
+Situations where CPU efficiency is crucial (e.g., low buffer sizes in VCV Rack).
+Fixed filter sound generation.
+Achieving a 'neuro' glitchy zipper-noise sound with an aggressively unnatural tone.
+
+Tips on Optimal Settings:
+Adjust the Resonant Edge control to taste for desired distortion characteristics.
+Consider using YNotLowpass when CPU efficiency is critical or buffer sizes are small.
+Lower values produce warm analog sounds, while higher values create aggressive effects.

@@ -1,0 +1,21 @@
+Dirt
+
+Soft-clip distortion plugin with Hypersonic-style filtering and tone shaping controls.
+
+Key Controls and Settings:
+
+* Highpass: A Hypersonic-style highpass filter to set the cutoff frequency from 25k down into the deep bass.
+	+ Adjusting this control can help achieve better aliasing performance when run at elevated sample rates.
+* Lowpass: A Hypersonic-style lowpass filter that doubles as an ultrasonic filter, allowing for adjustments in extreme highs and tone shaping.
+	+ Dialing back on extreme highs will give you even better aliasing performance.
+* Gain: The gain of the distortion stage.
+* Output and Dry/Wet: Controls for use when making it a hard clipper.
+
+Caveats:
+Settings beyond 0.6 for Room Loud or Cab Tone Intensity may produce unusual tone characteristics. It's essential to understand how the controls interact with each other for optimal results.
+
+Best Use Cases:
+This plugin is ideal for creating soft-clip distortions, complementing ITB guitars with Cabs or other IRs, softening high-gain clips, and achieving better aliasing performance at elevated sample rates.
+
+Tips on Optimal Settings:
+Match the gain and lowpass settings between Dirt and Edge for similar tone characteristics. Experiment with different gain levels to find the optimal amount of distortion. Use high sample rates to minimize aliasing and take full advantage of the plugin's filtering capabilities.

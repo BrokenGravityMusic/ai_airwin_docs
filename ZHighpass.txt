@@ -1,0 +1,21 @@
+Mackity
+
+Emulates the input stage of a vintage Mackie 1202 mixer.
+
+Key Controls and Settings:
+
+* Insert Point: Plug into halfway to emulate the effects of running audio through the original Mackie 1202.
+* Intensity: Adjusts the level of "spongy slam" and "gleaming brain-fry overload".
+* EQ Matching: Not over-processed, allowing for a more intense and raw sound.
+
+Caveats:
+May not perfectly cancel out with a phase-inverted recording from the real physical machine.
+Will not generate noise like cheap op-amps.
+
+Best Use Cases:
+Electronic music production, particularly DnB and underground genres.
+Adding character to audio tracks by emulating vintage mixer behavior.
+
+Tips on Optimal Settings:
+Experiment with different settings to find the desired level of "spongy slam" and intensity.
+Adjust EQ matching as needed to balance the sound.

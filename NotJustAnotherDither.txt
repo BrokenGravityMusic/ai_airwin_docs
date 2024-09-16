@@ -1,0 +1,23 @@
+NotJustAnotherDither
+
+A next-gen wordlength reducer at 24 bit, with DeRez.
+
+Key Controls and Settings:
+* `Bit Switch`: Switch between 16-bit and 24-bit operation (defaults to 24)
+	+ Type: Toggle
+* `DeRez Control`: Adjustable control for low-bit NJAD audio or auditioning noise floor behavior
+	+ Range: n/a
+	+ Type: Slider
+* `Output Levels`: Low output levels without extra energy from the noise shaper
+	+ Range: n/a
+	+ Type: Toggle
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for output formats, but can be used repeatedly in processing with caution. Use a normal TPDF if no tonal balance change is desired.
+
+Tips on Optimal Settings:
+Use the DeRez control to adjust low-bit audio or noise floor behavior
+Be cautious when using this plugin repeatedly in processing, as it may affect tonal balance

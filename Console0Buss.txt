@@ -1,0 +1,30 @@
+Console0Buss
+
+A minimalist console system designed to provide a simple and efficient interface for mixing and mastering audio.
+
+Key Controls and Settings:
+
+* Bus Level: Adjusts the overall level of the simulated bus.
+* Characteristics: Sets the tone color, warmth, and character of the console simulation.
+* Preamp Gain: Controls the gain applied to each channel before the console stage.
+* Gain: Adjusts the overall level of the console, with values ranging from -∞ dB to +10 dB.
+	+ Range: -∞ dB to +10 dB
+	+ Type: Control
+* Mute: Toggles the mute status of individual channels or groups.
+	+ Range: On/Off
+	+ Type: Toggle
+* Solo: Activates solo mode for selected channels or groups, allowing for isolated monitoring.
+	+ Range: On/Off
+	+ Type: Toggle
+* Input and Output Selectors: Choose between various input and output sources, including external signals and internal bus connections.
+	+ Range: Various
+	+ Type: Selector
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for tracking and mixing applications where a realistic console sound is desired. Also suitable for live sound applications, small studio consoles, or when working with simple audio signals that require minimal processing.
+
+Tips on Optimal Settings:
+Start by adjusting Bus Level and Preamp Gain to balance the overall level and gain structure of your mix. Experiment with Characteristics to find the tone color that suits your music. For best results, use the preamps to subtly boost individual channels, and adjust gain staging carefully to avoid clipping.

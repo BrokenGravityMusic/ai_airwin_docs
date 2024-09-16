@@ -1,0 +1,23 @@
+Ultrasonic and Hypersonic plugins by Airwindows
+
+insert one-line description
+
+Key Controls and Settings:
+
+* `Filter:` 
+	+ Range: adjustable filter cutoff
+	+ Type: 14th-order Butterworth filter (Ultrasonic) or more complex filter stages (Hypersonic)
+* `Resolution:` 32-bit floats used for audio math, but internal buss uses higher precision to maintain accuracy
+	+ Hypersonic uses a high-resolution buss (5,366,870,912 times better than standard 32-bit float)
+
+Caveats:
+* Ultrasonic might not suit those who prefer a bright and upfront soundstage
+* Hypersonic's extra complexity and resolution may be overkill for some users
+
+Best Use Cases:
+* Ultrasonic: adds warmth and depth to sound; suitable for mastering and mixing
+* Hypersonic: provides better detail and accuracy than Ultrasonic, but with increased computational requirements
+
+Tips on Optimal Settings:
+* Adjust filter cutoff according to desired soundstage and balance
+* Consider using Hypersonic's high-resolution buss for improved audio quality

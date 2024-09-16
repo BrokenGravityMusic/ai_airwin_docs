@@ -1,0 +1,21 @@
+Compresaturator
+
+A compressor that fades between compressing and soft clipping, offering a unique blend of dynamics control and saturation.
+
+Key Controls and Settings:
+
+* `Fade`: Adjusts the balance between compression and soft clipping.
+* `Threshold`: Sets the level above which compression is applied.
+* `Ratio`: Determines the amount of compression applied to the signal.
+* `Soft Clip Threshold`: Sets the level at which soft clipping begins.
+* `Level`: Adjusts the overall output level.
+
+ Caveats:
+Be cautious not to push the plugin too far, as it may exhibit unusual behavior such as fluttering or oscillation.
+
+Best Use Cases:
+
+Ideal for use on individual tracks or stems where a loud, punchy sound is desired with a unique character. Also suitable for buss compression and mastering applications.
+
+Tips on Optimal Settings:
+Start by adjusting the Threshold and Ratio to taste. Gradually increase the Soft Clip Amount to achieve the desired level of saturation. Experiment with different settings to find the right balance between dynamics control and saturation.

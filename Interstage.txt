@@ -1,0 +1,30 @@
+Acceleration Limiter
+
+A mastering-grade acceleration limiter that targets digital behavior causing Gibb effect overshoots, while leaving the basic mix balance intact.
+
+Key Controls and Settings:
+
+* `Threshold`: Adjusts the level at which acceleration begins.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Slew Limit`: Controls the amount of clipping applied to the signal, with lower values allowing for more subtle limiting.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Range`: Controls the extent of acceleration applied to high frequencies.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Response Curve`: Selects from a range of tonal responses for shaping the high-frequency character.
+	+ Range: Not specified
+	+ Type: Not specified
+
+Caveats:
+Interstage does not eliminate DC offset or preserve output peaks of heavily limited material. It will reshape lows in a way that may increase peak levels as deepest lows get rearranged.
+
+Best Use Cases:
+
+* Taming excessive digital brightness in mastering-grade mixes.
+* Correcting Gibb effect overshoots without altering mix balance.
+* Enhancing the analog-like sound of modern productions.
+
+Tips on Optimal Settings:
+Adjust Threshold to start applying acceleration around -20 dBFS. Set Range to 1-2 for a moderate, tonal shaping effect. Experiment with Response Curve to find the perfect tone for your mix.

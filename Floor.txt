@@ -1,0 +1,16 @@
+Floor
+
+A fake bottom octave plugin that simulates extended bass frequencies, generating an odd harmonic-related content to create the illusion of lower octaves.
+
+Key Controls and Settings:
+None mentioned in the provided text.
+
+Caveats:
+May not produce perfect results.
+Can be considered "harmful" if used to deceive listeners about the actual frequency content of audio material.
+
+Best Use Cases:
+Use in situations where you want to simulate the presence of low frequencies, but may not have access to genuine bass content. Not recommended for mastering or critical listening applications.
+
+Tips on Optimal Settings:
+Consider using with caution and a clear understanding of its limitations to avoid unexpected results.

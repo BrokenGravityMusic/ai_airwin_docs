@@ -1,0 +1,19 @@
+ResEQ
+
+A bank of midrange resonances used to enhance specific frequencies and create a "caricature" of the sound.
+
+Key Controls and Settings:
+
+* `Frequency Bands`: Up to 8 parallel bands can be set up to target specific frequency ranges.
+* `Resonance Width`: Adjusts the width of each resonance, from tight to broad.
+* `Level`: Sets the overall level of the resonant frequencies.
+* `Dry/Wet Control`: Blends the original signal with the ResEQ-enhanced signal.
+
+Caveats:
+Be cautious when using ResEQ on a mix bus, as it can drastically alter the sound. This plugin is not suitable for use on lead vocals, orchestral stems, or other prominent tracks.
+
+Best Use Cases:
+Enhance specific frequencies on secondary elements like background synths, horns, or drum overdubs. Create a "thickener" effect by applying ResEQ to guitar overdubs or other rhythmic parts. Transform a recording by isolating and removing narrow sound characteristics.
+
+Tips on Optimal Settings:
+Experiment with different frequency bands and resonance widths to find the desired character. Adjust the level and dry/wet control to balance the enhanced signal with the original track.

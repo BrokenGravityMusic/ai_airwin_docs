@@ -1,0 +1,24 @@
+Distortion
+
+A slightly dark analog-style distortion plugin optimized for high sample rates, using simple averaging filters for aliasing rejection and tone shaping.
+
+Key Controls and Settings:
+
+* `Presets`: Select from various preset algorithms, such as Focus.
+* `Mode`: Choose from different modes, including Mojo, Dyno, Density, Drive, and Spiral.
+* `Sample Rate`: Adjust the sample rate to control the plugin's behavior:
+	+ At 44.1k: Averaging stage before distortion, darkening output but interfering with aliasing.
+	+ At higher rates (96k or 192k): More poles of simple averaging used after distortion, softening tone and increasing aliasing rejection.
+* `Mix:` (not present in any explanation, however one could consider adding an option for blending the processed sound with the original)
+
+Caveats:
+• May not be suitable for sounds requiring extended high-end clarity.
+• Sample rate affects the plugin's behavior and tonality.
+
+Best Use Cases:
+• Warm overdrive effects in music production.
+• High-sample-rate applications where aliasing rejection is crucial.
+
+Tips on Optimal Settings:
+• Experiment with different presets and modes to achieve desired distortion characteristics.
+• Adjust sample rate accordingly to balance tone shaping and aliasing rejection.

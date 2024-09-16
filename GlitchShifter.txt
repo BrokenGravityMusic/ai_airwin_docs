@@ -1,0 +1,21 @@
+GlitchShifter
+
+A raw-sounding pitch shifter with a dose of insanity, capable of creating sonic mayhem or subtle effects.
+
+Key Controls and Settings:
+
+* `Note (in semitones)`: Adjusts the base pitch shifting.
+* `Trim (unquantized)`: Sets the unquantized pitch shift amount. Caution: changing this setting can detune effects on VST platforms.
+* `Tightness`: Affects the tone and behavior of the pitch shifter:
+	+ Turning up Tightness shortens the buffer zone, creating a harsh de-rezzing bitscrunch sound or tightly tracking the underlying sound.
+	+ Turning down Tightness expands the buffer size, allowing for smooth legato effects. However, decreasing Tightness too low can cause the pitch shifter to decouple and act like a granular effect, with unpredictable pitch-delay behavior.
+* `Feedback`: Enables feedback, adding layers of stacked pitch-delay when combined with low Tightness settings.
+
+Caveats:
+Be cautious when adjusting Trim on VST platforms, as changing this setting can detune effects. Also, be aware that decreasing Tightness too low can cause the pitch shifter to behave erratically.
+
+Best Use Cases:
+Ideal for creating raw, unprocessed pitch shifting effects or sonic mayhem. Suitable for both subtle and extreme applications.
+
+Tips on Optimal Settings:
+To achieve a "nice" pitch shift, set Note and Trim accordingly, and adjust Tightness to your desired level of tracking. To create glitchy effects, turn up Tightness for tightly tracked robotic artifacts or decrease it for smooth legato effects that can become unpredictable.

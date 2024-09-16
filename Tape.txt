@@ -1,0 +1,26 @@
+Tape
+
+A simplified tape mojo plugin with adjustable input gain, Head Bump algorithm, Spiral overdrive, and a mix control for blending clean and overdriven signals.
+
+Key Controls and Settings:
+
+* `Input Gain`: Adjusts the signal level going into the plugin.
+	+ Range: N/A
+	+ Type: 
+* `Head Bump`: Simulates physical tape head bump, can be adjusted to control buildup.
+	+ Range: N/A
+	+ Default value: 0.5 (Redux update)
+* `Spiral Overdrive`: Uses Spiral algorithm for overdriven tone.
+	+ Range: N/A
+	+ Type: 
+* `Mix Control`: Blend between clean and overdriven signal.
+	+ Range: N/A
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Use as a mix output stage, or to add tape mojo to individual tracks.
+
+Tips on Optimal Settings:
+Adjust Head Bump to taste, cranking it up gives original behavior. Experiment with Input Gain for optimal signal level.

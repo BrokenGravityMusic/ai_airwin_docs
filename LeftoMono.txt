@@ -1,0 +1,17 @@
+LeftoMono
+
+Duplicate a mono audio signal to both left and right channels without any loss of quality
+
+Key Controls and Settings:
+
+* No controls or settings are required as this is a simple mono duplication plugin.
+	+ No adjustable parameters. The plugin simply duplicates the input audio to both channels.
+
+Caveats:
+None noted.
+
+Best Use Cases:
+Ideal for mastering and mixing applications where a single audio source needs to be heard in both the left and right channels, converting mono recordings or signals to stereo without affecting the original audio, creating mono versions of stereo signals with perfect preservation of original dynamics and tone.
+
+Tips on Optimal Settings:
+Since there are no adjustable settings, ensure the input signal is of high quality and suitable for your intended use case. Simply use as a utility to duplicate a mono signal or create a mono version of your stereo signal without any adjustments.

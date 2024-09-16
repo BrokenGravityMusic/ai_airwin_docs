@@ -1,0 +1,22 @@
+AtmosphereChannel
+
+A multi-stage slew clipper that creates a gluing and taming of bright digital highs, enforcing the behavior of free air and acoustic distance.
+
+Key Controls and Settings:
+
+* `Number of stages:` The number of slew clipping samples (default: 14)
+	+ Adjusting this control allows you to balance the amount of processing applied to your audio.
+* `Maximum slew per stage:` The maximum value for each slew clipping sample (default: varied across stages)
+	+ This setting determines how much the sound is "clipped" or shaped at each stage.
+
+Caveats:
+This plugin is not calibrated to overwhelm, but rather to create a sense of space and scale in your mix. It's best used when working with large-scale mixes, such as rock or metal music, orchestral arrangements, or electronic mixes intended to sound loud.
+
+Best Use Cases:
+
+* Creating a live gig-like atmosphere for rock or metal music
+* Enhancing the sense of space and distance in orchestral arrangements
+* Taming bright digital highs in electronic music mixes
+
+Tips on Optimal Settings:
+Start with the default settings and adjust as needed to achieve your desired sound. Experiment with the number of stages to find the optimal balance between taming digital harshness and preserving subtler sounds. Adjust the maximum slew per stage to achieve the desired level of compression.

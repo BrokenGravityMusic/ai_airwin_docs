@@ -1,0 +1,24 @@
+TapeDust
+
+Produce treble-erode noise, specifically designed for creating natural-sounding crunch on sharp treble attacks and analog-style variance on repeated samples.
+
+Key Controls and Settings:
+
+* `Level`: Adjusts the overall level of the noise. Note: The plugin is sensitive to the type of signal being processed.
+	+ Range: 
+	+ Type: Adjustment
+* `Slew Rate`: Controls how aggressively the noise hits high frequencies or rapidly moving signals.
+	+ Range: 
+	+ Type: Control
+* `Drive Control`: Boosts the noise level; turn up for more slam and dirt.
+	+ Range: 
+	+ Type: Boost
+
+Caveats:
+The plugin has a bug that causes it to sound different than intended. It's not suitable for basses, full mixes (outside very low settings), or pure clear notes.
+
+Best Use Cases:
+Adding natural-sounding crunch to sharp treble attacks on percussive sounds, creating analog-style variance on repeated samples, and textural experimentation by applying heavy TapeDust to specific elements in a mix.
+
+Tips on Optimal Settings:
+Apply TapeDust judiciously, depending on the signal type and desired effect. Use high settings for percussive sounds, but be cautious of unusual effects. Experiment with different settings to find the optimal balance.

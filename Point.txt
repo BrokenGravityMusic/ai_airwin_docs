@@ -1,0 +1,24 @@
+Point
+
+Transient designer for explosive effects on audio signals.
+
+Key Controls and Settings:
+
+* Input Trim: Adjust input level (-1.0 to 1.0, dry = 0.0)
+* Point control: Design transient effect (range: -1.0 to 1.0)
+	+ Range: 
+* Reaction Speed: Control reaction speed (range: 0.0 to 1.0)
+
+Caveats:
+Can produce unstable and intense effects if settings are pushed too high.
+Operating at high Point settings can result in unstable behavior and potentially damage your ears.
+
+Best Use Cases:
+Squishing snare drum fronts for a huge effect
+Spotlighting cymbal attacks while rounding drums
+Hype up kick drum attacks and suppress sustain
+
+Tips on Optimal Settings:
+For squishing snaredrums, use Point -1.0 and reaction speed 0.166.
+To spotlight cymbals, use Point -1.0 and reaction speed 0.14.
+To hype up kick drums, use reaction speed 0.3 and carefully add positive Point until desired effect is achieved.

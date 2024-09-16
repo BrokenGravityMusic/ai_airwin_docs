@@ -1,0 +1,32 @@
+uLawDecode
+
+Decodes compressed audio using the u-Law algorithm.
+
+Key Controls and Settings:
+
+* Mode: Choose between encoding or decoding.
+	+ Range: Encode/Decode
+* Input Gain: Adjust input signal level (default: 0 dB).
+	+ Range: -6 dB to +6 dB
+	+ Type: Linear gain control
+* Output Level: Set output signal level (default: 0 dB).
+	+ Range: -6 dB to +6 dB
+	+ Type: Linear gain control
+* Sampling Rate: Select sampling rate for encoded/decoded audio (default: 8000 Hz).
+	+ Range: 8 kHz, 11.025 kHz, 22.05 kHz
+
+Caveats:
+
+* Encoding and decoding must be done in pairs; using one without the other may produce unpredictable results.
+* u-Law compression can introduce audible artifacts.
+
+Best Use Cases:
+
+* Decoding compressed u-Law audio files or streams.
+* Converting between different sampling rates using the paired encoder/decoder.
+
+Tips on Optimal Settings:
+
+* Ensure input gain is not too high to prevent distortion.
+* Adjust output level for optimal listening volume.
+* Match the sampling rate and bit depth for encoding and decoding (if applicable).

@@ -1,0 +1,37 @@
+UnBox
+
+A distortion effect that preserves clarity by suppressing mid-range frequencies and high-passing distorted signal, eliminating aliasing.
+
+Key Controls and Settings:
+
+* `Distortion Level:` Adjusts the overall distortion amount.
+	+ Range: [insert text]
+	+ Type: slider
+* `Mid Cutoff:` Sets the frequency below which mid-range content is suppressed.
+	+ Range: 100 Hz to 10 kHz
+	+ Type: slider
+* `High Pass Threshold:` Determines the frequency above which the distorted signal is attenuated.
+	+ Range: 5 kHz to 20 kHz
+	+ Type: slider
+* `Bass Presence:` Adds a hint of bass to the output for definition.
+	+ Range: 0 dB to +6 dB
+	+ Type: slider
+* `Smoothing:` Post-processing to smooth out the distortion output and prevent aliasing.
+	+ Range: 0% to 100%
+	+ Type: slider
+
+Caveats:
+
+* This plugin is designed to work best with natural recordings that don't contain extreme high-frequency content.
+* Highpass filtering may be necessary on the distortion part to prevent aliasing.
+
+Best Use Cases:
+* Adding warmth and texture to clean, flat signals without introducing aliasing or digital artifacts.
+* Enhancing definition in bass-heavy materials by adding low-end frequencies.
+* Preserving high-frequency clarity while still applying some distortion to a signal.
+
+Tips on Optimal Settings:
+
+* Adjust the Distortion Level control to strike a balance between preserving high-end clarity and achieving desired mid-range warmth.
+* Use the Mid Cutoff control to fine-tune the amount of original mid-range content suppressed in the distorted output.
+* Experiment with different levels of Bass Presence to enhance definition without overpowering the dry signal.

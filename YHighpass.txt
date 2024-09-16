@@ -1,0 +1,18 @@
+YHighpass
+
+A high-pass filter plugin that can produce varying textures from smooth to edgy, ideal for adding high-pass filtering effects to audio signals and enhancing clarity.
+
+Key Controls and Settings:
+
+* `Type:` The type of filtering (smooth to edgy)
+* `Frequency Cut-off:` Adjusts the frequency at which filtering begins
+* `Resonance:` Boosts or cuts specific frequencies for a more detailed sound
+
+Caveats:
+None noted in the provided documentation.
+
+Best Use Cases:
+Ideal for adding high-pass filtering effects to audio signals, such as enhancing clarity and reducing low-end noise.
+
+Tips on Optimal Settings:
+Adjusting the frequency cut-off and resonance controls can help achieve a balanced sound. Experiment with different settings to find the desired texture and tone.

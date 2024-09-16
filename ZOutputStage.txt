@@ -1,0 +1,23 @@
+Exciter
+
+A plugin that adds transients "pop" by distorting specific frequency bands.
+
+Key Controls and Settings:
+
+* `Frequency`: Select the frequency band to be distorted.
+* `Effect Amount`: Control the intensity of the distortion effect.
+* `Distortion Type`: Soft clip distortion, mimicking a sin() function.
+
+Caveats:
+Turning up the Effect Amount too high can result in obvious crunch, whereas real-world examples would use much lower levels.
+
+Key Controls and Settings (continued):
+* `Mix:` A blend control for mixing the processed sound with the original
+
+Best Use Cases:
+Adding grit and energy to synth waves or other digital sounds.
+Enhancing transients and creating a "frizz" effect on clipped sounds.
+
+Tips on Optimal Settings:
+Start with subtle adjustments and fine-tune the Effect Amount for a more natural sound.
+Experiment with different Frequency settings to find the right balance between grit and tone.

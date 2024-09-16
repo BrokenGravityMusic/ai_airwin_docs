@@ -1,0 +1,31 @@
+ZRegion
+
+A digital filtering plugin emulating an Emu e6400 style Airwindows Region filter. It uses cascading bandpass filter stages and distortions to create a unique sound.
+
+Key Controls and Settings:
+
+* `Filter Stages:` A series of bandpass filters that can be staggered in frequency.
+	+ To adjust, simply move the controls up or down to change the filter frequencies.
+* `Gain:` Allows for internal distortion when boosting gain.
+	+ Use with caution as excessive gain can lead to clipping.
+* `Ordering:` Adjusts the order in which the filters are applied.
+	+ Experiment with different orders to achieve unique effects.
+* `Filter 1-8:` Adjust the frequency range for each stage to control distortion characteristics.
+
+Caveats:
+
+* Excessive gain can lead to clipping and distortion.
+* Improper filter ordering may result in unintended frequency responses.
+* Be cautious when adjusting Filter Stage frequencies, as excessive changes can lead to unwanted effects.
+
+Best Use Cases:
+
+* Creating killer bass tones by setting the first filter high for midrange articulation and the last filter low for heavy bass mojo.
+* Adding a unique flavor to your sound with the same characteristics as other Z filters, when used as a fixed setting.
+
+Tips on Optimal Settings:
+
+* Experiment with different filter orders to achieve unique effects.
+* Use gain sparingly to avoid clipping and distortion.
+* For killer bass tones, set the first filter higher for midrange articulation and the last filter very low for heavy bass mojo.
+* To maintain a consistent flavor as other Z filters, leave the setting as a fixed setting.

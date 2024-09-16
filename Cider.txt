@@ -1,0 +1,26 @@
+Cider
+
+A tone coloring plugin that adds warmth and character to audio signals, simulating an MCI console.
+
+Key Controls and Settings:
+
+* Tone Shape: Adjusts the overall tone of the signal.
+	+ Type: Select from a variety of tone shaping curves (e.g. Linear, Log).
+	+ Level: Sets the amount of tone shaping applied.
+* Character:
+	+ Warmth: Adds warmth to the signal.
+	+ Brightness: Increases high-frequency content.
+* Gain Staging: Affects the overall level of the signal.
+
+Caveats:
+
+* This plugin was designed to mimic an older sound and may not be suitable for modern mixing techniques.
+* Some settings may interact with each other in unexpected ways.
+
+Best Use Cases:
+* Mixing/mastering music that requires a warm, vintage tone.
+* Adding character to individual tracks or groups of tracks.
+
+Tips on Optimal Settings:
+* Start with the default Tone Shape curve and adjust Level to taste.
+* Experiment with different Character settings to find the desired flavor.

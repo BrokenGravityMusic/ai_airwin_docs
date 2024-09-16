@@ -1,0 +1,27 @@
+ToTape6
+
+Adjusts tape-machine lows.
+
+Key Controls and Settings:
+
+* `Head Bump:` Adjusts the level of tape-machine lows.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Flutter:` Controls the amount of tape flutter, with settings above 0.5 introducing varying latency and a unique sound.
+	+ Range: 0% to 100%
+	+ Type: [insert text]
+* `Dry/Wet Control:` Blends dry and wet signals. When using Flutter, the dry/wet control creates a flanging effect as you bring dry in.
+	+ Works normally when Flutter is off.
+	+ Creates a flanging effect as dry and flutter levels interact.
+* `Soften:` Adjusts warm harmonics and midrange tone.
+	+ Interacts with Head Bump to create a rich tape sound.
+* `ADClip (Built-in Clipper):` Acts as a safety clipper, preventing output levels from exceeding 0 dB.
+
+Caveats:
+Be cautious not to push past the default halfway setting for Head Bump, as it will produce serious lows. Be cautious when pushing Flutter beyond its default setting of 0.5, as it can introduce varying latency and disrupt clear highs.
+
+Best Use Cases:
+For killer tape emulation with a focus on tone and low-end response.
+
+Tips on Optimal Settings:
+Experiment with different settings for Head Bump and Soften to achieve the desired effect.

@@ -1,0 +1,22 @@
+Spiral
+
+A novel approach to distortion and saturation that introduces discontinuities at zero crossings, perceived as a "fatter, smooth" sound but also creates an unpleasant discontinuity.
+
+Key Controls and Settings:
+
+* `Zero Crossing:` [insert text]
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Discontinuity Correction:` A simple correction to fix the issue of discontinuities at zero crossings
+	+ Range: 0% to 100%
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+The sine-based overdrive algorithm used in previous plugins, such as Channel, also creates discontinuities at zero crossings.
+
+Best Use Cases:
+Use Spiral when a smooth and pleasing distortion effect is desired. However, for applications where the sine-based curve is still optimal, consider using that instead.
+
+Tips on Optimal Settings:
+Start by adjusting the Zero Crossing control to minimize discontinuities, then adjust the Discontinuity Correction control to fix any remaining issues.

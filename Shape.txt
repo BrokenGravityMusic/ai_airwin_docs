@@ -1,0 +1,27 @@
+Shape
+
+An asymmetrical waveshaper for peak manipulating.
+
+Key Controls and Settings:
+
+* Shape control: determines the effect (0.5 = no effect, 1.0 = stretching out peaks, 0.0 = squishing peaks)
+	+ Range: scales all effects
+* Offset control:
+	+ 0.5: no offset
+	+ 0.0: negative offset
+	+ 1.0: positive offset
+
+Caveats:
+
+* The Shape control's effect should be used gradually, as cranking it out can lead to unpleasant waveshaping tricks.
+* The Offset control can interact with the Shape control to make it affect only one side of the waveform.
+
+Best Use Cases:
+
+* Reshaping waveforms so asymmetrically creates built-in even harmonics, which can add warmth to sounds.
+* The plugin is suitable for sound design and tweaking tonal adjustments with great purity and subtlety.
+
+Tips on Optimal Settings:
+
+* To get a sound to swing fully in both directions, set the offset to favor one side and adjust the Shape control accordingly.
+* For warmer basses, use more Shape to create a triangle-ey result or less Shape for a squared result, then lean the Offset one way or the other.

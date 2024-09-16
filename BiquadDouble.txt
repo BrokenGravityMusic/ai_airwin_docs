@@ -1,0 +1,24 @@
+BiquadDouble
+
+A cascaded biquad filter providing steeper roll-off before resonance.
+
+Key Controls and Settings:
+
+* `Cutoff Frequency`: Adjusts the point at which the filter starts to attenuate frequencies.
+	+ Range: Not specified
+* `Resonance`: Controls the peakiness of the filter's response, ranging from "impossibly high" to full bandwidth.
+	+ Note: Stacked filters allow for twice as much cutoff steepness before resonance.
+* `Filter Type`: Not applicable, as this is a stacked biquad filter.
+
+Caveats:
+May not cooperate with rapid automation due to its efficient but least cooperative design and internal Console mixing system.
+Tone is "expanded" inside an internal Console mixing system, different from standard biquad filters.
+
+Best Use Cases:
+Use for tone shaping in situations where a simple biquad filter is insufficient. Ideal scenario: simple effects and plugin creation where precise settings are required.
+
+Tips on Optimal Settings:
+Dial in correct settings for desired tone.
+Consider stacking two Biquad instances instead of using this plugin, but note that setting both the same may not yield optimal results.
+Experiment with resonance settings to find the desired tone.
+Adjust cutoff frequency and gain to achieve the best results.

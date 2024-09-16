@@ -1,0 +1,21 @@
+Podcast
+
+A pile of curve-style compressors in series for dynamic range control, with hard clipping.
+
+Key Controls and Settings:
+
+* Multiple Compressors: A series of 5 curve-style compressors in a chain.
+	+ Each compressor can be adjusted independently
+* Dry/Wet Control: A blend between the original signal and the compressed signal
+	+ Range: 0% to 100%
+* Threshold, Ratio, Attack, Release: Adjust compressor settings as desired
+* Hard Clip: Enables or disables hard clipping on output
+
+Caveats:
+No latency; does not produce pumping and swelling effects or sidechainy whooshes of level due to curve school compression; quits changing levels if input goes silent; hard-clips the output.
+
+Best Use Cases:
+Aggressively smashing drums and percussion elements; buss compression for adding glue to mixes; safety compressor for protecting signals from over-clip.
+
+Tips on Optimal Settings:
+For drum smashing, turn up ratio and attack times to create a "crushing" effect. For buss compression, start with a moderate threshold and ratio. To use as a clean buss comp, turn down the gain makeup and adjust the compressor settings for a gentle, subtle effect.

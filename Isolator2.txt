@@ -1,0 +1,27 @@
+Isolator2
+
+A steep lowpass, highpass, or shelf filter with smoothed coefficients and resonance booster.
+
+Key Controls and Settings:
+
+* Type: Select from lowpass, highpass, or shelf filter.
+	+ Range: N/A
+	+ Type: [selectable]
+* Resonance: Adjusts the amount of resonance added to the filter.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Smoothing: Smooths the filter coefficients for automation and improved movement.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Cutoff: Sets the frequency at which the filter begins to attenuate or boost signals.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+None listed.
+
+Best Use Cases:
+Ideal for creating narrow, high-resonance sounds as a "synth filter" tone, or for adding edge to filter sweeps. Also useful in music production and mixing, post-production audio work, such as film and video game sound design.
+
+Tips on Optimal Settings:
+Experiment with different resonance settings to achieve the desired tonal characteristics. Adjust smoothing and cutoff controls in conjunction with each other to achieve optimal results. Use smoothing to create a more gradual change in filtering effect, especially when automating parameters. Adjust resonance boost to add edge and depth to the filtered sound.

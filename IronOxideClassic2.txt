@@ -1,0 +1,18 @@
+IronOxideClassic2
+
+A bandpassy tape sim plugin that saturates and slams audio, producing an aggressive tone coloring. Designed for high sample rates and aliasing control.
+
+Key Controls and Settings:
+
+* `Input Trim:` Adjusts the input level of the signal.
+* `Tape Speed Control:` Sets the speed of the simulated tape.
+* `Output Trim:` Adjusts the output level of the plugin.
+
+Caveats:
+None mentioned in the technical documentation.
+
+Best Use Cases:
+Ideal for producing an aggressive tone coloring, particularly when working with analog-style emulations. Suitable for use in situations where a "fat saturated" sound is desired.
+
+Tips on Optimal Settings:
+To achieve the best results from IronOxideClassic2, try adjusting the Input Trim and Output Trim controls to match your specific audio material. Experiment with different Tape Speed Control settings to find the tone that works best for you.

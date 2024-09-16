@@ -1,0 +1,31 @@
+TremoSquare
+
+A squarewave tremolo effect that only switches on zero crossings, producing a warm and smooth tremolo sound with a unique "de-rezzing" effect when frequency is ramped up.
+
+Key Controls and Settings:
+
+* Dry/Wet Control: A slider to blend the dry signal (original audio) with the wet signal (tremolo effect).
+	+ Range: [Insert text]
+* Frequency Range: Adjustable range of frequencies that the tremolo effect will affect.
+	+ Range: Extremely large, allowing for a wide range of effects
+* Zero Crossing Transition: The plugin only transitions from silent to full volume on zero crossings, giving a smooth and warm sound.
+
+Caveats:
+
+* Does not tempo sync.
+* Ramping up frequency too high can cause the "de-rezzing" effect, which may be undesirable in some situations.
+* Transitions become indistinguishable at high frequencies due to zero-crossing interference.
+
+Best Use Cases:
+
+* Adding a unique and warm tremolo effect to bassy sounds or other instruments.
+* Creating a distinct "de-rezzing" effect by ramping up frequency.
+* Using as a mix-blender effect to add texture and interest to audio mixes.
+* Adding warmth and texture to aggressive signals, especially on bassy sounds.
+
+Tips on Optimal Settings:
+
+* Adjust the dry/wet control to balance the amount of tremolo effect with the original audio.
+* Experiment with different frequency ranges to find the desired effect.
+* Use sparingly when ramping up frequency to avoid undesirable "de-rezzing" effects.
+* Ramp up the frequency of the tremolo effect super high to create the 'de-rezzing' effect.

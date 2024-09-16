@@ -1,0 +1,21 @@
+Deckwrecka
+
+Fattens and dirties up beats, providing a thunderous overdrive effect with huge, slamming, dirty bass.
+
+Key Controls and Settings:
+
+* `Overdrive`: Controls the amount of overdrive distortion added to the signal.
+* `Bass Fattening`: Adjusts the amount of low-end boost applied to the signal.
+* `Dirt & Grunge`: A blend control that adds various types of dirt and grunge effects to the signal.
+* `Input Gain/Bass Fattener/Grit Filter` (choose one): Optional controls for adjusting overall gain level, boosting/cutting low frequencies, or adding extra dirt and overdrive.
+
+Caveats:
+Be cautious with high drive settings as they can lead to unwanted clipping. Use sparingly on sensitive audio sources to avoid overpowering them.
+
+Best Use Cases:
+
+* Adding beefy, sub-rattling elements to EDM and hip-hop tracks
+* Enhancing kick drums with a fat, overdriven sound
+
+Tips on Optimal Settings:
+For maximum impact, apply Deckwrecka to individual drum or bass tracks rather than the entire mix. Experiment with different settings to achieve the desired level of dirt and grunge.

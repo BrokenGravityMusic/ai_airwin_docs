@@ -1,0 +1,28 @@
+PurestConsoleBuss
+
+An artificial console simulator that mimics a clean, uncolored signal path.
+
+Key Controls and Settings:
+
+* `Input Level Control:` Adjusts the signal level entering the plugin.
+	+ Range: [not specified]
+* `Output Level Control:` Adjusts the signal level exiting the plugin.
+	+ Range: [not specified]
+* `Invert Switch:` Toggles the polarity of the input signal (on/off).
+* `Pre-Delay:` Adjusts the time between the input signal and the start of the console simulation (0-100 ms).
+	+ Range: 0-100 ms
+* `Characterization:` Selects from different types of console character (e.g., warm, cool, neutral) to match your desired sound.
+	+ Options: [5 not specified]
+* `Gain:` Adjusts the overall level of the console buss.
+	+ Range: -100 dB to +10 dB
+* `Coloration:` Controls the amount of coloration added by the console buss.
+	+ Range: 0% to 100%
+
+Caveats:
+None
+
+Best Use Cases:
+Ideal for mastering stages, post-processing, or whenever a clean and uncolored signal path is required. Mixing and mastering applications where an uncolored console buss is desired.
+
+Tips on Optimal Settings:
+For best results, adjust the Pre-Delay to match your material's timing needs. Experiment with different console characterizations to find the perfect fit for your sound. Set Input Level Control to 0 dB to prevent coloration, and adjust Output Level Control to match the desired signal level.

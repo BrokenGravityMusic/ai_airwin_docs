@@ -1,0 +1,32 @@
+ConsoleMDBuss
+
+
+A plugin that simulates the tone shaping characteristics of a classic MCI console.
+
+
+Key Controls and Settings:
+
+* Tone Shaping Control: Adjusts the warmth and clarity of the plugin's output.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Low Cut Filter: A 6 dB/octave low-pass filter to remove unwanted low-end frequencies.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* High End Shape: A high-pass filter with a -3 dB point at 10 kHz, simulating the high-frequency response of an MCI console.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+May interact with other plugins in complex ways due to its tone shaping capabilities.
+
+
+Best Use Cases:
+
+Suitable for mixing and mastering applications where a warm, vintage tone is desired.
+
+
+Tips on Optimal Settings:
+
+
+Adjust the Tone Shaping Control to taste for optimal warmth and clarity.
+Use the Low Cut Filter to remove unwanted rumble or hum from your audio signal.

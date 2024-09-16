@@ -1,0 +1,29 @@
+BitShiftPan
+
+A gain and pan control plugin that uses bit shifts to apply 6 dB increments, allowing for lossless mixing and gain adjustments in the digital domain.
+
+Key Controls and Settings:
+
+* `Bits`: Select the number of bits to shift for gain and/or pan.
+	+ Adjusting this setting will apply a precise 6 dB or other multiple of 6 dB gain/loss adjustment to the selected tracks.
+	+ When used for pan, applies a shift to the stereo field with no law applied (no 3 dB pan law).
+* `Gain Shift`: Not mentioned explicitly but implied in "gain trim" and "precise gain control"
+* `Pan Control`: Shifting the pan position using bit shifts, allowing for precise placement within the stereo field.
+	+ Each step is equivalent to a 6dB decrease or increase in signal level.
+
+Caveats:
+* BitShiftPan is not suitable for mixing with traditional, granular adjustments.
+* Limited resolution and accuracy due to bit shift operation (3 dB steps instead of continuous pan law).
+* Mixing with BitShiftPan in mono can be impossibly crude due to 6 dB increments being seemingly impossible to mix with.
+
+Best Use Cases:
+* When mixing in a lossless, transparent manner, prioritizing raw unprocessed intensity from the original digital captures.
+* In situations where precise control over the stereo field is required.
+* Mixing tracks that require precise, lossless gain control.
+* Creating bespoke panning techniques using discrete bit shifts.
+
+Tips on Optimal Settings:
+* Experiment with different bit shift values to achieve desired gain or pan adjustments.
+* Take advantage of BitShiftPan's ability to apply precise 6 dB increments for gain and/or pan, even when mixing multiple tracks.
+* Start by adjusting the Number of Bits to achieve desired gain trim levels.
+* When using Track Shift (implied as "gain trim"), start with small adjustments (0.75 dB or 1.5 dB) to achieve desired results.

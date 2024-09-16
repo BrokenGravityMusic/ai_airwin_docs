@@ -1,0 +1,22 @@
+Console8SubHype
+An analog submix simulator with treble softening
+
+insert one-line description
+
+Key Controls and Settings:
+* None. This plugin replaces Console8SubIn.
+	+ Range: N/A
+	+ Type: N/A
+
+Caveats:
+Replacing multiple stages of Console8SubIn/ChannelIn/BussIn will result in increased hyped and trebly sound.
+Using on individual channels will have the most direct effect, while using on submixes or busses will change the tone of the entire mix.
+
+Best Use Cases:
+Ideal for creating a brighter, sparklier sound in individual tracks, submixes, or the entire mix.
+Use to add solidity and physicality to sounds, or ethereal spaceyness to create abstract textures.
+
+Tips on Optimal Settings:
+Swap Console8SubHype in place of Console8SubIn for the desired effect.
+Experiment with using Hype stages in different parts of your console (individual channels, submixes, buss) to achieve unique tonal results.
+Pay attention to textural values like solidness, ethereal spaceyness, physical versus abstract, hard versus soft.

@@ -1,0 +1,19 @@
+Tremolo
+
+Fluctuating saturation curves for a tubey tremolo effect.
+
+Key Controls and Settings:
+
+* `Saturation`: Adjusts the amount of saturation used to simulate the tremolo effect. Range: 0-100%.
+* `Antisaturation`: Adjusts the amount of antisaturation used to reduce the saturation at quiet parts. Range: 0-100%.
+* `Waveform`: Selects the shape of the saturation curve. Options include sine, square, and triangle waves.
+* `Gain`: Sets the overall gain level for the tremolo effect.
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for adding a unique, organic tremolo effect to audio signals.
+
+Tips on Optimal Settings:
+Start with moderate values for Saturation (around 30-40%) and Antisaturation (around 20-30%). Adjust the Waveform setting to achieve the desired sound. Experiment with different saturation curve shapes to achieve desired density and thickness. Adjust antisaturation levels to balance preservation of transient attacks with overall sound character.

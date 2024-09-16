@@ -1,0 +1,23 @@
+PeaksOnly
+
+A transformative mix check tool that telegraphs information about transient attacks, peak-limited sounds, and frequency balances.
+
+Key Controls and Settings:
+
+* Input gain: controls the level of the input signal
+* Filter cutoff: sets the high-pass filter cutoff frequency for peaks-only processing
+* Resonance: adjusts the Q-factor of the filters to affect the "color" of the output
+* Phase rotation: rotates the phase of each filter stage to smear out transients across time
+* Sane loudness level: allows you to set a target loudness level for the output signal
+
+Caveats:
+Be cautious when using PeaksOnly on mastered or highly compressed signals, as it may reveal unwanted characteristics. Excessively processing signals with PeaksOnly can lead to distortion and audio "porridge".
+
+Best Use Cases:
+
+* Balancing transient attacks in mixdown and mastering
+* Identifying and correcting frequency imbalances in mixes
+* Revealing hidden details in poorly mixed or compressed signals
+
+Tips on Optimal Settings:
+Adjust the filter cutoff to suit your specific needs for peak-limited sounds or transients. Experiment with resonance settings to change the "color" of the output.

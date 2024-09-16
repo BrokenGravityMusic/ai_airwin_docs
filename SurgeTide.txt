@@ -1,0 +1,30 @@
+SurgeTide
+
+A surge and flow dynamics plugin that simulates tidal forces in an audio mix, creating subtle yet powerful dynamic changes.
+
+Key Controls and Settings:
+
+* `Surge Node`: Adjusts the compression threshold to squish sound on the beat.
+	+ Tip: Start by adjusting until sound is slightly compressed.
+* `Surge Rate`: Sets the speed of compression.
+	+ Tip: Experiment with different settings to achieve a natural-sounding effect, finding a balance between slow and fast.
+* `Compression Time Constants`: Three stacked time constants that control the dynamics response.
+	+ No specific recommendation; setting will depend on mix content.
+
+Caveats:
+
+* Does not work well on isolated tracks or staccato drum patterns.
+* May not work well on tracks with rapid dynamic changes.
+* Requires careful setting to achieve desired effect.
+
+Best Use Cases:
+
+* Whole-mix dynamics control
+* Subtle accentuation of low-end movement
+* Level control and restraint on dense mix moments
+
+Tips on Optimal Settings:
+
+* Start by adjusting Surge Node until sound is slightly compressed.
+* Experiment with different Surge Rate settings to achieve a natural-sounding effect.
+* Pay attention to extreme low bass and adjust settings accordingly.

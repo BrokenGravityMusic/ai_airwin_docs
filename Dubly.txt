@@ -1,0 +1,26 @@
+Dubly
+
+Simulates the retro vibe of classic noise reduction processing, adding a magical aura to audio signals.
+
+Key Controls and Settings:
+
+* `Level`: Adjusts the overall level of the processed signal.
+* `Retro Vibe (Distortion)`: A simple distortion stage that adds harmonics and treble energy to the sound (default: 0.5).
+	+ Range: Turning up the Retro Vibe control can add a hyped, intensified zone to the audio, with increased treble energy.
+* `Filter`: A low-pass filter used to simulate the frequency response of vintage noise reduction systems.
+	+ Range: Sets the cutoff frequency of the filter (default: 100 Hz).
+* `Gain`: Adjusts the overall gain of the distorted signal.
+
+Caveats:
+
+* Mis-calibrating the Retro Vibe control can lead to an over-processed sound.
+* Using high settings for Distortion and Gain can lead to an overly bright, hyped sound.
+* The plugin does not emulate specific proprietary noise reduction technologies.
+
+Best Use Cases:
+
+* Adding a delicate aura of retro magic to audio signals (default settings).
+* Creating a hyped, intensified zone with increased treble energy by cranking up the Retro Vibe control.
+
+Tips on Optimal Settings:
+Experiment with different levels of Retro Vibe and filter settings to achieve the desired sound. Be careful not to over-process the audio.

@@ -1,0 +1,25 @@
+ConsoleLAChannel
+
+Analog console simulator emulating the sound of a Quad Eight console, known for its use in 1970s LA and Hollywood recordings.
+
+Key Controls and Settings:
+
+* `Supply Voltage`: Adjusts the supply voltage to simulate the Quad Eight's higher voltage (28V) or lower voltage (24V) settings.
+	+ Range: -28 to +28 volts
+* `Filtering`: Selects between different filtering options, including a more gradual slope for midrange cuts, as heard on 1970s recordings.
+	+ Type: Filter
+* `Channel EQ`: A 3-band EQ with adjustable high-pass, low-mid, and high frequencies to simulate the tone shaping capabilities of the Quad Eight console.
+	+ Range: Adjustable frequencies
+
+Caveats:
+Due to its unique design, ConsoleLAChannel may require some experimentation to achieve optimal results.
+
+Best Use Cases:
+Use ConsoleLAChannel for:
+
+* Mixing and mastering 1970s-style recordings
+* Emulating the sound of classic Quad Eight consoles
+* Achieving a warm, vintage sound in your music productions
+
+Tips on Optimal Settings:
+Experiment with different supply voltage settings to achieve the desired amount of energy and headroom. Use the filtering controls to cut frequencies heavily, especially in the mids.

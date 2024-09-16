@@ -1,0 +1,23 @@
+Air2
+
+A treble-boost plugin with three bands (Hiss, Glitter, and Air), a Silk control for softening highs, and an innovative Dry/Wet control.
+
+Key Controls and Settings:
+
+* Three treble-boost bands: Hiss, Glitter, and Air. Each band has its own frequency response and characteristics.
+* Silk control: applies a transformer-biased second harmonic creation to the highs, providing a soft and pretty tone.
+* Dry/Wet control:
+	+ Up to 0.75: Full volume dry signal
+	+ Between 0.75 and 1 (full Wet): Gradual fade of the original dry signal, resulting in full-wet mode that only outputs the brightener bands.
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Treble-boosting specific frequencies in music productions.
+Adding brightness and airiness to tracks.
+
+Tips on Optimal Settings:
+Experiment with each band's frequency response to find the desired tone.
+Adjust the Silk control to taste, but be aware that pushing it too far can create an overly harsh sound.
+Use the Dry/Wet control to balance the brightener bands with the dry signal, and crank it up for extreme treble-boosting effects.

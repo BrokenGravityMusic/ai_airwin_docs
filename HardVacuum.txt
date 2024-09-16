@@ -1,0 +1,19 @@
+HardVacuum
+
+A tube style saturation effects plugin with warmth control and Aura saturation curve, adding sparkly highs and hot searing overtones.
+
+Key Controls and Settings:
+
+* Warmth Control: adjusts second harmonic distortion and nonlinearity like a class A tube design.
+	+ Turning up can add exaggerated effects, but be careful not to overdo it.
+* Aura Control: adds sparkly highs and hot searing overtones by manipulating amplitude and angle of the audio signal.
+	+ Be cautious when adjusting Aura, as it can add unwanted tones if used excessively.
+
+Caveats:
+Be careful with Warmth Control to avoid overprocessing digital audio. Overusing Warmth or Aura can lead to unwanted distortion.
+
+Best Use Cases:
+HardVacuum is ideal for adding warmth and character to vocals or instruments where a subtle saturation effect is desired. It's also useful for creating unique tone enhancements in mastering situations.
+
+Tips on Optimal Settings:
+Start with low Warmth control settings and gradually increase for a more pronounced effect. Use Aura sparingly, as it can add a lot of character to the sound quickly. Experiment with different levels to find the optimal amount of sparkle and overtones.

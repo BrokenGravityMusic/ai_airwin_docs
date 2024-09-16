@@ -1,0 +1,33 @@
+EveryConsole
+
+A mix-and-match plugin combining various Console algorithms, Channel functions, and Buss functions, allowing users to select different versions and applications.
+
+Key Controls and Settings:
+
+* `Version:` Select from various Console versions (Original, Console6, Console7, sin()/asin() routine, BShifty near-sin() approximation, Console Zero) and modes (channel or buss)
+	+ Algorithm selection:
+		- Original Console algorithm
+		- Console6
+		- Console7
+		- sin()/asin() routine (Console8/PurestConsoles 1-2)
+		- BShifty near-sin() approximation (PurestConsole3)
+		- Console Zero
+* `Function application:`
+	+ Channel functions
+	+ Buss functions
+* `Oversampling:` Enable oversampling for further processing
+* `Instance Count:` Adjust the number of EveryConsole instances for complex mixing scenarios
+
+Caveats:
+None specific to EveryConsole, but may interact with other Airwindows plugins in unexpected ways.
+
+Best Use Cases:
+
+* Mixing and mastering music where a custom console sound is desired
+* Experimenting with different Console versions and modes to achieve unique sounds
+* Using oversampling capabilities for additional processing
+
+Tips on Optimal Settings:
+* Start with a single instance of EveryConsole and adjust settings based on the desired console sound.
+* Use multiple instances to create complex mixes and experiment with different Console versions and modes.
+* Consider using UltrasonX or HypersonX for distributed ultrasonic filtering.

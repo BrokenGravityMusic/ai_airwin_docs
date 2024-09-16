@@ -1,0 +1,26 @@
+Desk4
+
+Analog coloration plugin with distinctive tone shaping capabilities.
+
+Key Controls and Settings:
+
+* `Drive Control:` A boost control for adding saturation and dirt to the sound.
+	+ Adjusts level of drive.
+* `Treble Choke:` Brightness conditioner control.
+	+ Use subtly to avoid generating artifacts (DC) at extreme settings.
+* `Power Sag Control:` Power supply overload simulation control.
+	+ Crank up for tube power supply sag behaviors.
+* `Frequency Control:` Control for moving the area of interest down, affecting power supply sag behaviors.
+	+ Adjusting this control moves the effect to higher frequencies.
+
+Caveats:
+Be cautious when using the Treble Choke or Power Sag controls to avoid generating artifacts (DC). Use subtle adjustments on these controls and be careful with extreme settings.
+
+Best Use Cases:
+
+* Adding depth and richness to instruments
+* Enhancing the tone of vocal tracks
+* Creating unique textures and atmospheres
+
+Tips on Optimal Settings:
+Use Drive control sparingly to maintain natural-sounding distortion. Apply Treble Choke in small increments to add brightness without introducing artifacts. Experiment with Power Sag and Frequency controls to create unique power supply sag behaviors.

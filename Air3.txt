@@ -1,0 +1,23 @@
+Air3
+
+Creates a new form of air-band EQ based on Kalman filtering.
+
+Key Controls and Settings:
+
+* Gain: Adjusts the overall level of the processed audio.
+* Gnd (Ground): Lowers the overall frequency response, removing high-end detail and glare.
+* Air: Boosts or cuts the air band frequencies, depending on its position relative to the Gnd control.
+	+ Unpredictable behavior can occur when boosting the Air control heavily and cutting the Gnd control.
+* Kalman Filter Control (hidden within Air): Adjusts the amount of filtering applied to the air band.
+
+Caveats:
+Unpredictable results when boosting the Air control heavily while cutting the Gnd control.
+May not function as a traditional EQ due to its unconventional algorithm.
+
+Best Use Cases:
+Reduction of tizz, glare, and detail in high-frequency sounds.
+Enhancement of audio clarity by emphasizing the air band frequencies.
+
+Tips on Optimal Settings:
+Use the controls subtly for the best results.
+Experiment with different settings to find the optimal balance between air-band EQ and ground control.

@@ -1,0 +1,27 @@
+FromTape
+
+A minimalist analog tape emulation that provides transparent treble softening without distortion.
+
+Key Controls and Settings:
+
+* `Weight (Highpass):` A filter with adjustable cutoff frequency to control bass level.
+	+ Range: 
+	+ Effect: Cuts bass in a way that can increase the overall output level by up to 3dB.
+* `Softer:` A saturation control to soften digital edges.
+	+ Range: 
+	+ Effect: Softens peaks without introducing distortion, except when cranked to its maximum setting.
+* `Output Level Control:` Allows for buffering and adjusting the output level after processing.
+
+Caveats:
+Clipping to a set level is only possible with the Softer control at its maximum setting.
+Using FromTape can result in increased output levels due to the highpass filter's effect on bass frequencies.
+
+Best Use Cases:
+Channel and bus processing: Suitable for use on individual tracks or groups where ToTape would be too heavy.
+Mastering: Can be used to soften digital edge while retaining clarity.
+Mixing: Can help take an overlimited mix and make the bass rounder and more open, giving a little crest factor back.
+
+Tips on Optimal Settings:
+Experiment with different Weight settings to find the optimal highpass cutoff frequency for your specific signal.
+Adjust Softer to taste, taking care not to overdo it as this can result in an undesirable sound.
+Use the output level control to buffer the signal and prevent bass cut levels from increasing by too much.

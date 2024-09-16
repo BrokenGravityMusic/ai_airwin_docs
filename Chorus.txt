@@ -1,0 +1,16 @@
+Energy
+
+A super-aggressive treble boost that accentuates attack transients and adds punchy brightness to audio signals.
+
+Key Controls and Settings:
+
+* `Treble Boosts`: Integer multiples of the sample rate (e.g., 22K, 15K, 11K) with a fixed Q and no tunability.
+* `InvDryWet Control`: A parameter that allows for inverted effects to be applied to the dry signal.
+
+Caveats:
+The plugin's behavior interacts with the sample rate in unpredictable ways, producing overtones and skronk at lower settings. Not designed for EQ cuts or gentle boosts; intended for slamming treble on audio signals.
+
+Best Use Cases: Adding punchy brightness and aggression to audio signals, accentuating attack transients, and creating a "brutal, raw electrifying" sound.
+
+Tips on Optimal Settings:
+Experiment with different Treble Boost settings to find the desired level of brightness. Adjust the InvDryWet Control to isolate high-frequency content and invert it for taming nasty highs.

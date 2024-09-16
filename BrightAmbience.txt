@@ -1,0 +1,24 @@
+BrightAmbience
+
+A plugin for creating very bright gated reverbs with a distinct sound that differs from convolution reverbs.
+
+Key Controls and Settings:
+
+* `Dry/Wet`: Blend control for mixing original and reverb sound.
+	+ Range: 0% to 100%
+* `Decay`: Control the amount of time it takes for the reverb to fade away.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Sustain`: Set the level of the sustain portion of the reverb, tied to maximum sample delay. Higher sample rates give shorter sustains and denser shininess.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* `Delay Taps:` A pile of delay taps spaced by prime numbers (not ideal for creating a convincing room sound).
+
+Caveats:
+CPU hungry due to naive method of generating delay taps. Wet signal tends to run hot, use sparingly.
+
+Best Use Cases:
+Apply to signals that benefit from a bright, shiny halo effect, such as drums, cymbals, or percussion sounds.
+
+Tips on Optimal Settings:
+Adjust dry/wet balance to taste. Experiment with decay and sustain settings to find the right balance between sound quality and CPU efficiency. Higher sample rates may yield better results due to shorter sustains and denser shininess.

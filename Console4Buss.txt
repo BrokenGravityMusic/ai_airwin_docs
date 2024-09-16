@@ -1,0 +1,43 @@
+Console4Buss
+
+A complete, in-the-box mixing console simulator that allows for precise control over audio processing and mixing.
+
+Key Controls and Settings:
+
+* Input Level: Adjusts the level of individual inputs.
+	+ Range: 
+	+ Type: 
+* Gain: Boosts or cuts overall gain for each channel.
+	+ Range: 
+	+ Type: 
+* Pan: Pans signals left or right to create spatial effects.
+	+ Range: 
+	+ Type: 
+* Highpass Filter (HPF): Attenuates low frequencies to reduce rumble and hum.
+	+ Range: 
+	+ Type: 
+* Peak Limiter: Prevents sudden spikes in volume that can damage equipment.
+	+ Range: 
+	+ Type: 
+* Master Bus: Adjusts the overall output level of the mixing console.
+	+ Range: 0% to 100%
+	+ Type: Level control
+* EQ Sections (Bass, Low Mid, High Mid, Treble): Adjust the tone of specific frequency ranges.
+	+ Range: 
+	+ Type: Parametric equalizer
+* Dynamics Processor: Control the gain and compression ratio to even out the signal's dynamic range.
+	+ Range: 
+	+ Type: Compressor
+
+Caveats:
+Console4Buss is designed for use as a mixing console simulator. It's not intended for real-time audio processing or live sound applications.
+
+Best Use Cases:
+Use Console4Buss to simulate and compare different mixing consoles, console chains, or effects setups in your DAW. Ideal for producers, engineers, and musicians who want to experiment with various mixing techniques without affecting the original audio material.
+
+Tips on Optimal Settings:
+To get the best results from Console4Buss:
+* Adjust Input Levels and Gain carefully to avoid overloading.
+* Use the Highpass Filter to reduce rumble and hum in individual channels or the Master Bus.
+* Experiment with different Pan positions to create interesting spatial effects.
+* Use the Peak Limiter judiciously to maintain a safe output level.

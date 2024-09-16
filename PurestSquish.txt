@@ -1,0 +1,24 @@
+PurestSquish
+
+Open-sounding compressor with unique sound, providing compression with bass bloom capabilities
+
+Key Controls and Settings:
+
+* Compressor controls: adjust to shape dynamics
+	+ Range: varies depending on compressor settings
+	+ Type: simultaneous two-and-three-sample-interleaved compressors
+* Bass Bloom control: passes subsonics or bass notes through uncompressed
+	+ Range: 0% to 100%
+	+ Type: variable, dependent on desired low-frequency content
+
+Caveats:
+
+May behave unexpectedly when used in certain scenarios, such as sine sweeps. Can produce unusual behavior when used with other compressors or signal generators.
+
+Best Use Cases:
+
+Ideal for applications where a unique compressor sound is desired, and for producing transparent dynamics control. Can also be used to create interesting effects by exploiting its quirks.
+
+Tips on Optimal Settings:
+
+Experiment with different compressor settings to achieve the desired sound. Be cautious when using the Bass Bloom control, as it may pass low-frequency content uncompressed. Adjust the compressor algorithm as a starting point for dynamic control, and use the bass bloom control to tighten low-end response or pass desired subsonics through uncompressed.

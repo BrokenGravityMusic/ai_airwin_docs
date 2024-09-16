@@ -1,0 +1,24 @@
+Baxandall
+A general-purpose EQ with a two-band filter that allows for subtle, gentle boosts or cuts in both low and high frequencies, centered on the midrange.
+
+Key Controls and Settings:
+
+* `Lowpass`: A two-pole lowpass filter that can be boosted or cut.
+	+ Boosting: Gentle broad boost with increasing intensity.
+	+ Cutting: Natural sound with no "filtery" tone.
+* `Highpass`: A two-pole highpass filter that can be boosted or cut.
+	+ Boosting: Gentle broad boost with increasing intensity.
+	+ Cutting: Natural sound with no "filtery" tone.
+* `Midrange Control`: Allows for selective boosting or cutting of the midrange.
+
+Interleaved Biquad Filters:
+Adds depth to the filter sound using a Console5 instance (Tip: use this feature in conjunction with the Lowpass and Highpass filters).
+
+Caveats:
+High-intensity boosting can create an inverse lowpass effect, resulting in a mids notch. Double boosts or extreme cuts may require additional adjustments to achieve desired results.
+
+Best Use Cases:
+Ideal for general-purpose EQing, subtle frequency adjustments, and creating extreme EQ treatments without sounding "filtery". Suitable for mixing and mastering, adding depth and clarity with gentle broad boosts.
+
+Tips on Optimal Settings:
+Start with subtle adjustments and gradually boost or cut as needed. Experiment with different Lowpass and Highpass settings to create balanced tone-shaping. Use the Midrange Control to notch and accentuate specific frequencies when boosting.

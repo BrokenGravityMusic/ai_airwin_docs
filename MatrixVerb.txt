@@ -1,0 +1,27 @@
+MatrixVerb
+
+A wildly adjustable, strangely colorful reverb plugin with deep and flexible spaces.
+
+Key Controls and Settings:
+
+* Damping: Adjusts from almost infinite reverb to very damped (0-100)
+	+ Type: Decay control
+* Overall Tone Control: Handles brightness or darkness of the verb (-10 to 10 dB)
+	+ Range: -10 to 10 dB, Type: Tone control
+* Flavor Control: Leans towards plate, spring, or neutral tone (0.0 to 1.0)
+	+ Range: 0.0 to 1.0, Type: Tonality control
+* Room Size: Controls the size of the simulated space (small to enormous)
+	+ Range: Not specified, Type: Space size control
+* Dry/Wet Mix: Balances the amount of processed and unprocessed sound
+	+ Range: 0% to 100%, Type: Blend control
+
+Caveats:
+Be cautious when experimenting with settings, as bad adjustments can result in undesirable outcomes. However, knowing how to tune the plugin can yield magical results.
+
+Best Use Cases:
+Ideal for simulating large, cavernous spaces or plate-like reverberations in music production.
+
+Tips on Optimal Settings:
+Start by adjusting the damping and tone controls to achieve a balanced sound.
+Experiment with different flavor settings to find a suitable balance between plate and spring tones.
+Use the room size control to create expansive, immersive environments. Be mindful of the dry/wet mix when blending the reverb with the original signal.

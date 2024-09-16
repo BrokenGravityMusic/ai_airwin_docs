@@ -1,0 +1,31 @@
+SampleUndelay
+
+insert one-line description
+
+Key Controls and Settings:
+
+* Millisecond Delay: Up to 100 ms of delay time
+	+ Range: 0-100 ms control
+	+ Type: Time in milliseconds
+* Sample Delay: 0-10 samples of delay
+	+ Range: 0-10 samples control
+	+ Type: Number of samples of delay
+* Subsample Trim: Zero to one sample of delay trim
+	+ Range: 0-1 sample control
+	+ Type: Subsample timing trim
+* Inverse/Dry/Wet Control: Mixes dry signal with inverted or delayed signal
+	+ Range: 
+	+ Type: Blend control
+
+Caveats:
+AU-only plugin, may not work reliably with different programs.
+Latency declaration can cause added latency and calibration issues.
+
+Best Use Cases:
+
+* Mixing and fine-tuning delays for specific instruments or sounds.
+* Creating complex delay effects by combining millisecond, sample, and subsample delays.
+* Experimenting with negative delay for unique sound design possibilities.
+
+Tips on Optimal Settings:
+Use the regular SampleDelay plugin if you need to track into a mixing system.

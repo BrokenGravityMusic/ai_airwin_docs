@@ -1,0 +1,26 @@
+Swell
+
+A plug-in that simulates an attack-releasable gate with adjustable threshold and decay speed, allowing control over the attack strength of individual tracks.
+
+Key Controls and Settings:
+
+* Threshold: Adjusts the level above which the gate opens.
+* Swell: Controls the attack speed once the gate opens.
+* Dry/Wet: Balances the mix between the original sound and the processed sound.
+* Attack/Release settings: Not applicable; instead uses threshold and swell to control gate behavior.
+
+Caveats:
+None specified in the provided text.
+
+Best Use Cases:
+
+Ideal for manipulating attack strengths of individual tracks, particularly in dance music channels strips. Can be used to turn elements into pads or vice versa.
+
+Tips on Optimal Settings:
+
+* Adjusting the threshold setting can help determine the optimal balance between gate opening and closing.
+* Experiment with different swell settings to control the attack speed once the gate opens.
+* Use dry/wet controls to balance the mix between original sound and processed sound.
+* Consider using Swell in conjunction with other effects or processing techniques to achieve desired results.
+
+Additionally, extreme values for threshold or swell can create a "squishy" sound. Adjusting either of these controls can make the element jump back out again. Experimenting with different threshold settings can help control the attack of individual tracks, and adjusting the Swell control allows for precise control over how quickly compressed audio recovers after being 'squished'.

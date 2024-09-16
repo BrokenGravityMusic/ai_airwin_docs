@@ -1,0 +1,37 @@
+CStrip
+
+A three-band EQ with highpass and lowpass filters, gate, time delay, and compressor, utilizing the ButterComp algorithm.
+
+Key Controls and Settings:
+
+* `3-Band EQ`: 
+	+ Top band: Boosting extreme highs adds aggressiveness
+	+ Mid band: Standard EQ response
+	+ Low band: Boosting lows enhances low-end presence
+	+ Crossover frequencies: Adjustable to blend bands together
+* Highpass and lowpass filters:
+	+ Frequency: Cuts or boosts frequencies below/above this value
+	+ Mode (Extreme): Switches to a special algorithm that 'traps in' already bandlimited sounds
+* Gate:
+	+ Threshold: Sets the level above which the gate is active
+	+ Attack: Adjusts how quickly the gate responds to changes in volume
+	+ Release: Pulls the audio back into the sound picture after it has been gated
+* Time delay control: Micro-delay gives the track a micro-delay relative to other tracks for groove purposes
+* Compressor (ButterComp):
+	+ Ratio: Sets the amount of compression applied to the signal
+	+ Threshold: Sets the level above which compression is applied
+	+ Attack and Release: Adjusts how quickly the compressor responds to changes in volume
+
+Caveats:
+Cranking the speed control on the compressor under heavy compression can produce artifacts. Keep the speed low for normal behavior.
+
+Best Use Cases:
+Use CStrip as a channel strip plugin with an EQ, gate, time delay, and compressor. It's ideal for tracking and mixing.
+
+Tips on Optimal Settings:
+For best results:
+* Adjust the 3-Band EQ to taste
+* Set the highpass and lowpass frequencies according to your audio material
+* Use the gate to control dynamics and maintain a clean sound
+* Experiment with the time delay to create interesting spatial effects
+* Use the compressor to add punch or even out dynamics

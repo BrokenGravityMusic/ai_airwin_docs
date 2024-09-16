@@ -1,0 +1,33 @@
+Biquad2
+
+An adjustable biquad filter with a wide range of tonal possibilities, offering a sweepable and synthy sound.
+
+Key Controls and Settings:
+
+* Q (Resonance): Adjusts the filter's resonance, affecting its sweepability and frequency response. Range: 1 to 1000.
+	+ Type: Resonance control
+* Frequency: Sets the center frequency of the filter.
+	+ Range: Not specified
+	+ Type: Frequency selection
+* Slope: Selects the filter type (lowpass, highpass, or bandpass).
+	+ Range: Not specified
+	+ Type: Filter type selection
+* Cutoff Smoothing: Controls how much the filter cutoff is smoothed at low Q and low frequencies.
+	+ Range: Not specified
+	+ Type: Smoothing control
+
+Caveats:
+
+* The filter's behavior may become unstable when adjusting coefficients too frequently, leading to zipper noise or glitchy responses.
+* Filter reacts slowly due to stability limitations.
+
+Best Use Cases:
+
+* Creating sweepable and synthy sounds in electronic music production.
+* Using as a high-pass or low-pass filter for noise reduction and tone shaping.
+
+Tips on Optimal Settings:
+
+* To avoid instability issues, use the lowest Q setting possible (Q=1) when sweeping frequencies.
+* For a more natural sound, set Q to 10-20 and adjust frequency accordingly.
+* Use resonance with caution, as it applies a distortion effect that works differently on low and highpass modes.

@@ -1,0 +1,43 @@
+Slew
+
+Morphs and transforms percussive sounds or hats.
+
+Key Controls and Settings:
+
+* `Drive`: Adjusts the amount of slew clipping.
+	+ Values: 0-100%
+* `Threshold`: Sets the level above which slew clipping occurs.
+	+ Values: -∞ to +∞ dB
+* Attack/Release controls the attack and release characteristics of the slew clipper.
+	+ Values: Adjustable knobs
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* Transforming percussive sounds or hats
+* Adding a unique "grind" to instruments
+* Gluing sounds together for a retro, old-school-sampler sound
+
+Tips on Optimal Settings:
+Use the Drive control to adjust the amount of slew clipping.
+Experiment with different Threshold settings to achieve the desired effect.
+
+Tone coloring plugin that gives an analog feel by combining saturation, slew clipper, and highpass.
+
+Key Controls and Settings:
+
+* `Drive:` Adjusts the level of tone coloration. Recommended to keep at 50% or under for clean sound.
+* `Saturation:` Affects the amount of distortion added to the signal.
+* `Slew Clipper:` Darkens treble in an unusual way, useful for morphing and transforming percussive sounds.
+* `Highpass:` Cuts low frequencies to approximate a recording console's tone coloration.
+
+Caveats:
+The plugin's limitations are designed to be subtle and only noticeable when the signal is heavily overloaded.
+
+Best Use Cases:
+Ideal for adding analog feel to individual tracks or buses, especially when used sparingly.
+
+Tips on Optimal Settings:
+Use at 50% drive or under for clean tone coloration. Experiment with different settings to find the desired balance of saturation and slew clipping.

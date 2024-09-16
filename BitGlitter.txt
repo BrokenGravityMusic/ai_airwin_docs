@@ -1,0 +1,25 @@
+BitGlitter
+
+A digital lo-fi plugin emulating old-sampler style tonalities, designed to add punch and texture to beats.
+
+Key Controls and Settings:
+
+* Gain Trim: Adjusts the gain going into a stage of Spiral analog-style saturation.
+	+ Overdrive threshold can be exceeded for effective overdriving.
+* Bitcrushing: A hint of bitcrushing that splits into two separate frequency crushers, each set slightly different.
+	+ Output gain and dry/wet controls allow for adjusting the blend and clarity.
+* Frequency Crusher 1 & 2: Two separate frequency crushers with distinct settings.
+	+ Adds a slight averaging blur to the blend to emulate analog circuitry.
+* Dry/Wet: Controls the balance between the processed sound and the original signal.
+
+Caveats:
+The plugin's design prioritizes texture and impact over accuracy, so expect a coarser, more opaque sound. Softened highs can be seen in metering plugins like Voxengo SPAN.
+
+Best Use Cases:
+
+Adding midrange punch and texture to audio signals.
+Creating a "retro hip-hop" style of sound with excessive midrange presence.
+Enhancing the grunge or lo-fi feel of audio tracks.
+
+Tips on Optimal Settings:
+For best results, experiment with different settings of the Gain Trim, Bitcrushing, and Frequency Crusher stages. Adjusting these controls can help you find the perfect balance between punch and clarity in your sound.

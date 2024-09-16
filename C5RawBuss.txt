@@ -1,0 +1,21 @@
+Console 5 Algorithm
+
+no description needed
+
+Key Controls and Settings:
+
+* DC Suppression: A toggle switch to enable or disable gentle DC suppression (optional)
+	+ Range: Off/On
+	+ Type: Toggle
+* Threshold: Adjusts the level at which DC correction is applied (dB)
+	+ Range: -20 dB to [insert text]
+	+ Type: Slider
+
+Caveats:
+Gain Structure: Should be placed after gain staging and EQ, as it is not intended to correct low-frequency imbalances caused by these processes.
+
+Best Use Cases:
+Use in situations where a transparent, console-style compression is desired. Ideal for mixing and mastering applications where gentle dynamics control is needed.
+
+Tips on Optimal Settings:
+Adjust DC suppression to taste (if enabled) to prevent unwanted tone coloration. Experiment with different threshold settings to achieve the desired compression ratio.

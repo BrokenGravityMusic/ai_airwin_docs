@@ -1,0 +1,21 @@
+Tube
+
+A tube style SoundBetterIzer using a new algorithm for analog modeling, designed to make audio "HUGE" with a simple distortion algorithm.
+
+Key Controls and Settings:
+* `Crank`: Adjusts the level of distortion.
+	+ Range: 0 to 1
+	+ Effect: Soft-clip at 0, extreme distortion at 1
+* `Linearity`: Adjusts the linearity of the distortion, with lower values resulting in more complex and linear behavior.
+	+ Range: -100 to 100
+	+ Effect: Changes the type of distortion from soft-clip with a clean center region (0) to inputSample – inputSample*fabs(inputSample), scaled and gain-adjusted
+* `Pre-boost`: A carefully calculated pre-boost that sets the RMS loudness of a triangle wave to match the RMS loudness of a sine wave at full crank.
+
+Caveats:
+The plugin is designed for heavy-handed use, but may not be suitable for subtle or nuanced applications. It's also not ideal for handling problem aliasing cases, but effective for creating tubey midrange lushness.
+
+Best Use Cases:
+Adding warmth and character to audio tracks, mixes, or mastering sessions. Creating a distinctive sound that's characteristic of the Airwindows house sound.
+
+Tips on Optimal Settings:
+Start with a moderate level of distortion (around 50-60% crank) and adjust from there based on your desired tone. Experiment with different linearity settings to find the right balance between warmth and clarity. Use the pre-boost feature judiciously, as it can add significant energy to your audio.

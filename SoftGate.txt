@@ -1,0 +1,25 @@
+SoftGate
+
+A gate plugin that mutes hiss and smooths sample tails, allowing for a gradual fade into silence.
+
+Key Controls and Settings:
+
+* `Fade Time`: Adjust the speed at which the noise floor is faded into darkness.
+	+ Range: 0-10 seconds
+	+ Type: Time control
+* `Gate Level`: Sets the threshold level for the gate (from -50 to 0 dB).
+	+ Range: -50 dB to 0 dB
+	+ Type: Gain control
+* `Link Mode`: Stereo-linked mode, allowing separate left and right channel processing.
+	+ Type: Mode selector
+
+Caveats:
+SoftGateMono is a mono version of the plugin, suitable for non-stereo tracks. However, using it on stereo tracks will gate each channel separately.
+
+Best Use Cases:
+Ideal for sample makers to clean up noise floors and sustain samples for longer periods.
+
+Tips on Optimal Settings:
+Set Fade Time to 1-3 seconds for a quick fade.
+Adjust Gate Level to taste, using a lower value for noisier recordings.
+Balance the processed signal with the raw signal using the bottom fader for optimal results.

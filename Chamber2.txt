@@ -1,0 +1,23 @@
+Chamber2
+
+Feedforward reverb with blur delay and glitch topping capabilities.
+
+Key Controls and Settings:
+
+* `Thick`: Controls the blurriness of the echo, ranging from direct echo to chamber reverb.
+	+ Range: 0 = full-length echoes, > 0 = blur delay
+	+ Type: Control for blurriness of echo
+* `Size`: Sets the delay rate for the glitch buffer effect.
+	+ Type: Delay time control
+* `Regeneration`: Amount of regeneration in the reverb network.
+	+ Range: 
+	+ Type: Control
+
+Caveats:
+Using 'thick' at 0 results in CPU and memory-intensive full-length echoes. Setting 'thick' slightly off 0 creates a blur echo that can be further blurred by regeneration.
+
+Best Use Cases:
+Creating hybrid verb/echo sounds, adding glitchy, bold effects to audio signals, experimenting with LFOs and sample-and-hold on the 'thick' control for noise generation.
+
+Tips on Optimal Settings:
+Sweep the 'thick' control higher while regenerating to blur the echo into a chamber reverb. Use the regeneration to further blur the echo or create a full-on glitch buffer effect.

@@ -1,0 +1,24 @@
+EveryTrim
+
+A basic stereo trim plugin with Left/Right, Mid/Side, and Master level controls.
+
+Key Controls and Settings:
+
+* `Left`: Adjust the left channel level.
+* `Right`: Adjust the right channel level.
+* `Mid`: Adjust the mid channel level.
+* `Side`: Adjust the side channel level.
+* `Master`: Adjust the overall master level. Use the same noise shaping to the floating point buss as in PurestGain.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+None noted.
+
+Best Use Cases:
+
+Ideal for basic stereo trim and gain staging on stereo tracks. Can also be used to tweak mid and side levels directly.
+
+Tips on Optimal Settings:
+
+Use EveryTrim for simple level adjustments, and consider using EdIsDim and MidSide for more complex processing between plugins.

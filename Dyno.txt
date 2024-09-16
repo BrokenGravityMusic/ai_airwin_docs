@@ -1,0 +1,25 @@
+Dyno
+
+A saturation plugin that adds intensity and fire to audio, reshaping waveforms without loudening or boosting volume.
+
+Key Controls and Settings:
+
+* Adjusts the character of the effect
+* Mastered Clip Level: Adjusts the maximum allowed peak level for the audio signal
+	+ Range: not specified (e.g. dB)
+	+ Type: control
+* Intersample Peak Maximum: Sets the maximum allowable intersample peak level
+	+ Range: not specified (e.g. dB)
+	+ Type: control
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+Ideal for adding subtle intensity and fire to audio.
+Suitable for those who enjoy the effects of Remap.
+
+Tips on Optimal Settings:
+Adjust settings to achieve desired level of intensity and fire.
+Note: Dyno has a different character than Mojo, so settings may need to be adjusted accordingly.
+To achieve a "Mastered For iTunes friendly" sound, set Mastered Clip Level to around -1.4dB and Intersample Peak Maximum to about -0.4.

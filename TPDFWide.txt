@@ -1,0 +1,22 @@
+TPDFWide
+
+A high-quality Triangular Probability Density Function (TPDF) dither plugin with 16/24-bit output that reduces quantization distortion and allows for deeper noise floor exploration. Designed to sound better and wider than generic TPDF dithers.
+
+Key Controls and Settings:
+
+* `DeRez`: Control to adjust the bit depth of the dither, ranging from low-bit realms (with a 'regulation' TPDF dither) to normal operation (24 or 16 bit modes)
+	+ Range: Low-bit realms to 24/16 bit
+	+ Type: Adjustment control
+* `Bit Depth`: Output bit depth selection, with options for 16/24-bit
+	+ Range: 16/24-bit
+	+ Type: Selection menu
+* Channel Check: The plugin checks if the two stereo channels have the same random values. If they are, it rerolls one channel to maintain randomness and prevent mono dither.
+
+Caveats:
+Using low DeRez values can introduce DC offset; high DeRez values may affect soundstage and wideness.
+
+Best Use Cases:
+Suitable for use as a 24-bit dither for monitoring and file-making. Ideal for export to 16-bit formats when using DeRez set to 0 (normal operation).
+
+Tips on Optimal Settings:
+Set DeRez control to 0 for normal operation in 24 or 16 bit modes. Use DeRez control to adjust the bit depth of the dither for low-bit realms and optimal noise floor representation.

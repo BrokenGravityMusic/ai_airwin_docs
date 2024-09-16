@@ -1,0 +1,30 @@
+Pear2
+
+A highpass/lowpass shelf filter with nonlinearity, based on Holt algorithm and bit-shifting frequency control.
+
+Key Controls and Settings:
+
+* `Cutoff`: Smoothed control for sweeping the cutoff points.
+	+ Range: [insert text]
+	+ Type: Smoothed control
+* `Poles`: Control for adding poles to the filter. A switch is available to disable Poles sweep.
+	+ Range: 1-8 poles
+	+ Type: Switchable poles count
+* `Nonlin`: Nonlinearity control that adds analog coloration and emphasizes transients.
+	+ Range: Minimal to extreme distortion
+	+ Type: Control for adding nonlinearity
+
+Caveats:
+None mentioned.
+
+Best Use Cases:
+
+* As a vibey analog-style EQ (high or low shelf).
+* As a crossover filter.
+
+Tips on Optimal Settings:
+
+* Experiment with different settings of Poles to achieve desired tone.
+* Adjust the Nonlin control to add or reduce analog coloration and transient emphasis.
+* Start with moderate Nonlin setting (around 50%) and adjust to taste.
+* Use Cutoff control to sweep frequency response, but be mindful of nonlinearity effects.

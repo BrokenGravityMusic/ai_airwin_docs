@@ -1,0 +1,18 @@
+RightoMono
+
+Copies one channel to both channels losslessly.
+
+Key Controls and Settings:
+
+* None
+
+Caveats:
+Does not modify or alter the input signal in any way
+Ideal for situations where a stereo input is available but only one side contains useful audio
+
+Best Use Cases:
+Working with camera or camcorder audio where the unused channel contains noise or interference
+Converting a stereo input to mono without affecting the quality of the desired signal
+
+Tips on Optimal Settings:
+No settings are required; simply instantiate and use the plugin

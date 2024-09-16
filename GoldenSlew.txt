@@ -1,0 +1,32 @@
+GoldenSlew
+
+A multistage slew clipper based on the Golden Ratio that darkens treble in an unusual way.
+
+Key Controls and Settings:
+
+* `Slew`: Adjusts the amount of slew clipping applied by each stage.
+	+ Range: 0.0 - 1.0 (default: unknown)
+	+ Type: controls the amount of slew clipping
+* `Threshold`: The level above which slew clipping is applied.
+	+ Range: Unknown
+	+ Type: sets the threshold for slew clipping to kick in
+* `Chain Count`: The number of stages in the slew clipper chain.
+	+ Range: 1 - unknown (default: unknown)
+	+ Type: adjusts the number of stages used for slew clipping
+
+Caveats:
+
+* Cranking the Slew control to 1.0 can result in sample and hold, which may cause DC coupled speakers to produce distorted sound or is undesirable on audio signals.
+* Using high Slew settings (> 0.5) can lead to unwanted effects like sample and hold.
+
+Best Use Cases:
+
+* Drum processing
+* Final mix mastering
+* Emulating analog consoles
+
+Tips on Optimal Settings:
+
+* Keep the Slew setting fairly low (less than 0.5) for controlling digital-ness without apparent volume reduction.
+* For analog emulation, keep Slew settings fairly low (< 0.5).
+* Adjust the Slew control to taste for individual tracks or mixes.

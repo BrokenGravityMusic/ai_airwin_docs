@@ -1,0 +1,18 @@
+Slew3
+
+A plugin for analog-like darkening effect using slew clipping that reconstructs waveforms beyond sample information.
+
+Key Controls and Settings:
+* `Filter Control`: Shapes a better EQ on esses to work with Slew3.
+* `Brightness Adjustment`: Brightens the signal before applying Slew3, allowing it to effectively reduce high-frequency peaks.
+* `Slew Threshold`: Adjusts the limit of how much Slew3 will darken the signal.
+
+Caveats:
+Experimental plugin. May not be linear or predictable. Can be sensitive to certain types of audio.
+
+Best Use Cases:
+Ideal for producing an analog top-end on digital content, particularly effective where intersample peaks occur and high-frequency peaks are a concern.
+
+Tips on Optimal Settings:
+Brighten the signal before applying Slew3 to allow it to effectively reduce high-frequency peaks.
+Use the filter control to shape a better EQ on esses to work with Slew3.

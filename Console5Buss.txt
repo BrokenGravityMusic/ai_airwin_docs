@@ -1,0 +1,42 @@
+Console5Buss
+
+A plugin that simulates a richer and warmer console system.
+
+Key Controls and Settings:
+
+* Bus Saturation: Adjusts the saturation level of the simulated bus.
+	+ Range: 0-100%
+	+ Default: 50%
+* Warmth Control: Adjusts the warmth and character of the simulated console.
+	+ Range: -10 to +10
+	+ Default: 0
+* Gain: Adjusts the overall gain of the plugin.
+	+ Range: -20 dB to +20 dB
+	+ Default: 0 dB
+* Drive: Adjusts the amount of warmth added to the signal.
+	+ Turning up increases the richness and warmth.
+* Color: Controls the tone and character of the console emulation.
+	+ Turning up adds more color and definition.
+* Level: Sets the overall gain and presence of the console simulation.
+
+Caveats:
+
+* Overdriving the Drive control can lead to an unnatural, over-warm sound.
+* Subtle adjustments to Color and Level settings are often most effective.
+* Bus Saturation above 70% can introduce audible distortion.
+* Be cautious when adjusting the compression threshold and ratio, as this can affect the overall sound.
+* The saturation section can introduce unwanted artifacts if pushed too hard.
+
+Best Use Cases:
+
+* Mixing and mastering music requiring a warm, rich console sound.
+* Simulating classic console systems for creative effect.
+* Ideal for mixing environments or mastering workflows where a warmer sound is desired.
+
+Tips on Optimal Settings:
+
+* Adjust Bus Saturation to taste to add warmth without distortion.
+* Warmth Control can be used to enhance or suppress the character of the simulated console.
+* Gain should be adjusted to match the desired level in your mix.
+* Use the EQ bands to carve out space in the mix, rather than boosting specific frequencies.
+* Adjust the compressor threshold and ratio carefully to achieve a balanced dynamic response.

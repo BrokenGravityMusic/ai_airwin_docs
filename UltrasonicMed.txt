@@ -1,0 +1,28 @@
+UltrasonicMed
+
+A two-stage supersonic filter for high sample rate mixes, designed to clean up top-end frequencies in digital mixes.
+
+Key Controls and Settings:
+
+* Number of stages: Choose between one (Lite) or two (Medium) stages of filtering.
+	+ Range: 1-2
+	+ Type: Selectable
+* Filter placement: The filters start at a higher frequency to preserve more high-end content, with the Medium version subtly staggering the placement for a more natural sound.
+	+ Range: Adjustable
+	+ Type: Staggered (Medium)
+* Frequency response: Starts at a higher frequency than Ultrasonic Lite.
+	+ Range: Adjustable
+
+Caveats:
+
+* Using multiple instances may cause rolling off highs, unlike the full version.
+* Not brickwalls; can be used throughout the mix before and after nonlinear plugins to suppress ultrasonic frequencies.
+
+Best Use Cases:
+Use in digital mixes where ultrasonic frequencies need to be suppressed, especially when dealing with aliasing or distortion issues.
+
+Tips on Optimal Settings:
+
+* Apply a cleaner filter by using Ultrasonic Lite in areas where subtle high-end reduction is needed.
+* Use multiple instances of Ultrasonic Lite for gentle, distributed aliasing suppression across the mix.
+* Strategically place instances to control aliasing and unwanted high-frequency content.

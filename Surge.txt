@@ -1,0 +1,32 @@
+Surge
+
+A compressor for accentuating beats and pulses by altering the rate of change of dynamics.
+
+Key Controls and Settings:
+
+* Threshold: Adjusts the level at which compression begins
+	+ Range: [not specified]
+	+ Type: Input level
+* Ratio: Sets the amount of compression applied
+	+ Range: Not specified, but recommended between 5:1 to 10:1
+	+ Type: Compression ratio
+* Attack: Controls the time it takes for the compressor to respond to changes in audio levels
+	+ Range: Not specified, but recommended around 50-100 ms
+	+ Type: Time response
+* Release: Determines how quickly the compressor recovers after a transient has passed
+	+ Range: Not specified, but recommended balanced between preservation of dynamic range and emphasis of rhythmic elements
+	+ Type: Time response
+
+Caveats:
+Can be difficult to control when used aggressively.
+May not provide limiter-like behavior.
+
+Best Use Cases:
+Accentuating beats and pulses in rhythmic mixes.
+Transforming compressed bassy mixes into something punchier.
+Creating funky, bouncy sounds.
+
+Tips on Optimal Settings:
+Adjust Threshold to avoid inverting dynamics.
+Use Ratio between 5:1 to 10:1 for most musical compression.
+Experiment with Attack and Release settings to fine-tune response times.

@@ -1,0 +1,29 @@
+DarkNoise
+
+Generates midrangey or bassier noise directly without filtering.
+
+Key Controls and Settings:
+
+* List size: The number of random values used to generate output
+	+ Range: Experiment with different values to achieve desired tone
+	+ Type: Adjusting this value affects the brightness of the top-end and overall tone
+* Midrange control: A setting that adjusts the midrange character of the noise
+	+ Range: 0-100%
+	+ Type: Lower settings produce a brighter, more trebly sound, while higher settings make it more bassy
+* Gate threshold: The level above which the output is gated (silenced) to prevent DC offset buildup
+	+ Range: Adjusting this value helps control the overall loudness and tone of the output
+
+Caveats:
+Requires a significant amount of RAM to store the list of random values.
+Can be CPU-intensive due to the calculations required.
+
+Best Use Cases:
+
+* Sound design for creating unique, algorithmic noise sources or ambience
+* Game development for generating background ambience or special effects
+* Live performance and remixing for adding unusual textures to tracks
+
+Tips on Optimal Settings:
+Experiment with different list sizes and midrange control settings to achieve the desired tone.
+Adjust the gate threshold to prevent DC offset buildup and maintain a balanced sound.
+Consider using DarkNoise in conjunction with other plugins, such as gates or filters, to further shape its output.

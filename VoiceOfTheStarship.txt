@@ -1,0 +1,20 @@
+VoiceOfTheStarship
+
+A deep noise tone source capable of generating brownian-motion noise without excessive DC offset.
+
+Key Controls and Settings:
+
+* Algorithm (implied by "adjusting Voice Of The Starship"): Generates random noise wander with equally positive and negative amounts being added or subtracted.
+	+ Adjusting this algorithm can change the noise's bassy rumble quality, making it revert to zero more often for a less bassy tone.
+* Dry/Wet: Blend and darken underlying sounds with the generated noise.
+* Distance: Applies to both dry and wet signals, controlling their balance.
+* Randomness control (implied by "VoiceOfTheStarship"): Regulates the frequency content of the noise.
+
+Caveats:
+None specified, using this algorithm directly without additional processing may result in a DC component and no frequencies being generated.
+
+Best Use Cases:
+Ideal for generating deep dark noise, subsonic rumble, or algorithmic background ambience in audio streams. Creating deep noise tones and subsonic rumbles. Adding ambiance and atmosphere to audio streams. Using as a sound reinforcer for input sounds.
+
+Tips on Optimal Settings:
+Adjusting the `Dry/Wet` balance and `Distance` control can help achieve desired noise levels and tonalities. Experimenting with the algorithm and randomness control can produce varying degrees of bassy rumble or dark, subsonic tones. Increasing the frequency at which the output is checked for DC component can result in a less bassy noise.

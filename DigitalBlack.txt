@@ -1,0 +1,18 @@
+DigitalBlack
+
+A staccato gate designed to tighten up direct-recorded tracks by fading into negative density and using hysteresis to prevent 'sputtering'.
+
+Key Controls and Settings:
+
+* `Threshold`: Set the level above which the gate will operate.
+* `Dry/Wet`: Control the amount of processed signal mixed with the original sound.
+* `Fade into Negative Density`: Adjust the rate at which the gate fades into silence, sounding like it's fading backwards.
+
+Caveats:
+None noted
+
+Best Use Cases:
+Ideal for tightening up staccato direct-recorded tracks, such as DI guitars, kick drums, and individual drum mics. Not suitable for linked stereo tracks; use DigitalBlackMono on mono sources in AU.
+
+Tips on Optimal Settings:
+Adjust the threshold and dry/wet controls to balance the amount of processing applied. Experiment with different settings to find the optimal combination for your specific audio material.

@@ -1,0 +1,26 @@
+BitShiftGain
+
+Applies gain or cut by exact increments of 6 dB, using a 'bit shift' method to maintain mathematical precision.
+
+Key Controls and Settings:
+
+* `Number of Bits to Shift`: Selects the number of bits to shift up or down.
+	+ Range: Not specified
+	+ Type: Integer
+* `Direction`: Determines whether to apply a boost (shift up) or pad (shift down).
+	+ Range: Boost/Pad
+	+ Type: Dropdown
+* Mix: A blend control for mixing the processed sound with the original, not applicable.
+	+ Range: Not specified
+	+ Type: Not applicable
+
+Caveats:
+None specified.
+
+Best Use Cases:
+Ideal for precise gain adjustments and bit-accurate processing. Can be used for dithering and gain trimming with minimal degradation.
+
+Tips on Optimal Settings:
+* Apply 6 dB increments for best results.
+* Be aware of the overall range of BitShiftGain, which can be huge.
+* Consider using BitShiftGain in conjunction with other plugins to achieve desired effects.

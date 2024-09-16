@@ -1,0 +1,28 @@
+Ditherbox
+
+A switchable selection of dithers in 16 and 24 bit, plus monitoring tools.
+
+Key Controls and Settings:
+
+* `Dither Selection`: Choose between various Airwindows dither plugins
+	+ Options: NotJustAnotherCD, NoiseShaping, TPDF, etc.
+* `Bit Depth`: Select between 16 and 24 bit output
+* `Monitoring Tools`:
+	+ SlewOnly: calibrated playback for Slew-only content
+	+ SubsOnly: calibrated playback for Subs-only content
+	+ Silhouette: Calibrated noise replacement to evaluate dynamic behavior
+
+Caveats:
+
+Some features may be outdated or superseded by newer versions in other plugins (e.g. Monitoring).
+
+Best Use Cases:
+
+* Evaluating dynamic behavior and compression peaks
+* Assessing the quality of a mix and identifying potential issues
+* Comparing audio content with different dithers and bit depths
+
+Tips on Optimal Settings:
+
+Experiment with different dither selections and bit depths to find the best fit for your mix.
+Use Monitoring tools to ensure consistent levels and dynamics across playback modes.

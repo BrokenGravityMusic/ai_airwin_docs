@@ -1,0 +1,29 @@
+XBandpass
+
+A band pass filter with a distorted tone inspired by retro sampler DSP, simulating a unique, filtered sound.
+
+Key Controls and Settings:
+
+* `Frequency`: Adjusts the center frequency of the bandpass filter.
+	+ Range: 10 Hz to 20 kHz
+	+ Step size: Adjustable
+* `Q Factor`: Adjusts the bandwidth of the band pass.
+	+ Range: 0.1 to 10
+	+ Step size: Adjustable
+* `Distortion Amount`: Controls the amount of distortion applied to the filter output.
+	+ Range: 0% to 100%
+	+ Step size: Adjustable
+
+Caveats:
+
+* May produce zipper noise when adjusting settings on the fly due to its CPU-efficient design.
+
+Best Use Cases:
+
+* Adding a unique, distorted tone to specific frequency ranges in audio signals.
+* Emulating retro sampler DSP characteristics in audio processing.
+
+Tips on Optimal Settings:
+
+* Adjust Frequency and Q Factor to target specific frequency ranges for optimal band pass filtering.
+* Balance Distortion Amount to achieve the desired level of distortion in the filter output.

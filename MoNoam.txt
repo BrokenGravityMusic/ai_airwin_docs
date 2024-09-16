@@ -1,0 +1,24 @@
+MoNoam
+
+Switch around mid/side type things for convenience, providing variations on mono, mid, and side in different channels.
+
+Key Controls and Settings:
+* `Mono/Mid/Side Split`: Choose from various split options:
+	+ Mono: Single-channel mono.
+	+ Mid: Center channel only.
+	+ Side: Difference between the two channels.
+	+ Mon-ized Side: Fuller-sounding side, phase-aligned with the mid channel.
+* Channel Selection: Select which channel to output the selected option:
+	+ Left Channel
+	+ Right Channel
+* Mono/Mid/Side Split (Direct): Outputs the mid or side component of a stereo signal directly.
+* Mono-ized Side: Creates a fuller-sounding version of the side component by removing phase differences between channels.
+
+Caveats:
+Recombining different outputs from this plugin can result in unusual or undesirable effects.
+
+Best Use Cases:
+Use in situations where recombining mid/side signals is needed or when working with complicated signal routings, such as in Blue Cat Patchwork.
+
+Tips on Optimal Settings:
+Experiment with different split options and channel selections to find the best fit for your specific use case.

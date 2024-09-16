@@ -1,0 +1,33 @@
+StarChild2
+
+Digital ambience/echo plugin adapted for high sample rates, producing a series of echo taps not perfectly regular, with a unique delay line that won't reinforce any one frequency.
+
+Key Controls and Settings:
+
+* `Delay Time`: Adjusts the duration of the echoes. Can range from short, crisp delays to stretched textures.
+	+ Default: 100ms
+	+ Range: 10ms to 1s
+* `Granularity`: Controls the texture and graininess of the delay line.
+	+ Default: Medium
+	+ Range: Fine to Coarse
+* `Widen`: Allows for stereo widening, expanding the soundstage.
+	+ Default: Off
+	+ Options: On or Off
+* `Tap Duration`: Adjusts the length of the echo taps. Can range from very short to quite long, producing different textures and granularities.
+* `Tap Density`: Controls the frequency at which the tap sequence occurs. Using prime number sequences creates a sputtery delay line that doesn't reinforce any one frequency.
+* `Stereo Widener`: Expands the stereo image of the input signal.
+* `Duration Stretch`: Stretches or compresses the duration of the echo taps.
+
+Caveats:
+Due to its undersampling design, StarChild2 may produce artifacts at very high sample rates (e.g., 96k or 192k). The plugin's output can be highly dependent on the input signal and settings.
+
+Best Use Cases:
+
+* Creating distinctive, otherworldly ambience effects
+* Adding unique textures to sounds
+* Experimenting with non-traditional delay and echo techniques
+
+Tips on Optimal Settings:
+* Adjust tap duration and density to produce desired textures and granularities.
+* Use stereo widener to enhance the spatiality of the input signal.
+* Experiment with different values for duration stretch to create interesting effects.

@@ -1,0 +1,27 @@
+PocketVerbs
+
+A reverb plugin with multiple rooms to switch between, including chambers, rooms, springs, a PaulStretch type effect, and a unique gating effect for reinventing drum sounds.
+
+Key Controls and Settings:
+
+* `Reverb Type`:
+	+ Chambers
+	+ Rooms
+	+ Springs
+	+ Zarathustra (dark, distant, vast)
+	+ PaulStretch-type effect
+* `Feedback`: Adjusts the regeneration amount.
+	+ Can do full, 1/2, 1/4, 1/8, and 1/16 level regenerations.
+	+ Sets the feedback and uses the bit shift amount nearest below the setting
+* `Gating Effect`: Creates a "gated reverb" effect by cutting off regeneration at a set point.
+
+Caveats:
+
+* Infinite regeneration can lead to distortion, but the plugin's design prevents it from causing runaway reverb.
+* Zero regeneration results in a pile of allpasses, which can be used for a "gated reverb" effect.
+
+Best Use Cases:
+Ideal scenarios for using this plugin include adding space and depth to individual tracks or submixes, creating unique drum sounds with the gating effect, and experimenting with unconventional reverberation techniques.
+
+Tips on Optimal Settings:
+Adjust the feedback level regeneration to achieve the desired sound without causing distortion. Use the gating effect to add dynamic interest to drum sounds and other percussive elements.

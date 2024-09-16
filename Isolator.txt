@@ -1,0 +1,26 @@
+Isolator
+
+A steep highpass or lowpass filter, like a speaker crossover, for precise control over highs and lows in audio signals.
+
+Key Controls and Settings:
+* `Filter Type`: Choose between lowpass and highpass.
+* `Frequency Control`: Adjusts the cutoff frequency of the filter with a range of 0 to max sample rate, providing accurate control over the full Nyquist range.
+	+ Range: 0 to 1 (max sample rate)
+	+ Type: logarithmic
+* `Treble` and `Bass`: Controls for shelving or output gain, designed for instant response.
+	+ Range: [insert text]
+	+ Type: [insert text]
+
+Caveats:
+* Avoid using the filter control as an oscillator input, as biquads may not handle it well.
+* Avoid excessive filter-sweep activity in areas with high energy, as this can cause instability.
+* Do not use the frequency control for Frequency Modulation (FM), as biquads may sound distorted under such treatment.
+
+Best Use Cases:
+* Classic 'now it's all bass... and now the full mix gradually swells up' effect
+* Cutting highs or lows with accuracy
+* Using as a shelf for subtle cuts in highs or lows
+
+Tips on Optimal Settings:
+* For best results, use the filter control to sweep from lowpass to highpass.
+* To avoid clicks when using treble and bass controls, use them sparingly with heavily bassy sounds.

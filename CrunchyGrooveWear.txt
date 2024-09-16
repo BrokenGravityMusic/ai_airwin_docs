@@ -1,0 +1,22 @@
+CrunchyGrooveWear
+
+A plugin for adding edge, distortion, and crunch to audio signals, producing a treble-eroding effect with a different operating principle than normal EQs.
+
+Key Controls and Settings:
+
+* Dry/Wet Control: Adjusts the intensity of the effect in four stages (0.25, 0.5, 0.75, and 1.0), creating a "treble-eroded" quality at halfway engaged stages
+	+ Stage 1: A subtle effect with minimal impact on high frequencies
+	+ Stage 2-4: Increasing levels of treble erosion and energy boost
+* Intensity Control (not explicitly mentioned): Adjusts how much slew averaging is applied in each stage
+
+Caveats:
+The plugin has an overshoot effect at full intensity, similar to the original GrooveWear. Adjusting the dry/wet control can produce unexpected results due to the way the effect kicks in.
+
+Best Use Cases:
+Achieving a "vinyl warmth" effect
+Adding zing and character to audio signals
+Creating a crunchy, treble-hyped sound
+
+Tips on Optimal Settings:
+For extreme crunch, use intermediate dry/wet settings (0.25, 0.5, 0.75) to achieve the desired level of high-frequency erosion.
+Cranking the dry/wet control to full intensity can produce a unique, exciter-like effect with no pre-echo.

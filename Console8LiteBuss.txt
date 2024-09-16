@@ -1,0 +1,18 @@
+Console8LiteBuss
+
+A simplified mix buss plugin for DAW mixes, incorporating features from Console8 in a more traditional Airwindows Console form.
+
+Key Controls and Settings:
+
+* Custom Highpass: A custom high-pass filter algorithm that mimics real-world analog circuits.
+* Treble Softening: A treble-softening feature to mimic the use of transformers in analog consoles.
+* ClipOnly2: A clipping protection feature that suppresses brightness without affecting unclipped samples.
+
+Caveats:
+Not compatible with full three-stage Console8 setup; interactions and features will be reduced. Should not be mixed and matched with Console8 full version, as ultrasonic filtering will not be calibrated.
+
+Best Use Cases:
+Ideal for simpler mixers where traditional Airwindows Console form is preferred. Suitable for channel, submix, or buss configurations.
+
+Tips on Optimal Settings:
+Set up like any pre-8 version of Console: channel plugins last on each channel, faders at unity gain, and buss plugin first on the buss. Use as a replacement for Console8, but note the reduced functionality when used with full three-stage Console8 setup.

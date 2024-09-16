@@ -1,0 +1,23 @@
+Mackity
+
+An emulation of the input stage of a vintage Mackie 1202 mixer, providing a spongy slam and gleaming brain-fry overload.
+
+Key Controls and Settings:
+* Drive: Controls the intensity of the Mackie-style overdrive. Can be adjusted to achieve a range of tonal colors (0.1 to 10)
+	+ Range: 0.1 to 10
+	+ Type: Gain control
+* Insert Point: Simulates the effect of plugging into the insert points on the back of the original Mackie 1202, allowing for mid-signal manipulation (0 to 100%)
+	+ Range: 0 to 100%
+	+ Type: Blend control
+
+Caveats:
+None specific to the plugin itself.
+
+Best Use Cases:
+* Underground electronic music production
+* DnB and other high-energy genres
+* Adding grit and texture to electronic or synthesized sounds
+
+Tips on Optimal Settings:
+Experiment with different Drive levels to find the perfect balance of slam and tone.
+Adjusting Insert Point can help shape the midrange frequency response.

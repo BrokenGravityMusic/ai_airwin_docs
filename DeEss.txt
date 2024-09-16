@@ -1,0 +1,27 @@
+DeEss
+
+A go-to utility plugin that tracks slew rates to remove sibilance (harsh 's' and 't' sounds) from audio.
+
+Key Controls and Settings:
+
+* `Trigger Sensitivity`: Adjusts the sensitivity of the de-essing trigger.
+	+ Range: unknown
+	+ Type: continuous control
+* `Ducking Control`: Reduces the level of affected frequencies below a certain threshold.
+	+ Range: unknown
+	+ Type: continuous control
+* `Treble Roll-off`: Attenuates high frequencies to prevent harshness.
+	+ Range: unknown
+	+ Type: continuous control
+* `Tone`: Adjusts the darkness or brightness of the de-essed sound.
+	+ Range: unknown
+	+ Type: continuous control
+
+Caveats:
+Avoid overtriggering, as this can lead to unpleasant effects on unwanted frequencies. Use good taste when applying de-essing to avoid 'lisping' effects.
+
+Best Use Cases:
+Remove sibilance from vocals and instruments with harsh 's' and 't' sounds in a variety of audio contexts.
+
+Tips on Optimal Settings:
+Crank up the effect level to plainly hear where it hits, then adjust the trigger sensitivity and other controls for optimal results. Template your settings to ensure consistent de-essing performance.

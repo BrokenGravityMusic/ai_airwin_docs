@@ -1,0 +1,23 @@
+HypersonX
+
+A seven-stage ultrasonic filter designed to be used at high sample rates (e.g. 96k), providing a warm and analog tone while resisting aliasing.
+
+Key Controls and Settings:
+
+* `Stage A-G`: Seven stages of filtering, each with its own resonance value that can be adjusted.
+	+ To use: Place one instance of HypersonX at the input of your signal path (e.g. channel start), and then add additional instances at subsequent points in the mix (e.g. submixes, 2-buss).
+* `Placement`: Can be placed at various points in the signal path, such as input, channel, submix, or 2-buss, to achieve the desired filtering effect.
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Requires careful placement and arrangement across multiple stages of a signal path to achieve optimal results.
+
+Best Use Cases:
+
+* Mixing at high sample rates (e.g. 96k)
+* Resisting aliasing and maintaining a warm, analog tone
+* Constructing an in-house mixing board with custom filtering
+
+Tips on Optimal Settings:
+To get the best results from HypersonX, it's recommended to carefully arrange one instance of each stage across your signal path, from input to final 2-buss. This will provide optimal filtering and prevent aliasing.

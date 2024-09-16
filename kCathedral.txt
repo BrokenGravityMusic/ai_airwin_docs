@@ -1,0 +1,23 @@
+kCathedral
+
+A dedicated sound space reverb with its own unique algorithm, inspired by Bricasti Cathedral preset.
+
+Key Controls and Settings:
+
+* Dry/Wet control:
+	+ Adjusts the blend of the original sound and the reverb.
+	+ Use on an aux bus for full wet or inline with a small amount (e.g. 0.01 to 0.03) for subtlety.
+* No additional controls mentioned.
+
+Caveats: None specific to this plugin.
+
+Best Use Cases:
+
+* Realism: Hide the reverb behind other sounds by keeping it quiet.
+* Spatiality: Use kCathedral to create a sense of depth and space in your mix.
+
+Tips on Optimal Settings:
+To get the best results from kCathedral, follow these tips:
+Use the plugin on an aux bus for full wet signal or inline with a small amount (e.g. 0.01 to 0.03).
+Adjust the Dry/Wet control to achieve the desired balance between dry and wet signals.
+Experiment with different settings to find the optimal amount of reverb for your specific sound.

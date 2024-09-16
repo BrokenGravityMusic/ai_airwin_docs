@@ -1,0 +1,31 @@
+Highpass2/Lowpass2
+
+Variable-slope high/low pass filters with adjustable slope and tone doctoring, allowing for subtle filtering or dramatic effects.
+
+Key Controls and Settings:
+
+* `Filter Control` (both): Adjusts the cutoff frequency, from complete silence to wide open, varying by sample rate.
+	+ Range: From complete silence to wide open
+* `Poles` (0-4): Number of poles for the filter, affecting strength and roll-off.
+	+ Default: 4
+* `Loose/Tight slider` (Highpass2): Interacts with Filter Control to vary cutoff frequency based on input sample value.
+	+ Range: Loose (less filtering) to Tight (more filtering)
+* `Soft/Hard slider` (Lowpass2): Varies the cutoff based on input sample values, with "Hard" rolling off harder for peaks and letting them through more
+* `Sample Rate`: Filter behavior varies by sample rate.
+
+Caveats:
+
+* The filter control does not stay the same across all sample rates.
+* Using higher poles can cause subtle bleed-through near the Nyquist frequency.
+* Highpass2 rolls off high frequencies as it gets harder, similar to Lowpass2 but in reverse.
+
+Best Use Cases (both):
+
+* Experimental tone shaping
+* Sound design
+
+Tips on Optimal Settings:
+
+* Experiment with different Pole Counts to achieve desired filtering strength.
+* Adjust Filter Control and Loose/Tight/Soft/Hard slider in tandem to optimize results.
+* Crank Filter Control to Hard for dramatic effects on pink noise, simulating wind noise at high speeds.

@@ -1,0 +1,25 @@
+DeRez
+
+Analog-style bit and sample rate crusher with continuous adjustments.
+
+Key Controls and Settings:
+
+* `Frequency`: Control for continuously sweeping sample-rate crushing.
+	+ Range: N/A
+	+ Type: Slider down to change frequency
+* `Resolution`: Control for continuously sweeping bit crushing.
+	+ Range: N/A
+	+ Type: Slider down to change resolution
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+None specified.
+
+Best Use Cases:
+
+* For constructing strange models of obscure old digital gear, use DeRez to dial in the right amount of bitcrunch after using a compressor.
+* For automating controls in your DAW to program continuous sweeps.
+
+Tips on Optimal Settings:
+To get the best results from DeRez, experiment with adjusting the Frequency and Resolution controls to achieve the desired analog-style bit and sample rate crushing.

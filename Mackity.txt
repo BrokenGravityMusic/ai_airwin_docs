@@ -1,0 +1,15 @@
+Mackity
+A plugin emulation of the input stage of a vintage Mackie 1202, capturing its unique "slam" and character.
+
+Key Controls and Settings:
+* None mentioned in the text; this plugin is likely intended to be used as is, without adjustments.
+
+Caveats: 
+None mentioned in the text.
+
+Best Use Cases:
+Ideal for DnB heads and underground recordists looking to add a vintage Mackie 1202 input stage sound to their recordings.
+
+Tips on Optimal Settings:
+None specified; this plugin is likely best used as is, or with slight adjustments to taste.
+Using Mackity will give you a big and raw sound, but keep in mind that it's not about modeling every detail of the original circuit, rather capturing its essence.

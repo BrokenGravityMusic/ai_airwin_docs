@@ -1,0 +1,22 @@
+Logical4 (2-Buss Compressor)
+
+A classic 2-buss compressor designed for demanding conditions, offering spot-on tone, transparency, and the ability to let music through.
+
+Key Controls and Settings:
+
+* `Threshold`: Adjusts the point at which compression begins.
+* `Speed`: Controls the attack time of the compressor.
+	+ Stage 1 (Ratio < 2/1): Up to 2/1 ratio for maximum transparency.
+	+ Stage 2-3 (Ratio: 2/1-4/1): Various behaviors and a clean sound.
+	+ Stage 3 (Max Ratio): Approximate 16/1 ratio, introducing tone change and allowing for extreme compression.
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
+
+Caveats:
+Over-compression can lead to messy results; use responsibly. High ratios can cause excessive energy and require makeup gain.
+
+Best Use Cases:
+Mixing and mastering: Ideal for 2-buss compression in demanding situations. Production: Suitable for creating dynamic range and adding character to tracks.
+
+Tips on Optimal Settings:
+Keep the ratio below 2/1 for maximum transparency and adjust threshold accordingly. Experiment with speed control to achieve desired 'swing' and spring-back effects. Use caution when pushing high ratios, as excessive energy can be difficult to manage.
