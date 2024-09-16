@@ -1,25 +1,23 @@
 ToTape5
 
-Analog tape emulation plugin.
-
 Key Controls and Settings:
 
-* `Louder`: Adjusts the overall level of the emulated tape. Defaults to 0.25, set to 0 for added purity.
-	+ Range: 0 to 1
-	+ Type: gain control
-* `Softer`: Controls treble softening, defaults to 0 (still on but very hi-fi). Turn up to get a more 'old' tape machine tone.
-	+ Range: 0 to 1
-	+ Type: frequency response control
-* `Fatter`: Emulates the head bump of analog tape, defaults to 0. Can be cranked up for extra roundness and fullness.
-	+ Range: 0 to 1
-	+ Type: tone control
-* `Flutter`: Adds a subtle "spaciness" or "atmosphere" effect, defaults to 0 (off). Use small amounts (around 0.1) for realism.
-	+ Range: 0 to 0.2
-	+ Type: space/texture control
+* `Louder` (gain soak): controls level reduction due to tape saturation. Defaults to 0.25, can be set to 0 for added purity.
+	+ Range: 0% to 1.00
+	+ Type: Gain control
+* `Softer` (treble softening): controls treble reduction. Defaults to 0, can be increased to 0.1-0.2 for a more "old" tape machine tone.
+	+ Range: 0% to 100%
+	+ Type: Gain control
+* `Fatter` (head bump): controls low-end warmth and fullness. Defaults to 0, can be increased to 0.1-0.2 for emphasis on roundness and fullness.
+	+ Range: 0% to 100%
+	+ Type: Gain control
+* `Flutter`: adds a subtle "spaciness" or "atmosphere" effect. Defaults to 0 (off). Use small amounts (around 0.1) for realism.
+	+ Range: 0% to 100%
+	+ Type: Control
 
 Caveats:
+
 * Output should be adjusted if Fatter is boosted heavily to compensate for introduced low-end frequencies.
-* Do not use Dry/Wet control in combination with Flutter, as it will create an unwanted flangey effect.
 
 Best Use Cases:
 ToTape5 is ideal for mixing and mastering music that requires a warm, authentic tape sound. It can be used on individual tracks or the entire mix to add depth and character.

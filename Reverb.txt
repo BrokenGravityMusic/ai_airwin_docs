@@ -1,21 +1,21 @@
 Reverb
 
-A simplified reverb simulator that adjusts its settings on-the-fly to best suit a desired size of reverberant space.
+A simplified and tuned plugin that simulates an optimum-sized reverb space, adapting on-the-fly to best suit whatever size of space you seek.
 
 Key Controls and Settings:
 
-* `Size`: A single slider controlling the "bigness" or size of the reverberant space. Adjusting this parameter affects the overall spaciousness and ambiance of the sound.
-	+ Range: This control adjusts the size of the reverb space from smaller, more intimate areas to larger, more cavernous spaces.
-* `Dry/Wet`: A balance control between the original dry signal and the simulated reverb.
-	+ Range: This control blends the processed sound with the original, allowing for a mix that suits your musical context.
-
-Caveats:
-None specified.
+* `Size Control:` A single slider that adjusts the "bigness" of the reverb space. Adjusting this control allows for a quick optimization of the reverb size.
+	+ Range: Not specified
+	+ Type: Slider
+* `Dry/Wet Mix:` Controls the balance between the dry (original) signal and the wet (reverberated) signal.
+	+ Range: 0% to 100%
+	+ Type: Blend control
 
 Best Use Cases:
 
-* Creating a specific size and ambiance of a reverberant space for music production, post-production, or live performance.
+* Creating a reverb space that simulates an optimal-sized room or environment.
 * Quickly adjusting the reverb size to suit different musical or audio contexts.
+* Using as a starting point for more complex reverb simulations with other plugins.
 
 Tips on Optimal Settings:
-Adjust the Size slider to achieve the desired level of spaciousness and ambiance for your sound. Balance the Dry/Wet control to find the optimal mix between original signal and simulated reverb.
+Adjust the Size Control slider to achieve the desired level of reverberance, and balance the Dry/Wet Mix control to find the optimal mix between original signal and simulated reverb.

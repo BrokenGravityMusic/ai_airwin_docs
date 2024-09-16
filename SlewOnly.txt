@@ -1,17 +1,18 @@
 SlewOnly
 
-A mix check plugin that shows only the extreme highs, producing a super-bright sound with zero latency and no pre-ring or post-ring.
+A mix check plugin that shows only the extreme highs, producing a super-bright sound with zero latency.
 
 Key Controls and Settings:
 
 * `On/Off`: Switch SlewOnly on/off.
-* `Dual Pole Filtering`: Use multiple instances of SlewOnly to apply two-pole filtering for stereo imaging and clarity enhancement.
+* `Dual Pole Filtering`: Use multiple instances of SlewOnly to apply two-pole filtering for stereo imaging and clarity enhancement
+	+ Type: On/Off toggle or instance count
 
 Caveats:
-Switching back to the normal sound after using SlewOnly may result in a dull sound. Rest your ears for a moment before resuming work, and be cautious not to overload SlewOnly as it can lead to loss of groove and introduction of unwanted noise.
+Switching back to normal sound after using SlewOnly may result in an incredibly dull sound due to its brightening effect. Rest your ears for a moment before resuming work when switching back.
 
 Best Use Cases:
-Use at the end of your master buss to check the overall mix and make necessary adjustments, or ideal for mixing and mastering when going for "commercially loud" volumes.
+Use at the end of your master buss to check the overall mix and make necessary adjustments, or to hear what your 2-buss chain did to the sound.
 
 Tips on Optimal Settings:
-Add multiple instances for stereo imaging and clarity enhancement. Do not switch back to normal sound immediately after using SlewOnly, as it will sound incredibly dull.
+Add multiple instances for stereo imaging and clarity enhancement. Be cautious not to overload SlewOnly, as it can lead to loss of groove and introduction of unwanted noise.

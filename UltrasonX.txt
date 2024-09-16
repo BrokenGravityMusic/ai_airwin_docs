@@ -1,15 +1,12 @@
-UltrasonX
+UltrasonicX
 
-A plugin that allows you to use any one of five stages in isolation, with settings for A, B, C, D, and E stages.
+A plugin that allows you to use any one of the five stages in Ultrasonic, one at a time, with settings for A, B, C, D, and E stages.
 
 Key Controls and Settings:
 
-* Stage Select: Choose which stage (A-E) to use.
-* Resonance Value: Set the resonance value for each stage (A-E), which adds up to nice and flat and clear all the way up to the supersonic region.
-* Number of Instances: Decide how many instances of UltrasonX to use in a signal path, from 1 to 5.
-
-Caveats:
-None specified.
+* `Stage Select`: Choose which stage (A-E) to use.
+* `Resonance Value` (for each stage): Set the resonance value for each stage (A-E)
+* `Number of Instances`: Decide how many instances of UltrasonX to use in a signal path, from 1 to 5.
 
 Best Use Cases:
 

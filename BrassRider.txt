@@ -1,25 +1,17 @@
-BrassRider
--------------
-
-Plugin Name: BrassRider
-Function Overview: A drum overhead rider for metal mixers that enhances cymbal crashes while suppressing unwanted tom and snare sounds.
-
 Key Controls and Settings:
-* Threshold control: Adjust the level above which BrassRider boosts the overheads.
-	+ Range: [Insert text]
-	+ Type: [Insert text]
-* Dry/Wet control: Balance between dry (original) and wet (boosted) overhead signals.
-	+ Range: 0% to 100%
-	+ Type: [Insert text]
 
-Caveats:
-* Not suitable for general drum mixing or users unfamiliar with metal mix techniques.
-* May not work as intended in mixes that don't feature heavy, brutal sounds.
+* Threshold control: Sets the minimum level of crash noise required to activate the volume boost.
+	+ Range: 
+	+ Type: 
+* Dry/Wet control: Adjusts the balance between the original overhead sound and the amplified crash sound.
+	+ Range: 
+	+ Type: 
+* Volume control: Controls the overall volume boost applied to the overhead sound when the threshold is exceeded.
+	+ Range: 
+	+ Type: 
 
 Best Use Cases:
-* Heavy metal drum mixing where intense cymbal crashes are desired.
-* When sculpted spot-mic sounds are already present on drums and toms.
+Metal mixers looking to add crash cymbal sounds to their mixes without introducing unwanted jazz drummer or classic rock influences.
 
 Tips on Optimal Settings:
-* Adjust the threshold control to engage BrassRider's boosting behavior during intense crash cymbal hits.
-* Bury the overhead mics in the mix, then use BrassRider to selectively boost them during these moments.
+Experiment with the threshold control to find the optimal level for your specific mix. Adjust the dry/wet control to balance the amount of original overhead sound and amplified crash sound. Use the volume control to fine-tune the overall level boost applied to the overhead sound.

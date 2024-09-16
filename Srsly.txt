@@ -1,18 +1,18 @@
-Srsly
-
-Psychoacoustic stereo processor, similar in effect to a Hughes SRS processor.
+A psychoacoustic stereo processor, similar in effect to a Hughes SRS processor.
 
 Key Controls and Settings:
 
-* `Q:` Adjusts the effectiveness of the processor.
-	+ Range: Not specified
-	+ Type: Gain control
+* `Q control:` adjusts the effectiveness of the processor
+	+ Range: 
+	+ Type: 
 
 Caveats:
-May not accurately replicate the sound of a real Hughes SRS processor. Effectiveness may vary depending on the user's specific audio material and preferences.
+May not accurately replicate the sound of a real Hughes SRS processor.
+Effectiveness may vary depending on the user's specific audio material and preferences.
 
 Best Use Cases:
-Refining subtle stereo spatiality in audio mixes. Enhancing the sense of width or depth in individual tracks.
+Refining subtle stereo spatiality in audio mixes.
+Enhancing the sense of width or depth in individual tracks.
 
 Tips on Optimal Settings:
 Experiment with different Q settings to find the optimal balance for your particular audio content.

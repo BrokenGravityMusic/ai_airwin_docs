@@ -4,15 +4,14 @@ A band-pass filter plugin that can be used for tone-shaping and texture-varying 
 
 Key Controls and Settings:
 
-* ResEdge: Adjusts the resonance of the filter, ranging from a smooth to edgy sound. Higher values amplify high-frequency content, while lower values produce a smoother sound.
+* ResEdge: Adjusts the resonance of the filter, ranging from a smooth to edgy sound.
 	+ Default value: 0
 	+ Range: 0 to 100
+	+ Type: Intensity control
 * Freq (Frequency): Sets the center frequency of the bandpass filter.
 	+ Default value: 500 Hz
 	+ Range: 20 Hz to 20000 Hz
-
-Caveats:
-None noted.
+	+ Type: Frequency selector
 
 Best Use Cases:
 Ideal for tone-shaping and texture-varying filtering. Can be used to create unique sound effects, such as a "walkie-talkie" tone on voice recordings.

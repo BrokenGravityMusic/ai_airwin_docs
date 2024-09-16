@@ -5,17 +5,12 @@ Adds anti-alias filtering and special saturation curves tied to a slider positio
 Key Controls and Settings:
 
 * Slider: Adjusts saturation curve and controls how much of each frequency is affected by the filter. Position affects what frequencies are boosted or attenuated.
-	+ Range: Low values create a warm and smooth tone, high values produce a more aggressive and overdriven sound
-	+ Type: Adjustable levels based on slider position
-* Mix: Not specified
-
-Caveats:
-None specified.
+	+ Range: Low values (20-30%) for subtle warmth, high values for stronger filtering and increased saturation.
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
-
-Ideal for adding subtle coloration to signals, enhancing clarity in mastering chains, and experimenting with creative tone shaping.
+Ideal for adding depth and warmth to audio signals, particularly in music production and post-production contexts. Suitable for adding subtle coloration to signals, enhancing clarity in mastering chains, and experimenting with creative tone shaping.
 
 Tips on Optimal Settings:
-
-Experiment with slider positions to find the desired balance between saturation and filtering effects. Pay attention to how the filter interacts with your signal's frequency content to achieve the intended result. Start with low slider values (around 20-30%) to subtly enhance the tone, and gradually increase as needed.
+Experiment with slider positions to find the desired balance between saturation and filtering effects. Pay attention to how the filter interacts with your signal's frequency content to achieve the intended result. Start with low slider values (around 20-30%) to subtly enhance the tone.

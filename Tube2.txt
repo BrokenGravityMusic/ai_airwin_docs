@@ -4,12 +4,16 @@ A sophisticated tube simulator with input trim and advanced processing, designed
 
 Key Controls and Settings:
 
-* `TUBE control`: Adjusts the amount of distortion and saturation.
-	+ Increasing this control softens and saturates distortion, while decreasing it achieves more linearity.
-* `Input Trim`: Allows you to adjust the input level to 0.5 for level-matched operation or pad further if desired.
+* `Input Trim:` 
+	+ Range: 0.0 - 1.0
+	+ Default: 0.5
+* `TUBE Control:` Adjusts the amount of distortion and saturation.
+	+ Range: 
+	+ Type: 
+* Mix: A blend control for mixing the processed sound with the original
 
 Caveats:
-None specifically noted.
+Not designed for running Tube2 into Tube2, as it may not produce optimal results.
 
 Best Use Cases:
 
@@ -17,6 +21,6 @@ Best Use Cases:
 * Adding distortion and saturation to audio
 
 Tips on Optimal Settings:
-For level-matched operation, set input trim to 0.5.
-Adjust the TUBE control to taste for amount of distortion and saturation.
-Backing off the TUBE control achieves more linearity in every sense.
+* Adjust the input trim to 0.5 for a level-matched signal.
+* Use the TUBE control to add desired amounts of saturation and distortion.
+* Back off the TUBE control for more linear tone and reduced distortion.

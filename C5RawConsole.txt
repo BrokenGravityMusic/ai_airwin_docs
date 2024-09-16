@@ -1,19 +1,13 @@
-C5 Raw Console
+C5RawConsole
 
 Analog tone simulator with optional gentle DC suppression.
 
 Key Controls and Settings:
 
 * `Centering Force`: A control that defaults to 0.0, which is the 'Xmas Morning' setting.
-	+ Range: 0.0 (untamed) to 1.0 (highpass-like effect)
-	+ Type: DC correction
-	+ Adjusts the amount of DC correction, with higher values affecting low-end response
-* `DC Suppression`: An optional feature that adds gentle DC suppression to the algorithm
-
-Caveats:
-* Be cautious when applying C5RawConsole and monitor voltage levels on tracks and buses.
-* This plugin may give you signals that are bad for your gear if not handled correctly.
-* It's recommended to use the final Console5, PurestConsole, or PDConsole instead, which have built-in DC handling.
+	+ Turning it up to 0.7 or 0.8 simulates the first bugfix, where some bass is removed to fix DC problems.
+	+ Cranked up, it's a highpass with a gentle slope that can be used to tighten non-bass tracks.
+	+ Keeping it at 0.5 or below reacts slowly and won't touch bass frequencies.
 
 Best Use Cases:
 * For users who want the original Console5 tone algorithm back.
@@ -24,3 +18,4 @@ Tips on Optimal Settings:
 * Keep the Centering Force at 0.5 or below to avoid affecting bass frequencies.
 * Crank it up to 1.0 for noticeable subs reduction.
 * Use with caution and be aware of DC offset in your mix.
+* Couple with other outboard DC correction filters if needed.

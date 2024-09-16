@@ -1,35 +1,27 @@
 Wolfbot
 
-An aggressive Kalman bandpass filter with saturation.
-
 Key Controls and Settings:
 
 * `Highpass Kalman Filter:` Adjusts the high-pass response of the bandpass filter.
-* `Saturation Amount:` Sets the amount of saturation added to the output signal.
-* `Kalman Filter Gain:` Controls the gain of the first Kalman filter stage.
-* `Second Kalman Filter Gain:` Controls the gain of the second Kalman filter stage.
-* `Bandpass Control:` Adjusts the bandpass frequency.
-
-	+ Type: [insert type, e.g., Knob]
+	+ Type: Knob
 	+ Range: Adjustable (not specified)
 	+ Effect: Filters out frequencies above or below the set point
-* `Saturation Control:` Adds a controlled amount of saturation to the output.
-	+ Type: [insert type, e.g., Knob]
+* `Saturation Amount:` Sets the amount of saturation added to the output signal.
+	+ Type: Knob
 	+ Range: Adjustable (not specified)
 	+ Effect: Adds warmth and character to the sound
-
-Caveats:
-
-* May not perform well with DI bass signals or low-frequency content.
-* Can significantly alter the tone and character of input signals.
-* Not designed for use on bass signals and may produce undesirable results.
+* `Bandpass Control:` Adjusts the bandpass frequency.
+	+ Type: Knob
+	+ Range: Adjustable (not specified)
+	+ Effect: Filters out frequencies above or below the set point
 
 Best Use Cases:
-
 * Mixing and mastering music, particularly for low-end frequencies and kick drums.
-* Enhancing the sound of bass guitars, instruments, and DI guitar or bass recordings.
-* Adding depth and width to DI guitar or bass signals.
-* Creating a unique, fat beefy pulse wave sound.
+* Enhancing the sound of bass guitars and other instruments.
+* Adding depth and width to DI guitar or bass signals
+* Creating a unique, fat beefy pulse wave sound
 
 Tips on Optimal Settings:
-Adjust the Highpass Kalman Filter and Bandpass Control to taste. The Saturation Amount can help tame transients and reduce noise floor. Experiment with different gain settings for the Kalman filters and saturation control to find the optimal balance between bandpassing and saturation. Use sparingly when working with low-frequency content (DI bass, etc.).
+* Experiment with different settings for the Highpass and Lowpass filters to find the desired tone and pulse shape.
+* Use sparingly when working with low-frequency content (DI bass, etc.).
+* Adjust the Saturation control to taste for a smooth, even response.

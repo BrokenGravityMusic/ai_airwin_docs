@@ -1,6 +1,6 @@
 ConsoleMCChannel
 
-A channel strip plugin that combines features from classic MCI consoles, including treble, sweepable mid boost, bass, and a unique pan switching network.
+A channel strip plugin that combines features from classic MCI consoles, including treble, sweepable mid, bass, and a unique pan switching network.
 
 Key Controls and Settings:
 
@@ -10,12 +10,6 @@ Key Controls and Settings:
 * `Fader`: Controls overall level before EQ section.
 * `Pan Switching Network`: Unique pan switch with LCR and MCI-inspired characteristics.
 * `Summing Buss`: Mimics the summing character of big MCI desks with a unique analog "dirtiness".
-
-Caveats:
-* Not flat when set neutrally; use ConsoleMD for that response.
-* Uses technique from SubTight to rein in subsonic bass, applying high-frequency 'air' at high sample rates.
-* Original release didn't scale this effect to sample rate; Redux version does.
-* May not work correctly with low sample rates (e.g., 44.1k) without oversampling.
 
 Best Use Cases:
 * Mixing applications where a unique channel strip character is desired.

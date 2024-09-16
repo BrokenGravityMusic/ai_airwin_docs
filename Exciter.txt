@@ -1,25 +1,25 @@
 Exciter
-Simulates an aural exciter effect by adding subtle to extreme transients and distortion to audio signals
+
+An Aural Exciter plugin that can be used to add subtle or extreme transient emphasis and distortion to audio signals.
 
 Key Controls and Settings:
 
-* `Frequency`: Adjusts the frequency band used for extraction (Hz)
+* `Frequency`: Adjusts the frequency band being emphasized.
 	+ Range: Hz
-	+ Type: Frequency control
-* `Amount`: Controls the intensity of the effect (0-100%)
-	+ Range: 0% to 100%
-	+ Type: Intensity control
-* `Soft Clip`: Soft clipping function for distorting extracted frequencies (sin() function or similar)
-	+ Range: Not specified
-	+ Type: Distortion type
-* `Band Filter`: Sharp band filter for extracting certain types of information
-	+ Range: Not specified
-	+ Type: Filtering type
+* `Amount`: Sets the level of effect applied to the signal.
+	+ Type: 0-100% control
+	+ Range: 
+* `Soft Clip`: Distorts the extracted frequency band using a soft clipping function (e.g. sin()).
+	+ Type: Soft clip amount
+* `Band Filter`: Sharp band filter for extracting certain types of information.
+	+ Type: Bandpass feature
 
 Caveats:
-Cranking up the effect too much can lead to obvious crunch and distortion. Best used in moderation to maintain a "late seventies heightened detail" tone.
+Cranking up the effect too high can result in obvious crunch or distortion.
 
 Best Use Cases:
-Adding subtle transients to quiet signals, creating gritty, evil distortion for effect on bright or excitable sources, experimenting with unique tones by misusing transistors and chips (analog-style).
 
-Tips on Optimal Settings: Fine-tune the effect in small increments to achieve desired results. Be cautious not to overdo it, as excessive distortion can be unpleasant.
+Adding subtle transient emphasis to bright signals. Enhancing the tone of certain analog recordings by misusing and distorting specific frequency bands.
+
+Tips on Optimal Settings:
+Start with subtle settings and gradually increase the amount of effect to avoid overdistortion. Use the plugin's bandpass feature to extract specific frequency information before applying distortion.

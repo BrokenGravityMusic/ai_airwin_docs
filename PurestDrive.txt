@@ -1,6 +1,5 @@
 PurestDrive
 
-A subtle saturation plugin that maintains tone purity by applying dynamic dry/wet control at audio frequencies, throwing saturation only on dense solid material.
 
 Key Controls and Settings:
 
@@ -11,7 +10,9 @@ Key Controls and Settings:
 Caveats:
 If the input gets super hot, PurestDrive may end up subtracting a little dry from the saturated input sample.
 
+
 Best Use Cases: Ideal for situations where a subtle, tone-pure saturation effect is desired. Suitable for use on dense solid material in tracks and buses to maintain clarity and definition.
+
 
 Tips on Optimal Settings:
 Adjust the Intensity control to achieve the desired level of saturation.

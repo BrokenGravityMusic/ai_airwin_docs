@@ -1,23 +1,29 @@
 TapeBias
 
-A plugin allowing you to underbias or overbias audio signals.
-
 Key Controls and Settings:
 
 * `Bias Level:` Adjusts the amount of bias applied (0-1 range).
 	+ Range: 0% to 100%
-	+ Type: Linear
 * `Type:` Selects between underbiasing or overbiasing.
-	+ Options: Under, Over
-* `Frequency:` Sets the frequency of the bias tone (default: 40k Hz).
-	+ Range: [insert text]
+	+ Type: Toggle for Underbias or Overbias modes
+* `Slew Rate:` Adjusts the rate at which the bias frequency is introduced into the signal.
 
 Caveats:
-Bypassed at 0.5, perfect bias means no processing is applied. Overbiasing eats up headroom and can lead to clipping if too intense.
+
+* Bypassed at 0.5 to save CPU.
+* Overbiasing can eat up headroom, potentially leading to clipping of high frequencies.
+* Underbiasing can introduce a brighter, drier sound quality.
 
 Best Use Cases:
-Recording high-frequency content.
-Creating sounds that mimic tape machine artifacts.
-Designing specific sonic effects for sound design purposes.
 
-Tips on Optimal Settings: Adjust bias level and type based on desired effect. Be mindful of headroom when overbiasing.
+* Recording high-frequency content.
+* Creating sounds that mimic tape machine artifacts.
+* Designing specific sonic effects for sound design purposes.
+* Sound design and experimentation with tape effects.
+* Isolating the bias effect for use in VCV Rack or other applications.
+
+Tips on Optimal Settings:
+
+* Start with moderate settings (e.g., Bias = -2, Type = Overbias) to avoid excessive headroom consumption.
+* Adjust Slew Rate to control the rate at which the bias frequency is introduced.
+* Experiment with different settings to achieve desired tape-like effects.

@@ -1,25 +1,26 @@
 Lowpass2
 
-A variable-slope lowpass filter with adjustable cutoff frequency, unique tone colors, and strong experimental sound design capabilities.
+A variable-slope lowpass filter with adjustable cutoff frequency, using interleaved IIR filters to produce subtle bleed-through of information near the Nyquist frequency.
 
 Key Controls and Settings:
 
-* `Filter Control:` Adjusts the cutoff frequency from complete silence to wide open.
+* `Filter Control`: Adjusts the cutoff frequency from complete silence to wide open.
 	+ Goes from complete silence to wide open no matter what sample rate you're at
 	+ Interacts with Soft/Hard slider to vary the cutoff based on input sample value
-* `Soft/Hard Slider:` Varies the cutoff frequency based on input sample value
+* `Soft/Hard Slider`: Varies the cutoff frequency based on input sample value, allowing for subtle tone color modifications.
 	+ Can roll off harder for peaks of sound or let them through more
 	+ Has two distinct tone colors and special effects at four poles of filter
-* `Poles Control:` Selects from zero to four poles of filter, increasing the effect strength and sharpness of roll-off
+* `Poles Control`: Selects from zero to four poles of filter, affecting the strength and sharpness of the roll-off.
 
 Caveats:
-Using high sample rates can affect the filter's behavior at wide open settings.
-The cutoff frequency may not stay the same with changes in the Soft/Hard slider or Poles control.
+Sample rate affects the cutoff frequency, but not in a way that limits its range.
+The cutoff frequency will not remain the same when adjusting the Soft/Hard slider or increasing the number of poles.
 
 Best Use Cases:
 Experimental tone shaping
 Sound design
 
 Tips on Optimal Settings:
-Experiment with different pole counts to achieve desired roll-off sharpness.
-Adjust the Soft/Hard slider to emphasize specific frequency ranges or create special effects like wind noise from pink noise.
+Adjust Filter Control to desired cutoff frequency.
+Experiment with Soft/Hard Slider for different tone colors and special effects.
+Use four poles of filter for strongest effect and sharpest roll-off.

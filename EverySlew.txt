@@ -1,23 +1,24 @@
-EverySlew
-
 A versatile treble processing plugin with various sound shaping tools, offering Slew, GoldenSlew, PlatinumSlew, and combinations thereof.
 
 Key Controls and Settings:
 
-* Depth control: Regulates the number of stages in the effect (0.1 to 10), equivalent to GoldenSlew or PlatinumSlew at full crank.
-	+ Range: 0.2-0.3 for taking off only the brightest highs
-	+ Type: Number of stages
-* Halo control: Introduces attenuation into deep bass and creates a sparkly, energetic sound.
-	+ Range: Low settings (less than 0.5) to avoid introducing distortion
-	+ Type: Attenuation
-* Dry/Wet control: Offers an Inv/Dry/Wet mix setting for monitoring the clipping only.
-	+ Mix: A blend control for mixing the processed sound with the original, range from 0% to 100%
+* Depth control:
+	+ Regulates the number of stages in the effect
+	+ Full crank equivalent to GoldenSlew or PlatinumSlew
+	+ Fewer stages for lighter CPU load and less 'golden' effect (optimal range: 0.2-0.3)
+* Halo control:
+	+ Introduces attenuation into deep bass and creates a sparkly, energetic sound
+	+ Best used with low settings (less than 0.5) when Slew is noticeable
+	+ High settings produce a unique, aggressive distortion
+* Dry/Wet control:
+	+ Offers an Inv/Dry/Wet mix setting for monitoring the clipping only
+	+ Dry = 0.5; Inv cancels out dry signal and shows slew clipping
 
 Caveats:
-High settings may result in significant distortion or unwanted effects; can be CPU-intensive.
+Can be CPU-intensive; high settings may introduce significant distortion or unwanted effects.
 
 Best Use Cases:
-Ideal for taming unruly high frequencies, processing sounds that require a unique sound effect, or using Halo for aggressive noise creation.
+Ideal for sound designers and engineers seeking unique treble processing tools, developers of analog desk emulations, and vintage-inspired sounds.
 
 Tips on Optimal Settings:
-Experiment with fewer stages (2-3) to find optimal CPU load balance; keep Halo settings low (0.x) for realistic results and avoid significant distortion.
+Experiment with fewer stages (2-3) to find optimal CPU load balance. Keep Halo settings low (less than 0.5) for realistic results and avoid significant distortion.

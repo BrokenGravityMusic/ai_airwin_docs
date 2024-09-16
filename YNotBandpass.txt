@@ -1,23 +1,13 @@
-YNotBandpass
-
-A soft and smooth to nasty, edgy texture-varying filter with no control smoothing.
+Soft and smooth bandpass filter with texture-varying filtering capabilities.
 
 Key Controls and Settings:
-* `Freq`: Sets the frequency of the bandpass filter.
-	+ Adjust: Use a pot or slider to change the Freq value.
-	+ Range: Not specified
-	+ Type: Not specified
-* `ResEdge`: Adds edge and nastiness to the filter response.
-	+ Adjust: Use a pot or slider to increase or decrease ResEdge.
-	+ Range: Not specified
-	+ Type: Not specified
-* No control smoothing is applied, allowing for rapid changes between different settings.
 
-Caveats:
-Using high ResEdge values can introduce an electrical, circuit-bendy quality that may not be desirable in all situations. The filter's behavior can change rapidly when adjusting Freq with no control smoothing enabled.
+* `Freq:` Adjusts the frequency cutoff of the bandpass filter.
+* `ResEdge:` Controls the resonance and edge characteristics of the filter, adding a mean, electrical quality to the sound.
+* No control smoothing: Prevents the plugin from smoothing out rapid changes in settings.
 
 Best Use Cases:
-Creating a unique tone or texture on vocals or instruments. Adding edge and nastiness to sounds without losing depth.
+Creating unique tone effects on vocals or instruments; Adding texture and interest to large reverb environments; Simulating a "walkie-talkie" tone or other distinctive soundscapes.
 
 Tips on Optimal Settings:
-Experiment with rapid changes between different Freq settings for interesting results. Use high ResEdge values sparingly, as they can introduce an unpleasant quality to the sound.
+For a smooth, bandpass-like effect, set Freq and ResEdge to moderate values. To create a more edgy, textured sound, increase ResEdge while adjusting Freq for optimal results. Use the "no control smoothing" feature to take advantage of rapid switching between Freq settings in combination with large reverb environments.

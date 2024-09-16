@@ -4,15 +4,15 @@ A staccato gate designed to tighten up direct-recorded tracks by fading into neg
 
 Key Controls and Settings:
 
-* `Threshold`: Set the level above which the gate will operate.
-* `Dry/Wet`: Control the amount of processed signal mixed with the original sound.
-* `Fade into Negative Density`: Adjust the rate at which the gate fades into silence, sounding like it's fading backwards.
-
-Caveats:
-None noted
+* Threshold: Set the level above which the gate will operate.
+	+ Range: unknown
+	+ Type: unknown
+* Dry/Wet Control: Adjust the amount of original signal mixed with the gated signal.
+	+ Range: unknown
+	+ Type: unknown
 
 Best Use Cases:
-Ideal for tightening up staccato direct-recorded tracks, such as DI guitars, kick drums, and individual drum mics. Not suitable for linked stereo tracks; use DigitalBlackMono on mono sources in AU.
+Ideal for tightening up staccato direct-recorded tracks, such as DI guitars, kick drums, and individual drum mics.
 
 Tips on Optimal Settings:
-Adjust the threshold and dry/wet controls to balance the amount of processing applied. Experiment with different settings to find the optimal combination for your specific audio material.
+Adjust Threshold and Dry/Wet Control to achieve desired gating effect. Consider using DigitalBlackMono for mono sources in AU.

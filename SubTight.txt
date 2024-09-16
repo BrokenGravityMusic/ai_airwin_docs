@@ -4,26 +4,24 @@ A variation on the Creature algorithm used to tighten sub-lows.
 
 Key Controls and Settings:
 
-* `Steepness`: A control that affects the strength of SubTight's effect. Increasing Steepness makes the plugin more aggressive in refining the low end.
-	+ Range: 0% to 100%
-	+ Type: Control
+* `Steepness`: A control that affects the strength of SubTight's effect, making it more aggressive in refining the low end.
+	+ Range: Non-linear
 * `Trim`: A control that adjusts the amount of "weakness" or "flabbiness" removed from the bass.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `Dry/Wet`: Not used, as this is a variation on the Creature algorithm.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+	+ Range: Not specified
 
 Caveats:
+
 * The Steep control affects the plugin's behavior in non-linear ways.
 * SubTight is not a filter and does not behave like one, even when increasing Steepness makes it seem to refine the low end more aggressively.
 * Increasing Steepness will continue to affect everything, not just frequencies below the crossover.
 
 Best Use Cases:
+
 * Tightening sub-lows for drums or bass instruments.
 * Defining a "nega-zone" inside the bass and making it vanish for punchier transients.
 
 Tips on Optimal Settings:
+
 * Start with low Steep settings (0.2-0.4) to achieve a balanced effect.
 * Experiment with higher Steep settings to refine the low end, but be aware of the non-linear effects.
 * Use Trim to adjust the amount of "weakness" removed from the bass, rather than relying on Steepness alone.

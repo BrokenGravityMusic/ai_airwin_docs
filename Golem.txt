@@ -1,29 +1,18 @@
 Golem
 
-A stereo track blender that allows balancing inputs and applying delay to one side.
+A stereo track blender that allows balancing of input levels and applying delay to one side.
 
 Key Controls and Settings:
 
 * Input Balancer: Adjusts the relative levels of the left and right channels.
-	+ Range: Not specified
-	+ Type: Control
-* Delay Control: Applies a delay to either the left or right channel, allowing for fine-tuned phase relationships between mics.
-	+ Delay Amount: Sets the amount of delay applied to the selected side
-	+ Range: Option to increase the range of available delays
-	+ Type: Control
-* Invert Channel: Option to invert one channel
-
-Caveats:
-
-* Fine-tuning is required for optimal results.
-* Delays are subsample-based, allowing for precise phase relationships between mics.
+* Delay Control: Applies a delay to either the left or right channel, allowing for fine-tuned phase relationships between mics. Delay can be inverted or increased in range.
+	+ Range: Option to increase the range of available delays.
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
 
-* Blending two microphones on an amp, particularly in metal music.
-* Tuning mic cancellations for specific tone adjustments.
+Blending two mics on a guitar cab for metalhead-style sound, creating subtle phase relationships between microphones.
 
 Tips on Optimal Settings:
-
-* Adjust the input balancer to balance the levels of the left and right channels.
-* Experiment with different delay amounts and types to achieve desired cancellations and tone shaping.
+Make small adjustments to the Input Balancer for subtle balance changes. Experiment with delay settings and inversion options to achieve desired cancellations and tone shaping.

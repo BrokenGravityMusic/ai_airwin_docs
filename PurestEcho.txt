@@ -1,35 +1,22 @@
-PurestEcho
-
-A plugin providing four evenly spaced echoes with precise timing control, ideal for creating discrete echoes, delay lines, or unique effects.
+An optimized Airwindows echo plugin with four evenly spaced taps that can be used for a variety of delay and echo effects.
 
 Key Controls and Settings:
 
-* `Delay Time`: Adjusts the overall delay time for all taps.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Tap 1-4:
-	+ Delay Time: Adjustable delay time for each of the four echoes, equally spaced in time.
-		- Range: [insert text]
-		- Type: [insert text]
-	+ Volume: Sets the volume of each individual tap.
-		- Range: [insert text]
-		- Type: [insert text]
-* Delay Time Slider: Adjusts the overall delay time for all echoes simultaneously, with abrupt changes suitable for automation.
-	+ Range: 0% to 100%
-	+ Type: [insert text]
-* Master Volume: Sets the overall volume of the echoes.
-	+ Range: 0% to 100%
-	+ Type: [insert text]
+* `Delay Time`: Sets the overall delay time for all echoes simultaneously.
+	+ Range: 
+	+ Type: 
+* `Tap Level 1-4`: Adjustable delay time for each of the four echoes, equally spaced in time.
+	+ Range: 
+	+ Type: 
+* `Master Volume`: Sets the overall volume of the echoes.
+	+ Range: 
+	+ Type: 
 
 Caveats:
 The delay time slider is not smoothed to allow for abrupt frequency changes, making it ideal for automation rather than live adjustment.
 
 Best Use Cases:
-Ideal scenarios include:
-* Discrete echo creation with no feedback
-* Single slapback effect using the last tap
-* Odd effects like increasing volume slapbacks or selective tap usage
-* Creating a 90s-style tone by turning all taps on full and setting short delay times
+Ideal scenarios include discrete echo creation with no feedback, single slapback effect using the last tap, odd effects like increasing volume slapbacks or selective tap usage, and creating a 90s-style tone by turning all taps on full and setting short delay times.
 
 Tips on Optimal Settings:
 For optimal results, use the slider for automation to achieve abrupt frequency changes. Experiment with different tap configurations to find unique soundscapes.

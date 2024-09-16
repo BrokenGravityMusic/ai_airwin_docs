@@ -1,17 +1,10 @@
 BiquadOneHalf
 
-An interleaved biquad filter that combines two second-order filters into a single stage.
-
 Key Controls and Settings:
 
-* Set the frequency `twice as high` as you would using Biquad
+* Set the frequency twice as high as you would using Biquad.
 	+ Frequency range: up to 1/4 Nyquist (dependent on sampling frequency)
 * Best used for filtering in bass or midrange frequencies.
-
-Caveats:
-* Can become unstable when forced close to its high-frequency limit.
-* May not be suitable for high-pass filtering at very high frequencies.
-* Using near its high-frequency limit can produce messy results.
 
 Best Use Cases:
 * Fixed-frequency EQs
@@ -21,4 +14,3 @@ Best Use Cases:
 Tips on Optimal Settings:
 * Keep the frequency below 1/4 Nyquist for optimal performance.
 * Experiment with different frequencies to find the best results in bass or midrange.
-* Remember to set the frequency twice as high as desired for Biquad-like results.

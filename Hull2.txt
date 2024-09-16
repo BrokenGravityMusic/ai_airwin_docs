@@ -1,39 +1,12 @@
 Hull2
 
-
 A three-band EQ using the Hull algorithm.
-
 
 Key Controls and Settings:
 
-
-* Treble control: Adjusts high frequencies.
-	+ Range: [insert text]
-	+ Type: [insert text]
+* Treble control: Adjusts high frequencies. Boosting relative to mid produces a 10k-centered boost without harmonics or alterations.
 * Mid control: Central frequency control for treble and bass bands.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Bass control: Adjusts low frequencies.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
-
-Caveats:
-
-
-None noted.
-
+* Bass control: Adjusts low frequencies. Boosting relative to mid subtly cuts around 700 Hz, shifting the voicing of the track.
 
 Best Use Cases:
-
-
 Broad-stroke EQ for musical tone shaping. Ideal for tracks that require subtle tonal adjustments.
-
-
-Tips on Optimal Settings:
-
-
-Use Hull2 as a simple gain control by moving all three controls together.
-Experiment with boosting treble relative to mid for an even clearer 10k-centered boost.
-Cutting treble relative to mid produces a soft notch, then increasingly steep roll-off.

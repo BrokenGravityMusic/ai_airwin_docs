@@ -1,25 +1,24 @@
 DubSub
-A fully featured bass doctor that combines treble and bass effects with crossover control.
 
-Key Controls and Settings:
+A fully featured bass doctor plugin.
 
-* Treble Grind: A distortion circuit for adding or subtracting presence to the signal.
-	+ Inverse/Out control allows you to invert or bypass the effect.
-	+ Dry/Wet ratio control for adjusting the amount of distortion.
-* Crossover: Determines what frequency range goes to Treble Grind and what goes to Bass sections.
-	+ Set low to make it track bass better.
-* Bass Drive: An adjustable Head Bump control that pushes the main bass section.
+`Key Controls and Settings:`
+* `Treble Grind`: Bass guitar presence circuit with Inverse/Out control for subtracting or adding distortion.
+	+ Controls: Inverse, Out (0-100), Dry/Wet ratio.
+* `Crossover`: Determines signal split between Treble Grind and bass sections.
+	+ Tip: Set low to make it track bass better.
+* `Bass Drive`: Adjustable Head Bump control for main bass section.
 	+ Control: Level (0-100).
-* Bass Voicing: Controls the depth of the bass boost, similar to overdriving a bass amp.
+* `Bass Voicing`: Controls depth of bass boost.
 	+ Control: Level (0-100).
-* Sub Drive, Sub Voicing, and Sub Inv/Out: Similar to Bass sections but work on an octave-divided version of the signal.
-	+ Control: Level (0-100) for Sub Drive; Level (0-100) for Sub Voicing.
+* `Sub Drive`: Adjustable drive control for octave-divided bass section.
+	+ Control: Level (0-100).
+* `Sub Voicing`: Controls depth of sub-bass boost.
+	+ Control: Level (0-100).
+* `Sub Inv/Out`: Attenuverter for subtracting or adding sub-bass signal.
 
-Caveats:
-The plugin can make horrible noises if it doesn't have clean signal to work with, especially when using the Sub section. Be careful when using all controls, as excessive manipulation can lead to undesirable results. Use the Dry/Wet control for clean pass-through.
-
-Best Use Cases:
+`Best Use Cases:`
 Ideal for bass-heavy music productions where a strong low-end presence is desired. Can also be used creatively to enhance or alter sound.
 
-Tips on Optimal Settings:
-To track bass better, set the Crossover low. For cleaner deep bass, work with the main bass section or voice both bass and sub-bass sections very deep. Adjust the Treble Grind settings to add or subtract presence to the signal.
+`Tips on Optimal Settings:`
+Set the crossover low to improve bass tracking. Adjust the Treble Grind settings to add or subtract presence to the signal. Set the Sub Drive and Voicing controls deep but mix in only a small amount of the effect to create a cleaner deep bass sound.

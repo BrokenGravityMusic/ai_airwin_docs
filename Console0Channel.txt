@@ -1,26 +1,21 @@
 Console Zero
 
-A plugin that creates a distinct sonic character by limiting math operations to just 8 across the entire mix buss and relying heavily on bit-shifting, allowing for a more "life-like" sound.
+A plugin that creates a unique sound by using minimalist processing techniques, focusing on bit-shifting, simple averaging, and saturation to preserve the original "untouched mantissa" (the part of an audio signal that contains the actual audio information).
 
 Key Controls and Settings:
 
-* `Bit Shifter:` Adjusts level and pan without altering the mantissa
-	+ Range: N/A (bit-shifting based)
-	+ Type: Discrete
-* `Simple Averager:` Filters the mix with one operation and a bit shift, preserving original gain
+* `Bit Shifter:` A control for shifting bits without altering the mantissa
+	+ Range: -24 dB to 0 dB
+	+ Type: Linear
+* `Simple Average:` A control for filtering using simple averaging
+	+ Range: Off to 1.00
+	+ Type: Linear
+* `Saturation Level:` A control for setting the saturation level
 	+ Range: 0% to 100%
-	+ Type: Simple average
-
-Caveats:
-
-Limited expressiveness; not suitable for precise EQing or compression. High sample rates (96k or higher) are recommended.
+	+ Type: Linear
 
 Best Use Cases:
-
-* Mixing with high track counts and a focus on broad-stroke adjustments
-* Creating mixes that prioritize the raw, untouched signal above all else
+This plugin will appeal to users who want a unique sound that prioritizes minimalism and preserving the original audio information. It's ideal for those who want to create mixes that sound like life, not like a DAW.
 
 Tips on Optimal Settings:
-
-* Run at 96k or 192k to take advantage of averaging and filtering
-* Think in aggregates and manage groups of tracks as a whole rather than individual tracks
+To get the most out of Console Zero, run your DAW at 96k or higher, manage groups of tracks as a whole (think in aggregates), and use high track counts to take advantage of the averaging and filtering.

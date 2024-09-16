@@ -1,24 +1,19 @@
 BiquadNonLin
 
-A 4-band frequency filter for sound processing.
-
 Key Controls and Settings:
 
 * `Type:` 
-	+ Range: 0 to 1
-	+ Type: selector (lowpass, bandpass)
-* `Inv/Wet control:` 
-	+ Range: -100% to 100%
-	+ Type: blend control
-* `NonLin:` 
-	+ Range: 0% to 100%
-	+ Type: nonlinearity control
-
-Caveats:
-Sweeping up the filter at high NonLin settings can make nonlinearity more audible.
+	+ Range: 0 (lowpass) to 1 (bandpass)
+* `Inv/Wet control:` Use Inv instead of Wet for highpasses or notches
+* `NonLinearity:` Set to high values (e.g. 0.5) for more obvious effects
 
 Best Use Cases:
-Stacking biquad filters for a typical DAW EQ sound, creating a distributed ultrasonic filter, or using as the guts of a future ConsoleSL plugin.
+* Stacking biquad filters to create a typical DAW EQ sound
+* Adding nonlinearity to a steep, resonant filter
+* Creating a distributed ultrasonic filter
 
 Tips on Optimal Settings:
-Setting Type to 0 is lowpass, setting it to 1 is bandpass. High NonLin values enhance nonlinearity. Use Inv instead of Wet for highpasses and notches.
+* Type at 0 is a lowpass, Type at 1 is a bandpass
+* Set NonLin to high values (e.g. 0.5) to enhance nonlinearity
+* Use Inv instead of dry/wet control for highpasses and notches
+* Sweep the filter up at high NonLin settings to make nonlinearity more apparent

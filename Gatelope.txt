@@ -1,21 +1,14 @@
-Gatelope
-
-A special gate that applies filters to reject unwanted frequencies and sustain desired ones.
-
 Key Controls and Settings:
 
-* Threshold: Adjust the level at which the gate starts to operate.
+* Threshold: Adjusts the level at which the gate starts to operate.
 	+ Recommended method of use: find the proper gating threshold with this top slider.
 * Attack Speed: Fine-tune the speed at which the gate responds to input changes.
+	+ May be adjusted depending on where you find the optimal threshold point.
 * Treble Sustain: Regulate how long high-frequency signals are sustained after the gate closes.
 * Bass Sustain: Control how long low-frequency signals are sustained after the gate closes.
-* Dry/Wet Ratio: Blend the original signal with the gated effect to achieve the desired balance.
-
-Caveats:
-None specified.
+* Dry/Wet Ratio: Blend the original signal with the gated effect to achieve a balanced sound.
 
 Best Use Cases:
-Tightening up spot mics on kick drums by rejecting low frequency rumble and sustaining high frequencies. Rejecting cymbal bleed from tom mics while preserving low-end sustain.
 
-Tips on Optimal Settings:
-Experiment with Attack Speed and Sustain settings to achieve the desired effect. Adjust Dry/Wet Ratio to balance the gated sound with the original signal.
+* Tightening up spot mics on kick drums by rejecting low frequency rumble and sustaining high frequencies.
+* Rejecting cymbal bleed from tom mics while preserving low-end sustain.

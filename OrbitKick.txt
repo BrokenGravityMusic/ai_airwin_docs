@@ -1,32 +1,26 @@
 OrbitKick
-Plugin that generates bass and reinforces kick drum sounds
+-----------
+
+Plugin Name: OrbitKick
+Function Overview: Bass generator and kick drum reinforcer.
 
 Key Controls and Settings:
 
-* `Drop`: Sets the speed at which the note drops from its peak value.
-	+ Range: From "not at all" to very quick.
-	+ Type: Speed control
-* `Shape`: Adjusts the shape of the drop, affecting the attack of the sound.
-	+ Range: Can produce punchier attacks or more gradual ones.
-	+ Type: Shape control
-* `Start`: Determines how high up the attack goes in conjunction with Thresh.
-	+ Range: Adjusts the starting point of the note's attack.
-	+ Type: Attack control
-* `Thresh`: Sets the threshold at which the note is triggered.
-	+ Range: Varies, depending on Start and other settings.
-	+ Type: Threshold control
-* `Finish`: Controls where the note cuts off.
-	+ Range: Can be set super low to achieve clicky releases.
-	+ Type: Release control
+* Drop: Adjusts the rate at which the note drops, from "not at all" to very quick.
+* Shape: Tapers the attack of the note, affecting its punchiness.
+* Start: Sets the initial amplitude of the attack, in conjunction with Thresh.
+* Thresh: Threshold at which the note is triggered.
+* Finish: Cuts off the note, set low for clicky releases.
 
 Caveats:
-* Can produce unpleasant noises if input sound lacks a distinct attack.
+* Does not sound like a sample; produces living bass-like effects.
+* Will produce unpleasant noises if input sound lacks a distinct attack.
 * May not work as intended on low-fidelity playback devices, such as laptops or cellphones.
 
 Best Use Cases:
-Ideal for generating deep bass sounds and reinforcing kick drums in music production. Suitable for use in a variety of genres, including electronic dance music (EDM) and hip-hop.
+* Adding deep bass to percussive sounds
+* Creating thump or "pewww!" laser sounds
 
 Tips on Optimal Settings:
-* To achieve shorter kicks, adjust Drop, Start, and Finish accordingly.
+* For shorter kicks, adjust Drop, Start, and Finish accordingly.
 * Experiment with Shape to find the perfect balance between attack and decay.
-* Be cautious when using high settings for Drop and Thresh, as this can lead to unstable or "scruffy" note triggering.

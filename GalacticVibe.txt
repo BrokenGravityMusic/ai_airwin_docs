@@ -1,28 +1,25 @@
 GalacticVibe
 
+
 A stereo vibrato plugin producing quadrature modulated outputs, creating a chorus-like effect.
+
 
 Key Controls and Settings:
 
 * `Input`: Audio input to process.
-* `Dry/Wet Control`: Blends the modulated sound with the original audio.
-* `Speed`: Adjusts the speed of the vibrato modulation (range: varies).
-* `Depth`: Controls the amount of vibrato applied to each channel.
-* `Mode/Type`: Not specified, but presumably a simple on/off switch.
+* `Speed:` Control the speed of the vibrato modulation.
+* `Depth:` Adjust the depth of the vibrato modulation.
+* `Dry/Wet:` Blend dry signal with processed signal (wet).
 
-Caveats:
-None specified.
 
 Best Use Cases:
 
 * Creating a chorus-like effect with a unique, organic quality.
 * Adding slow swirly effects to audio signals.
 * Ramping up speed for a striking "Leslie, but not Leslie" quality.
-* Enhancing stereo imaging with subtle pitch modulation.
+
 
 Tips on Optimal Settings:
 
 * Experiment with different Speed and Depth settings to achieve the desired vibrato effect.
-* Adjusting Dry/Wet control can help balance between chorus-like effect and original sound.
-* For a more dramatic effect, increase the quadrature modulation speed or boost the depth.
-* To achieve a smoother sound, reduce the quadrature modulation speed or decrease the depth.
+* Adjusting Dry control can help balance between chorus-like effect and original sound.

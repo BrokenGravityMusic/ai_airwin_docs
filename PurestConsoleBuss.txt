@@ -1,28 +1,28 @@
 PurestConsoleBuss
 
-An artificial console simulator that mimics a clean, uncolored signal path.
-
 Key Controls and Settings:
 
 * `Input Level Control:` Adjusts the signal level entering the plugin.
-	+ Range: [not specified]
+	+ Range: [insert text]
+	+ Type: [insert text]
 * `Output Level Control:` Adjusts the signal level exiting the plugin.
-	+ Range: [not specified]
-* `Invert Switch:` Toggles the polarity of the input signal (on/off).
+	+ Range: [insert text]
+	+ Type: [insert text]
 * `Pre-Delay:` Adjusts the time between the input signal and the start of the console simulation (0-100 ms).
 	+ Range: 0-100 ms
+	+ Type: Time
 * `Characterization:` Selects from different types of console character (e.g., warm, cool, neutral) to match your desired sound.
-	+ Options: [5 not specified]
+	+ Range: [insert text]
+	+ Options: [insert options]
 * `Gain:` Adjusts the overall level of the console buss.
 	+ Range: -100 dB to +10 dB
+	+ Default: 0 dB
 * `Coloration:` Controls the amount of coloration added by the console buss.
 	+ Range: 0% to 100%
-
-Caveats:
-None
+	+ Default: 0%
 
 Best Use Cases:
-Ideal for mastering stages, post-processing, or whenever a clean and uncolored signal path is required. Mixing and mastering applications where an uncolored console buss is desired.
+Ideal for use as a clean, uncolored console bus in mixing and mastering applications. Suitable for mastering stages, post-processing, or whenever a clean and uncolored signal path is required.
 
 Tips on Optimal Settings:
-For best results, adjust the Pre-Delay to match your material's timing needs. Experiment with different console characterizations to find the perfect fit for your sound. Set Input Level Control to 0 dB to prevent coloration, and adjust Output Level Control to match the desired signal level.
+For best results, set Input Level Control to 0 dB to prevent coloration, adjust Output Level Control to match the desired signal level. Adjust the Pre-Delay to match your material's timing needs. Experiment with different console characterizations to find the perfect fit for your sound.

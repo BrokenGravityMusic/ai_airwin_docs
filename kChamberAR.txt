@@ -1,29 +1,25 @@
 kChamberAR
 
-A plugin that simulates a tape echo into a chamber, with an aggressive and wild sound.
+A take on tape echo into chamber echo, producing a dirty, aggressive, and wild sound.
 
 Key Controls and Settings:
 
-* Regeneration: controls the feedback level and distortion of the echo effect
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Bass Cut: filters high frequencies to create a darker sound
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Delay Time: adjusts the delay time between echoes, which can cause pitch modulation when cranked up
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Predelay: sets the initial delay before the main echo effect kicks in
-	+ Range: [insert text]
-	+ Type: [insert text]
+* Regeneration: Adjusts the amount of feedback and echo. Cranking it up can cause distortion and infinite echo.
+	+ Range: 
+	+ Type: 
+* Bass Cut: Filters out low frequencies. Cranking it up causes harder filtering than the real Abbey Road STEED unit.
+	+ Range: 
+	+ Type: 
+* Delay Time: Sets the delay time for the echo effect. Cranking it all the way to the left for minimum delay may increase CPU usage. Adjusting this control can also cause wild pitch modulations.
+	+ Range: 
+	+ Type: 
+* Predelay: Sets the initial delay before the main echo effect kicks in
+	+ Range: 
+	+ Type: 
 
 Caveats:
-Cranking up Regeneration or Delay Time can lead to infinite echo and CPU usage.
-Keeping Predelay in the middle range is recommended for optimal performance.
+Cranking Regeneration or Bass Cut too high can cause distortion and instability.
+Cracking up Delay Time or Predelay can lead to infinite echo, CPU usage, and pitch modulation.
 
 Best Use Cases:
-Ideal for creating unique, aggressive soundscapes and instrument effects.
-
-Tips on Optimal Settings:
-Experiment with different settings to achieve a desired level of distortion and pitch modulation. Keep Regeneration and Bass Cut levels moderate to maintain a stable sound.
-For minimal delay time, keep the Regeneration and Bass Cut in the middle range to avoid excessive CPU usage and wild pitch modulations.
+Creating unique, aggressive sounds for instrumentals and experimental music.

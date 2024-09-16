@@ -1,21 +1,19 @@
 Console 5 Algorithm
-
-no description needed
-
+`insert one-line description`
 Key Controls and Settings:
 
-* DC Suppression: A toggle switch to enable or disable gentle DC suppression (optional)
-	+ Range: Off/On
+* `DC Suppression:` A toggle switch to enable or disable gentle DC suppression (optional)
+	+ Range: On/Off
 	+ Type: Toggle
-* Threshold: Adjusts the level at which DC correction is applied (dB)
-	+ Range: -20 dB to [insert text]
-	+ Type: Slider
+* `Threshold:` Adjusts the level at which DC correction is applied (dB)
+	+ Range: [insert text]
+	+ Type: [insert text]
 
-Caveats:
-Gain Structure: Should be placed after gain staging and EQ, as it is not intended to correct low-frequency imbalances caused by these processes.
+Gain Structure:
+C5RawBuss should be placed after gain staging and EQ, as it is not intended to correct low-frequency imbalances caused by these processes.
 
 Best Use Cases:
-Use in situations where a transparent, console-style compression is desired. Ideal for mixing and mastering applications where gentle dynamics control is needed.
+Use in situations where a transparent, console-style compression is desired. Ideal for mixing and mastering applications where gentle dynamics control is needed. Mixing scenarios where a subtle, gentle correction of DC imbalances is required. Mastering scenarios where a gentle correction of low-frequency imbalances can enhance overall mix coherence.
 
 Tips on Optimal Settings:
-Adjust DC suppression to taste (if enabled) to prevent unwanted tone coloration. Experiment with different threshold settings to achieve the desired compression ratio.
+Adjust DC suppression to taste (if enabled) to prevent unwanted tone coloration. Experiment with different threshold settings to achieve the desired compression ratio. Adjust the Threshold control to taste, but generally set it around -20 dB to avoid over-correcting.

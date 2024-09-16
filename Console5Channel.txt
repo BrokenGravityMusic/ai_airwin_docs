@@ -1,29 +1,33 @@
 Console5Channel
 
-Simulates a 5-channel analog console with a rich and warm sound.
+A console simulator plugin that adds warmth and richness to audio signals.
 
 Key Controls and Settings:
 
-* Channel Gain: Adjusts the overall gain of each channel (1-100)
-	+ Range: 1-100
-	+ Type: Level adjustment
-* Channel EQ:
-	+ Range: Depends on specific frequencies selected
-	+ Type: Frequency correction
-* Channel Compressor:
-	+ Threshold, Ratio, Attack, Release: Control dynamic range for each channel
-	+ Type: Dynamic range control
-* Master Bus Compressor:
-	+ Threshold, Ratio, Attack, Release: Global dynamic range control
-	+ Type: Global dynamic range control
-* Mix: A blend control for mixing the processed sound with the original (not present in all versions)
-	+ Range: 0% to 100%
+* `Input Gain:` Adjusts the input level of the plugin.
+	+ Range: 
+	+ Type: Input gain control
+* `Color Control:` Affects the overall tone and character of the simulated console.
+	+ Range: 
+	+ Type: Tone control
+* `Width:` Adjusts the stereo image width of the affected signal.
+	+ Range: 
+	+ Type: Stereo imaging control
+* `Level:` Sets the overall output level of the plugin.
+	+ Range: 
+	+ Type: Output level control
 
-Caveats:
-May require additional processing power due to increased feature set. Can introduce noticeable coloration to audio signals if settings are not adjusted carefully.
+Channel Gain: Adjusts the overall gain of each channel (1-100).
+Master Bus Compressor: Global dynamic range control (threshold, ratio, attack, release).
 
 Best Use Cases:
-Suitable for mixing and mastering music in various genres, especially those requiring a warm and rich sound.
+Adding warmth and character to acoustic instruments, such as piano or guitar.
+Enhancing the sound of mixes and buses in music production.
+Mixing and mastering applications where a richer console tone is desired.
+Live sound and FOH mixing situations where a warm and detailed sound is required.
 
 Tips on Optimal Settings:
-Adjust channel gain to optimal levels (-20 dB to -10 dB) before applying EQ and compression. Use Master Bus Compressor sparingly to maintain headroom. Adjust channel gain and EQ settings to match the specific instrument or voice being processed. Use compression judiciously to maintain dynamic range and prevent over-compression.
+Start with a low Color Control setting (around -6 dB) and adjust to taste.
+Use Width settings between 50-75% for a balanced stereo image.
+Adjust Channel Gain to optimal levels (-20 dB to -10 dB) before applying EQ and compression.
+Use Master Bus Compressor sparingly to maintain headroom.

@@ -1,30 +1,26 @@
-PlatinumSlew
-
-A multistage slew clipper that alters transients of high-end frequencies while affecting subsonics and bass, producing a distinct retro sound.
+A multistage slew clipper that alters the transients of high-end frequencies while also affecting subsonics and bass.
 
 Key Controls and Settings:
 
-* `Input:` The audio signal to be processed.
-	+ Range: N/A
-	+ Type: Audio input
-* Rate of Change: Adjusts the rate at which slew clipping occurs. Higher values produce more pronounced effects.
-	+ Range: [insert text]
-	+ Type: Parameter control
-* Slew Setting: Controls the amount of slew clipping applied to the input signal.
-	+ Range: 0% to 100%
-	+ Type: Parameter control
-* Transients: Adjusts transients of high-end frequencies.
-	+ Range: N/A
-	+ Type: [insert text]
-* Bass Response: Adjusts subsonics (bass) response.
-	+ Range: N/A
-	+ Type: [insert text]
+* Input: The audio signal to be processed.
+* Rate of Change: Adjusts the algorithm's ability to alter transients and subsonics. Higher values produce more pronounced effects.
+	+ Range: 
+	+ Type: 
+* Slew Setting: Adjusts the amount of slew clipping applied to the input signal. Cranking it up can lead to sample and hold behavior.
+	+ Range: 
+	+ Type: 
+* Transients: Controls the transients of the high-end.
+	+ Range: 
+	+ Type: 
+* Bass Response: Adjusts the subsonics (bass) response.
+	+ Range: 
+	+ Type: 
 
 Caveats:
-Cracking the Rate of Change to its maximum can cause audio bugs and energy trapping. Using PlatinumSlew as a sample and hold, especially with fast swooping, can trap energy.
+Cranking Slew to 1.0 can result in sample and hold, trapping energy. Use with caution when applying extreme settings, especially on audio signals that will be amplified or used for low-frequency effects.
 
 Best Use Cases:
-Mastering and post-processing for retro and vibey sounds. Adding unique textures and character to audio signals.
+Adding a unique retro sound to recordings, mastering, and post-processing. Enhancing the character of high-end transients while subtly altering subsonics. Creating distinct sonic textures in electronic music productions.
 
 Tips on Optimal Settings:
-Start with low values for Rate of Change and Slew Setting, and gradually increase them to achieve the desired effect. Experiment with different stages and settings to find the perfect balance for your sound.
+Start with low values for the Rate of Change and Slew Setting controls. Gradually increase the settings to achieve the desired effect. Be cautious when pushing the Rate of Change control to its limits, as it may introduce digital artifacts.

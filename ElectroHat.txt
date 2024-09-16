@@ -1,26 +1,17 @@
 ElectroHat
 
-A hi-hat tone generator that uses original sound as a control voltage.
-
 Key Controls and Settings:
 
 * Control Voltage (CV): feeds some sort of CV to the plugin, can be amplitude modulated for effects.
-	+ Range: not specified
-	+ Type: CV
+	+ Range: N/A
+	+ Type: Not specified
 * Underlying Signal: accepts a square wave tone, which will be rectified to positive only, simulating a control voltage.
-
-Caveats:
-
-Generates artifacts and peculiar electronic noises due to its primitive residue sequence method.
+	+ Range: N/A
+	+ Type: Square wave
 
 Best Use Cases:
-
 Ideal for generating hi-hat tones with unique characteristics and imperfections.
-Use in experimental or creative music production scenarios to create complex, interesting sounds.
 
 Tips on Optimal Settings:
-
 Experiment with amplitude modulation of the CV for interesting effects.
 Use a square wave tone as the underlying signal to rectify it and simulate a control voltage.
-Feed a control voltage to the plugin for dynamic response.
-Rectify square wave tones as an underlying signal for consistent results.

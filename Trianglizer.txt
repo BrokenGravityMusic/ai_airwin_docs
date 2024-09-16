@@ -1,21 +1,18 @@
-Trianglizer
-
 A waveshaper that transforms sines into triangles or triangle-like waves, also capable of adding saturation and dynamic effects.
 
 Key Controls and Settings:
 
 * `Tri/Fat Control`: Adjusts the shape of the output wave from a sharp triangle to a rounded trapezoid.
-	+ Range: Tri for sharp, Fat for rounded
-	+ Type: Waveform modifier
+	+ Range: From sharp triangle (Tri) to rounded trapezoid (Fat)
+	+ Type: Parameter control
 * `Dry-Wet Control`: Blends the original signal with the processed signal to control the amount of effect applied.
 	+ Range: 0% to 100%
 	+ Type: Blend control
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Caveats:
 The plugin's ability to transform sines into triangles or add saturation is dependent on the input level, with louder signals producing sharper triangle-like waves and softer signals producing rounder shapes.
 
 Best Use Cases:
 Adding dynamic effects to music tracks, enhancing the articulation of sine-based instruments like basses, creating a retro sound similar to old Kinks albums or early Sixties music.
-
-Tips on Optimal Settings: 
-To achieve the best results, use the Trianglizer set to "Tri" for sharp and lean effects, and set to "Fat" for added punch and saturation. Adjust the Dry-Wet control to balance the amount of effect applied.

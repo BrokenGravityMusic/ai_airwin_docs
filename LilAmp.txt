@@ -1,29 +1,22 @@
 LilAmp
-================
 
-
-A tiny amp simulator with low gain, ideal for clean, articulate effects or highlighting treble and midrange.
+A tiny amp simulator with low gain, designed for clean, articulate effects or highlighting treble and midrange.
 
 Key Controls and Settings:
 
-
-* `Gain:` Adjusts the overall volume of the plugin.
-	+ Range: Lower values produce a cleaner sound, while higher values increase loudness.
-	+ Type: Slider control
-* `Dry/Wet Control:` A two-stage control that allows adjusting the mix between the cab sim and amp sim sounds.
-	+ Stage 1: Cab Sim Dry/Wet - Controls the amount of dry cab sim signal mixed with the wet signal.
-	+ Stage 2: Amp Sim Dry/Wet - Controls the amount of dry amp sim signal mixed with the wet signal.
-
-Caveats:
-LilAmp is designed to be a clean, articulate effect and may not produce heavy saturation or gain.
+* Gain: Adjusts the overall gain of the amplifier.
+	+ Range: Not specified
+	+ Type: Control
+* Dry/Wet Control:
+	+ Stage 1 (Cab Sim): A special control that provides one stage of dry/wet mixing for the cab simulation.
+	+ Stage 2 (Amp Sim): Another stage controls the amp simulation.
 
 Best Use Cases:
-* Clean, articulate leads
-* Highlighting treble and midrange in rhythm guitar
-* Creating a loud, confined sound effect (e.g., snare drum)
-* Adding a Stonesy vibe to rhythm guitar
+
+* Clean, articulate effects or highlighting treble and midrange.
+* Leads: Enhance treble and midrange for a clear, articulate sound.
+* Snare: Convert snare into a loud, confined whack.
+* Rhythm Guitar (Stonesy style): Get the right kind of midrange bark.
 
 Tips on Optimal Settings:
-* Experiment with different gain levels to find the right balance for your sound.
-* Use the dry/wet control to blend the cab sim and amp sim signals to taste.
-* Try using LilAmp as a starting point and morphing it directly into the desired sound, rather than trying to mimic a specific literal amp.
+Experiment with different gain levels to find the right balance for your sound. Use the dry/wet control to blend the cab sim and amp sim signals to taste.

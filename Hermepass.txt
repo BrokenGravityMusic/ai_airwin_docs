@@ -4,18 +4,19 @@ A mastering highpass filter that allows setting by ear only.
 
 Key Controls and Settings:
 
-* `Cutoff Frequency`: A 0-1 slider controlling the cutoff frequency of the highpass filter (use your ears).
+* `Cutoff Frequency`: A 0-1 slider controlling the cutoff frequency of the highpass filter.
 	+ Range: 0 to 1
-* `Slope Control`: A 0-1 slider controlling the slope of the highpass filter, with continuous adjustment using up to six poles.
+	+ Type: Slider
+* `Slope Control`: Continuously adjusts the highpass slope using up to six poles (staggered), allowing smooth adjustment of how many poles and how steep the slope.
 	+ Pole Count: Adjusts the number of poles used in the filtering process.
 	+ Dry/Wet Control: Internally adjusts the dry/wet ratio for each pole added.
 
 Caveats:
-* Depending on how you set it, the transparent cutting of extreme low frequencies may give rise to higher peaks.
-* Use gain staging, limiting, or clipping to prevent excessive peak levels.
+* Depending on settings, transparent cutting of extreme low frequencies may give rise to higher peaks. Gain stage or use limiting/clipping as needed.
 
 Best Use Cases:
 Ideal for mastering and sound balancing applications where tonality retention is crucial while reshaping extreme lows.
 
 Tips on Optimal Settings:
-Set controls around the middle of their travel for useful results. Gain stage carefully to avoid peaking issues. Consider using limiting or clipping to prevent excessive peak levels.
+* Set controls around the middle of their travel for useful results.
+* Be cautious of increased peaks when cutting extreme low frequencies. Adjust gain levels or use limiting/clipping as necessary to prevent excessive peak levels.

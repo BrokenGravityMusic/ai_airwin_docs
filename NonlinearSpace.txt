@@ -1,24 +1,17 @@
-NonlinearSpace
-
-A flexible reverb plugin with filter controls and acoustic space simulation in the loops.
+A flexible reverb plugin with filter controls and acoustic space simulation.
 
 Key Controls and Settings:
 
-* Nonlinearity: Affects sound sustain; can be used to make louder sounds sustain longer or less.
-	+ To sustain sounds longer, set nonlinearity to "increase" and feed consistent loudness.
-	+ To sustain sounds less, set nonlinearity to "decrease".
-* Sample Rate: Controls buffer lengths; shorter buffers create tighter spaces.
-	+ Set to 44.1K for a small space or 96K for a large stadium-like sound.
-
-Caveats:
-Nonlinearity control may require consistent loudness input.
-Using inappropriate settings can result in unusual and interesting sounds.
+* `Filter Controls:` 
+	+ Low-pass filter: controls low-end frequency response
+	+ High-pass filter: controls high-end frequency response
+* `Acoustic Space Simulation:`
+	+ Space size: sets room size and ambiance
+	+ Reverb time: sets decay time of reverb
+* `Sample Rate:` sets buffer length based on sample rate (44.1K, 48K, 88.2K, or 96K)
 
 Best Use Cases:
-Adding ambiance to tracks with sparse content (e.g., snare track).
-Creating reverb beds that don't decay over time.
-Simulating large spaces or stadium-like environments.
 
-Tips on Optimal Settings:
-Experiment with nonlinearity settings to achieve the desired sound sustain effect.
-Adjust sample rate buffer lengths to suit your desired space size and ambiance.
+* Gated reverb sounds for drums or percussion
+* Ambient pads or textures
+* Large stadium or hall simulations

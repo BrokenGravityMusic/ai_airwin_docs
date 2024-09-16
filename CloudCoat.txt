@@ -1,7 +1,5 @@
 CloudCoat
-
-Array of blur effects
-
+`Array of blur effects`
 Key Controls and Settings:
 
 * `Sustain:` Controls the amount of feedback in the effect.
@@ -10,13 +8,12 @@ Key Controls and Settings:
 * `Depth:` Controls the spaciousness and metallic qualities of the effect.
 	+ Minimum value: 0 (minimum depth)
 	+ Maximum value: 10 (maximum depth)
-* `Select:` Not a standard parameter, but controls how the allpasses are arranged within the effect.
 
 Caveats:
 With sustain set to 0, CloudCoat produces a cloudy, diffuse texture. Increasing sustain creates a more roomy and spacious sound.
 
 Best Use Cases:
-CloudCoat can be used on pads or ambient sounds, or to feed into ClearCoat at the same 'select' setting to create a more powerful room sound.
+For pads or ambient sounds, set Depth to 0-50% and Sustain to 0. To create a powerful room sound, feed CloudCoat into ClearCoat at the same 'select' setting.
 
 Tips on Optimal Settings:
-For pads or ambient sounds, set Depth to 0-50% and Sustain to 0. To disrupt the signal wildly, turn the sustain up for a highly energetic effect.
+To disrupt the signal wildly and fiercely, crank up the feedback loop. This results in a nonlinear reverb effect with broken-up feedback, creating a unique trash sound that is dynamic with your source audio.

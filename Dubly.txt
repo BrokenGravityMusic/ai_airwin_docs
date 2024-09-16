@@ -2,25 +2,25 @@ Dubly
 
 Simulates the retro vibe of classic noise reduction processing, adding a magical aura to audio signals.
 
-Key Controls and Settings:
-
-* `Level`: Adjusts the overall level of the processed signal.
-* `Retro Vibe (Distortion)`: A simple distortion stage that adds harmonics and treble energy to the sound (default: 0.5).
-	+ Range: Turning up the Retro Vibe control can add a hyped, intensified zone to the audio, with increased treble energy.
+* `Level`: Adjusts the overall effect level.
+	+ Range: 
+	+ Type: 
+* `Retro Vibe` (Distortion): A simple distortion stage used in place of tape emulation.
+	+ Threshold: Sets the point at which distortion begins.
+	+ Ratio: Controls the amount of compression applied to the distorted signal.
+	+ Gain: Adds or reduces the overall gain of the distorted signal.
+	+ Range: 
+	+ Type: 
 * `Filter`: A low-pass filter used to simulate the frequency response of vintage noise reduction systems.
-	+ Range: Sets the cutoff frequency of the filter (default: 100 Hz).
-* `Gain`: Adjusts the overall gain of the distorted signal.
+	+ Frequency: Sets the cutoff frequency of the filter.
+	+ Range: 
+	+ Type: 
 
 Caveats:
-
-* Mis-calibrating the Retro Vibe control can lead to an over-processed sound.
-* Using high settings for Distortion and Gain can lead to an overly bright, hyped sound.
-* The plugin does not emulate specific proprietary noise reduction technologies.
+Using high settings for Distortion and Gain can lead to an overly bright, hyped sound. Be cautious when adjusting these controls.
 
 Best Use Cases:
-
-* Adding a delicate aura of retro magic to audio signals (default settings).
-* Creating a hyped, intensified zone with increased treble energy by cranking up the Retro Vibe control.
+Adding a retro vibe to heavy metal or atmospheric music genres. Ideal for enhancing existing recordings with a vintage touch.
 
 Tips on Optimal Settings:
-Experiment with different levels of Retro Vibe and filter settings to achieve the desired sound. Be careful not to over-process the audio.
+Start by setting Level and Filter to their default values (0.5 and 100 Hz, respectively). Experiment with Distortion settings to achieve the desired level of warmth and magic in your sound.

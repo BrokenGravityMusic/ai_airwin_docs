@@ -1,26 +1,72 @@
 RawTimbers
 
-Truncates highs, softens audio, generates bright quantization noise
+
+A plugin that softens audio, rolls off highs, and generates a unique bright quantization noise floor.
+
 
 Key Controls and Settings:
 
-* `Gain:` [Adjusts fixed loudness level above 24-bit noise floor]
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `LowPass:` [Cutoff frequency for rolling off highs]
-	+ Range: [insert text]
-	+ Type: [insert text]
-
-Key Points:
-
-* Similar to dithering, but without noise shaping
-* Can be used in combination with RawGlitters to create interesting third sound
-
-Caveats:
-Users should keep volume levels reasonable during testing
+* `Gain:`
+	+ Range: 
+	+ Type: 
+* `Threshold:` The loudness level at which the effect occurs
+	+ Range: 
+	+ Type: 
+* `Output Bit Depth:` Allows users to select the desired output bit depth for testing purposes
+	+ Range: 
+	+ Type: 
 
 Best Use Cases:
-Creating matching files for double-blind testing, CD-making
+
+* Testing the limits of human hearing in double-blind tests
+* Creating distinctive sounds for electronic music productions
 
 Tips on Optimal Settings:
-Use RawTimbers first followed by RawGlitters for unique sound combinations
+For best results, use RawTimbers at moderate loudness levels and adjust the output bit depth accordingly.
+
+
+RawGlitters
+
+
+A plugin that brightens audio and merges it with the noise floor, creating a unique sound.
+
+
+Key Controls and Settings:
+
+* `Gain:`
+	+ Range: 
+	+ Type: 
+* `Threshold:` The loudness level at which the effect occurs
+	+ Range: 
+	+ Type: 
+* `Output Bit Depth:` Allows users to select the desired output bit depth for testing purposes
+	+ Range: 
+	+ Type: 
+
+Best Use Cases:
+
+* Testing the limits of human hearing in double-blind tests
+* Creating distinctive sounds for electronic music productions
+
+Tips on Optimal Settings:
+For best results, use RawGlitters at moderate loudness levels and adjust the output bit depth accordingly.
+
+
+BitShiftGain
+
+
+A feature that allows users to adjust the loudness level for testing purposes.
+
+Key Controls and Settings:
+
+* `Shift:`
+	+ Range: 
+	+ Type: 
+
+Best Use Cases:
+
+* Testing the limits of human hearing in double-blind tests
+* Creating distinctive sounds for electronic music productions
+
+Tips on Optimal Settings:
+For best results, use BitShiftGain to adjust the output accordingly.

@@ -1,30 +1,18 @@
 BuildATPDF
 
-A dither-making toolkit that allows users to tailor the sound of noise in a way they like.
+A dither-making toolkit that allows you to customize the sound of the noise.
 
 Key Controls and Settings:
 
-* Middle sliders: Set to -1 and +1 for DoublePaul style dither.
-	+ With all other sliders at 0, you have PaulDither
-* Other sliders: Adjust to tailor the sound of the noise.
-	+ Oscillation of surrounding sliders can create more of a DoublePaul-like effect
-* Highpass control: Gentle or obvious tonal shaping; can be darkened while preserving dither functionality
-* Tap settings:
-	- Must be set to a combination of -1 and +1 for TPDF highpass functionality
-
-Caveats:
-
-* Using two identical taps (+1 and +1) will result in the same random noise
-* The combination of a -1 and +1 tap is necessary for highpassed TPDF functionality
+* Middle sliders:
+	+ Set to -1 and +1 for DoublePaul-style high-pitched tone
+	+ Adjust other sliders to tailor the sound of the noise
+* Highpass control:
+	+ Gentle or obvious tonal shaping
+	+ Can be darkened while preserving dither functionality
 
 Best Use Cases:
-
-* Mixing and mastering applications where dithering is necessary to prevent distortion
-* Tailoring custom dither noises for specific audio applications
-* Creating unique sound textures by adjusting tap settings
+Tailoring custom dither noises for specific audio applications, mixing and mastering.
 
 Tips on Optimal Settings:
-
-* Adjusting other sliders while keeping -1 and +1 taps set can help create a desired sound
-* Experimenting with different slider settings and tap combinations can produce unique effects
-* Oscillating sliders to create more of a DoublePaul-like effect, or adjust highpass control to suit the desired tonal characteristics.
+Adjusting surrounding sliders to create varying degrees of oscillation and tone, experimenting with different slider settings and tap combinations can produce unique effects.

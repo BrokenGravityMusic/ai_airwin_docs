@@ -1,55 +1,41 @@
 ConsoleMCBuss
 
-An emulation of the MCI audio console.
-
 Key Controls and Settings:
 
-* Input Gain: Adjusts the overall level of the input signal.
-	+ Range: [not specified]
-	+ Type: adjustment
-* Output Level: Sets the output level of the plugin.
-	+ Range: not specified
-	+ Type: setting
-* Tone Shaping: Allows for adjustments to the tone of the input signal.
-	+ Not specified
-* Metering: Displays a VU meter to indicate the output level.
-	+ Not specified
-* Mix: Adjusts the overall mix level, ranging from -20 dB to 0 dB.
+* Input Gain: Adjusts overall level of input signal.
+	+ Range: Not specified
+	+ Type: Not specified
+* Output Level: Sets output level of plugin.
+	+ Range: Not specified
+	+ Type: Not specified
+* Tone Shaping: Allows adjustments to tone of input signal.
+	+ Range: Not specified
+	+ Type: Not specified
+* Metering: Displays VU meter to indicate output level.
+	+ Range: Not specified
+	+ Type: Not specified
+* Mix: A blend control for mixing processed sound with original.
 	+ Range: -20 dB to 0 dB
-	+ Type: adjustment
-* Gain: Controls the gain makeup for the console, with a range of -6 dB to +6 dB.
+	+ Type: Blend control
+* Gain: Controls gain makeup for console.
 	+ Range: -6 dB to +6 dB
-	+ Type: setting
-* Tone: A four-band EQ with controls for Bass, Low Mid, High Mid, and Treble, each with a range of ±15 dB.
-	+ Range: ±15 dB
-	+ Type: adjustment
-* Gain (v2): Adjusts overall volume level (0-10 dB).
-	+ Range: 0-10 dB
-	+ Type: setting
-* Drive: Adds warmth and character to the sound (0-100%).
-	+ Range: 0-100%
-	+ Type: setting
-* Presence: Boosts high-end frequencies for added clarity (0-10 dB).
-	+ Range: 0-10 dB
-	+ Type: adjustment
-* Low Cut: Removes low-end rumble and hum (20 Hz - 200 Hz).
-	+ Range: 20 Hz - 200 Hz
-	+ Type: setting
-
-Caveats:
-None specified.
+	+ Type: Gain control
+* Tone:
+	- Bass: Adjusts low-end frequencies.
+		+ Range: ±15 dB
+		+ Type: EQ control
+	- Low Mid: Adjusts mid-range frequencies.
+		+ Range: ±15 dB
+		+ Type: EQ control
+	- High Mid: Adjusts high-mid range frequencies.
+		+ Range: ±15 dB
+		+ Type: EQ control
+	- Treble: Adjusts high-end frequencies.
+		+ Range: ±15 dB
+		+ Type: EQ control
 
 Best Use Cases:
-
-* Ideal for emulating the sound of an MCI audio console, particularly in film and television production.
-* Mixing vocals or instruments that require a warm, vintage sound.
-* Adding character to a mix without sacrificing clarity.
-* Mastering and mixing of music productions requiring a vintage console sound.
-* Adding warmth and character to individual tracks or stems.
+Ideal for emulating sound of MCI audio console, particularly in film and television production. Mixing vocals or instruments that require warm, vintage sound.
 
 Tips on Optimal Settings:
-Experiment with Input Gain and Tone Shaping to achieve the desired tone. Adjust Output Level as needed to match the intended loudness.
-Adjust Mix and Gain settings to achieve the desired output level.
-Use Tone controls to enhance specific frequency ranges and create a balanced sound.
-For a bright, upfront sound, set Gain (v2) to 5 dB and Drive to 50%.
-To add more presence, increase Presence control up to 5 dB.
+Experiment with Input Gain and Tone Shaping to achieve desired tone. Adjust Output Level as needed to match intended loudness. Adjust Mix and Gain settings to achieve desired output level. Use Tone controls to enhance specific frequency ranges and create balanced sound.

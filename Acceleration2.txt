@@ -1,25 +1,7 @@
 Acceleration2
-
-An updated high-frequency limiter that glues and tames harsh digital brightness, preventing Gibb effect overshoots and crackle, while preserving sparkle and air in recordings.
-
-Key Controls and Settings:
-* `Limit`: Adjusts the intensity of the limiting effect.
-	+ Small amounts: Tames edge without affecting overall brightness.
-	+ Larger amounts: Can make highs soft and dull (not recommended).
-* `Taming Control` (formerly Acceleration): Regulates how "hard" the limiter glues the highs.
-* `Sample Rate`: Updated version works at all sample rates without issues.
-
 Caveats:
-* Excessive use can make the highs sound dull or muffled.
-* Best used in small amounts to subtly tame harsh digital brightness.
-
+Excessive use can make the highs sound dull or muffled.
 Best Use Cases:
-* Mastering music for vinyl cutting heads.
-* Taming excessive high-frequency energy in very digital mixes.
-* Preserving sparkle and air in recordings while eliminating harsh brightness.
-
+Mastering music for vinyl cutting heads, Taming excessive high-frequency energy in very digital mixes, Preserving sparkle and air in recordings while eliminating harsh brightness.
 Tips on Optimal Settings:
-* Apply small amounts of Limit control (1-2 dB) to subtly tame edge without affecting overall brightness.
-* Use the Taming Control to regulate how "hard" the limiter glues the highs, depending on the desired tone.
-
-Avoid over-limiting, as it can make things sound soft and dull. The purpose is not to alter EQ settings, but rather to glue high frequencies together. Apply Acceleration2 as a final mastering step before EQ or other processing.
+Apply small amounts of Limit control (1-2 dB) to subtly tame edge without affecting overall brightness. Use the Taming Control to regulate how "hard" the limiter glues the highs, depending on the desired tone.

@@ -4,23 +4,25 @@ A moderately saturated analog limiter with OneCornerClip-like behaviors.
 
 Key Controls and Settings:
 
-* `Threshold`: Kicked down low initially, then expands to full scale, interactive with audio input.
+* `Threshold:` Kicked down low initially, then expands to full scale.
+	+ Range: Interactive with audio input
+	+ Type: Determines compression level
+* `Gain:` Offers a lot of gain for peak limiting or slamming into effect.
 	+ Range: Not specified
-	+ Type: Determining compression level
-* `Gain`: Offers a lot of gain for peak limiting or slamming into effect.
-	+ Range: Not specified
-	+ Type: Peak limiting or heavy compression
-* `Dry/Wet`: Blends between original (dry) and compressed (wet) output. Turning off can be used to introduce raw digital clipping.
+	+ Type: Allows for peak limiting or heavy compression
+* `Dry/Wet:` Blends between uncompressed (dry) and compressed (wet) output.
 	+ Range: 0% to 100%
-	+ Type: Blend control for mixing the processed sound with the original
+	+ Type: Controls the amount of processed audio mixed with the original signal
 
 Caveats:
-No lookahead or tone preservation.
-Threshold is unstable due to interaction with audio input.
+
+* No lookahead or tone preservation.
 
 Best Use Cases:
-Peak limiting and loudness maximizing
-Smashing drums and other sounds in a distinctive way
+
+* Peak limiting for loudness maximizing (use small amounts).
+* Smashing drums and other sounds in a distinctive way.
+* Slamping sounds into it for effect.
 
 Tips on Optimal Settings:
-Use small amounts for subtle effects, or turn up the gain to achieve more aggressive compression. The clipping stage is after the dry/wet control, so adjust accordingly to avoid digital clipping.
+Use small amounts of gain for peak limiting or subtle effects. Adjust threshold and gain to balance compression levels. Experiment with dry/wet settings to control the amount of processed audio.

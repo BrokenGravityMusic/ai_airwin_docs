@@ -1,23 +1,20 @@
 FathomFive
 
-Supplements extreme bass, acting like a combination between an EQ and a bass amp, using a special Airwindows algorithm.
+A plugin that supplements extreme bass, acting like a combination between an EQ and a bass amp.
 
 Key Controls and Settings:
 
-* Gain: Adjusts the overall level of the plugin.
-* Tone Control: Affects the frequency response of the plugin.
-* Bass Amp: Adjusts the level of bass amp simulation.
-* Low End Boost: Adjusts the amount of low-end boost using a custom Airwindows algorithm.
-* Freq: Sets the frequency range for the low-end boost.
-* Gain: Adjusts the overall gain of the plugin.
-
-Mix: A blend control for mixing the processed sound with the original, though not explicitly mentioned, is assumed to be available as per typical plugins in this category. 
+* `Gain:` Adjusts the overall level of the plugin.
+* `Tone Control:` Affects the frequency response of the plugin.
+* 
+* Mix: Not explicitly mentioned.
+* 
 
 Caveats:
-FathomFive can spit out excessive DC offsets if not managed properly. Monitor the plugin's output to avoid this issue. This is an older plugin and may produce unwanted effects.
+This is an older plugin and may produce excessive DC offsets if not managed properly. Monitor the plugin's output closely to avoid this issue.
 
 Best Use Cases:
-FathomFive is suitable for sound design, isolated tracks, or as part of an Airwindows DAW workflow. It's particularly useful when supplementing extreme bass in these scenarios.
+FathomFive is suitable for sound design, isolated tracks, or as part of an Airwindows DAW workflow. It can also be used with Console4 to achieve a big-sounding mix while minimizing processing on most mix elements.
 
 Tips on Optimal Settings:
-Use FathomFive in conjunction with Console4 to achieve a big-sounding mix while minimizing processing on most mix elements. Adjust the tone control and gain accordingly to suit your needs, taking care not to produce excessive DC offsets.
+Use FathomFive in conjunction with Console4 and adjust the tone control and gain accordingly to suit your needs.

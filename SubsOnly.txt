@@ -1,18 +1,11 @@
-`SubsOnly`
+SubsOnly
 
-A mix check plugin that shows only the extreme lows of a subsonic bass.
+A mix check plugin that shows only the extreme lows, similar to SlewOnly.
 
 Key Controls and Settings:
-* `Switch`: Turn the plugin on or off.
-* No controls or settings are available, as it is a control-less plugin.
 
-Place at the end of your master buss to hear how your 2-buss chain affects the sound.
-
-Caveats:
-Avoid overloading the plugin, as it can result in a loss of groove and an excessive amount of noise. Don't switch right back to the normal sound after using SubsOnly, as it will sound incredibly dull.
+* Switch: Turn the plugin on or off.
+* Placement: Insert the plugin at the end of your master buss to hear the effect of your 2-buss chain.
 
 Best Use Cases:
-Use at the end of your master buss to hear what your 2-buss chain did to the sound. Especially useful for sanity checking when trying to achieve "commercially loud" volumes. Add depth and clarity to sub-bass elements in your mix, and tweak them against each other with SubsOnly.
-
-Tips on Optimal Settings:
-Rest your ears for a moment before resuming work after using SubsOnly.
+Use at the end of your master buss to hear what your 2-buss chain did to the sound. Especially useful for sanity checking when trying to achieve "commercially loud" volumes.

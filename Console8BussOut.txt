@@ -1,27 +1,16 @@
-Console8BussOut
-
-Analog simulator that converts a plugin's output to a channel, submix, or buss topology, adding warmth and character to individual tracks or mixes.
-
 Key Controls and Settings:
 
-* `Topology:` Select the type of topology for the plugin's output (channel, submix, or buss).
-	+ Type: [choose one: Channel/Submix/Buss]
-* `Analog Simulation:` Adjust the level of analog simulation applied to the output.
-	+ Range: 0% to 100%
-	+ Type: Choose from various analog simulation modes (e.g. preamp, EQ, compressor)
-* `Gain Staging:` Adjust the gain level of the simulated signal.
-	+ Range: -20 dB to +20 dB
-	+ Type: Linear or Logarithmic gain staging
-* `Impedance:` Set the impedance of the analog circuitry.
-	+ Range: 10kOhm to 100kOhm
-
-Caveats:
-Be aware that increasing analog simulation can introduce noise and artifacts.
+* `Topology:` Choose the desired topology for the plugin's output (channel, submix, or buss)
+	+ Type: Channel/Submix/Buss
+* `Analog Simulation:` Select from various analog simulation modes (e.g. preamp, EQ, compressor) to add depth to your sound
+	+ Range: N/A
+	+ Type: Analog Simulation type
+* Gain Staging: Adjust the gain level of the simulated signal
+	+ Range: N/A
+	+ Type: Gain Staging
 
 Best Use Cases:
 
-* Mixing and mastering applications where a more authentic, analog sound is desired.
-* Adding warmth and character to individual tracks or submixes.
-
-Tips on Optimal Settings:
-Start with minimal gain staging (0-3 dB) and minimal analog simulation (0-10%). Adjust topology, gain staging, and impedance based on your mixing or mastering needs. Experiment with different analog simulation types to find the desired tone.
+* Adding an analog "flavor" to plugin outputs for mixing and mastering
+* Enhancing low-end clarity and warmth in bass-heavy mixes
+* Creating a hybrid digital-analog sound for unique character

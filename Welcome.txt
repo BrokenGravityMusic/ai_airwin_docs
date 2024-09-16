@@ -1,62 +1,71 @@
-Audio Processing Units
+Tychobrahe Plugin Suite
+`insert one-line description`
+Key Controls and Settings:
 
+* `Dithers`:
+	+ HighImpact: 
+		- Range: 
+		- Type: 
+	+ Dark: 
+		- Range: 
+		- Type: 
 
-* Dithers: A collection of dithering algorithms to add noise or distortion to an audio signal.
-	+ Examples: Dark, PaulDither
-* Dynamics: A group of compressors, expanders, and limiters for controlling the loudness and dynamics of an audio signal.
-	+ Examples: Pop2, Pressure5, Dynamics
-	+ Controls:
-		- `Threshold:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-		- `Ratio:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Effects: A wide range of creative effects, including reverbs, delays, distortions, and more.
-	+ Examples: Dubly2, GalacticVibe, Fracture2
-	+ Controls:
-		- `Mix:` A blend control for mixing the processed sound with the original
-			+ Range: 0% to 100%
-* Filter: A collection of filters, including parametric EQs, graphic EQs, and other types of filtering tools.
-	+ Examples: Parametric EQs (e.g., Baxandall2, Pear2), Notch filters (e.g., ZNotch2, YNotNotch)
-	+ Controls:
-		- `Frequency:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Lo-Fi: A group of lo-fi audio effects, such as tape simulations, vinyl emulation, and other vintage-style sounds.
-	+ Examples: Flutter2, DeRez3
-	+ Controls:
-		- `Speed:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Noise: A set of noise-generating algorithms for adding texture or ambiance to an audio signal.
-	+ Examples: Noise generators (e.g., Noise, Texturize)
-	+ Controls:
-		- `Level:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Reverb: A collection of reverb plugins for creating spacious, ambient sounds.
-	+ Examples: Galactic2, Chamber2
-	+ Controls:
-		- `Room Size:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Saturation: A group of saturation algorithms for adding warmth and character to an audio signal.
-	+ Examples: Tube simulators (e.g., Creature, Tube2)
-	+ Controls:
-		- `Drive:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
-* Stereo: A set of stereo imaging tools, including widener, mono-maker, and other effects for controlling the spatiality of a stereo signal.
-	+ Examples: Srsly, Wider
-	+ Controls:
-		- `Width:` [insert text]
-			+ Range: [insert text]
-			+ Type: [insert text]
+* `Dynamics`:
+	+ Pop2: 
+		- Range: 
+		- Type: 
+	+ Pressure5: 
+		- Range: 
+		- Type: 
 
-Caveats:
+* `Effects`:
+	+ Dubly2: 
+		- Range: 
+		- Type: 
+	+ GalacticVibe: 
+		- Range: 
+		- Type: 
 
+* `Filter`:
+	+ Parametric EQs (e.g., Baxandall2, Pear2): 
+		- Range: 
+		- Type: 
 
-* Some units have controls with similar names but different functions. Care should be taken to understand the specific behavior of each control.
-* Units may exhibit non-linear or interactive behaviors, so some settings may not behave as expected.
-* Units can produce unusual sounds, so some settings may result in unappealing audio.
+* `Lo-Fi`:
+	+ Tape simulation effects (e.g., Flutter2, DeRez3): 
+		- Range: 
+		- Type: 
+
+* `Noise`:
+	+ Noise generators (e.g., Noise, Texturize): 
+		- Range: 
+		- Type: 
+
+* `Reverb`:
+	+ Plate reverbs (e.g., kPlateD, kCathedral3): 
+		- Range: 
+		- Type: 
+
+* `Saturation`:
+	+ Tube and transistor simulators (e.g., Creature, Tube2): 
+		- Range: 
+		- Type: 
+
+* `Stereo`:
+	+ Stereo widening and imaging effects (e.g., Srsly, Wider): 
+		- Range: 
+		- Type: 
+
+* `Tone Color`:
+	+ Buss coloration effects (e.g., BussColors4, Channel9): 
+		- Range: 
+		- Type: 
+
+Utility:
+
+* Metering and monitoring tools (e.g., Monitoring3, MidSide): 
+		- Range: 
+		- Type: 
+* Utility processing units (e.g., BitShiftGain, DCVoltage): 
+		- Range: 
+		- Type:

@@ -1,26 +1,19 @@
-YNotch
-
 A smoothed biquad filter with adjustable resonance control, capable of producing a wide range of tonal variations from soft and smooth to nasty and edgy.
 
 Key Controls and Settings:
 
 * `ResEdge`: A smoothing control that can be lowered to 0 for a softer tone or turned up for more edge. Defaults to 0.1.
+* `Frequency`: Sets the filter frequency, ranging from "zero" to "one", acting like DC to Nyquist at any sample rate.
 * `Filter Type`: Selects one of four common biquad options:
 	+ Lowpass
 	+ Highpass
 	+ Bandpass
 	+ Notch
-* `Frequency`: Sets the filter frequency, ranging from "zero" (DC) to "one" (Nyquist) at any sample rate.
 * `Resonance`: A control that can be used to dial in an extreme low or high cut, as well as adjust the sharpness or dullness of the filter edge.
-
-Caveats:
-
-* The plugin does not update/recalculate every sample. However, the code structure allows for this feature if desired at a cost in CPU usage.
-* Running multiple instances of YNotch may be necessary to achieve the desired effect.
-* The plugin expects input signals between -1 and 1 (or lower than 0dBFS in the DAW). It cannot remove huge DC offsets ten times the size of the audio content.
+* `Mix:` A blend control for mixing the processed sound with the original
 
 Best Use Cases:
-Use YNotch as a tone shaper or filter in music production, especially when seeking unique and extreme tonal variations. Ideal for filtering out unwanted frequencies, adding unique textures to sounds, or creating extreme low or high cuts. Suitable for use in sample-instrument tone shaping and plugin design.
+Use YNotch as a tone shaper or filter in music production, especially when seeking unique and extreme tonal variations.
 
 Tips on Optimal Settings:
 To achieve a smooth and organic sound, lower the ResEdge control to 0. To create an extreme edge, increase the ResEdge control and adjust the resonance accordingly. Experiment with different filter types and frequency settings to find unique tones.

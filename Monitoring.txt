@@ -1,38 +1,28 @@
 Monitoring
 
-Settings:
+Settings for extreme monitoring situations:
 
-* Bit Depth: 24-bit and 16-bit options
-* Not Just Another Dither (24-bit and 16-bit dither): enabled by default
-* Monitoring options:
-	+ PeaksOnly, SlewOnly, SubsOnly: extreme monitoring situations
-* Utilities:
-	+ Mono and Side: quick mono check
-* Vinyl, Aurat, and Phone options:
-	+ Bandwidth limiting: ultra-broad bandpass filtering (Vinyl)
-	+ Narrower bandpass filtering (Aurat): simulates output of one-driver mix check speakers
-	+ Very narrow bandpass filtering (Phone): simulates output of cellphone speakers
-* Cans A and B crossfeed algorithms:
-	+ Uses allpasses from PeaksOnly to blur and extend stereo content
-	+ Localizes stereo information while hinting at peak monitoring cues
-	+ Two modes available: subtle (Cans A) and more obvious (Cans B)
-* Cans C and D crossfeed algorithms:
-	+ Cans C: stronger, but still normal crossfeed algorithm
-	+ Cans D: 'headphones energy redistributor' that attacks exaggerated stereo while maintaining some characteristics of Peaks monitoring
+* Not Just Another Dither: 24-bit and 16-bit dither options
+* PeaksOnly, SlewOnly, SubsOnly: switch between peak, slew, and sub-only monitoring options
+* Mix: A blend control for mixing the processed sound with the original (range: 0% to 100%)
+* Mono and Side: utility plugins for quick mono check
 
-Key Controls and Settings:
+Monitoring Options:
 
-* `Control1:` [insert text]
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `Mix:` A blend control for mixing the processed sound with the original
+* Vinyl: traditional lathe electronics-style roll-off
+	+ Bandwidth limiting: ultra-broad bandpass filtering
+* Aurat: narrow bandpass filtering, simulating output of one-driver mix check speakers
+
+Crossfeed Algorithms:
+
+* Cans A: subtle crossfeed for mixing and easy listening (uses allpasses from PeaksOnly)
+	+ Range: 0% to 100%
+* Cans B: more obvious crossfeed for late-night checks or when fatigued
+	+ Range: 0% to 100%
+* Cans C: stronger, but still normal crossfeed algorithm
+	+ Range: 0% to 100%
+* Cans D: 'headphones energy redistributor' that attacks exaggerated stereo while maintaining some characteristics of Peaks monitoring
 	+ Range: 0% to 100%
 
-Caveats:
-insert text
-
 Best Use Cases:
-insert text
-
-Tips on Optimal Settings:
-insert text
+Monitor extreme signal levels, use with headphones for accurate mixing and mastering.

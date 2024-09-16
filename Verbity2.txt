@@ -1,25 +1,27 @@
 Verbity2
 
-A plugin for generating deep reverbs and ambient soundscapes.
+A powerful reverb plugin that excels at generating complex, realistic reverbs with extended tails.
 
 Key Controls and Settings:
 
-* Number of Banks: Choose from 1-5 banks of matrices
-	+ Type: Matrix size
-* Feedback Mode:
-	+ Mono: Dual mono reverb, no feedback
-	+ Hybrid: Two-thirds of the output echo banks remain put, while one-third cross-overs between channels
-	+ Stereo: Ping-pong feedback for maximum width
-* Mulch: Control for naturalness factor, affects how extreme lows are handled
+* `Number of Banks:` Choose from 1-5 banks of matrices
+	+ Type: Matrix size control
+* `Feedback Mode:` 
+	+ Range: Mono to Stereo
+	+ Type: Feedback type selection (Mono, Hybrid, Stereo)
+* `Mulch:` Control for naturalness factor and absorption of extreme lows
 	+ Range: 0% to 100%
-* Number of Reverb Stages: 1-5
-	+ Type: Matrix size and echo banks per stage
-
-Caveats:
-Verbity2 may exhibit unique reverb textures due to its increased matrix size and feedback modes. It may not be suitable for all music genres or styles, and the plugin's performance can vary depending on the system's computational resources.
+	+ Type: Naturalness and absorption control
+* `Stage:` Choose one of five Householder matrix stages
+	+ Type: Matrix stage selection
+* `Bank Size:` Select from five banks of matrices per stage
+	+ Type: Bank size control
 
 Best Use Cases:
-Deep reverbs and ambient soundscapes. Mixing environments where a giant room picture is desired.
+
+* Deep reverbs and ambiance creation
+* Film and video game scoring
+* Live sound reinforcement and concert mixing
 
 Tips on Optimal Settings:
-Experiment with different numbers of banks to achieve the desired reverb texture. Adjust Mulch to control how natural or realistic the reverb sounds. For optimal results, adjust the number of Reverb Stages to match the song's tempo and arrangement. Experiment with different feedback types and Mulch Control settings to achieve desired reverb textures.
+Experiment with different numbers of banks, feedback types, and Mulch control settings to achieve desired reverb textures. Adjust the number of Reverb Stages to match the song's tempo and arrangement.

@@ -1,32 +1,23 @@
-Holt2
-
 A bass-cab-like resonant lowpass filter that produces a distinctive, synth-filter-like effect with control over extreme lows.
 
 Key Controls and Settings:
 
 * `Poles`: Sets the number of poles in the multipole arrangement (dry to 8 poles, 48 dB per octave)
-	+ Range: 
-	+ Type: Control
+	+ Type: Frequency response control
 * `Resonance`: Controls the resonance amount
-	+ Range: 
-	+ Type: Control
-* `Dry/Wet Control`: Blend between the dry signal and the filtered output
-	+ Range: 
-	+ Type: Mix
+	+ Range: No resonance to intense resonant effects
+* `Dry/Wet`: Blend between the dry signal and the filtered output
+	+ Type: Signal blend control
 * `Output Level`: Adjusts the overall level of the output
-	+ Range: 
-	+ Type: 
-
-Caveats:
-* Automation of the Poles control may cause issues.
-* Incautious use may result in excessive resonance or distortion.
+	+ Type: Volume control
 
 Best Use Cases:
+
 * Creating bass sounds with a synth-filter-like effect
 * Adding depth and weight to guitar tones
 * Enhancing modern electronic music effects on bass tracks
 * Using as a go-to bass sound for DI bass signals
 
 Tips on Optimal Settings:
-* Experiment with different pole counts and resonance settings to achieve unique tonal colors.
-* Use the Dry/Wet control to blend filtered and original signals for a range of tonal possibilities.
+Experiment with different pole counts and resonance settings to achieve unique tonal colors.
+Use the Dry/Wet control to blend filtered and original signals for a range of tonal possibilities.

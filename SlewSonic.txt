@@ -1,12 +1,14 @@
 SlewSonic
 
-Combines SlewOnly with ultrasonic filtering to solo brightness.
+A monitoring plugin that combines SlewOnly with ultrasonic filtering to solo brightness.
 
 Key Controls and Settings:
 * `Stack Count`: Sets the number of SlewOnly instances to stack (1-3)
+	+ Range: 1-3
+	+ Type: Selectable dropdown or dial
 * `Ultrasonic Filter Cutoff`: Sets the cutoff frequency for ultrasonic filtering (25k - 5k Hz)
-* `Bright`: Fades between direct sound and one, two or three stages of SlewOnly
-* `Mute`: Specifies the highest frequencies to keep
+	+ Range: 25k - 5k Hz
+	+ Type: Knob or slider
 
 Caveats:
 - Stacking multiple SlewOnly instances can result in extreme calibrated volume adjustments.
@@ -17,4 +19,4 @@ Ideal for dedicated hi-hat tracks, soloing specific frequencies like cymbals or 
 
 Tips on Optimal Settings:
 - Adjust Ultrasonic Filter Cutoff to balance smoothness and aliasing resistance.
-- Set Bright and Mute controls according to the desired frequency range.
+- Set Bright and Stack controls according to the desired frequency range.

@@ -1,28 +1,18 @@
-MV (Dual-Mono Reverb)
-
-A unique digital reverb with a custom allpass filter that uses bit shift increments, allowing for infinite sustain and bloom-like effects.
+Dual-mono reverb plugin based on BitShiftGain and Midiverb that uses bit shifts for allpasses, regeneration, and treble rolloff.
 
 Key Controls and Settings:
-
 * `Bit Shift Amount`: Selects the amount of gain change in 6 dB increments.
-* `Feedback`: Sets the feedback level, which will be rounded down to the nearest available bit shift amount.
-* `Bright Control`: Adjusts the degree of high-frequency roll-off using averaging output samples of the allpasses.
-* `Regeneration Level`: Selects the regeneration level (full, 1/2, 1/4, 1/8, or 1/16).
-* Size: controls the number of allpasses in the chain
+	+ Used for regeneration and high-frequency roll-off.
+* `Feedback`: Sets the feedback level for regeneration. The actual regeneration will be the nearest lower value to prevent reverb runaway.
+* `Bright Control`: Adjusts the degree of treble rolloff, with 100% being no roll-off and 0% being full roll-off.
+* `Regeneration Level`: Selects the regeneration level, with options for full, 1/2, 1/4, 1/8, and 1/16 levels.
 
 Additional Features:
-
 * Dual-mono operation allows for separate control of each channel's reverb tail.
 * Infinite regeneration enables sustainable "bloom" effects without limiting or compressing the output.
-* Gated reverb effect can be created by setting regeneration to zero, cleaning up the mix and then fading out.
-
-Caveats:
-Removing too many allpasses can result in a "nasty" sound. Infinite regenerations may cause runaway and require output trimming.
 
 Best Use Cases:
-
-* Sustain bloom-like effects
-* Create ambiance generators or on auxes and submixes to add space and purity
+Can be used as an ambiance generator or on auxes and submixes to add space and purity.
 
 Tips on Optimal Settings:
-Experiment with different regeneration levels, bit shift amounts, and bright control settings to achieve the desired reverb effect.
+Adjust Bright Control for optimal high-frequency response, and Regeneration Level for desired sustain.

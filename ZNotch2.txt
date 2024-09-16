@@ -1,22 +1,28 @@
 ZNotch2
 
+
 A phaser-style filter based on the Emu e6400 Ultra phaser, featuring coefficient interpolation.
+
 
 Key Controls and Settings:
 
-* Coefficient interpolation: controls how smoothly the filter responds to changes
-	+ Range: 
-	+ Type: interpolation method (assumed)
-* Filter type: selects the type of notch filter (e.g. low-pass, high-pass)
 
-Caveats:
-Does not have exact same tone as original ZNotch when modulating controls.
-May use more CPU than original ZNotch due to coefficient recalculation.
+* Coefficient Interpolation: A feature that allows for smooth movement of the filter's coefficients.
+	+ Range: N/A
+	+ Type: [insert type]
+* Filter Type: selects the type of notch filter (e.g. low-pass, high-pass)
+	+ Range: N/A
+	+ Type: N/A
 
 Best Use Cases:
-Electronic music production, particularly DnB and similar styles.
-Creating dynamic phaser effects in motion.
+
+
+Creating dynamic phaser effects in motion
+Electronic music production, particularly DnB and similar styles
+
 
 Tips on Optimal Settings:
-Adjust settings for desired sound and motion.
-Experiment with different modulation techniques to achieve unique effects.
+
+
+Experiment with coefficient interpolation for smooth sound movement
+Use different modulation techniques to achieve unique effects

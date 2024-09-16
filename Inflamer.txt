@@ -1,30 +1,14 @@
-Inflamer
-
-An Airwindowsized take on the waveshapers in Oxford Inflator.
-
 Key Controls and Settings:
 
-* `Curve`: A control that affects the waveshaping process, with a range from 0 to 1.
-	+ Control method: Select a value between 0 and 1.
-	+ Note: many settings of Curve will end up being a slight volume drop when used at unity gain (Drive in the middle).
-* `Drive`: A control that affects the amount of waveshaping, with a range from -30 dB to +30 dB.
+* `Drive`: Adjusts the drive level using bit shifts (very accurate divisions by powers of 2). 
+	+ Range: 0 to 6 dB, stepped increments.
 	+ Control method: Adjust in 6 dB steps.
-	+ Note: values are divided by powers of 2 using BitShiftGain style gain trimming.
-* `Effect`: A dry/wet control that blends the two waveshapers.
-	+ Control method: Adjust in a normal (non-bit shifted) range.
-
-Caveats:
-
-* Inflamer may produce outputs that are quieter than the real Oxford Inflator, especially when using certain settings of Curve and Drive.
-* The plugin has restricted choices and options compared to the original Oxford Inflator.
+* `Effect`: A dry/wet control that blends the two waveshapers. 
+	+ Range: -∞ to +∞, continuous adjustments.
+* `Curve`: Adjusts the blend between two simple waveshapers, with a range from 0 to 1 and stepped increments of 0.2 (effectively 6 dB steps). Note that some settings may result in a slight volume drop when used at unity gain.
+	+ Control method: Select a value between 0 and 1.
 
 Best Use Cases:
 
 * Mastering-grade applications where a more transparent and sonorous sound is desired.
 * Critical listening scenarios where radical methods are used to beat an already stellar plugin.
-
-Tips on Optimal Settings:
-
-* When using Curve, start with values close to 0.5 and adjust in small increments to avoid volume drops.
-* Use Drive values in 6 dB steps to achieve the best results.
-* Pay attention to level matching when comparing Inflamer to the real Oxford Inflator.

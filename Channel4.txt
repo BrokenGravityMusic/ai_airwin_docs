@@ -1,43 +1,23 @@
-Slew
-
-Morphs and transforms percussive sounds or hats.
+A tone coloring plugin that gives more of an analog feel using a saturation function, slew clipper, and highpass.
 
 Key Controls and Settings:
 
-* `Drive`: Adjusts the amount of slew clipping.
-	+ Values: 0-100%
-* `Threshold`: Sets the level above which slew clipping occurs.
-	+ Values: -∞ to +∞ dB
-* Attack/Release controls the attack and release characteristics of the slew clipper.
-	+ Values: Adjustable knobs
-
-Caveats:
-None specified.
-
-Best Use Cases:
-
-* Transforming percussive sounds or hats
-* Adding a unique "grind" to instruments
-* Gluing sounds together for a retro, old-school-sampler sound
-
-Tips on Optimal Settings:
-Use the Drive control to adjust the amount of slew clipping.
-Experiment with different Threshold settings to achieve the desired effect.
-
-Tone coloring plugin that gives an analog feel by combining saturation, slew clipper, and highpass.
-
-Key Controls and Settings:
-
-* `Drive:` Adjusts the level of tone coloration. Recommended to keep at 50% or under for clean sound.
-* `Saturation:` Affects the amount of distortion added to the signal.
-* `Slew Clipper:` Darkens treble in an unusual way, useful for morphing and transforming percussive sounds.
-* `Highpass:` Cuts low frequencies to approximate a recording console's tone coloration.
-
-Caveats:
-The plugin's limitations are designed to be subtle and only noticeable when the signal is heavily overloaded.
+* `Saturation`: A good-sounding saturation function to add warmth.
+	+ Control: Saturation Drive (0-100%)
+	+ Range: 0% to 100%
+	+ Type: Knob
+* `Slew Clipper`: A calibrated slew clipper to approximate analog limitations.
+	+ Control: Slew Amount (0-100%)
+	+ Range: 0% to 100%
+	+ Type: Knob
+* Highpass: To approximate the tone coloration of a recording console.
+	+ Control: HP Frequency (-24 dB/oct to +24 dB/oct)
+	+ Range: -24 dB/oct to +24 dB/oct
+	+ Type: Slider
 
 Best Use Cases:
-Ideal for adding analog feel to individual tracks or buses, especially when used sparingly.
+Use Channel4 on individual tracks or busses to add warmth, character, and analog feel to your mix. Ideal for giving a retro or vintage sound to instruments, drums, or vocals.
 
 Tips on Optimal Settings:
-Use at 50% drive or under for clean tone coloration. Experiment with different settings to find the desired balance of saturation and slew clipping.
+* Keep Saturation Drive at 50% or under for a clean, pure tone coloration.
+* Adjust Slew Amount to taste, but be aware that it darkens treble in an unusual way.

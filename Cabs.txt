@@ -1,29 +1,21 @@
-Edge
+Cabs
 
-
-Adjusts overall gain of the plugin
-
+A guitar speaker cabinet simulator with adjustable cab size and room loudness emulation.
 
 Key Controls and Settings:
 
-* `Lowpass`: Sets cutoff frequency from 25k down into deep bass.
-* `Highpass`: Enhances texture when used as a guitar amp; dial in lows using this input highpass.
-* `Output` and `Dry/Wet`: Controls output level and blend of wet and dry signals.
-
-
-Caveats:
-
-
-None specified.
-
+* `Cab Size`: Adjusts the presentation of the simulated cabinet tone.
+	+ Range: variable
+	+ Type: controls the tone and presentation
+* `Room Loud`: Emulates the loudness of the speaker in a real-world setting, up to a point where settings beyond 0.6 are not considered real-world.
+	+ Range: 0 to 1
+	+ Type: emulates room loudness
+* `Tone Intensity`: Controls the character and intensity of the cab tone, related to cab size and potentially becoming weird at high settings (beyond 0.6 or 0.7).
+	+ Range: variable
+	+ Type: controls tone character and intensity
 
 Best Use Cases:
-
-
-Ideal for high-gain distortion, use with guitars or other instruments where extreme tonal shaping is desired. Also suitable for adding texture to low-passed signals.
-
+Ideal for tracking guitars, as a preamp simulator or to enhance the tone of recorded guitars. Also suitable for simulating various amp setups in ITB processing.
 
 Tips on Optimal Settings:
-
-
-Experiment with gain and filtering controls to achieve unique tone combinations. Adjusting the lowpass cutoff can produce interesting tonal effects when used in conjunction with high-gain clipping. Use the highpass control to enhance texture and add definition to low-passed signals.
+Start with reasonable settings (e.g., Room Loud around 0.6) and adjust to taste. Consider using Cabs in combination with other Airwindows plugins to achieve unique tones that don't exist in the real world.

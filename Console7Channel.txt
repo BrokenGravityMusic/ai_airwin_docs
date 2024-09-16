@@ -1,28 +1,19 @@
 Console7
-
-A digital audio workstation plugin with improved mixing capabilities.
-
+`plugin for digital audio workstation with improvements in filtering, gain staging, and saturation`
 Key Controls and Settings:
 
-* `Ultrasonic Filtering:` Every stage now runs ultrasonic filtering to remove aliasing at high sample rates.
-	+ Type: Gentle, less phase-smeary filter
-* `Gain Staging:` Channels default to 0.772 on the gain control for "unity gain".
-	+ Range: Adjustable via Fader controls
-	+ Type: Flexible gain staging with saturation levels tied to gain
-* `Dedicated Seed Values:` Each channel and buss has its own seed value for dithering.
-	+ Type: Unique noise generation for each channel and buss
-* `Saturation/Anti-Saturation Algorithm:` A blend of Spiral and Density algorithms for smooth onset of saturation and balanced harmonics generation.
-	+ Range: Adjustable via gain staging
-
-Caveats:
- 
- None noted.
+* `Gain Control:` Default to 0.772 (unity gain), flexible staging allows pushing channels into the red while maintaining a smooth sound
+	+ Range: -96 dB to +3 dB
+	+ Type: Fader control
+* `Mixing:` Channels now have dedicated seed values for dithering, each producing unique noise; ultrasonic filtering removes aliasing at every stage of processing
 
 Best Use Cases:
 
-* Mixing with improved sound quality due to ultrasonic filtering
-* Creative mixing techniques enabled by flexible gain staging
+* Mixing and mastering in digital audio workstations
+* Creative mixing techniques that benefit from flexible gain staging and saturation/anti-saturation algorithm
 
 Tips on Optimal Settings:
- 
- Push channels into the red for a smooth, non-edgy sound. Adjust saturation levels using Fader controls and take advantage of dedicated seed values for unique dithering.
+
+* Use dedicated seed values for dithering to produce unique noise on each channel
+* Employ ultrasonic filtering to remove aliasing at high sample rates (e.g., 192k)
+* Adjust gain control to desired level, then use Fader controls to fine-tune saturation levels

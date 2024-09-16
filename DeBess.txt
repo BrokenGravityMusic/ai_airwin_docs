@@ -1,19 +1,31 @@
 DeBess
 
-A high-end de-esser for vocal tracks that targets only sibilance sounds without affecting other content.
+
+A high-end vocal de-esser that perfectly rejects non-essential audio frequencies.
+
 
 Key Controls and Settings:
+
 * Sample Comparison Window: A slider that controls the window size for sample comparison.
-	+ Range: Lower values provide more similar to original DeEss, higher isolation of ess sounds.
-	+ Range: Higher values provide better rejection of faint softening in other content.
-* Filter Control: Allows shaping a better EQ on esses, rather than just trying to duck them.
+	+ Lower values: More similar to original DeEss, higher isolation of ess sounds.
+	+ Higher values: Better rejection of faint softening in other content.
+* Filter Control: Allows shaping a better EQ on targeted sibilance sounds.
+
 
 Caveats:
-* May not work well with low-end equipment or high sample rates if mics do not extend right up as far as the sampling lets you.
-* Should not be used for taking stage mics and making them lisp; it is designed for high-end vocal tracks.
 
-Best Use Cases: De-essing vocals, especially those with high treble content.
+* Low Sample Rate or Poor Mic: May not engage due to insufficient change between samples.
+* High Treble Boosting: Can be challenging with high sample rates and bright vocal tracks. Try treble boosting before using DeBess for better results.
+* Stage Mics and Lisp Effect: Not designed for taking stage mics; use on high-end vocal tracks for zero cost to other frequencies.
+
+
+Best Use Cases:
+
+* High-End Vocal Tracks: Ideal for de-essing only the ess sounds from high-quality vocal recordings.
+* Treble Boosting: Use in conjunction with treble boosting for ultra-bright voice sound effects.
+
 
 Tips on Optimal Settings:
-* Try brightening before using DeBess if struggling to get action at high sample rates.
-* Adjust the Sample Comparison Window slider to match the characteristics of your source material and use the Filter Control to shape a better EQ on esses rather than just trying to duck them.
+
+* Brighten Before DeBess: Try brightening the signal before applying DeBess to achieve better results, especially at high sample rates.
+* Filter Control and Sample Comparison Window: Utilize the filter control to shape a better EQ on esses rather than just trying to duck them, and adjust the sample comparison window slider to match the characteristics of your source material.

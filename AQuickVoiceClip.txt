@@ -1,13 +1,11 @@
 AQuickVoiceClip
 
-Softens headset mic recordings with super hard clipping on capture, ideal for post-processing audio in video game or YouTube content.
+Softens headset mic recordings with super hard clipping on capture.
 
 Key Controls and Settings:
 
-* Clipping Softener: Adjusts the amount of softening applied to clipped audio moments. Range: 0-100%
-	+ Type: Percentage-based control
-* Highpass Cutoff: Sets the frequency cutoff for the highpass filter. Range: 20 Hz - 20000 Hz.
-	+ Type: Frequency range selection
+* `Clipping Softener:` Adjusts the amount of softening applied to clipped audio moments. Range: 0-100%.
+* `Highpass Cutoff:` Sets the frequency cutoff for the highpass filter. Range: 20 Hz - 20000 Hz.
 
 Caveats:
 Best used on single voice tracks that have wildly distorted moments, not suitable for multi-track processing (e.g., 2-buss).

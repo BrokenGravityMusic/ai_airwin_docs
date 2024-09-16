@@ -1,20 +1,6 @@
-TransDesk
+Can be used on auxes, submixes, and buss channels to emulate running through circuitry
+Ideal for adding a unique tone coloring to rock mixes, particularly in the highs.
+Can be used to enhance energy and aggressiveness.
 
-A transient analog modeling plugin for rock mixes, emulating the sound of a classic analog console with extreme flexibility.
-
-insert one-line description
-
-Key Controls and Settings:
-* None mentioned in the text.
-
-Caveats:
-* Does not have special requirements or calibration for use with other plugins.
-* Can be used on auxes and submixes, including those "inside" Console.
-
-Best Use Cases:
-* Rock mixes where a bold and aggressive tone is desired.
-* Adding energy to tracks or mixes using analog circuitry emulation.
-
-Tips on Optimal Settings:
-* Place TransDesk in the mix where you want that style of tone coloring.
-* Can be used in combination with other plugins, such as Console, to emulate running through a lot of circuitry.
+Experiment with placement on different buses and channels to achieve desired sound
+Consider using TransDesk in conjunction with other plugins, such as Desk, to create a customized tone.

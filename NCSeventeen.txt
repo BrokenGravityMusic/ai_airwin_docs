@@ -1,35 +1,33 @@
 NCSeventeen
 
 
-A loudness maximizer that uses a soft-clipper with energy redistribution and a Chebyshev filter to produce second harmonic distortion.
+A loudness maximizer that uses a Chebyshev filter and soft-clipper technology to produce second harmonic distortion, allowing for deep bass response despite high levels.
 
 
 Key Controls and Settings:
 
-* `Threshold/Loudenator Level:` Adjusts the overall loudness.
-	+ Range: N/A
-	+ Type: Knob
-* `Gain:` Increases or decreases the overall output of the plugin.
-	+ Range: N/A
-	+ Type: Knob
-* `Dirt Factor/Surface Tension:` Control the amount of added distortion.
-	+ Range: N/A
-	+ Type: Knob
-* `Filter Resonance:` Adjusts the frequency response of the Chebyshev filter.
-	+ Range: N/A
-	+ Type: Knob
-* `Soft Clip Threshold/Drive:` Set the level at which the soft-clipper engages.
-	+ Range: N/A
-	+ Type: Knob
+* `Threshold`: Adjusts the level at which NCSeventeen begins to effect the audio.
+* `Filter`: A Chebyshev filter that produces second harmonic distortion, adjustable for tone.
+* `Drive`: Controls the amount of soft-clipping and filtering applied to the audio.
 
 Caveats:
-Be cautious when adjusting settings, as the tone and texture may change unexpectedly. The plugin's effect changes significantly as you push loudness. May not work well with very clean or delicate sounds.
+* Be cautious with Threshold and Gain settings, as NCSeventeen can quickly become over-processed and "dirty".
+* This plugin is not suitable for delicate or sensitive material; it's best used on loud, complex sounds like synthesizers or drum submixes.
+
 
 Best Use Cases:
+* Enhancing synthesizer tones: NCSeventeen can add a unique character to EDM-style synths and other digital sounds.
+* Mixing heavy music: This plugin is ideal for adding deep bass response and aggressive dynamics to loud, distorted mixes.
+* Creating dirty submixes: NCSeventeen can be used to add a gritty texture to drum submixes or other complex layers.
 
-* Mixing loud sources (e.g., drums, bass)
-* Enhancing synthesizer tones
-* Adding a warm, distorted sound to EDM tracks
 
 Tips on Optimal Settings:
-Start by adjusting the Loudenator Level and Dirt Factor in small increments. Pay attention to how the tone and texture change as you push loudness. Experiment with different Filter Resonance settings to find the desired frequency response.
+* Start with low Threshold and Gain settings, then gradually increase them as needed.
+* Experiment with different Filter and Drive settings to find the right tone for your material.
+
+Key adjustments also include:
+
+* `Soft Clipper Level`: adjusts the amount of soft clipping applied before energy redistribution.
+* `Energy Redistribution Amount`: controls the amount of energy fed back into the signal after clipping.
+* `Chebyshev Filter Cut-Off`: sets the frequency below which second harmonic distortion is introduced.
+* `Gain`: adjusts the overall level of the output signal.

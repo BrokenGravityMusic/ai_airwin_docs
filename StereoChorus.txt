@@ -1,27 +1,18 @@
 StereoChorus
 
-A basic stereo chorus plugin that simulates a traditional chorus effect.
+A basic stereo chorus plugin with some unique interpolation tricks.
 
 Key Controls and Settings:
 
-* `Interpolation:` Selects the interpolation method.
-	+ Adjust by selecting from a dropdown menu or using MIDI control change 0.
-* `Chorus Speed:` Sets the speed of the chorus effect.
-	+ Adjust using a knob, slider, or MIDI control change 1.
-* `Depth:` Controls the depth of the chorus effect.
-	+ Adjust using a knob, slider, or MIDI control change 2.
+* `Chorus Speed:` Adjusts the speed of the chorus effect.
+	+ Effect: Scales the intensity of all settings to feel equally intense at different speeds.
+* `Depth:` Sets the overall depth or width of the chorus effect.
 * `Stereo Spread:` Adjusts the panning or stereo imaging of the chorus effect.
 	+ Interpolation Tricks: Uses staggered delay pairs with time offsets between left and right channels to create interesting stereo images.
-
-Caveats:
-
-* `Fixed Point Buffer:` Runs a fixed point buffer at a rather long word length, which may affect sound quality.
-* `Dithering:` Modern dithering is applied only on 32-bit busses to reduce distortion.
 
 Best Use Cases:
 Use as a basic stereo chorus effect in situations where you want a simple, yet effective chorus sound. May be particularly useful when paired with other effects, such as reverb or delay.
 
 Tips on Optimal Settings:
-* Adjust the Chorus Speed and Depth to find the sweet spot for your sound.
-* Experiment with different Interpolation and Stereo Spread settings to achieve the desired width and imaging of the chorus effect.
-* Pay attention to the fixed point buffer setting, as it may affect the overall sound quality.
+Adjust the Chorus Speed to find the sweet spot for your sound.
+Experiment with different Depth and Stereo Spread settings to achieve the desired width and imaging of the chorus effect.

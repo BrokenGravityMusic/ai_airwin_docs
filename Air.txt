@@ -1,12 +1,13 @@
 Bright EQ Simulator
 
-A plugin that simulates a bright EQ effect, requiring 44.1K sample rate.
+Simulates a bright EQ effect, requiring 44.1K sample rate.
 
 Key Controls and Settings:
 
 * Sample Rate: Set to 44.1K for optimal performance.
-	+ Range: Not explicitly stated
-	+ Type: Sample rate setting
+	+ Range: Not applicable (fixed)
+	+ Type: Integer
+* No additional controls or settings are specified.
 
 Caveats:
 Effects may shift up in frequency at higher sample rates, potentially making them inaudible. Not compatible with sample rates other than 44.1K.
@@ -15,4 +16,4 @@ Best Use Cases:
 Use in contexts where a bright EQ effect is desired and 44.1K sample rate is available.
 
 Tips on Optimal Settings:
-Set sample rate to 44.1K for best results, be aware that effects may shift up in frequency at higher sample rates.
+Set sample rate to 44.1K for best results.

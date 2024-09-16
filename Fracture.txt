@@ -4,35 +4,21 @@ A distortion plugin that adds grit and crunch to sounds.
 
 Key Controls and Settings:
 
-* `Highpass`: Adjusts the high-frequency response of the distortion.
-	+ Range: [not specified]
-	+ Type: [not specified]
-* `Output Trim`: Attenuates or boosts the overall level of the distorted sound.
-	+ Range: [not specified]
-	+ Type: [not specified]
-* `Dry/Wet`: Blends the original and distorted signals for varying degrees of effect.
-	+ Range: not applicable
-	+ Type: blend control
-* `Drive Amount`: Sets the intensity of the distortion, with higher values increasing grit and crunch.
-	+ Range: [not specified]
-	+ Type: [not specified]
-* `Fracture Value` (optional): Sets maximum 'fold' value for wavefolding distortion.
-	+ Range: [not specified]
-	+ Type: [not specified]
-
-Caveats:
-None.
+* Highpass: Adjusts the high-frequency response of the distortion.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Output Trim: Attenuates or boosts the overall level of the distorted sound.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Dry/Wet: Blends the original and distorted signals for varying degrees of effect.
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Drive Amount: Sets the intensity of the distortion, with higher values increasing grit and crunch.
+	+ Range: [insert text]
+	+ Type: [insert text]
 
 Best Use Cases:
 
 * Adding an angry tone to basses, snares, or other percussion elements.
 * Enhancing sounds with a gritty, crunchy texture.
 * Creating dynamic effects for instruments or voices.
-Ideal for making sounds "angry" and adding grit to basses, snares, or other instruments.
-
-Tips on Optimal Settings:
-
-* Start with moderate Drive Amount values and adjust based on the desired sound.
-* Experiment with Highpass settings to find the optimal balance between brightness and distortion.
-* Use Output Trim to maintain the overall level of the sound while adjusting the distortion.
-* Boost Drive Level to increase distortion intensity. Increase Fracture Value to allow more frequent folding before clipping.

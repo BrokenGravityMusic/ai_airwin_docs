@@ -1,32 +1,27 @@
 CStrip2
 
-A refined and optimized channel strip plugin that includes a capacitor-based highpass and lowpass, compressor, saturation effect, and delay-trim and gate removal.
+A refined and optimized channel strip plugin that includes a compressor, saturation effect, and capacitor-based highpass and lowpass.
 
 Key Controls and Settings:
 
 * Highpass:
 	+ Frequency (Hz): controls the cutoff frequency of the highpass filter
-	+ Range: Adjustable within specified range
-	+ Type: Capacitor EQ
+	+ Type: Highpass filter
+	+ Range: variable Hz frequency range
 * Lowpass:
 	+ Frequency (Hz): controls the cutoff frequency of the lowpass filter
-	+ Range: Adjustable within specified range
-	+ Type: Capacitor EQ
+	+ Type: Lowpass filter
+	+ Range: variable Hz frequency range
 * Compressor:
 	+ Threshold (-20 dB): sets the compression threshold level
 	+ Ratio (x): sets the compression ratio
 	+ Attack Time (ms): sets the attack time for the compressor
 	+ Release Time (ms): sets the release time for the compressor
 	+ Makeup Gain (dB): adds gain to compensate for compression
-	+ Range: Adjustable within specified range
-	+ Type: Compression
 * Saturation:
 	+ Drive Level: controls the level of saturation applied to the output signal
-	+ Range: 0 to 1
-	+ Type: Output saturation based on Spiral and Density algorithms
-
-Caveats:
-None specified.
+	+ Output Crossfade Point 1/3: crossfades into Spiral distortion effect at 1/3 dry signal level
+	+ Output Crossfade Point 2/3: crossfades into Density algorithm for maximum fatness and drive at 2/3 dry signal level
 
 Best Use Cases:
 Ideal for mixing and mastering applications where a high-quality channel strip is required. Also suitable for use in VCV Rack (or CLAP) environments with limited controls.

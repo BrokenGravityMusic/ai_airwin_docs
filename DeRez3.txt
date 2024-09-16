@@ -1,23 +1,34 @@
 DeRez3
 
-A plugin that uses Bezier curves to reconstruct lo-fi samples in a smooth and creative way.
+
+A plugin that uses Bezier curves to reconstruct lo-fi samples, creating a smooth and artifact-prone sound.
+
 
 Key Controls and Settings:
 
-* Rate: Control the sampling rate and reconstruction process
+
+* Rate: Influences the sampling rate and reconstruction process
 	+ Range: [insert text]
 	+ Type: [insert text]
-* Rez: Introduces gating behavior at extreme low bitrates
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Dry/Wet mix: A blend control for mixing the processed sound with the original
+* Dry/Wet Mix: A blend control for mixing the processed sound with the original
 	+ Range: 0% to 100%
 
 Caveats:
-DeRez3 can produce unique, retro-digital sounds without relying on emulation or added noise.
+
+
+* Using DeRez3 can create interesting artifacts that might be desirable or undesirable depending on the context.
+* Bezier curves are used to smooth out lo-fi samples, which may not always produce the desired result.
+
 
 Best Use Cases:
-Use DeRez3 to create lo-fi samples and reconstruct them using Bezier curves for a smooth and creative sound. Experiment with different Rate and Rez settings to achieve interesting effects.
+
+
+* Creating unique sounds for music production
+* Experimenting with new sonic textures and styles
+
 
 Tips on Optimal Settings:
-Adjust the Rate control to influence the sampling rate and reconstruction process. Use the Rez control at extreme low bitrates to introduce gating behavior. Blend processed and unprocessed audio using the Dry/Wet mix control.
+
+
+* Play with different Rate settings to achieve varying degrees of smoothing and artifact creation.
+* Adjust Rez levels to introduce gating behavior and alter the sound further.

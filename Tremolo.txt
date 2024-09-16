@@ -1,19 +1,20 @@
 Tremolo
 
-Fluctuating saturation curves for a tubey tremolo effect.
+A plugin that uses fluctuating saturation curves to achieve a distinctive "tubey" tremolo effect, unlike built-in DAW tremolos.
 
 Key Controls and Settings:
 
-* `Saturation`: Adjusts the amount of saturation used to simulate the tremolo effect. Range: 0-100%.
-* `Antisaturation`: Adjusts the amount of antisaturation used to reduce the saturation at quiet parts. Range: 0-100%.
-* `Waveform`: Selects the shape of the saturation curve. Options include sine, square, and triangle waves.
-* `Gain`: Sets the overall gain level for the tremolo effect.
-
-Caveats:
-None specified.
+* `Saturation Curve`: Adjusts the curve of saturation used for the tremolo effect. Higher values add more density and thickness to the sound.
+	+ Range: 0-100%
+	+ Type: Saturation
+* `Antisaturation Curve`: Adjusts the curve of antisaturation used for the lean parts of the sound. Lower values help preserve transient attacks.
+	+ Range: 0-100%
+	+ Type: Antisaturation
 
 Best Use Cases:
-Ideal for adding a unique, organic tremolo effect to audio signals.
+
+* Adding depth and character to sounds by creating a pulsating effect that enhances dynamics and density.
+* Creating distinctive, "analog-sounding" effects that set your music apart from DAW-generated tremolos.
 
 Tips on Optimal Settings:
-Start with moderate values for Saturation (around 30-40%) and Antisaturation (around 20-30%). Adjust the Waveform setting to achieve the desired sound. Experiment with different saturation curve shapes to achieve desired density and thickness. Adjust antisaturation levels to balance preservation of transient attacks with overall sound character.
+Experiment with the Saturation Curve to find the right balance between added density and compromised transient attacks. Adjust the Antisaturation Curve to preserve or emphasize the skeletal form of transient attacks.

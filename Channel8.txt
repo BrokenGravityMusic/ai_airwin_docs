@@ -4,20 +4,22 @@ A subtle 'analogifier' that applies saturation boosts, highpass filtering, and s
 
 Key Controls and Settings:
 
-* `Drive`: Adjusts the amount of saturation boost (range: ?? to ??? )
-	+ Type: Knob
-* `Flavors`: Select from three options that calibrate the effects to be similar to real-world consoles.
-	+ Options: Channel 1, Channel 2, Channel 3
-
-Caveats:
-None specified.
+* `Drive`: Adjusts the amount of saturation boost (range: ?? to ???)
+	+ Range: not specified
+	+ Type: knob
+* `Flavors`:
+	- Channel 1
+	- Channel 2
+	- Channel 3
+	+ Range: not applicable
+	+ Type: selector
 
 Best Use Cases:
 
-* Adding a subtle 'analog flavor' to tracks or mix buss audio
-* Making audio sound bigger and more solid
+* Adding a subtle 'analog flavor' to tracks or mix buss audio.
+* Making audio sound bigger and more solid.
 
 Tips on Optimal Settings:
 
-* Start with the `Drive` knob at a low setting (e.g. 20-30%) for a gentle effect
-* Experiment with different `Flavors` to find the desired tone and character
+* Start with the `Drive` knob at a low setting (e.g. 20-30%) for a gentle effect.
+* Experiment with different `Flavors` to find the desired tone and character.

@@ -1,31 +1,17 @@
 Hombre
 
-A plugin that adds atmosphere and texture to audio signals using very short delays.
-
 Key Controls and Settings:
 
-* `Delay 1:` First delay tap with adjustable length (0-50ms) and mix level.
-	+ Range: 0-50ms
-	+ Type: Delay
-* `Delay 2:` Second delay tap with adjustable length (0-50ms) and mix level, calibrated to work in conjunction with Delay 1 for optimal texture thickening.
-	+ Range: 0-50ms
-	+ Type: Delay
-* `Blend:` Controls the balance between the dry signal and the delayed signals from both taps.
+* Delay 1 and Delay 2: Two calibrated delay taps that can be tweaked to thicken and diffuse tones.
+	+ Delay Time: Adjust the time between the two delays to achieve desired texture and thickness.
+	+ Phase: Flip the phase of one or both delays to cancel or reinforce low frequencies.
+	+ Range: Select which frequency range to reflect (highs, lows, full-range).
+	+ Strength: Adjust the level of the delayed signal to add punch and juice to the dry signal.
+* Mix: Blend control for mixing the processed sound with the original
 	+ Range: 0% to 100%
-	+ Type: Mix control
 
 Caveats:
-
-* Improper calibration of the two delay taps can lead to reinforcement or cancellation of low-end frequencies, affecting the overall texture of the sound.
-* Using Hombre with long delay times can result in muddy or unclear audio.
+Using Hombre with long delay times can result in muddy or unclear audio. Combining Hombre with other plugins that affect low frequencies can lead to phase issues.
 
 Best Use Cases:
-
-* Adding depth and complexity to dry guitars, basses, or vocals.
-* Thickening the texture of acoustic instruments without altering their tone or sustain.
-
-Tips on Optimal Settings:
-
-* Start with a short delay length (10-20ms) for Delay 1 and adjust according to taste.
-* Calibrate the second delay tap (Delay 2) to be slightly longer than the first, and adjust the blend control to balance the desired amount of texture addition.
-* Experiment with different delay times and phase settings to achieve desired textures.
+Adding atmosphere and texture to dry guitar or vocal signals. Creating a unique, punchy sound for mix elements. Enhancing the tone of acoustic instruments without adding sustain.

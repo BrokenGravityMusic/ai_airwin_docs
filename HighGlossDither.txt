@@ -1,21 +1,29 @@
 HighGlossDither
 
+
 A hybrid dither plugin that combines elements of truncation and traditional dither to create a unique sound.
+
 
 Key Controls and Settings:
 
-* `Level:` Adjusts the overall level of the effect. Range: -100 dB to 0 dB.
-* `Frequency Response`: Adjusts the frequency response curve of the effect. Range: Flat, Boost Low, Boost High.
-* `Dither Type`: Selects between quadratic residue sequence and true randomness for generating noise.
 
-Caveats:
-This plugin is designed to mimic certain aspects of truncation, but its output can be unpredictable and may not sound "natural". It's intended for specific use cases where an edgier, crunchier sound is desired. Not recommended for naturalistic or everyday use.
+* `Level`: Adjusts the overall level of the effect. Range: -100 dB to 0 dB.
+	+ Type: Control
+* `Frequency Response`: Adjusts the frequency response curve of the effect. Range: Flat, Boost Low, Boost High.
+	+ Type: Control
+* `Dither Type`: Selects between quadratic residue sequence and true randomness for generating noise.
+	+ Type: Control
+
 
 Best Use Cases:
+
 
 * Experimental music production
 * Specific genre styles (e.g. Finnish forest psy trance)
 * Effects processing and creative audio manipulation
 
+
 Tips on Optimal Settings:
-Adjust the level to suit your specific needs. Experiment with different frequency response curves and dither types to find the right balance for your mix. Be cautious when using this plugin, as its output can be unpredictable and may not sound "natural" in most situations.
+
+
+Adjust the level to suit your specific needs. Experiment with different frequency response curves to find the right balance for your mix.

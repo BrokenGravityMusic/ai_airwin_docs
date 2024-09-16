@@ -1,19 +1,12 @@
 Slew2
 
-Controls extreme highs, useful as a de-esser or acceleration limiter.
+Controls extreme highs in a sound, useful as a de-esser or acceleration limiter.
 
 Key Controls and Settings:
 
-* Slider: Sets the threshold where Slew2 refuses to let more brightness through. Turning up this slider makes Slew2 harder to exceed.
-* Dry/Wet control (moderates the effect of Slew2, allowing for a balance between the filtered sound and the original)
-	+ Range: Not specified
-	+ Type: Control
-* Intermediate value setting: For acceleration limiting
-	+ Range: Not specified
-	+ Type: Setting
-
-Caveats:
-None specified.
+* Slider: Sets the threshold where Slew2 refuses to let more brightness through.
+	+ Turning up this slider makes Slew2 harder to exceed.
+* Dry/Wet control (post-video revision): Moderates the effect of Slew2, allowing for a balance between the filtered sound and the original.
 
 Best Use Cases:
 

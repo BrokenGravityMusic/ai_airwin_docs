@@ -1,31 +1,19 @@
 Stonefire
-
-`[Insert one-line description]`
-
+`Adjusts the frequency range affected by the Stone and Fire crossovers.`
 Key Controls and Settings:
 
 * `Air:` 
-	+ Use like in Air3
-	+ Cut back super-highs for a natural effect or boost for a sparkly aura
+	+ Use like in Air3; can cut back super-highs for a natural effect or boost for a sparkly aura
 	+ Custom algorithm for high sample rates
-* `Fire:`
+* `Fire:` 
 	+ Use as an attitude knob and midrange control
 	+ Boost for attention-grabbing sounds
 	+ Crossover with Stone: only one can be louder
-* `Stone:`
+* `Stone:` 
 	+ Use like the bedrock of your sound
 	+ Lean on it for a heavy, sputtering foundation
 	+ Cut to control unwieldy bass or add weight without adding 'bass boost'
 	+ Range control adjusts tone and presentation
-* `Range:` 
-	+ Adjusts the crossover point of Stonefire's Kalman filters
-	+ Set to control Stone's character and presentation
-
-Caveats:
-Do not use with plugin measurement tools (PluginDoctor or SPAN), as they may cause unpredictable behavior.
 
 Best Use Cases:
-Use Air like in Air3, balance Fire and Stone controls for tone shaping, dial Range control to match desired sound characteristics.
-
-Tips on Optimal Settings:
-Use Air like in Air3, lean on Stone for a heavy, sputtering foundation, cut back super-highs or boost for sparkle in Air.
+Use Air like in Air3; balance Fire and Stone controls for tone shaping; dial Range control to match desired sound characteristics.

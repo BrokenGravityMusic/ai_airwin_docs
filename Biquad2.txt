@@ -1,33 +1,31 @@
 Biquad2
 
-An adjustable biquad filter with a wide range of tonal possibilities, offering a sweepable and synthy sound.
+
+A biquad filter with sweepable characteristics and a "synthy" sound.
+
 
 Key Controls and Settings:
 
-* Q (Resonance): Adjusts the filter's resonance, affecting its sweepability and frequency response. Range: 1 to 1000.
-	+ Type: Resonance control
-* Frequency: Sets the center frequency of the filter.
-	+ Range: Not specified
-	+ Type: Frequency selection
-* Slope: Selects the filter type (lowpass, highpass, or bandpass).
-	+ Range: Not specified
-	+ Type: Filter type selection
-* Cutoff Smoothing: Controls how much the filter cutoff is smoothed at low Q and low frequencies.
-	+ Range: Not specified
-	+ Type: Smoothing control
-
-Caveats:
-
-* The filter's behavior may become unstable when adjusting coefficients too frequently, leading to zipper noise or glitchy responses.
-* Filter reacts slowly due to stability limitations.
+* `Q:` Adjusts the peak resonance of the filter.
+	+ Range: 1 to 1000
+	+ Type: Resonance
+* `Cutoff Frequency:` Sets the cutoff frequency of the filter.
+	+ Range: Smoothed at low Q and frequencies
+	+ Type: Cutoff point
 
 Best Use Cases:
-
-* Creating sweepable and synthy sounds in electronic music production.
-* Using as a high-pass or low-pass filter for noise reduction and tone shaping.
+Use Biquad2 for applications where a biquad filter with sweepable characteristics is desired, but be aware of its limitations. It's ideal for situations where the Q value remains above 1 and the cutoff frequency does not require sharp changes.
 
 Tips on Optimal Settings:
+* Keep the Q value above 1 to avoid stability issues.
+* Avoid sudden changes in cutoff frequency.
+* Use quieter input levels or reduced resonance can help mitigate unwanted effects.
 
-* To avoid instability issues, use the lowest Q setting possible (Q=1) when sweeping frequencies.
-* For a more natural sound, set Q to 10-20 and adjust frequency accordingly.
-* Use resonance with caution, as it applies a distortion effect that works differently on low and highpass modes.
+
+Caveats:
+The filter's performance is limited due to the nature of biquad filters, which can become unstable when changing coefficients mid-calculation. This results in glitches and twitchy behavior.
+
+
+Resonance (Low/High Pass): Adjusts the resonant characteristics of the filter, applying a distortion effect to achieve an "overdriving filter effect".
+	+ Range: 
+	+ Type: Distortion effect

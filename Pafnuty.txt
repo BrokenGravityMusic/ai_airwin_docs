@@ -1,25 +1,23 @@
-Pafnuty
-
 Adds harmonics to audio signals using a Chebyshev filter, generating sine waves at frequencies twice, three, four times, up to thirteenth harmonic.
 
 Key Controls and Settings:
 
 * Harmonic multipliers (up to 13th harmonic)
-	+ Range: Adjust the level of each harmonic frequency
-	+ Type: Sliders that move to the right to add harmonics, left to subtract
+	+ Adjust the level of each harmonic frequency
+	+ Range: 
+	+ Type: 
 * Attenuverter (dry-wet control with inverse-dry-wet):
-	+ Range: Blend original audio with enhanced signal
-	+ Type: Control ratio of dry and wet signals
+	+ Blend original audio with enhanced signal
+	+ Range: 
+	+ Type: 
 
 Caveats:
 * Harmonic addition can result in aliasing if input frequencies exceed the sampling rate
-* Pafnuty resists adding extra harmonics, helping to reduce aliasing
 * Be cautious when adding high-order harmonics, as they may introduce audible artifacts
 
 Best Use Cases:
 Ideal for adding coloration and enhancement to audio signals, particularly in situations where subtle harmonic additions are desired.
 
 Tips on Optimal Settings:
-Start with low harmonic orders (e.g., 2nd or 3rd) and adjust levels carefully
-Monitor the output for aliasing and adjust settings as needed
-Use attenuverter to blend original signal with enhanced audio, adjusting ratio to taste
+* Start with low harmonic orders (e.g., 2nd or 3rd) and adjust levels carefully
+* Monitor the output for aliasing and adjust settings as needed

@@ -1,23 +1,25 @@
 TripleSpread
 
-A stereo tripler with extra wideness and GlitchShifter processing, designed to create a hyper-wide effect by fading out mid content as dry/wet is brought up.
+A stereo tripler with extra wideness and GlitchShifter processing, capable of doubling or tripling a track while maintaining stereo width.
 
 Key Controls and Settings:
 
-* `Dry/Wet`: Adjusts the balance between original signal and widened sound.
-	+ As Dry/Wet increases, mid content of added stereo sound fades out, creating a hyper-wide effect.
-* `Tightness` (from GlitchShifter):
-	+ Increase to glitch or revert to dry.
-	+ Decrease for an unpredictable echoey effect with pitch-shifted tripled voices.
-
-Caveats:
-None noted.
+* `Dry/Wet`: Blends the original signal with the widened effect.
+	+ Increase to introduce the effect and overpower 'dry' (mono signal).
+	+ Fades out mid content of added stereo stuff for hyper-wide effect.
+* `Tightness Control`: Adjusts pitch shifting and widening.
+	+ Increase to glitch or revert to dry, or turn down for unpredictable echoey effect.
+	+ Tighten up for controlled vagueness or tie to rhythmic elements.
 
 Best Use Cases:
 
 * Widening LCR guitars while keeping the 'guitar orchestra' effect relatively tight.
-* Creating a wide stereo effect on a LR pair of instruments.
-* Making a big wide stereo effect on an LCR submix, sounding like about twelve instruments.
+* Adding an unpredictable echoey effect on ambient pads, wide stereo synthetic things, etc.
+* Doubling each instrument in a stereo mix and maintaining stereo separation.
+* Creating a big wide stereo effect on an LR pair of instruments.
 
 Tips on Optimal Settings:
-Adjust Dry/Wet to balance between original signal and widened sound. Experiment with Tightness control for unpredictable effects or rhythmic tying.
+
+* Experiment with Dry/Wet ratio to achieve desired level of widening and blending with original signal.
+* Adjust Tightness Control to control pitch shifting and vagueness in widened voices.
+* Use Tightness control to tie the effect to a specific rhythmic element.

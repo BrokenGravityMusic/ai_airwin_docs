@@ -1,22 +1,10 @@
-Ultrasonic
-
 A steep low-pass filter at 20K Hz (five poles, 10th order Butterworth), used to remove aliasing frequencies in digital mixes.
 
-Key Controls and Settings:
-
-* None. The plugin has no controls or settings.
-
 Caveats:
-* May make the mix sound slightly "slick" or "processed".
-* Will not work with sample rates below 96K Hz.
-* Should be used before any nonlinear processing to remove aliasing frequencies.
+May make the mix sound slightly "slick" or "processed". Will not work with sample rates below 96K Hz.
 
 Best Use Cases:
-* To remove aliasing frequencies in digital mixes, especially when working at high sample rates (96K Hz or 192K Hz).
-* To smooth out and "un-digitalize" heavily processed audio.
-* To clean up Console's nonlinearities and prevent aliasing problems.
+To remove aliasing frequencies in digital mixes, especially when working at high sample rates (96K Hz or 192K Hz). To smooth out and "un-digitalize" heavily processed audio. To clean up Console's nonlinearities and prevent aliasing problems.
 
 Tips on Optimal Settings:
-* Place the plugin before any nonlinear processing to remove aliasing frequencies.
-* Use the plugin on every channel in a mix for maximum effect.
-* Adjust other plugins accordingly to compensate for the "slick" or "processed" sound, and consider using it judiciously to avoid over-smoothing the mix.
+Place the plugin before any nonlinear processing to remove aliasing frequencies. Use the plugin on every channel in a mix for maximum effect. Adjust other plugins accordingly to compensate for the "slick" or "processed" sound.

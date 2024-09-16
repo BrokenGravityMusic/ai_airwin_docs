@@ -1,29 +1,17 @@
 ADT
 
-Double short delay tap with saturation.
+A double short delay tap with saturation.
 
 Key Controls and Settings:
 
 * `Delay Time`: Controls the time of the delay taps.
-	+ Range: not specified
-	+ Type: adjustable parameter
 * `Mix Sliders`:
-	- `Inverted Tap Mix`: Blends two inverted delay taps to cut bass while averaging out comb-filter effects.
-		+ Range: 0% to 100%
-		+ Type: attenuverter
-	- `Phase Tap Mix`: Reinforces bass by blending two in-phase delay taps.
-		+ Range: 0% to 100%
-		+ Type: attenuverter
+	+ `Inverted Tap Mix`: Blends two inverted delay taps to cut bass while averaging out comb-filter effects.
+	+ `Phase Tap Mix`: Reinforces bass by blending two in-phase delay taps.
 * `Headroom Control`: Adjusts distortion levels, producing a slightly leaned-out tone.
-	+ Range: not specified
-	+ Type: adjustable parameter
-
-Caveats:
-Using low headroom can produce excessive distortion. Avoiding it is recommended for best results.
 
 Best Use Cases:
 Ideal for shaping the tone of sounds with very quick delays (slapbacks). Effective for cutting or reinforcing bass frequencies.
+Adding texture and richness to sounds with very short delay times, cutting or reinforcing bass using quick delays, creating unique tonal colors with the headroom control.
 
-Tips on Optimal Settings:
-Experiment with different delay times and phase settings to create unique tonal effects.
-Adjust headroom control to achieve desired distortion levels.
+Tips on Optimal Settings: Experiment with different delay times and phase settings to create unique tonal effects. Adjust headroom control to achieve desired distortion levels. Use attenuverter mix sliders to control level and phase of delayed signals. Blend taps together for a balanced sound.

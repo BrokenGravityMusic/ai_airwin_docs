@@ -4,21 +4,15 @@ Adds sonic texture to sounds by introducing hidden noise.
 
 Key Controls and Settings:
 
-* `Bright:` Adjusts the effect's sensitivity to high frequencies. Turning up Bright can make the effect more aggressive and energetic.
+* Bright: Adjusts the effect's sensitivity to high frequencies. Turning up Bright can make the effect more aggressive and energetic.
 	+ Range: 0% to 100%
-	+ Type: Percentage
-* `Punchy:` Varies between a softer, fuller sound and a real spiky choppy effect. Lower settings create a smoother sound, while higher settings introduce more texture.
+* Punchy: Varies between a softer, fuller sound and a real spiky choppy effect. Lower settings create a smoother sound, while higher settings introduce more texture.
 	+ Range: 0% to 100%
-	+ Type: Percentage
-* `Dry/Wet:` Controls the balance between the original sound and the added noise. Settings of 0.5 or less are likely to keep the noise inaudible.
+* Dry/Wet: Controls the balance between the original sound and the added noise. Settings of 0.5 or less are likely to keep the noise inaudible.
 	+ Range: 0% to 1.0
-	+ Type: Ratio
 
 Caveats:
-To achieve the desired sonic transformation, keep adjustments subtle and within reasonable limits. Avoid pushing controls too far, as this can make the effect obvious and unnatural.
+To achieve the desired sonic transformation, keep adjustments subtle and within reasonable limits.
 
 Best Use Cases:
-Adding texture to sounds without making it too obvious.
-
-Tips on Optimal Settings:
-Start with a Dry/Wet setting of 0.5 or less to ensure the noise remains inaudible. Adjust Bright and Punchy settings to taste, but keep them moderate to avoid introducing too much texture. Experiment with different combinations of settings to achieve the desired effect.
+Adding texture to sounds without making it too obvious

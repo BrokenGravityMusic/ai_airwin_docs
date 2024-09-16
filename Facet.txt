@@ -1,29 +1,23 @@
 Facet
-
-Adds two sharp corners to the audio waveform using a modified transfer function that changes the 'knee' of the clip point.
+`Adds two sharp corners to the audio waveform using a modified transfer function that changes the 'knee' of the clip point.`
 
 Key Controls and Settings:
 
 * `Clip Point`: Adjusts the level at which the sharp corner is introduced.
 	+ Higher values introduce sharper corners, but still allow peaks to exceed 0 dB.
 	+ Lower values result in gentler corners, with the option for hard clipping near silence.
-* `Corner Angle/Sharpness`: Changes the steepness of the clip point's knee and corner.
+* `Corner Angle`: Changes the angle of the clip point's knee.
 	+ Higher values create a more pronounced 'corner' effect.
 * `Knee Shape`: Alters the shape of the transfer function's knee, affecting how the clip interacts with peaks.
-
-Caveats:
-
-* May throw an odd artifact on pure low-frequency tones at high settings.
-* Can become a hard clip to silence at very low levels.
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
-
 * Adding a unique type of distortion to individual tracks or buses.
 * Creating a distinct sound for specific instruments or genres.
 * Enhancing the overall mix with a novel type of saturation.
 
 Tips on Optimal Settings:
-
-* Experiment with different Clip Point and Corner Angle/Sharpness settings to find the desired balance between clip and saturation.
-* Pay attention to how Facet interacts with peaks and low frequencies, adjusting Knee Shape as needed.
+* Experiment with different Clip Point, Corner Angle, and Knee Shape settings to find the desired balance between clip and saturation.
+* Pay attention to how Facet interacts with peaks and low frequencies, adjusting as needed.
 * Use Facet in moderation, as its effects can be dramatic and may not always produce the intended result.

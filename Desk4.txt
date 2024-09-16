@@ -1,26 +1,21 @@
-Desk4
-
-Analog coloration plugin with distinctive tone shaping capabilities.
+An analog coloration plugin that provides distinctive tone shaping and saturation.
 
 Key Controls and Settings:
 
-* `Drive Control:` A boost control for adding saturation and dirt to the sound.
-	+ Adjusts level of drive.
-* `Treble Choke:` Brightness conditioner control.
-	+ Use subtly to avoid generating artifacts (DC) at extreme settings.
-* `Power Sag Control:` Power supply overload simulation control.
-	+ Crank up for tube power supply sag behaviors.
-* `Frequency Control:` Control for moving the area of interest down, affecting power supply sag behaviors.
-	+ Adjusting this control moves the effect to higher frequencies.
-
-Caveats:
-Be cautious when using the Treble Choke or Power Sag controls to avoid generating artifacts (DC). Use subtle adjustments on these controls and be careful with extreme settings.
+* Drive Control: A boost control for adding slam and dirt to the sound
+	+ Range: [not specified]
+	+ Type: Soft and textured
+* Treble Choke: A unique brightness conditioner that adds a rich, high-frequency character to the sound
+	+ Warning: overcranking can generate uncontrolled DC and produce undesirable effects
+* Power Sag Control: Adjusts the power supply sag behavior, affecting the tone and saturation of the plugin
+	+ Range: [not specified]
+	+ Type: Allows simulation of tube power supply sag behaviors
+* Frequency Control: Shifts the area of interest for the power sag behavior, affecting high-frequency characteristics
+	+ Range: [not specified]
 
 Best Use Cases:
+Desk4 is ideal for adding distinctive analog coloration and saturation to a mix. It's particularly useful for:
 
 * Adding depth and richness to instruments
 * Enhancing the tone of vocal tracks
 * Creating unique textures and atmospheres
-
-Tips on Optimal Settings:
-Use Drive control sparingly to maintain natural-sounding distortion. Apply Treble Choke in small increments to add brightness without introducing artifacts. Experiment with Power Sag and Frequency controls to create unique power supply sag behaviors.

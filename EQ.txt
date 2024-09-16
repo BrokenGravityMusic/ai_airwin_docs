@@ -1,29 +1,25 @@
 EQ
 
-A three-band lossless equalizer with highpass and lowpass filters.
+A three-band lossless equalizer with highpass and lowpass filters, allowing for broad-stroke filtering and simple, approachable equalization.
 
 Key Controls and Settings:
 
 * `Lowcut (Hz):` Adjusts the low-pass filter frequency.
-	+ Range: adjustable
-	+ Type: Hz
+	+ Range: 
+	+ Type: 
 * `Highshelf (dB):` Boosts or cuts frequencies above the high-cut filter.
-	+ Range: adjustable
-	+ Type: dB
+	+ Range: 0% to 100%
+	+ Type: 
 * `Midcut (Hz):` Sets the mid-band filter frequency.
-	+ Range: adjustable
-	+ Type: Hz
-* `Mideq (dB):` Adjusts the mid-band filter level.
-	+ Range: adjustable
-	+ Type: dB
+	+ Range: 
+	+ Type: 
 * `Gain (dB):` Overall output gain for the plugin.
-	+ Range: adjustable
-	+ Type: dB
+	+ Range: 
+	+ Type: 
 
-Caveats:
-The slopes are not super high, which helps it sound more natural.
+Best Use Cases:
 
-Best Use Cases: Broad-stroke filtering, simple and approachable equalization.
+* Broad-stroke filtering
+* Simple and approachable equalization
 
-Tips on Optimal Settings:
-Use the low-cut filter to remove unwanted low frequencies. Adjust the highshelf and lowshelf filters to taste for a more nuanced tone. Leave the mid-band unaltered if you want a flat response.
+The slopes of the filters are not super high, which helps it sound more natural.

@@ -1,30 +1,23 @@
 Dynamics
 
-A combination compressor-gate plugin that allows for transparent or extreme dynamic control.
+A combination compressor-gate plugin that allows for hyper-compression and gating as a unit.
 
 Key Controls and Settings:
 
-* `Speed:` Adjusts the attack time of the gate.
-	+ Range: 
-	+ Type: Attack/Release
-* `Intensity:` Controls the amount of compression applied to the audio.
-	+ Range: 
-	+ Type: Compression Ratio
-* `Gate Threshold:` Sets the level above which the gate will engage.
-	+ Range: 
-	+ Type: Threshold Level
-* `Release:` Controls how quickly the gate will re-open after closing.
-	+ Range: 
-	+ Type: Release Time
-* `Compression Ratio:` Adjusts the ratio of reduction in dynamic range.
-	+ Range: 
-	+ Type: Reduction Ratio
-
-Caveats:
-High-speed and high-intensity settings can produce artifacts. The plugin is designed to be unlinked, allowing for independent control on stereo submixes or mono tracks.
+* `Compression`
+	+ Speed: controls the attack and release of the compressor (lower values = slower compression, higher values = faster compression)
+	+ Intensity: controls the overall compression ratio (higher values = more compression)
+* `Gate`
+	+ Threshold: sets the level above which the gate will be triggered
+	+ Ratio: sets the amount of reduction when the gate is triggered
+	+ Release: controls how quickly the gate will re-open after closing
 
 Best Use Cases:
-Use Dynamics to add transparency and control to your audio by adjusting the gate threshold and compression ratio. For more extreme effects, crank up the intensity and speed to create a hyper-compressed sound.
+* Shaping and tightening sounds for clarity and definition
+* Controlling and sculpting individual tracks or stereo mixes
+* Aggressive compression and gating on live recordings or heavy music genres
 
 Tips on Optimal Settings:
-Experiment with different compression ratios to find the ideal balance for your audio. Adjust the gate threshold to control how aggressively the gate engages. Use the release control to shape the dynamic response of the plugin.
+* Experiment with different compression ratios to find the ideal balance for your audio
+* Adjust the gate threshold to control how aggressively the gate engages
+* Use the release control to shape the dynamic response of the plugin

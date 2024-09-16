@@ -4,23 +4,18 @@ A drop-in replacement for Console7Channel that allows for much higher gain and a
 
 Key Controls and Settings:
 
-* `Gain Staging:` Works with the trim control to fit the result into the mix.
-	+ Range: Not specified
-	+ Type: Not specified
-* `Number of Stages:` Five individually ultrasonic-filtered stages
-	+ Range: Not specified
-	+ Type: Not specified
-* `Filtering:` More gentle filtering between individual stages than a single stage with super-filtering
-	+ Range: Not specified
-	+ Type: Not specified
-
-Caveats:
-May be CPU-intensive due to the use of five Console7Channels, each running two sine functions.
+* `Gain Staging`: Works with the trim control to fit the result into the mix.
+* `Filtering`: Five individually ultrasonic-filtered stages of slamming, allowing for gentle filtering between individual stages.
+	+ Ultrasonic filtering between individual stages, rather than super-filtering all at once.
+* `Number of Gain Stages`: Five gain stages of the same processing in Console7Channel.
 
 Best Use Cases:
 
 * Mixing drums: It worked well on drums, making it a potential default choice for that.
 * Submixing: Can be used on individual submixes or all submixes for an intense tubey loud effect.
+* Intensive loudening of channels or submixes.
+* Potential use as a guitar amp simulator.
 
-Tips on Optimal Settings:
-Adjust gain staging and filtering to fit the result into the mix. Consider using Console7Cascade on individual tracks or submixes for a more controlled effect.
+Tips:
+Adjust the gain staging and filtering to suit your specific mix needs. Use sparingly due to CPU concerns.
+To avoid excessive crunch, filter more gently between individual stages.

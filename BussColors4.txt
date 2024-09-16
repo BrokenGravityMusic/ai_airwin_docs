@@ -1,19 +1,18 @@
 BussColors4
 
-A console emulator plugin that works at any sample rate (44K, 96K, and 192K), producing a similar sound to its predecessors.
+A console emulation plugin with various tone colors and a dynamic convolution model.
 
 Key Controls and Settings:
 
-* `Model Selection:` Choose from Dark, Rock, Lush, Vibe, Holo, Punch, Steel, or Tube
+* Model Selection: Choose from Dark, Rock, Lush, Vibe, Holo, Punch, Steel, or Tube.
 	+ Each model has its own unique tone characteristics.
-* Drive Control: Adjust the drive level to shape the tone
-* Dry/Wet Control: Blend the plugin's output with the original sound
-
-Caveats:
-The plugin uses a dynamic convolution model, which means it's not an exact clone of the source impulses.
+* Drive Control: Adjust the drive level to shape the tone.
+* Dry/Wet Control: Blend the plugin's output with the original sound.
 
 Best Use Cases:
 Use BussColors4 for adding character and warmth to your sound. Experiment with different models to find the perfect tone color for your music.
 
 Tips on Optimal Settings:
-Adjust the drive level to control the amount of saturation and distortion. Use the dry/wet control to blend the plugin's output with the original sound for a more subtle effect.
+
+* Adjust the drive level to control the amount of saturation and distortion.
+* Use the dry/wet control to blend the plugin's output with the original sound for a more subtle effect.

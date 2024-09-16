@@ -1,25 +1,28 @@
 Spiral2
 
-A plugin that simulates an amp simulator with added controls for Presence.
+A plugin that adds a "Presence" effect to Spiral, allowing onset transients to pass through while preserving low-frequency dynamics.
 
 Key Controls and Settings:
 
-* `Presence:` A slider control that blends between dry signal and the saturated signal using the PREVIOUS sample as the blend factor.
-	+ When set to 0, the original Spiral effect is retained.
-	+ At full Presence, onset transients are preserved, and high frequency peaks are allowed through.
-	+ Halfway setting allows for peaking at exactly 0 dB.
-* `Pre Gain and Post Gain:` Controls for adjusting the intensity of the plugin's effect.
-* `Highpass Filter:` A filter to remove low-frequency content from the signal.
-* `Dry/Wet Mix:` A blend factor between dry and processed signal.
+* `Presence:` A slider (crossfader) that blends between the original Spiral circuit and the circuit with one-sample delay on the sense circuit.
+	+ 0: Original Spiral circuit
+	+ Full: Circuit with one-sample delay on the sense circuit, allowing onset transients to pass through
+	+ Midway: Balanced blend of both circuits, producing a peaking effect at exactly 0 dB
+* `Pre and Post Gain:` Controls for adjusting the gain before and after the signal processing
+* `Highpass:` A high-pass filter to remove low-frequency content
+* `Dry/Wet Mix:` A control for blending the processed signal with the original dry signal
 
 Caveats:
-Using excessive Presence can introduce too much "air" or distortion in extreme cases. Setting Presence to 0 returns the plugin to its original Spiral behavior.
+Using excessive Presence can introduce too much "air" or distortion in extreme cases.
+Setting Presence to 0 returns the plugin to its original Spiral behavior.
 
 Best Use Cases:
+Ideal scenarios for using Spiral2 include:
 
-* Mixing and mastering applications where transient preservation is desired.
-* Enhancing high frequency peaks without over-driving the signal.
-* Creating a 'distorted-but-not-quite' effect with Presence set to maximum.
+* Adding presence and punchiness to low-level signals
+* Preserving onset transients while maintaining dynamic range control
 
 Tips on Optimal Settings:
-Adjust Presence for optimal transient preservation, depending on the specific mix or master. Balance Pre Gain and Post Gain controls for best results in each application. Use Highpass to remove unwanted low-frequency content if necessary.
+Experiment with different Presence settings to find the desired balance between signal preservation and effect.
+Adjust Pre and Post Gain to optimize the overall signal-to-noise ratio.
+Use Highpass to remove unwanted low-frequency content if necessary.

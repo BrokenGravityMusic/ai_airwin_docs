@@ -1,21 +1,22 @@
 Distance
 
-A sound design or reverb plugin that simulates high frequency attenuation through air, creating a sense of distance or spaciousness in sound.
+Simulates high frequency attenuation through air, creating a sense of distance or spaciousness in sound.
 
 Key Controls and Settings:
 
-* `Dry/Wet Control:` Adjusts the balance between the original signal and the plugin's effect, ranging from 0 (dry) to 100 (wet)
-	+ Turning up the Dry/Wet control increases the plugin's impact on the sound
-
+* `Dry/Wet Control:` Adjusts the balance between the original signal and the plugin's effect, ranging from 0 (dry) to 100 (wet).
+	+ Turning up the Dry/Wet control increases the plugin's impact on the sound.
+* 
 Caveats:
-Not suitable for mastering or 2-buss applications due to intense coloration. Best used in creative mixing situations.
+Not suitable for mastering or 2-buss applications due to intense coloration. Best used in creative mixing contexts.
 
 Best Use Cases:
+Use Distance on:
 
-* Adding depth and space to pads
-* Enhancing the sense of distance and power in thunder effects
-* Adding weight and low-end presence to basslines
-* Adding size and thunder to reverb returns, rather than sends
+* Pads: Adds depth and space to ambient textures
+* Thunder: Enhances the sense of distance and power in percussive effects
+* Basses: Adds weight and low-end presence to basslines
+* Reverb returns: Recommended over reverb sends, adds size and thunder
 
 Tips on Optimal Settings:
 Experiment with different Dry/Wet settings to find the right balance for your sound. Use Distance in conjunction with other creative mixing tools to achieve unique sounds.

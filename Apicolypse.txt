@@ -1,22 +1,20 @@
 Apicolypse
 
-A color adder plugin that works similarly to Neverland, providing a drop-in replacement for old mixes with a simpler method of generating dynamic impulses.
+A drop-in replacement for old mixes, Apicolypse is a color adder that works similarly to Neverland.
 
 Key Controls and Settings:
 
-* Hardness: A control that ranges from 0 (Density algorithm) to 1.0 (straight digital clipping). Intermediate settings create a hybrid between clean and soft-clipped sounds.
+* `Hardness:` A control that ranges from 0 (Density algorithm) to 1.0 (straight digital clipping). Intermediate settings create a hybrid between clean and soft-clipped sounds.
 	+ Setting Hardness to 0 yields the Density algorithm.
 	+ Setting Hardness to 1.0 results in straight digital clipping at the extreme.
-	+ Settings between 0 and 1.0 create a hybrid effect, transitioning from clean to soft-clip at any desired point.
-
-Caveats:
-* Avoid setting Hardness to a position where soft-clipping occurs at very low levels. Instead, use settings that result in clean or highly distorted sounds.
-* This plugin is best used with mixes that are heavily processed or mastered.
+* `Mix:` A control that determines the onset of clipping when using intermediate settings of Hardness (between 0 and 1.0).
+	+ Range: Soft-clipping kicks in at this level.
+	+ Type: The point where soft-clipping transitions into clipping.
 
 Best Use Cases:
 Apicolypse is suitable for re-mastering old mixes or adding color to existing material that lacks depth and character.
 
 Tips on Optimal Settings:
-* Use Hardness at 0 (Density algorithm) for clean, un-distorted sounds.
-* Set Hardness to high values (approaching 1.0) for extreme clipping effects.
-* Experiment with intermediate settings of Hardness to find the desired balance between clean and soft-clipped sounds.
+Use Hardness at 0 (Density algorithm) for clean, un-distorted sounds.
+Set Hardness to high values (approaching 1.0) for extreme clipping effects.
+Experiment with intermediate settings of Hardness to find the desired balance between clean and soft-clipped sounds.

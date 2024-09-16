@@ -1,25 +1,15 @@
 Console8BussHype
 
-Simulates an improved 8-bus topology with analog characteristics, providing a brighter and sparklier design compared to Console8BussIn.
+Simulates an improved 8-bus topology with analog characteristics, offering a brighter and sparklier circuit compared to Console8BussIn.
 
 Key Controls and Settings:
 
-* `Topology:` Switch between bus, channel, or submix routing.
-	+ Range: Not specified
-	+ Type: Dropdown selection
-* `Swap mode (or Swap Circuit):` A switch to enable or disable the simulated upgrade, allowing you to choose between the original Console8BussIn circuit and a brighter, sparklier design.
-	+ Range: On/Off
-	+ Type: Toggle button
-* `Analog Simulation:` Engage for a brighter and sparklier circuit (same as Swap mode in other versions).
-	+ Range: Not specified
-	+ Type: Toggle button
-
-Caveats:
-None documented.
+* `Topology`: Switch between bus, channel, or submix routing.
+* `Analog Simulation`: Engage for a brighter and sparklier circuit, replacing the original Console8BussIn configuration.
+* `Swap Circuit:` Allows you to switch between the original Console8BussIn circuit and the new, brighter sparklier circuit provided by this plugin.
 
 Best Use Cases:
-Ideal for mixing and mastering applications where an enhanced 8-bus topology is desired.
+Ideal for mixing and mastering applications where an enhanced 8-bus topology is desired. Also useful when seeking an alternative analog simulation sound with a brighter and more sparkling character compared to Console8BussIn.
 
 Tips on Optimal Settings:
-* Adjust Topology to suit your mixing style.
-* Engage Analog Simulation (or Swap mode) for a brighter sound, but be aware it replaces the original Console8BussIn configuration.
+Adjust Topology to suit your mixing style. Engage Analog Simulation for a brighter sound, but be aware it replaces the original Console8BussIn configuration. Use Swap Circuit to choose between the two circuits based on your needs.

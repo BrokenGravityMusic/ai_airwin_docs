@@ -1,24 +1,19 @@
-IronOxideClassic
-
-A plugin that simulates a classic iron oxide tone with input trim, IPS control, and output trim, providing a clean and pure sound.
+A plugin that simulates a classic iron oxide tone.
 
 Key Controls and Settings:
 
 * `Input Trim`: Adjusts the signal level entering the plugin.
-	+ Range: Not specified
-	+ Type: Not specified
+	+ Range: N/A
+	+ Type: Gain control
 * `IPS Control`: Controls the plugin's tone shaping.
-	+ Range: Not specified
-	+ Type: Not specified
+	+ Range: N/A
+	+ Type: Tone-shaping control
 * `Output Trim`: Adjusts the signal level exiting the plugin.
-	+ Range: Not specified
-	+ Type: Not specified
-
-Caveats:
-None listed.
+	+ Range: N/A
+	+ Type: Gain control
 
 Best Use Cases:
-Ideal for making electronic music that requires clean handling of synthetic tones, or for those who prefer a grunge-free sound. Suitable for applications where a vintage tape saturation effect is desired.
+Ideal for making electronic music that requires clean handling of synthetic tones, or for those who prefer a grunge-free sound.
 
 Tips on Optimal Settings:
 * Experiment with different input and output trim settings to find the optimal balance for your mix.

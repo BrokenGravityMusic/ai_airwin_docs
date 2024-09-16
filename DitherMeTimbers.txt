@@ -1,30 +1,24 @@
 DitherMeTimbers
 
-A filter that darkens and deepens the most delicate subtleties of digital waveforms, adding depth and organic tone to audio.
+A filter that darkens and deepens the most delicate subtleties of the digital waveform, adding depth and organic tone to audio.
 
 Key Controls and Settings:
 
-* `Latency`: adjustable delay (output stage)
+* Latency: adjustable delay (output stage)
 	+ Range: [insert text]
-	+ Type: adjustable
-* `Micro-Environment Size`: controls the size of the micro-environment considered for rounding (default: 3 samples)
+* Micro-Environment Size: controls the size of the micro-environment considered for rounding
 	+ Range: [insert text]
-	+ Type: sample count
-* `Noise Shaping`: adjusts the amount of noise added to the output
+	+ Type: [insert text]
+* Noise Shaping: adjusts the amount of noise added to the output
 	+ Range: [insert text]
-	+ Type: adjustable
-* `Treble Darkening`: controls the amount of treble reduction in the output
+* Treble Darkening: controls the amount of treble reduction in the output
 	+ Range: [insert text]
-	+ Type: adjustable
-
-Caveats:
-This plugin is not a traditional dither, but rather a filter and noise shaper. It may not be suitable for users who prefer bright and detailed sound.
 
 Best Use Cases:
-
-* Adding depth and organic tone to ambient or distant sounds
-* Creating warm, mellow, and natural-sounding audio for CDs
-* Enhancing the sonic characteristics of vinyl records
+Adding depth and organic tone to ambient or distant sounds
+Creating warm, mellow, and natural-sounding audio for CDs
+Enhancing the sonic characteristics of vinyl records
 
 Tips on Optimal Settings:
-Adjust latency and micro-environment size to balance the amount of rounding applied. Experiment with noise shaping and treble darkening to achieve the desired tone.
+Adjust latency and micro-environment size to balance the amount of rounding applied.
+Experiment with noise shaping and treble darkening to achieve the desired tone.

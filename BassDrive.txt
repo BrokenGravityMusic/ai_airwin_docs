@@ -1,39 +1,30 @@
 BassDrive
 
-An artificial bass amp simulator that emulates the SansAmp Bass DI rackmount RBI version.
+An artificial bass amp simulator that emulates the SansAmp Bass DI rackmount RBI version, using biquad filters and internal overdrive.
 
 Key Controls and Settings:
 
 * `Low`: Adjusts low frequency response.
-	+ Range: 
-	+ Type: 
-* `Mid`: Adjusts mid frequency response.
-	+ Range: 
-	+ Type: 
-* `Treble`: Adjusts high frequency response.
-	+ Range: 
-	+ Type: 
-* `Drive`: Adds overdrive to the sound.
-	+ Range: 
-	+ Type: 
-* `Notch`: A notch filter at 10K Hz, affecting high-frequency response.
-	+ Range: 
-	+ Type: 
+	+ Range: Not specified
+	+ Type: Not specified
+* `Mid`: Shapes midrange frequency presence.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Treble`: Adjusts high-frequency content.
+	+ Range: Not specified
+	+ Type: Not specified
+* `Overdrive`: Regulates the amount of internal distortion applied to the signal.
+	+ Range: 0% to ? (Note: not specified in original text)
+	+ Type: Internal overdrive
 
-Caveats:
+Locked to 44.1K sampling rate for optimal performance.
+The plugin's behavior may deviate from traditional EQ controls due to its unique filtering characteristics.
 
-* Locked to 44.1 kHz sampling rate for optimal performance.
-* Biquad filters are hard-coded and cannot be adjusted independently of each other.
-* Unconventional voicing may not appeal to all users.
+Adding weight and punch to bass guitar sounds.
+Enhancing heavy guitar sounds with a unique, aggressive tone.
+Experimental sound design and effects creation.
 
-Best Use Cases:
-
-* Adding weight and punch to bass guitar sounds.
-* Enhancing heavy guitar sounds with a unique, aggressive tone.
-* Experimental sound design and effects creation.
-
-Tips on Optimal Settings:
-
-* Adjust Low, Mid, and Treble controls to taste for optimal balance.
-* Experiment with Drive levels to add desired amount of overdrive.
-* Use Notch filter to shape high-frequency response.
+Adjust Low, Mid, and Treble controls to taste for optimal balance.
+Experiment with Overdrive levels to add desired amount of overdrive.
+Use internal filtering characteristics to shape high-frequency response.
+Consider using the plugin in conjunction with other plugins for enhanced sound quality.

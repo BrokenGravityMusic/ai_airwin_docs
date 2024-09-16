@@ -1,36 +1,18 @@
 ZRegion2
 
-Emu e6400 style Airwindows Region filter with coefficient smoothing
+An Emu e6400 style Airwindows Region filter with coefficient smoothing.
 
 Key Controls and Settings:
 
 * `Poles`: Adjusts the number of poles in the filter.
-	+ Range: Higher values create more aggressive effects, lower values produce softer effects
-	+ Type: Numerical control
-* Filter Stages: A series of bandpass filters used to distort audio.
-	+ Range: Adjustable by changing the filter configuration
-	+ Type: Numerical control
-* Bandpass Frequencies: Set the frequencies for each stage to stagger the distortion effect.
-	+ Range: Adjustable low and high pass frequencies to target specific frequency ranges
-	+ Type: Numerical control
-* Gain: Controls the overall gain of the filter.
-	+ Range: Use to balance with dry signal and achieve desired tone
-	+ Type: Numerical control
-
-Mix:
-A blend control for mixing the processed sound with the original
-Range: 0% to 100%
-Type: Numerical control
-
-Caveats:
-Coefficient smoothing consumes more CPU than the original ZRegion plugin.
-Coefficient smoothing increases CPU usage compared to ZRegion.
+	+ Higher values create more aggressive effects.
+	+ Lower values produce softer effects.
+* `Filter Stages`: A series of bandpass filters used to distort audio.
+	+ Adjust the number of stages by changing the filter configuration.
+* `Bandpass Frequencies`: Set the frequencies for each stage to stagger the distortion effect.
+	+ Adjust the low and high pass frequencies to target specific frequency ranges.
+* `Gain`: Controls the overall gain of the filter.
+	+ Use to balance with dry signal and achieve desired tone.
 
 Best Use Cases:
-
-* Fixed tone settings: Use when you want a consistent sound without interpolation, or as a fixed tone setting, especially when combined with other filters.
-* Automation: Employ when you intend to move the controls as part of the mix, taking advantage of coefficient smoothing for crackle-free transitions, or to create smooth control changes with minimal crackling or zipper noise.
-
-Tips on Optimal Settings:
-To achieve killer bass tones, set the first filter higher for midrange articulation, then lower for heavy bass mojo.
-Set the first filter stage high for midrange articulation and the last stage low for heavy bass emphasis.
+Producing aggressive and textural bandpass-y effects, creating heavy bass tones with midrange articulation, experimenting with dynamic control movements to achieve unique sounds.

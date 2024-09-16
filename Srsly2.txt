@@ -1,18 +1,16 @@
-Srsly2
-
 A plugin that revises and extends the functionality of Srsly, creating an extreme stereo widening effect.
 
 Key Controls and Settings:
 
 * `Center:` A control for adjusting the center image.
+	+ Range: -1 to 1 (default: 0)
 * `Space:` A control for adjusting the stereo wideness, which can be cranked up to create a wild and boosted stereo field.
+	+ Range: 0 to 10 (default: 5)
 * `Q:` Adjusts the resonance of the mid and side channels for finer control over stereo widening.
-
-Caveats:
-None specified.
+	+ Range: 1 to 10 (default: 5)
 
 Best Use Cases:
-Ideal scenarios include using Srsly2 on reverb returns or as a way to enhance stereo content in mixing. It is also suitable for creating an ultra-wide reverb field, where extreme width and depth manipulation in the stereo field are desired.
+Ideal scenarios include using Srsly2 on reverb returns or as a way to enhance stereo content in mixing. It is also suitable for creating an ultra-wide reverb field, particularly when used in situations where extreme stereo widening is desired, such as creating a wide and immersive reverb field or enhancing the spatiality of stereo content.
 
 Tips on Optimal Settings:
-Leaving the Center control alone and cranking up the Space control can achieve a wild and somewhat boosted and hyped zone, making the most of your spectacular stereo content. Experiment with different Q values to refine the mid and side channel resonance for more precise effects.
+Leaving the Center control alone and cranking up the Space control can achieve a wild and somewhat boosted and hyped zone, making the most of your spectacular stereo content. Experimenting with different Q values can help refine the mid and side channel resonance for optimal results.

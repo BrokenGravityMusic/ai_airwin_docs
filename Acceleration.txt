@@ -4,22 +4,28 @@ An acceleration limiter plugin that targets and reduces edge-related digital beh
 
 Key Controls and Settings:
 
-* `Amount control`: Adjusts the intensity of the effect.
-* `Dry/Wet control`: Blend between original sound and processed sound. In this case, you're progressively adding more stages with increasing dry/wet values.
-* `Adjustment`: Adjusts the amount of acceleration limiting applied to the signal (optional).
-	+ Turning up will increase the effectiveness of the limiter, while turning down will reduce its effect.
+* Amount control: Adjusts the intensity of the effect.
+* Dry/Wet control: Blend between original sound and processed sound. In this case, you're progressively adding more stages with increasing dry/wet values.
+* Adjustment: Adjusts the amount of acceleration limiting applied to the signal.
 
-Caveats:
-None specified.
+Range:
+	+ Amount control: Not specified
+	+ Dry/Wet control: Not specified
+	+ Adjustment: Not specified
+
+Type:
+	+ Amount control: Not specified
+	+ Dry/Wet control: Not specified
+	+ Adjustment: Not specified
 
 Best Use Cases:
 
 * Reducing edge-related digital behavior in source material.
 * Taming brightness in ITB mixes or weird edgy sources.
-* Preparing material for mastering by reducing overshoots and glare-y effects. (optional)
-Use in situations where high-end edge needs to be tamed, such as when working with noisy or digital-sounding sources.
+* Preparing material for mastering by reducing overshoots and glare-y effects.
+* Use in situations where high-end edge needs to be tamed, such as when working with noisy or digital-sounding sources.
 
 Tips on Optimal Settings:
-Adjust the Amount control to match your desired amount of edge reduction. Use the Dry/Wet control to find a balance between processing and retaining original sound characteristics.
+Adjust the Amount control to match your desired amount of edge reduction. Use the Dry/Wet control to find a balance between processing and retaining original sound characteristics. Adjust the Adjustment control to a moderate level (around 50-70%) and then tweak the dry/wet ratio to balance the desired amount of limiting.
+
 Don't try and get the apparent volume of the highs to be less. Instead, aim for character or presentation improvement.
-Target the nasty digital brightness without altering basic mix balance.

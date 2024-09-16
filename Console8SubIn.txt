@@ -1,27 +1,17 @@
 Console8SubIn
 
-Converts an input bus into a submix topology with analog simulation
+Converts an input bus into a submix topology with analog simulation.
 
 Key Controls and Settings:
 
-* Channel/Submix/Buss Selection: Choose the type of topology (e.g. channel, submix, buss)
-	+ Range: N/A
-	+ Type: Dropdown menu
-* Analog Simulation Type: Select from various analog simulation models
-	+ Range: N/A
-	+ Type: Dropdown menu
-* Gain: Adjust the overall gain of the processed audio
-	+ Range: N/A
-	+ Type: Knob or slider
-
-Caveats:
-None noted.
+* Channel selection: Select the input bus to convert.
+* Submix topology: Choose from various submix configurations (e.g. 2-channel, 4-channel).
+* Analog simulation: Select the desired analog model for processing (e.g. "warm", "vintage").
+* Gain: Adjust the overall gain level of the output signal.
 
 Best Use Cases:
 
-* Create a submix topology for mixing and mastering
-* Add analog warmth to an input bus
-* Mixing and mastering applications where a channel/submix/buss topology is desired
+Use Console8SubIn to create a submix topology for mixing and mastering, or to add analog warmth to an input bus. Ideal for mixing and mastering applications where a channel/submix/buss topology is desired, such as creating a stereo mix from multiple tracks or adding analog warmth to a signal chain.
 
 Tips on Optimal Settings:
-Experiment with different submix topologies and analog simulation types to find the best configuration for your sound. Adjust gain to taste, taking care not to overdrive the signal.
+Experiment with different submix topologies or analog simulation modes to find the best configuration for your sound. Adjust the gain level to match the desired output level of your signal.

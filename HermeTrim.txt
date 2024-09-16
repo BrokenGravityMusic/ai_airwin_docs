@@ -1,24 +1,15 @@
-HermeTrim
-
 Fine adjustments for stereo tweaking and mastering.
 
 Key Controls and Settings:
+
 * `Left`: Trim -12dB to +12dB (1.5 dB step)
 * `Right`: Trim -12dB to +12dB (1.5 dB step)
 * `Mid`: Trim -12dB to +12dB (1.5 dB step)
 * `Side`: Trim -12dB to +12dB (1.5 dB step)
 * `Master`: Trim -12dB to +12dB (1.5 dB step)
 
-Caveats:
-* Not designed for mixing purposes; geared towards mastering.
-* May require additional gain staging or limiting to avoid distortion.
-
 Best Use Cases:
-* Mastering and finalizing mixes for release.
-* Making tiny adjustments to stereo imaging and balance.
-* Tweaking individual tracks or buses in a mix.
+Making tiny tweaks to the master for optimal sound, stereo tweaking and adjustment.
 
 Tips on Optimal Settings:
-* Start with small trim values (1.5 dB) and adjust gradually.
-* Listen carefully to the changes in stereo image and balance.
-* Use in conjunction with other plugins, such as gain staging and limiting tools.
+Adjust in small increments (1.5 dB) for best results, use with caution as excessive trimming can affect overall sound balance.

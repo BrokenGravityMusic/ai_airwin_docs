@@ -1,28 +1,24 @@
 Creature
 
-Soft slew saturator that applies a sin() function to slew clipping, creating a unique distortion-like effect.
+A soft slew saturator that applies an unbounded sin() function to slew clipping, stacked up like the poles of a filter.
 
 Key Controls and Settings:
 
-* `Depth`: Adjusts the amount of distortion.
-	+ Increasing Depth increases gain and adds more "thunder".
-	+ Can become difficult to control at high settings.
-* `Inv`: Inverts the signal, creating an interesting cancellation effect.
-	+ Can be used in Wet mode for a monstrous overdrive with significant bass.
-* `Mix:` A blend control for mixing the processed sound with the original
+* `Depth`: Adjusts the number of soft slew saturators, with up to 32 stacked at high sample rates.
+	+ Range: Low to moderate settings for more manageable results
+	+ Type: Gain control
+* `Inv (Inverse)`: A control that creates an interesting cancellation effect when used in phase.
+	+ Range: 
+	+ Type: Filtering effect
+* `Wet/Dry blend`: Allows adjusting the mix of processed and original audio.
 	+ Range: 0% to 100%
-* `Sample Rate:` Influences the interaction of Creature with sample rate (scales up with square root of sample rate multiplier).
+	+ Type: Mix control
 
 Caveats:
-* Can become difficult to control at high Depth settings.
-* Inv control may interact unexpectedly in certain scenarios.
+The plugin's interaction with sample rate is unusual and must be scaled up with the square root of the sample rate multiplier. It becomes increasingly difficult to control at high gain settings.
 
 Best Use Cases:
-* Percussive sounds or hats
-* Instruments to add a unique "grind"
-* Reverb sends to enhance distant loud sound
+Adding a distorted, overdriven sound with massive bass response (especially on drum rooms). Creating a unique cancellation effect by using the Inv control in Wet mode.
 
 Tips on Optimal Settings:
-* Start with low Depth settings for minimal CPU usage and adjust to taste.
-* Experiment with Inv control in Wet mode to create unique cancellation effects.
-* Be cautious when increasing Depth, as it can become difficult to control.
+Start with low Depth settings for minimal CPU usage and adjust to taste. Experiment with the Inv control in Wet mode to create unique cancellation effects.

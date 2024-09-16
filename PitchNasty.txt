@@ -1,27 +1,37 @@
 PitchNasty
 
-A primitive pitch shifter with time-stretch artifacts that produces a high-res immediate and punchy pitch shift or throws digital trash at audio rates.
+
+A primitive pitch shifter with time-stretch artifacts that produces a high-res immediate and punchy pitch shift, often accompanied by nasty sample-glitches.
+
 
 Key Controls and Settings:
 
 * `Note Interval Control`: Adjusts note intervals in half-steps (range: -24 to +24).
-	+ Stacks with Pure Pitch Bend for high/low bends.
-* `Pure Pitch Bend`: Regulates a pure pitch bend, stacking with Note Interval Control.
-	+ Range: -24 to +24.
-* `Sample Buffer Size`: Specifies the buffer size as a musical note (six octave range), affecting pitch shift capabilities and time stretching.
-	+ Range: six octave notes.
-* `Feedback`: Regenerates sound at high levels, creating Eventide-like noises or adding harmonic density.
-	+ Can produce harsh sounds if not used carefully.
-* `Dry/Wet`: Balances original sound with processed sound.
+	+ Range: six octave range
+	+ Type: sets the pitch shift
+* `Pure Pitch Bend Control`: Pure pitch bend control (stacks with Note Interval Control for high/low bends, range: -24 to +24).
+	+ Range: six octave range
+	+ Type: sets a pure pitch bend
+* `Sample Buffer Size Control`: Specifies the buffer size as a musical note (six octave range), affecting pitch shift capabilities.
+	+ Range: six octave range
+	+ Type: sets the buffer size
+* `Feedback Control`: Regenerates sound at high levels, creating Eventide-like noises or adding harmonic density.
+	+ Range: variable
+	+ Type: adds regenerative feedback
+* `Dry/Wet Control`: Balances original sound with processed sound (range: 0% to 100%).
+	+ Range: 0% to 100%
+	+ Type: blends the processed sound with the original
 
-Caveats:
-High sample buffer sizes can make pitch shifting impossible, while low settings may barely affect the sound. Feedback can be cranked to create constant regeneration, producing Eventide-like noises.
 
 Best Use Cases:
 
-* Time stretching and re-pitching source sounds to create unique textures.
-* Adding intensity, punchiness, or retro tone to individual tracks or mixes.
-* Creating complex, harmonic-dense soundscapes with feedback.
+* Thickening drum tracks by applying a 30% layer of pitch up (or down) with feedback.
+* Creating a retro tone with punchy and direct results.
+* Adding harmonic density or complexity to existing sounds using the feedback control.
+
 
 Tips on Optimal Settings:
-For high-res pitch shifting, use a moderate Sample Buffer Size (e.g., C3-C5) and minimal Feedback. To achieve 80s composite sounds, experiment with lower Sample Buffer Sizes (e.g., E2-E4), higher Feedback levels, and careful Dry/Wet balancing.
+
+* Experiment with high sample buffer sizes to achieve unusual pitch shifting effects.
+* Use feedback to create interesting noises or add depth to your sound.
+* Balance the Dry/Wet control to find the perfect blend between the original and processed sound.

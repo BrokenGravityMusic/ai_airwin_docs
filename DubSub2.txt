@@ -1,24 +1,21 @@
-DubSub2
-
-Recreates the sound of an analog tape machine head bump with a unique IIR filter and saturation algorithm.
+A plugin that mimics the sound of a tape machine head bump, with a unique IIR filter and saturation algorithm.
 
 Key Controls and Settings:
 
 * `Head Bump Frequency`: Set to control the frequency of the head bump notch.
-	+ Range: any desired value (ips speed related)
-	+ Type: set to desired frequency
+	+ Range: Not specified
+	+ Type: 
 * `Bandpass Resonance Q`: Use the golden ratio (approximately 1.618) for optimal results in creating a consistent head bump sound like real analog tape machines.
-	+ Range: use the golden ratio, slightly too tight values won't work
+	+ Range: Not specified
+	+ Type: 
 * `Stacked Bandpasses`: Adjust the resonance and Q values for the bandpasses to achieve desired tone and rejection of unwanted DC energy.
+	+ Note: Requires careful adjustment to avoid phase shifting and cancellation around the bandpass frequency.
 
 Caveats:
-The algorithm can be unstable, prone to growl or distortion if not controlled properly. Requires careful adjustment of bandpass filters to avoid phase shifting and cancellation around the bandpass frequency.
-Unstable algorithm that requires control in higher frequencies to prevent distortion and DC push. Phase shifts can cause cancellation around bandpass frequency, resulting in notches.
+The algorithm can be unstable, prone to growl or distortion if not controlled properly. 
 
 Best Use Cases:
 Use DubSub2 in contexts where you want to add a unique, analog tape machine-like head bump effect to your sound. This plugin is ideal for recreating the essence of Airwindows' ToTape algorithms.
-Bass-emphasis tone shaping for music production. Adding warmth and character to audio signals.
 
 Tips on Optimal Settings:
 To achieve optimal results, use the golden ratio (approximately 1.618) as the bandpass resonance Q value. Experiment with different track widths and head bump frequencies to find the perfect balance for your sound.
-Adjust the head bump frequency to match your desired track width or ips speed. Experiment with different Q values to find the best resonance for your stacked bandpasses.

@@ -1,26 +1,24 @@
 curve
 
-A pure, subtle compression plugin with no gain boost or clipper.
+A pure, subtle compression effect with no gain or transition points, ideal for gentle level balancing.
 
 Key Controls and Settings:
 
-* `Threshold:` Sets the level above which the compressor activates.
+* `Threshold:` -60 dB to 0 dB
 	+ Range: -60 dB to 0 dB
-	+ Type: Linear
-* `Ratio:` Compression ratio applied to audio above threshold.
+	+ Type: Control
+* `Ratio:` Adjust the compression ratio from 1x to 10x
 	+ Range: 1x to 10x
-	+ Type: Multiplicative
-* `Attack Time:` Controls the time it takes for the compressor to respond to changes in signal level.
+	+ Type: Control
+* `Attack Time:` Control the time it takes for the compressor to respond to loud signals (1 ms to 100 ms)
 	+ Range: 1 ms to 100 ms
-	+ Type: Linear
-* `Release Time:` Sets the time it takes for the compressor to return to its normal state after the signal has fallen below the threshold.
+	+ Type: Control
+* `Release Time:` Set the time it takes for the compressor to recover after a signal has passed (10 ms to 500 ms)
 	+ Range: 10 ms to 500 ms
-	+ Type: Linear
-* `Makeup Gain:` (optional) Adjust the output gain to compensate for compression.
+	+ Type: Control
+* `Makeup Gain:` Adjust the output gain to compensate for compression (-24 dB to 0 dB)
 	+ Range: -24 dB to 0 dB
-
-Caveats:
-May not catch overs occasionally. Can multiply with multiple instances on different tracks and buses.
+	+ Type: Control
 
 Best Use Cases:
 Ideal for gentle level balancing, subtle compression, and mixing/mastering applications where a pure, uncolored effect is desired.

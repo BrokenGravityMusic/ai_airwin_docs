@@ -1,23 +1,23 @@
 Elation
 
-A dynamic convolution plugin that simulates an analog effect using LA-2A convolution impulses.
+A dynamic convolution plugin that simulates an analog effect using LA-2A convolution impulses, adding unique tonal character without compression.
 
 Key Controls and Settings:
 
-* Character slider: Adjusts the tonal effect of the plugin, accentuating its unique sound. Note: This control also steals bass if desired.
-	+ Range: 
-	+ Type: 
-* Drive slider: Adds a crunchy texture to the output.
-	+ Range: 
-	+ Type: 
-* Dry/Wet control: Blends the processed signal with the original input.
+* Character slider: Adjusts the tonal effect, allowing for accentuation or reduction of bass
+	+ Range: Not specified
+	+ Type: Tonally adjustable
+* Drive slider: Adds crunch to the signal
+	+ Range: Not specified
+	+ Type: Texture-enhancing
+* Dry/Wet control: Blends the original and processed signals
 	+ Range: 0% to 100%
-
-Caveats:
-Elation does not properly compress audio; it affects the tonal balance instead. The plugin's behavior may be unpredictable, as described in its development notes.
+	+ Type: Blend control
 
 Best Use Cases:
-Adding a unique and interesting tone to audio signals. Creating a distinct sound that is not easily replicable with other plugins. Experimenting with unconventional effects on audio.
+Adding unique color and character to audio signals where a typical sound is undesirable.
+Creating distinctive effects.
 
 Tips on Optimal Settings:
-Use the Character slider to find the perfect balance between tonal effect and bass response. The Drive slider can add a nice crunch to your sound, but be cautious not to overdo it. Adjusting the Dry/Wet control can help you achieve a desired blend of processed and original audio.
+Experiment with the Character slider and Drive slider to find the perfect balance between tonal effect and crunch.
+Adjust the Dry/Wet control to blend processed and original signal for a more subtle effect.

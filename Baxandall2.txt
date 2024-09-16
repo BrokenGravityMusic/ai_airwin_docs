@@ -1,21 +1,18 @@
-Baxandall2
-
 A powerful, broad-stroke EQ with a unique sweep technique, allowing for extreme effects and boosts.
 
 Key Controls and Settings:
 
-* Filter Slopes: Unusually shallow slopes for a "broad strokes" effect.
-* Sweep Control: Adjusts the center point of the filters to create increasingly extreme effects.
-* dB Boost/Cut: Offers up to 24dB of boost or cut, allowing for wild EQ shapes.
-
-Caveats:
-None specified.
+* `Filter Slopes`: Unusually shallow slopes for a "broad strokes" effect.
+* `Sweep Control`: Adjusts the center point of the filters to create increasingly extreme effects.
+* `Gain:` Boosts and cuts in the 24dB range, can be adjusted by typing a value (e.g., -12dB, +6dB).
+* `Filter 1-3:` Three-band EQ sections with sweepable filter center points.
 
 Best Use Cases:
 
-* Building a mix out of composite parts with different voicings.
-* Achieving broad EQ strokes without sacrificing naturalness.
-* Creating synth-like effects by cranking up the sweep control.
+Ideal for creating composite tracks with distinct voicings, and for achieving broad EQ changes without affecting other frequency ranges.
 
 Tips on Optimal Settings:
-Experiment with sweeping the filter center points to achieve extreme effects, and crank up the boosts/cuts for 24dB of gain or reduction. Use the unique design for subtle tilt effects and broad-stroke filtering in combination with other plugins.
+
+Experiment with sweeping the filter center points to achieve extreme effects.
+Use the gain controls to boost or cut frequencies within each band.
+Crank up the boosts/cuts for 24dB of gain or reduction.

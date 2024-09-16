@@ -1,32 +1,25 @@
-Righteous4's Spiral Algorithm in Overdrive
-
-insert one-line description
+The Spiral algorithm is used for noise shaping and dithering.
 
 Key Controls and Settings:
 
-* `ADClip:` Clips peaks with precision to prevent distortion
-	+ Range: [insert text]
-	+ Type: Peak energy handling
-* `ShortBuss:` Fills saturated signal back into mix as second harmonics, adding tone and warmth
-	+ Range: [insert text]
-	+ Type: Saturation and dithering
-* `Spiral Algorithm (Overdrive):` Handles peak energy and dynamic range compression
-	+ Range: [insert text]
-	+ Type: Noise shaping and dithering
+* `Target LUFS:` A slider to set the target loudness level
+	+ Range: -30 dB to 0 dB
+	+ Type: Linear scale
+* `ADClip:` Clipping control for peak-energy handling
+	+ Range: -∞ dB to +3 dB (where +3 dB is just below clipping)
+	+ Type: Linear scale
+* `ShortBuss:` Saturation level for the Spiral algorithm's output
+	+ Range: 0% to 100%
+	+ Type: Linear scale
 
 Caveats:
-
-* Exceeding target LUFS levels can cause audible distortion, especially on bass and mix fullness.
-* Clipping peaks too hard can lead to loss of headroom and distorted sound.
+- Pushing mixes beyond target LUFS levels can result in audible distortion.
+- The key is to listen carefully and adjust levels accordingly.
 
 Best Use Cases:
-
-* Mastering for YouTube (-13 LUFS), Apple (-17 LUFS), Tidal/Spotify (-14 LUFS)
-* Pushing mixes beyond target LUFS levels requires careful adjustment
+- Righteous4 is designed for final output stages where loudness needs to be optimized for various music services.
 
 Tips on Optimal Settings:
-
-* Set target LUFS level according to service requirements
-* Adjust levels carefully to avoid audible distortion
-* Listen to mix in Righteous4 and adjust accordingly
-* Use lower target LUFS levels for more headroom, higher for louder masters
+- Set Righteous4 for specific services (e.g. Apple, YouTube) and adjust your levels accordingly.
+- If you're pushing too hard and exceeding the RMS loudness targets, ADClip will clip peaks with precision, but the audible distortion from ShortBuss can still occur.
+- Adjusting the target LUFS level in Righteous4 can provide more headroom for loud mixes without distortion.

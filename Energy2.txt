@@ -4,23 +4,15 @@ A high sample rate fixed-frequency treble boost plugin with an algorithm tied to
 
 Key Controls and Settings:
 
-* High Treble Boost: Boosts high frequency range (above 10k Hz) for added energy and air.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Upper Mids: Adds aggression and body to mid-range frequencies (around 2-5k Hz).
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Inv/Dry/Wet:
-	+ Invert: Inverts phase of added energy.
-	+ Dry: Sets amount of original sound retained.
-	+ Wet: Sets amount of added energy mixed with original sound.
-	+ Range: [insert text]
-
-Caveats:
-Avoid combining sliders in ways that produce unpredictable tone colors, instead focus on one color at a time with minimal adjustments.
+* `High Treble Boost`: Boosts high treble frequencies.
+* `Upper Mid Boost`: Boosts upper mid frequencies, adding highs along with it.
+* `Mixing Control (Inv/Dry/Wet)`: Combines sliders to get striking tone colors, with options for inverting phase, adjusting dry signal retention, and setting added energy levels.
 
 Best Use Cases:
-Boosting treble frequencies for high sample rate applications and adding aggression in high-mids for a more intense sound.
+
+* Boosting treble frequencies for high sample rate applications.
+* Adding aggression in high-mids for a more intense sound.
+* Mixing with Inv/Dry/Wet control for optimal results.
 
 Tips on Optimal Settings:
-Focus on one color at a time, adding or subtracting tones as needed. Crank out sliders to extreme levels and then use Inv/Dry/Wet to balance added energy.
+Focus on one color at a time, adding or subtracting tones as needed. Crank out sliders to get obnoxious levels of boost and then use Inv/Dry/Wet to control the added energy.

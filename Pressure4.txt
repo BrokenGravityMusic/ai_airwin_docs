@@ -1,6 +1,8 @@
 Pressure4
 
+
 A compressor adjustable between vari-mu and 'new york' peak-retaining behaviors.
+
 
 Key Controls and Settings:
 
@@ -12,14 +14,13 @@ Key Controls and Settings:
 	+ Type: [insert text]
 * `Linked stereo mode:` A special mode that uses diade bridges in hardware compressors to create a natural and fluid compression effect.
 
-Caveats:
-None noted.
 
 Best Use Cases:
 
 * Compressing individual tracks or buses for dynamic control
 * Creating distinctive textures and tones using the µ-iness and speed controls
 * Taking advantage of the linked stereo mode for natural and cohesive compression effects
+
 
 Tips on Optimal Settings:
 

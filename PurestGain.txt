@@ -1,5 +1,3 @@
-PurestGain
-
 High-res noise shaped gain with smoothed fader, offering ultra-high-precision gain processing at 'long double' resolution.
 
 Key Controls and Settings:
@@ -11,7 +9,7 @@ Caveats:
 The plugin's ultra-high-precision gain processing may not be noticeable when used in isolation, but can become apparent when used cumulatively with other plugins or in situations where audio resolution is critical.
 
 Best Use Cases:
-Ideal for applications where high-resolution gain processing is required, such as mastering consoles, precision attenuators, and analog console emulation.
+Ideal for applications where high-resolution gain processing is required, such as mastering consoles, precision attenuators, and analog console emulation. Suitable for critical listening and mastering, high-resolution audio productions, and situations where cumulative degradation in digital audio resolution is a concern.
 
 Tips on Optimal Settings:
-Use the Fade Smoothing Control to map a fader on a control surface, enabling smooth and fluid gain rides with minimal zipper noise. For optimal results, use the dB Gain Control for precise adjustments and map the Fade Smoother Control to a control surface for active mixing.
+Use the Fade Smoothing Control to map a fader on a control surface, enabling smooth and fluid gain rides with minimal zipper noise. For optimal results, use the Smooth Fader Control with a mapped control surface for active mixing.

@@ -4,18 +4,21 @@ A plugin that combines the best parts of Distance and Discontinuity, darkening s
 
 Key Controls and Settings:
 
-* `Interleaved Stage Count`: Adjusts the number of interleaved stages between Distance and Discontinuity processors (default: 3)
+* Interleaved Stage Count: Adjusts the number of interleaved stages between Distance and Discontinuity processors
 	+ Increasing this value will combine the effects in a more interesting way, but may also increase computational demand
-* `Distance Gain`: Adjusts the gain of the Distance processor
+* Distance Gain: Adjusts the gain of the Distance processor
 	+ Use to balance the overall level of the effect
-* `Discontinuity Drive`: Adjusts the drive of the Discontinuity processor
+* Discontinuity Drive: Adjusts the drive of the Discontinuity processor
 	+ Use to control the amount of distortion and loudness added by Discontinuity
 
 Caveats:
-Using high values for Interleaved Stage Count may increase computational demand. Experiment with different settings to find optimal results for your specific use case.
+* Using high values for Interleaved Stage Count may increase computational demand
+* Experiment with different settings to find optimal results for your specific use case
 
 Best Use Cases:
-Convincingly making sounds seem far away when reverb and ambience are already accounted for, or removing highs and accentuating rumble in various sound design applications.
+* Convincingly making sounds seem far away when reverb and ambience are already accounted for
+* Removing highs and accentuating rumble in various sound design applications
 
 Tips on Optimal Settings:
-Start by adjusting the Interleaved Stage Count to find a balance between effect quality and computational demand. Experiment with different Distance Gain and Discontinuity Drive settings to match your desired level of distortion and loudness.
+* Start by adjusting the Interleaved Stage Count to find a balance between effect quality and computational demand
+* Experiment with different Distance Gain and Discontinuity Drive settings to match your desired level of distortion and loudness

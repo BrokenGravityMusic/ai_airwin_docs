@@ -1,7 +1,5 @@
 Console7Crunch
 
-A variation on Console7Cascade with its EQ weighted for more edge and grit, using UltrasonX to combine filtering stages with additional clipping and distortion.
-
 Key Controls and Settings:
 
 * UltrasonX filters (five instances in each signal path):
@@ -26,4 +24,3 @@ Tips on Optimal Settings:
 
 * Experiment with different filter placements (e.g., before or after distortion) to achieve desired tonal characteristics.
 * Pay close attention to resonance values to maintain a flat and clear sound.
-* Adjust UltrsonX placement strategies to find the desired balance between brightness boost and complementary darkening, and consider how many instances are used in each signal path relative to Console/PurestConsole processing.

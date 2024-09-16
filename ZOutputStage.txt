@@ -1,23 +1,19 @@
-Exciter
+ZOutputStage
 
-A plugin that adds transients "pop" by distorting specific frequency bands.
+A plugin that applies output clipping from Emu e6400 style Z filters, similar to an exciter but using special filtering to get "frizz" on the edges of clipped sounds.
 
 Key Controls and Settings:
 
-* `Frequency`: Select the frequency band to be distorted.
-* `Effect Amount`: Control the intensity of the distortion effect.
-* `Distortion Type`: Soft clip distortion, mimicking a sin() function.
-
-Caveats:
-Turning up the Effect Amount too high can result in obvious crunch, whereas real-world examples would use much lower levels.
-
-Key Controls and Settings (continued):
-* `Mix:` A blend control for mixing the processed sound with the original
+* `Level`: Adjusts the overall level of the effect.
+	+ Type: Fader
+* `Distortion`: Sets the amount of distortion applied by the plugin. Values above 0.1 produce a distorted sound, similar to the Emu e6400's Z filters.
+	+ Range: 0% to 100%
+	+ Type: Slider
+* `Output Level`: Reduces the output level of the plugin, as it produces a hot signal.
+	+ Range: -10dB to +10dB
 
 Best Use Cases:
-Adding grit and energy to synth waves or other digital sounds.
-Enhancing transients and creating a "frizz" effect on clipped sounds.
+Adding energy and grind to synth waves, particularly in drum and bass genres. Enhancing the sound of digital audio productions to make them more similar to analog recordings.
 
 Tips on Optimal Settings:
-Start with subtle adjustments and fine-tune the Effect Amount for a more natural sound.
-Experiment with different Frequency settings to find the right balance between grit and tone.
+Start with a low Distortion setting (around 0.1) and gradually increase it to taste. Keep an eye on your Output Level setting to avoid clipping and distortion. Apply this plugin after other effects or processing stages to get the best results.

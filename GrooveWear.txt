@@ -1,18 +1,15 @@
 GrooveWear
-
-A plugin that simulates high-frequency rolloff using a stylus-like effect, averaging slews (the rate of change) of audio signals.
+-----------
 
 Key Controls and Settings:
 
-* `Intensity`: Adjusts the amount of slew averaging applied to each stage.
-* `Dry/Wet Stage 1-4`: Specify how much wet signal is mixed with the dry signal at each stage.
-* `Stages` (default: 4): The number of processing stages used for the effect.
+* `Intensity`: Controls the amount of slew averaging done by each stage.
+* `Dry/Wet`: A control for adjusting the amount of effect added progressively across four stages. Increases from pristine to deep groove wear.
+	+ Specify how much wet signal is mixed with the dry signal at each stage.
+* `Stage`: The number of processing stages used for the effect (default: 4).
 
-Caveats:
-None noted.
-
-Best Use Cases:
+Best Use Cases
 Use GrooveWear for scrubbing highs off mechanically, like a stylus would. Suitable for tone-softening and simulating vinyl wear.
 
-Tips on Optimal Settings:
-Adjust the Intensity control to specify how much slew averaging is applied, or use the Dry/Wet control to balance the effect's intensity. Experiment with different Stage settings to find the optimal balance between frequency range control and overall effect depth.
+Tips on Optimal Settings
+Adjust the intensity control to specify how much slew averaging is done by each stage. Adjust the dry/wet control to mix more stages of wet signal with the dry signal, starting from pristine to deep groove wear.

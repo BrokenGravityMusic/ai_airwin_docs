@@ -1,33 +1,25 @@
 ToVinyl4
 
-A vinyl-mastering simulator that adds several vinyl-type colors to your audio.
+A vinyl-mastering simulator that adds several vinyl-type colors to your audio, including bass reshaping, treble reduction, and groove wear.
 
 Key Controls and Settings:
 
-* `Bass Shape:` A special multipole IIR filter that reshapes the bass, making it more mono or tightening up the center. Adjustable parameters include:
-	+ `Mono/Balance:` Adjusts the balance between the left and right channels to create a more monophonic sound.
-	+ `Cutoff Frequency:` Sets the frequency below which the bass reshaping occurs.
-	+ `Slope:` Controls the rate at which the low-end frequencies are attenuated or accentuated.
-* `Acceleration Limiter:` A treble-reducer algorithm that zeroes in on transients and zaps them ruthlessly. Adjustable parameters include:
-	+ `Threshold:` Sets the level above which the acceleration limiter kicks in.
-	+ `Attack/Release:` Controls the time it takes for the limiter to respond to changes in the audio signal.
-* `Groove Wear:` A control that simulates the effects of a stylus traveling down a vinyl groove, introducing inertia and slight distortion. Adjustable parameters include:
-	+ `Amount:` Sets the level of Groove Wear applied to the audio signal.
-
-Caveats:
-
-* Not recommended for digital mastering as it's designed for vinyl emulation.
-* Be cautious when using the acceleration limiter, as it can significantly alter the high-end response.
-* The plugin's bass reshaping effect may increase peak energy in the low end.
-* The acceleration limiter is designed for cutting heads, but can also be used for other applications.
+* `Bass Reformatter`: A multipole IIR filter that reshapes the bass, making it more mono or tightening up the center. Adjustable parameters include:
+	+ Range: [adjustable]
+	+ Type: [multipole IIR filter]
+* `Acceleration Limiter`: A treble-reducer algorithm that zeroes in on transients and zaps them ruthlessly. Adjustable parameters include:
+	+ Threshold: [adjustable]
+	+ Attack/Release: [adjustable]
+* `Groove Wear`: A control that simulates the effects of a stylus traveling down a vinyl groove, introducing inertia and slight distortion. Adjustable parameters include:
+	+ Amount: [adjustable]
 
 Best Use Cases:
 
-* Vinyl-style mastering and production
 * Reshaping bass frequencies to create a more monophonic sound or tightening up the center
-* Softening treble levels without obvious reduction or introducing distortion
+* Reducing treble levels without obvious reduction or introducing distortion
+* Simulating vinyl-mastering effects and creating a classic LP sound
 
 Tips on Optimal Settings:
 
-* Experiment with different settings for Bass Shape, Acceleration Limiter, and Groove Wear to achieve desired results.
+* Experiment with different settings for Bass Reformatter and Acceleration Limiter to achieve desired results.
 * Adjust Groove Wear level carefully, as it can introduce subtle but noticeable changes to the high-end frequencies.

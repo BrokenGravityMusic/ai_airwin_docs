@@ -1,16 +1,15 @@
 ClipOnly2
 
-Suppresses the brightness of digital clipping without affecting unclipped samples.
+Suppresses the brightness of digital clipping without affecting unclipped samples, effective at high sample rates.
 
 Key Controls and Settings:
 
-* No controls are available for this plugin.
-
-Caveats:
-Designed to work at high sample rates (up to 700k). Effective for safety clipper purposes, producing a hard-clip with softer highs than pure hard-clipping. CPU-efficient due to its alternate clipping technique.
+CPU-efficient due to its alternate clipping technique.
 
 Best Use Cases:
-Mastering-grade clipping for music and audio mastering applications. Safety clipping for heavy load and severe clipping scenarios.
+Mastering-grade clipping for music and audio mastering applications.
+Safety clipping for heavy load and severe clipping scenarios.
 
 Tips on Optimal Settings:
-No settings need to be adjusted, as ClipOnly2 is a known quantity with a predictable sound. Simply bypass the plugin in normal use, allowing it to operate at its default setting.
+No settings need to be adjusted, as ClipOnly2 is a known quantity with a predictable sound.
+Simply bypass the plugin in normal use, allowing it to operate at its default setting.

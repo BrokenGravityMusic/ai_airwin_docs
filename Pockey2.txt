@@ -6,27 +6,21 @@ Key Controls and Settings:
 
 * `BitDepth`: Adjusts the bit depth from 4 to 16 bits.
 	+ Range: 4-16
-	+ Type: Integer
-* `DeFreq`: Adjusts the frequency crushing level (steepy adjustment at lower sample rates).
-	+ Range: 
-	+ Type: Steppy adjustment
+	+ Type: Integer selection
+* `DeFreq`: Regulates the amount of rez added to the sound.
+	+ Range: Adjustable intensity
+	+ Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
 * `Rez`: Controls the level of bitcrushing, with higher values resulting in more extreme effects.
-	+ Range: 
-	+ Type: Integer
-* `Mix:` A blend control for mixing the processed sound with the original (not explicitly mentioned, but implied as part of the plugin's functionality)
+	+ Range: Adjustable intensity
+	+ Type: Integer selection
+* `Frequency Crush`: Adjusts the tone and amount of frequency crushing.
+	+ Range: Adjustable intensity
+	+ Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
+* `Mix:` A blend control for mixing the processed sound with the original
 	+ Range: 0% to 100%
-* `StairstepCount`: Sets the number of stairsteps for bitcrushing (5037 or 5038).
-	+ Range: 5037-5038
-	+ Type: Integer
-
-Caveats:
-Running 16-bit depth may not produce significant differences due to the use of uLaw encoding.
-Frequency crushing at high settings may exhibit 'stairstep' behavior at lower sample rates (44.1k).
 
 Best Use Cases:
-Adding lo-fi hiphop texture to DAW tracks
-Transforming sounds into retro digital or classic lo-fi hip hop samples
 
-Tips on Optimal Settings:
-Experiment with DeFreq and StairstepCount for unique tone and texture.
-Adjust BitDepth and Rez to balance sound quality and CPU usage.
+* Lo-fi hiphop and hip hop production
+* Retro digital sound design
+* Transforming sounds into classic lo-fi hip hop classics

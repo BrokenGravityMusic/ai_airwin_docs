@@ -1,61 +1,31 @@
 AtmosphereBuss
 
+A console5 based ambiance generator, creating and controlling the overall ambiance of a mix using advanced acoustic distance effects.
 
-Plugin Name: AtmosphereBuss
-Function Overview: Console5 processing with powerful new acoustic distance effects.
 Key Controls and Settings:
-* `Acoustic Distance Control:` Adjusts the acoustic distance effect.
-	+ Range: [insert text]
-	+ Type: [insert text]
+
+* `Distance:` Adjusts the perceived distance of sound sources within the mix.
+	+ Type: Console5 processing algorithm
+* `Width:` Controls the stereo image width and ambiance.
+	+ Type: Console5 processing algorithm
+* `Level:` Sets the overall level of the ambiance effect.
+	+ Type: Console5 processing algorithm
 * Mix Level Control: Sets the overall level of the processed signal.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Console5 Processing Algorithm: Select from various Console5 processing algorithms to achieve desired sound characteristics.
-	+ Options: [insert text]
-Caveats:
-None specified
+	+ Type: Console5 processing algorithm
+* Acoustic Distance Control/Acoustic Size Control: Adjusts the acoustic distance effect/ Changes the sonic character of the atmosphere effect.
+	+ Type: Console5 processing algorithm
+
 Best Use Cases:
-* Post-production audio mixing and mastering
-* Live sound reinforcement for large-scale events (e.g., concerts, festivals)
+
+* Creating a sense of space in intimate recordings.
+* Enhancing the atmosphere of music and film mixes.
+* Adding depth to live recordings.
+* Post-processing to add depth and space to individual tracks or entire mixes.
+* Live sound reinforcement for large-scale events (e.g., concerts, festivals).
+
 Tips on Optimal Settings:
-* Start with a low Acoustic Distance value to maintain transparency and adjust as needed.
-* Experiment with different Console5 Processing Algorithms to find the perfect sound for your mix.
 
-Adding the following elements from the other two explanations:
-
-* `Width`: Controls the stereo image width and ambiance. (from second explanation)
-*  Use Pre-Delay Time to create a sense of distance and atmosphere. (from first explanation)
-
-The combined version is:
-
-#### START COMBINED VERSION:
-
-
-AtmosphereBuss
-
-
-Plugin Name: AtmosphereBuss
-Function Overview: Console5 processing with powerful new acoustic distance effects.
-Key Controls and Settings:
-* `Acoustic Distance Control:` Adjusts the acoustic distance effect.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Width: Controls the stereo image width and ambiance.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Mix Level Control: Sets the overall level of the processed signal.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Console5 Processing Algorithm: Select from various Console5 processing algorithms to achieve desired sound characteristics.
-	+ Options: [insert text]
-* Pre-Delay Time: Sets the time before the effect is applied.
-	+ Range: [insert text]
-	+ Type: [insert text]
-Caveats:
-None specified
-Best Use Cases:
-* Post-production audio mixing and mastering
-* Live sound reinforcement for large-scale events (e.g., concerts, festivals)
-Tips on Optimal Settings:
-* Start with a low Acoustic Distance value to maintain transparency and adjust as needed.
-* Experiment with different Console5 Processing Algorithms to find the perfect sound for your mix.
+* Experiment with different Distance and Width settings to achieve the desired effect.
+* Use Pre-Delay Time/Console5 Processing Algorithm to create a sense of distance and atmosphere.
+* Start with subtle settings and adjust to taste.
+* Experiment with different Type algorithms for unique ambiance effects.

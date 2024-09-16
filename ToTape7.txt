@@ -1,42 +1,36 @@
 ToTape7
 
 
-Emulates the sound of classic tape machines with a range of controls that allow for precise tweaking and creative experimentation.
+Emulates the sound of classic tape machines with a range of controls for precise tweaking and creative experimentation.
 
 
 Key Controls and Settings:
 
-
-* `Highs Cutoff`: Sets the high-frequency cutoff for the tape saturation effect.
-	+ Mismatches between encode and decode can create interesting effects.
-* `Dubly Decode (Frequency & Amount)`: Helps smooth out compressed sounds and control the texture of your audio.
-	+ Match Dubly Encode and Decode amounts for "normal" sound, mismatch them for effect.
-	+ Be careful not to boost Decode Amount too much, or it will produce anti-crunch distortion.
-* `Tape Drive (Boost/Pad)`: Adjusts the overall gain of the signal.
-	+ 0.5 is unity gain, so you can boost or pad the signal as needed.
-* `Flutter`: Emulates the "3D tape" effect, where tape bends laterally and stretches.
-	+ Set to 0 if running at low sample rates or using lots of ToTape effects.
-* `Bias`: Controls the biasing, which is similar to GoldenSlew but simplified for use between Dubly encode and decode.
-	+ Slight overbiasing (default) is a good starting point for most sounds.
-* `Head Bump (or Bass)`: Emulates the sound of tape machine head bumps.
-	+ Has a built-in highpass at 0.5 setting to balance the bump against other audio.
-
-Caveats:
-
-
-* Mismatching encode and decode can create interesting effects, but be careful not to overdo it or introduce distortion.
-
+* `Highs Cutoff:` Sets the high-frequency cutoff for the tape saturation effect.
+	+ Range: [not specified]
+	+ Type: Frequency cutoff
+* `Dubly Decode (Frequency & Amount):` Helps smooth out compressed sounds and control the texture of your audio.
+	+ Range: Not specified ( frequency & amount)
+	+ Type: Compressor
+* `Tape Drive (Boost/Pad):` Adjusts the gain of the tape drive, allowing for clean gain or loudening of the signal.
+	+ Range: 0% to ?
+	+ Type: Gain control
+* `Flutter:` Emulates the "3D tape" effect, where tape bends laterally and stretches.
+	+ Range: Not specified
+	+ Type: Effect (can be bypassed)
+* `Bias:` Sets the biasing of the tape machine, which can help control unpleasant tizzy highs.
+	+ Range: Not specified
+	+ Type: Bias adjustment
+* `Head Bump:` Emulates the sound of tape machine head bumps.
+	+ Range: Not specified
+	+ Type: Bass effect (with built-in highpass filter)
 
 Best Use Cases:
 
-
 * Create realistic tape saturation effects
-* Experiment with different combinations of controls to find unique sounds
-
+* Dial in the desired sound using precise tweaking and creative experimentation
 
 Tips on Optimal Settings:
 
-
-* Match Dubly Encode and Decode amounts for "normal" sound, mismatch them for effect.
-* Be careful not to boost Decode Amount too much, or it will produce anti-crunch distortion.
-* Slight overbiasing (default) is a good starting point for most sounds.
+* Slight overbiasing is recommended for most cases to control tizzy highs
+* The Head Bump frequency can be adjusted independently of the overall head bump effect, allowing for creative voicing

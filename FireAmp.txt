@@ -1,25 +1,25 @@
-FireAmp
-
 Bright, loud, tubey amp sim for leads and dirt guitar.
 
 Key Controls and Settings:
 
-* `Dry/Wet Control:` Adjusts the balance between the raw amp tone and the original dry signal.
-	+ Range: [insert text]
+* `Type:` Not adjustable.
+* `Gain:` Adjusts the overall gain of the amplifier. Turning up can result in a more intense tone.
+	+ Range: N/A
+	+ Type: Gain control
+* `Dry/Wet Control:` Blend control that allows you to mix the raw signal with the processed signal.
+	+ Range: 0% to 100%
 	+ Type: Blend control
-* `Gain:` Controls the overall volume of the plugin.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* Zero latency: Allows tracking through the plugin without delay.
-
-Caveats:
-None mentioned in the text.
+* `Zero latency:` Allows tracking through the plugin without delay.
 
 Best Use Cases:
 
 * Tracking leads and dirt guitar sounds
-* Layering guitars to bring more quality to a larger mix
-* Adding a characteristic high-mid tone to tracks or signals
+* Layering guitars or other signals to add unique character and interest
+* Adding a different texture to your mix
 
-Additional Tips on Optimal Settings:
-Experiment with the dry/wet control to tailor the raw amp and original dry signal balance. Consider using ZNotch or MackEQ in front of FireAmp for additional tone shaping.
+Tips on Optimal Settings:
+
+* Adjust the gain to your desired level of intensity.
+* Experiment with the dry/wet control to create different tonalities by blending the raw signal with the processed output.
+
+Consider using ZNotch or MackEQ in front of FireAmp for additional tone shaping and layering guitars or other signals.

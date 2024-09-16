@@ -1,29 +1,21 @@
 Density2
 
-A color-variant of the Density plugin, offering an alternative tone with minimal modifications.
-
 Key Controls and Settings:
 
-* `Gain:` Adjusts the overall gain of the plugin. A value of 0 is unity gain.
-	+ Range: 
-	+ Type:
-* `Dry/Wet Mix:` Adjusts the balance between the original signal and the plugin's processed output.
+* `Gain`: Adjusts the overall gain of the plugin. A value of 0 is unity gain.
+* Dry/Wet Mix: Adjusts the balance between the original signal and the plugin's processed output. Range: 0% to 100%.
+* Density Amount: Controls the amount of density added to the signal. Range: -20 dB to 0 dB.
+	+ Input gain control
+	+ Output level control
+	+ Dithering mode selection (floating point or noise shaping)
+* Mix: A blend control for mixing the processed sound with the original
 	+ Range: 0% to 100%
-* `Density Amount:` Controls the amount of density added to the signal.
-	+ Range: -20 dB to 0 dB
-* `Dither:` Enables or disables dithering to prevent quantization noise.
-	+ Type:
-* `Noise Shaping:` Selects one of three noise shaping algorithms to reduce distortion.
-	+ Range:
-* `Denormal Limit:` Sets a limit for denormalized numbers, which can help prevent numerical instability.
-	+ Range:
 
-Caveats: None specific.
-
-Best Use Cases: Suitable for adding unique tone and texture to various audio sources, such as drums, basslines, or sound effects. Also suitable as an alternative tone generator, particularly for applications where the original Density plugin is not preferred.
+Best Use Cases:
+Suitable for use as an alternate tone in mixing and mastering scenarios where the original Density plugin is not desired or has been used extensively.
+Suitable for adding unique tone and texture to various audio sources, such as drums, basslines, or sound effects.
 
 Tips on Optimal Settings:
-* Start with a gain value of 0 to maintain unity gain, and adjust from there based on the specific needs of your mix.
-* Experiment with varying Dry/Wet Mix settings to achieve desired balance between original signal and plugin output. Adjust Density Amount to suit specific sonic needs.
-* For best results, adjust input gain and output level controls to match desired audio levels.
-* Dithering mode selection depends on specific application requirements; consult manufacturer guidelines for optimal choice.
+Start with a gain value of 0 to maintain unity gain, and adjust from there based on the specific needs of your mix.
+Experiment with varying Dry/Wet Mix settings to achieve desired balance between original signal and plugin output. Adjust Density Amount to suit specific sonic needs.
+For best results, adjust input gain and output level controls to match desired audio levels.

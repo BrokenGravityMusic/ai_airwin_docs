@@ -1,33 +1,23 @@
 ADClip7
 
-A loudness maximizer/peak control plugin that allows for maximum loudness without clipping artifacts.
+The ultimate Airwindows loudness maximizer/peak control for dense mixes and streaming services.
 
 Key Controls and Settings:
 
-* `Boost Control`: An interactive boost control that makes things louder.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `Soften Control`: A control that manages high frequency entry and exit points, algorithmically reshaping the edges of clips to prevent digital glare and fizz.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `Enhance Control`: A control that allows for a balance between clip and added reinforcements, with options for purely 'analog clip' energy or added highs-mids reinforcement.
-	+ Range: [insert text]
-	+ Type: [insert text]
+* `Boost Control`: A clipper that makes things louder.
+* `Soften Control`: Manages high frequencies to prevent digital glare and fizz, balances energy-fill algorithms for bass and highs.
+* `Enhance Control`: Lets you switch between "analog clip" energy and added reinforcements.
 * `Mode Selector (popup or multi-function control)`:
-	+ `Normal Mode`: Boosts audio levels, excelling at snipping off non-tonal percussive peaks.
-	+ `Gain Matched Mode`: Turns output down to set slam level without tricking the user into thinking louder is better. Can also be used with Youlean's loudness meter to dial in a specific intersample peak level.
-	+ `Clip Only Mode`: Presents algorithm outputs combined, allowing for adjustments of softness and enhance level to balance added artifacts.
-
-Caveats:
-
-* ADClip7 should not be used as a limiter; use a limiter if dynamic flatness is required.
-* Avoid over-slamming music with ADClip7 to prevent excessive clipping artifacts.
+	+ `Normal Mode`: Boost makes things louder; Soften manages high frequencies to prevent digital glare and fizz.
+	+ `Gain-Matched Mode`: Used for setting the slam level or suppressing intersample peaks.
+	+ `Clip Only Mode`: Combines algorithm outputs at their respective loudnesses, with Softness and Enhance levels controllable.
 
 Best Use Cases:
 
-* Pushing the loudness of dense, busy mixes to maximum levels.
-* Mastering for streaming services or iTunes without compromising sound quality.
+* Pushing loudness in dense mixes
+* Mastering for streaming services (LUFS and intersample peak control)
+* Adding punch and energy to flat mixes
 
 Tips on Optimal Settings:
-* Use gain-matched mode to set slam level and maintain a specific intersample peak level.
-* Adjust softness and enhance level in Clip Only mode to balance added artifacts.
+* Use gain-matched mode for setting slam level or suppressing intersample peaks.
+* Balance Soften and Enhance levels in Clip Only mode to avoid artifact predominance.

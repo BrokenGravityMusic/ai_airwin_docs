@@ -1,21 +1,12 @@
 Weight
-
-A plugin for accurately boosting sub-bass frequencies, based on Holt.
-
+`Plugin for accurately boosting sub-bass frequencies, based on Holt.`
 Key Controls and Settings:
 
 * Frequency Tuning: Adjust the frequency range from 20 Hz to 120 Hz.
 * Boost Control (0-1): Add a resonant bass boost to the signal.
-* Q of filtering: Not adjustable.
-
-Caveats:
-Requires extremely good subwoofers for optimal use. May not be audible on even the best headphones.
 
 Best Use Cases:
 
 * Live drums recorded with simple stereo mics.
 * DI bass or guitar through an iso cab.
-* Sub-bass boosting in specific frequency ranges for each instrument, such as enhancing low-end response in live drum recordings and bass and guitar tracks.
-
-Tips on Optimal Settings:
-Tune Weight to target distinct frequencies for each instrument. Avoid reinforcing muddy deep frequencies that are already present. Use monitoring plugins set to 'Subs' or 'SubsOnly' to help focus on subs and bring harmonics up into the audible range.
+* Sub-bass boosting in specific frequency ranges for each instrument.

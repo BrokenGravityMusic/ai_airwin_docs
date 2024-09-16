@@ -1,17 +1,17 @@
 FinalClip
 
 A specialized clipper designed to apply +6 dB clipping to video audio in Final Cut Pro, with subtle slew-clipping for treble softening.
+
 Key Controls and Settings:
 
 * None (this is a simple, one-stage clipper)
 
 Caveats:
-This plugin should not be used in conjunction with other clippers that apply the clip at 6dB down.
 
 Best Use Cases:
-Preconditioning peaks before applying a peak limiter to the mix buss
-Softening loud voice outbursts and softening treble information for video recording
+
+* Preconditioning peaks before applying a peak limiter to the mix buss
+* Softening loud voice outbursts and softening treble information for video recording
 
 Tips on Optimal Settings:
-Run camera audio directly to Final Cut output for best results
-Use this plugin in combination with other Airwindows clippers (such as ClipOnly2 or ADClip8) to achieve desired results.
+Run camera audio directly to Final Cut output for best results. Using this plugin in combination with other Airwindows clippers (such as ClipOnly2 or ADClip8) to achieve desired results.

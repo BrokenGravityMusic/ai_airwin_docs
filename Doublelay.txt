@@ -1,28 +1,27 @@
 Doublelay
 
-A plugin that takes Stereo Doubler's pitch-shifting algorithm and adds independent delays and feedback to create an immersive spatial effect.
+A plugin that adds independent delays and feedback to the StereoDoubler's pitch-shifting algorithm, creating an immersive spatial effect.
 
 Key Controls and Settings:
 
 * `Pitch Shifter:` Adjusts the pitch of the audio in both channels.
-	+ Type: Frequency-based pitch shift
-* Delay L/R Taps:
-	+ Range: 0 ms to maximum delay time (dependent on system)
-	+ Type: Independent delays for left and right channels
-* Feedback Ratio:
-	+ Range: 0% to 100%
-	+ Type: Direct feedback with a Golden Ratio value of 0.618, and inverse/crossfeed feedback
-* Crossfeed Amount:
-	+ Range: 0% to 100%
-	+ Type: Controls the amount of crossfeed between channels
-
-Caveats:
-
-* Excessive feedback can lead to infinite loop or color-smeared audio trails.
-* This plugin is designed for creating spatial effects, not filling up large spaces like reverb.
+	+ Range: Not specified
+	+ Type: Pitch-shifting algorithm
+* `Delay L/R Taps:` Sets the delay time for the left and right channels independently.
+	+ Range: Not specified
+	+ Type: Delay time control
+* `Feedback Ratio:` Sets the ratio for direct (pitch-shifting) and inverse/crossfeed feedback, using the Golden Ratio (0.618...).
+	+ Range: 0 to 1.0
+	+ Type: Feedback ratio control
+* `Crossfeed Amount:` Controls the amount of crossfeed between channels.
+	+ Range: Not specified
+	+ Type: Crossfeed control
 
 Best Use Cases:
-Ideal for adding ambience, thickening vocals, or creating an 'echojam' effect in stereo with two taps where the echoes are also pitch shifts.
+
+* Thicken vocals and instruments.
+* Create an "echojam" effect in stereo with two taps that are also pitch shifts.
+* Use one side as a short delay and the other side as a long delay to create depth.
 
 Tips on Optimal Settings:
 

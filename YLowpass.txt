@@ -1,26 +1,15 @@
 YLowpass
 
-A low-pass filter with interpolated coefficients, double ultrasonic filtering, and internal distortion capabilities.
+A low-pass filter plugin with interpolated coefficients, reducing zipper noise, and double ultrasonic filtering.
 
-Key Controls and Settings:
-
-* `Resonant Edge`: Adjusts the resonant frequency of the filter, affecting its tone and character.
+* `Resonant Edge`: Adjusts the internal distortion of filters, affecting sound warmth and edginess. Normal position is around 0.1.
 	+ Less than normal: Produces a slightly asymmetrical distortion for warm analog filter sounds.
-	+ Greater than normal: Allows for more aggressive, glitchy sounds (set to around 0.1 for balanced tone).
-* `Filter Type`: Interpolated coefficients with double ultrasonic filtering.
+	+ Greater than normal: Allows for more aggressive, glitchy sounds.
+* `Filter Cutoff`: Sets the low-pass filter cutoff frequency.
+* `Gain`: Adjusts the overall gain of the plugin.
 
-Caveats:
+Heavy CPU usage due to complex filtering algorithms and double ultrasonic filtering. Potential issues with zipper noise reduction may be mitigated by adjusting settings.
 
-* Heavy CPU usage due to complex filtering algorithms.
-* Potential issues with zipper noise reduction may be mitigated by adjusting settings.
+Ideal for adding warmth and analog character to digital synths, or creating aggressive, glitchy sounds in electronic music productions.
 
-Best Use Cases:
-
-* Warm and smooth low-pass filtering for general audio processing.
-* Aggressive, glitchy sound design for experimental and electronic music production.
-
-Tips on Optimal Settings:
-
-* Adjust Resonant Edge to around 0.1 for a balanced tone.
-* Experiment with greater or lesser values of Resonant Edge to achieve desired filter characteristics.
-* Use YLowpass in conjunction with other plugins to further refine and optimize sound design.
+Adjust Resonant Edge to around 0.1 for a balanced tone. Experiment with greater or lesser values of Resonant Edge to achieve desired filter characteristics. Use gain staging techniques to optimize overall sound quality.

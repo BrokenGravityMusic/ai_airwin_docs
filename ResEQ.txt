@@ -1,7 +1,5 @@
 ResEQ
 
-A bank of midrange resonances used to enhance specific frequencies and create a "caricature" of the sound.
-
 Key Controls and Settings:
 
 * `Frequency Bands`: Up to 8 parallel bands can be set up to target specific frequency ranges.

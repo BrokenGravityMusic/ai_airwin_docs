@@ -4,13 +4,10 @@ A clean amp simulator intended to produce a high-powered sound reminiscent of a 
 
 Key Controls and Settings:
 
-* `EQ:` A wide-range equalizer that can be rolled off significantly, with the ability to make the sound extra bright and spiky.
-	+ Adjusting the EQ curve allows for a broad range of tonal adjustments
-* 
-Slope adjustment: Not mentioned, but implied as part of the EQ setting (see CStrip description).
-
-Caveats:
-None specified.
+* `EQ`: A wide-range equalizer that can be rolled off significantly, with the ability to make the sound extra bright and spiky.
+	+ Range: Not specified
+	+ Type: Three-band EQ
+* `Mix:` None (use as separate plugin)
 
 Best Use Cases:
 

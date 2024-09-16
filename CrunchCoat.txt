@@ -1,35 +1,24 @@
 CrunchCoat
 
+
 A digital reverb that takes the ClearCoat bright ambience reverb into unknown territory by undersampling it to as low as 40 Hz, creating a "cursed retro digital" sound.
 
 Key Controls and Settings:
 
-* `Undersample Rate`: Adjusts the sample rate from 40 Hz to original sample rate.
-	+ Range: 40 Hz - Original Sample Rate
-	+ Type: Integer value
-* `Interpolation Mode`: Sets the interpolation method for the waveform (straight lines between points).
-	+ Range: 1-5
-	+ Type: Select box
-* `Input Filtering`: Enables or disables input filtering (primitive).
-	+ Type: On/Off switch
-* `Pitch-Swoop`: Controls the pitch-swooping of the reverb.
-	+ Range: -100% to 100%
-	+ Type: Sliding scale
-* `Regeneration`: Adjusts the regeneration level from infinite sustain to complete cutoff.
-	+ Range: 0% to 100%
-	+ Type: Sliding scale
+* `Undersample Rate`: Reduces sample rate from original to approximately 40 Hz.
+	+ Range: Adjustable
+	+ Type: Undersampling
+* `Interpolation Method`: Sets the interpolation method for the waveform (straight lines between points).
+	+ Range: Selectable options
+	+ Type: Interpolation mode
 
 Caveats:
-
 Undersampling may introduce "square-wavey" or pointy waveform distortion. Input filtering is primitive, adding color and texture but potentially producing soft waves or spikes.
 
 Best Use Cases:
-
 Use on specific sounds where a unique, aggressive reverb tone is desired. Ideal for creating distinctive ambiance in mixes.
 
 Tips on Optimal Settings:
-
-* Experiment with different undersample rates and interpolation modes to achieve desired results.
-* Be cautious when adjusting the input filtering, as it may affect the overall sound quality.
-* Use pitch-swoop and regeneration controls to add depth and interest to your sounds.
-* Consider using sparingly to avoid cluttering the mix with excess energy.
+* Experiment with the undersample rate to find the desired level of distortion.
+* Adjust the interpolation method to achieve the desired waveform shape.
+* Use sparingly to avoid cluttering the mix with excess energy.

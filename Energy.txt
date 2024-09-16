@@ -1,20 +1,11 @@
 Energy
 
-Electrifying fixed-frequency treble boost simulator.
-
-Key Controls and Settings:
-
 * `22K`: Boosts treble at 22kHz.
 * `15K`: Boosts treble at 15kHz.
 * `11K`: Boosts treble at 11kHz.
 * `9K`: Boosts treble at 9kHz.
 * `InvDryWet`: Inverts and controls the wet/dry blend of the boost.
 
-Caveats:
-The plugin can only work on integer multiples of the sample rate. Frequency controls cannot be tuned or altered in the normal way, which can produce unwanted overtones and skronk at high sample rates. Interactions between sliders can also produce unpredictable results.
+The plugin can only work on integer multiples of the sample rate. Frequency controls cannot be tuned or altered in the normal way. Can produce unwanted overtones and skronk at high sample rates. Interactions between sliders can produce unpredictable results.
 
-Best Use Cases:
-Brute, raw treble boosts for music genres that benefit from intense brightness (e.g., electronic, metal).
-
-Tips on Optimal Settings:
-To tame nasty highs, try inverting the dry signal and applying a small amount of inverted effect. Be cautious when using Energy with high-passed or low-priority tracks to avoid overpowering the mix.
+Adding electrifying energy to audio signals, accentuating attack transients, taming nasty highs (e.g., from bad condenser mic). Experiment with different frequency labels for unique treble characteristics. Use InvDryWet control to isolate unwanted frequencies and invert them. Be cautious when using Energy boosts, as they can be overly aggressive.

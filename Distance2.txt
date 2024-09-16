@@ -4,18 +4,20 @@ A versatile space shaper for creating depth and adding distance to sounds.
 
 Key Controls and Settings:
 
-* `Dry/Wet`: Blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
-* `Atmosphere`: Adjusts high frequency attenuation, can be used to create a sense of distance or extreme loudness.
-	+ Low settings (0.1 or less): Equivalent to a natural distance sound.
-	+ High settings: Extreme loudness and distortion.
+* `Dry/Wet`: Blend of original signal with processed signal.
+* `Atmosphere`: High frequency attenuation, can be used to create a sense of distance or extreme loudness.
+	+ Range: 0.1% to 100%
+	+ Low settings (0.1 or less): Equivalent to a natural sound
+	+ High settings: Can produce an unnatural, extreme loudness sound due to slew clipping
 * `Darken`: Controls low-frequency dynamics, helps to create a realistic sound when combined with high Atmosphere settings.
+	+ Range:
 
 Caveats:
-Using extreme Atmosphere settings can result in unnatural, distorted sounds. The plugin is not suitable for mastering or 2-buss applications due to its intensely colored nature.
+Using extreme settings can result in unnatural, distorted sounds. The plugin is not suitable for mastering or 2-buss applications due to its intensely colored nature.
 
 Best Use Cases:
-Use Distance2 on individual tracks (e.g., drums, guitars) to create a sense of distance and atmosphere. It's also effective when used on reverb returns to add size and thunder to the output.
+* Adding depth and distance to sounds, especially drums or guitars.
+* Creating unique distortion voices or textures.
 
 Tips on Optimal Settings:
-Start with low Atmosphere settings (0.1 or less) for a more natural sound. Adjust Darken in conjunction with Atmosphere to achieve realistic distance effects. Use dry/wet balance to control the amount of processed signal blended with the original input. Experiment with extreme settings to create unique, distorted sounds.
+Start with low Atmosphere settings (0.1 or less) for a more natural sound. Adjust the Darken control to balance the sound and avoid excessive low-frequency distortion. Use small amounts of dry signal to mask distortion when extreme Distance2 settings are applied.

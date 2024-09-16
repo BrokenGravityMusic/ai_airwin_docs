@@ -1,24 +1,19 @@
 Recurve
 
-A special buss compressor with no threshold point that uses a high-resolution sine calculation to affect sound, scaling part of itself relative to the loudness of the sample.
+A special buss compressor with no threshold point that uses a high-resolution sine calculation to affect sound.
 
 Key Controls and Settings:
 
 * `Gain Boost`: A 6dB clean boost that doubles the gain for medium signal levels.
-	+ Available range: n/a
-	+ Type: Clean gain boost
+	+ Range: Up to 6dB
+	+ Type: Clean gain adjustment based on signal level
 * `Clipper`: An output clipper to prevent transient attacks from poking out.
-	+ Range: n/a
-	+ Type: Output clipper
+	+ Range: On/Off
+	+ Type: Optional output limiter
 * `Stereo Linking`: Allows for true (linked) stereo operation.
-	+ Range: n/a
-	+ Type: Stereo linking control
-
-Caveats:
-Recurve does not perform sidechainy pumping, use another plugin if needed. The gain adjustment style may result in no compression pumping and breathing.
+	+ Range: On/Off
+	+ Type: True stereo processing
 
 Best Use Cases:
-Mixing into the compressor as a buss-comp or limiter form for maximum explosiveness and impressiveness. Using as a clipper on the output to prevent transient attacks from poking out.
-
-Tips on Optimal Settings:
-Use Recurve as a buss-comp or limiter form for best results. Adjust the Gain Boost to 6dB for maximum effect. Engage Clipper to prevent transient attacks from poking out.
+* Mixing into the compressor as a buss-comp or limiter form for maximum explosiveness and impressiveness.
+* Using as a clipper on the output to prevent transient attacks from poking out.

@@ -1,22 +1,20 @@
 PDChannel
 
-A plugin that combines Console5 and PurestDrive, offering a stage in every channel and on the bus.
+A plugin that combines Console5 and PurestDrive, offering a stage in every channel and on the buss.
 
 Key Controls and Settings:
 
-* `Channel/Bus Select`: Choose between individual channels or the master bus.
-* `PurestDrive Stage`: Dedicated control for each stage, allowing tweaking of its characteristics.
-* `Console5 Variant`: Utilize any other Console5 plugin of the same type as a direct swap-in.
-* `Settings`: Configure channel EQ and other parameters using more normal tools.
+* `Channel/Bus Select:` Choose between individual channels or the master bus.
+* Each PurestDrive has its own dedicated control.
+* Channel and buss can be swapped with any other Console5 plugin of the same type.
 
 Caveats:
-Using different Console variations for individual channels and the bus can result in an inconsistent sound. It's recommended to use the same ones for a cohesive mix.
+Using different Console variations for individual channels and the buss can result in an inconsistent sound. It's recommended to use the same ones for a cohesive mix.
 
 Best Use Cases:
-
-* Analog warmth of the recording-console type: PDConsole is ideal.
-* Lush, big-console sound: Consider other Console variations or plugins designed for these specific effects.
-* Holographic imaging or great depth: Use the same channels and bus combination throughout.
+Suitable for applications where a lush, analog console sound is desired, such as:
+* Mixing and mastering music that requires a warm, cohesive tone
+* Creating a smooth, seamless soundstage in post-production
 
 Tips on Optimal Settings:
-Find an optimal combination of channels and bus that matches your preferences. Tweak channel EQ and other parameters using more normal tools to fine-tune the mix.
+To achieve the best results, use the same Console5 plugin for channels to maintain consistency. Experiment with different PurestDrive settings to find the desired balance of warmth and clarity.

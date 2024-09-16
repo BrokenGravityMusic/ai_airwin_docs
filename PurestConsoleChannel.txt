@@ -1,20 +1,21 @@
 PurestConsoleChannel
 
-A console system that provides a clean and free from coloration dynamics encode/decode functionality.
+A plugin that provides a clean dynamics encode/decode system without the tone-changing characteristics of other consoles.
 
 Key Controls and Settings:
 
 * Channels: inputSample = sin(inputSample)
 	+ Strips down to simple amplitude encode/decode
 * Buss: inputSample = asin(inputSample)
+	+ Cancels out completely and doesn't touch the sound unless multiple channels are mixing
 
 Properties:
-Cancels out completely and doesn't touch the sound at all unless multiple channels are mixing.
-Goes to perfect bit-identical fidelity when only one channel feeds the buss.
-
-Usage:
-Use PurestConsoleChannel in its capacity for 'expanding' verbs, delays, and EQs. If there's no change, it'll cancel out to bit-identical. Then if you're doing stuff, it'll kick in.
+- Goes for math functions which include complementary sin() and asin()
+- Can be used in its capacity for 'expanding' verbs, delays, and EQs
+- Strips down to simple amplitude encode/decode
 
 Caveats:
-Can easily clip with boosts and peaks, but this might sound OK to you.
-Useful variations on Console 5 can be applied in the future.
+Can easily clip with boosts and peaks.
+
+Best Use Cases:
+Use PurestConsoleChannel for expanding verbs, delays, and EQs. If there's no change, it'll cancel out to bit-identical fidelity.

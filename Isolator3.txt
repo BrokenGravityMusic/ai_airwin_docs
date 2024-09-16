@@ -1,24 +1,29 @@
 Isolator3
 
-A filter that simulates an isolator effect on one knob, with band-narrowing capabilities.
+
+A filter that combines low-passing and high-passing functionality on one control, with an additional band-narrower control.
+
 
 Key Controls and Settings:
 
-* Iso: Controls the crossover frequency between lowpass and highpass filters.
-	+ Range: Full range to low-pass or high-pass
-* Band-Narrower (BN): Narrows the bandwidth of the filters.
-* Q: Adjusts the cutoff frequencies of the filters to approach each other, creating a bandpass effect or resonance.
-	+ Range: 0% to infinity
+* `Iso`: A single slider control that adjusts the crossover point between low- and high-passing frequencies. Middle position is full-range.
+	+ Range: 
+	+ Type: Crossover frequency control
+* `Band Narrower`: Adjusts the band-pass characteristics of the filter.
+	+ Range: 
+	+ Type: Band-pass control
 
 Caveats:
 
-* The plugin uses biquad filters, which can be unstable when modulated.
-* Running the plugin with high Q values or rapid control changes can cause glitches and distortions.
+* The plugin uses two internal filters that cannot be switched, resulting in one always being "silent".
+* Q control does not adjust the actual Q of the filters, but rather affects their cutoff frequencies.
 
 Best Use Cases:
-Ideal for simulating an isolator effect on one knob, creating a bandpass effect, or adding resonance to audio signals. Suitable for use in traditional effects processing and experimental sound design scenarios.
+
+* Creating band-pass or resonance effects
+* Isolating specific frequency ranges
 
 Tips on Optimal Settings:
-Use smooth intentional motions when adjusting the controls for traditional effects.
-Experiment with rapid control changes to create unusual effects and textures.
-Set Q to zero and Iso to 0.5 to restore full-range filtering.
+
+* Adjust Iso and Band Narrower settings in conjunction to achieve desired filter characteristics.
+* Keep Q control at zero when using the plugin as a standard low- or high-pass filter.

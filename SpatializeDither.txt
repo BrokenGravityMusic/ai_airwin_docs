@@ -1,19 +1,15 @@
 SpatializeDither
-
-A high-performance clarity and accuracy dither with a holographic, intense sonic reality.
+A high-performance clarity and accuracy dither that excels at focus.
 
 Key Controls and Settings:
 
 * Type: Determines the type of dither to use (default: Contingent Dither).
-	+ Blend Amount: Adjusts the balance between random noise and contingent dither.
-	+ Quantization Value: Sets the quantization value for samples that hit perfectly on boundaries.
+* Blend Amount: Adjusts the balance between random noise and contingent dither.
+* Quantization Value: Sets the quantization value for samples that hit perfectly on boundaries.
 
-Caveats:
-May not be perfectly well-behaved down around the noise floor. Can produce a strong highpassy effect.
 
 Best Use Cases:
-
-For achieving hyper-real, high-definition sound with extreme clarity and accuracy. When precision and accuracy are paramount.
+Ideal for those seeking extreme clarity and accuracy in sound reproduction. Suitable for applications where precision is paramount, such as mastering or mixing critical tracks.
 
 Tips on Optimal Settings:
 Experiment with different Blend Amounts to find the desired balance between random noise and contingent dither. Adjust Quantization Value to suit specific applications.

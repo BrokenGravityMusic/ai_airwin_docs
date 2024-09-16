@@ -1,30 +1,24 @@
 SurgeTide
 
-A surge and flow dynamics plugin that simulates tidal forces in an audio mix, creating subtle yet powerful dynamic changes.
+A surge and flow dynamics plugin that simulates tidal forces on a mix, accentuating low-end movement and subtlety controlling dynamics.
 
 Key Controls and Settings:
 
-* `Surge Node`: Adjusts the compression threshold to squish sound on the beat.
-	+ Tip: Start by adjusting until sound is slightly compressed.
-* `Surge Rate`: Sets the speed of compression.
-	+ Tip: Experiment with different settings to achieve a natural-sounding effect, finding a balance between slow and fast.
-* `Compression Time Constants`: Three stacked time constants that control the dynamics response.
-	+ No specific recommendation; setting will depend on mix content.
+* `Surge Node`: Adjusts the compression threshold to squash sound on the beat. Optimal setting: find the right balance between squishing away the sound and inverting the dynamics.
+* `Surge Rate`: Sets the speed of the tidal force simulation. Optimal setting: adjust to achieve a subtle, natural-sounding effect.
+* `Compression Time Constants`: Three stacked time constants that simulate wave-like behavior.
 
 Caveats:
-
-* Does not work well on isolated tracks or staccato drum patterns.
-* May not work well on tracks with rapid dynamic changes.
-* Requires careful setting to achieve desired effect.
+* Does not work well on isolated tracks, especially staccato drum tracks.
+* Can be tricky to dial in due to its unique and often invisible effects.
+* May not produce useful results on all types of mixes or sounds.
 
 Best Use Cases:
+* Subtle accentuation of mix low-end movement
+* Restraint of dense mix moments for more consistent loudness
+* Level control and subtlety boosting subs
 
-* Whole-mix dynamics control
-* Subtle accentuation of low-end movement
-* Level control and restraint on dense mix moments
-
-Tips on Optimal Settings:
-
-* Start by adjusting Surge Node until sound is slightly compressed.
+Tips on Optimal Settings: 
+* Start by adjusting the Surge Node to squash sound on the beat.
 * Experiment with different Surge Rate settings to achieve a natural-sounding effect.
 * Pay attention to extreme low bass and adjust settings accordingly.

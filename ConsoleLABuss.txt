@@ -1,29 +1,27 @@
-Console simulator and EQ
+ConsoleLABuss
 
-Simulates a classic Quad Eight console, providing an accurate representation of its tone-shaping capabilities.
+Simulates a Quad Eight console with accurate modeling of its characteristics and tone.
 
 Key Controls and Settings:
 
-* `Gain:` Sets the gain for each channel.
+* `Gain`: Adjusts the overall volume level.
 	+ Range: -∞ to +20 dB
 	+ Default: 0 dB
-* `Bass Cut:` Shapes low-frequency response with a 3-band EQ (low, mid, high).
+* `Bass Cut`: Sets the low-frequency cut-off point.
 	+ Range: 10 Hz to 1 kHz
 	+ Default: 50 Hz
-* `Treble Lift:` Adjusts high-frequency response.
+* `Treble Lift`: Adjusts the high-frequency response.
 	+ Range: -∞ to +20 dB
 	+ Default: 0 dB
-* `Saturation:` Adds a warm, analog-like distortion.
+* `Saturation`: Adds a warm, analog-like distortion.
 	+ Range: 0% to 100%
 	+ Default: 0%
-* `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
-
-Caveats:
-Be aware that this plugin is a high-gain simulation, and excessive gain can lead to distortion. Bass Cut and Treble Lift settings may interact with each other.
 
 Best Use Cases:
-Use for mixing and mastering tasks where a classic Quad Eight console tone is desired. Suitable for rock, pop, and other genres that benefit from a warm, analog sound.
+Use ConsoleLABuss for mixing and mastering tasks where a classic Quad Eight console tone is desired. Suitable for rock, pop, and other genres that benefit from a warm, analog sound.
 
 Tips on Optimal Settings:
-Start by adjusting the Gain control to an optimal level. Experiment with Bass Cut and Treble Lift settings to find the perfect balance for your mix or master. Use Saturation at moderate levels (around 20-50%) to add warmth without overdistorting.
+
+* Start by adjusting the Gain control to an optimal level.
+* Experiment with Bass Cut and Treble Lift settings to find the perfect balance for your mix or master.
+* Use Saturation at moderate levels (around 20-50%) to add warmth without overdistorting.

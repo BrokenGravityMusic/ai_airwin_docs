@@ -1,34 +1,21 @@
 Console5DarkCh
 
-Plugin that gives a richer, warmer sound with advanced math operations for undistortion and added signal purity
 
 Key Controls and Settings:
 
-* `Channel/Bus Gain:` [Adjust the gain of individual channels or buses]
-	+ Range: -3 dB to +3 dB
-	+ Type: Default setting is 0 dB
-* `Slew Factor:` [Control the amount of glue and solidness added to the mix]
-	+ Range: Warmth (high), Mid-range, Cool (low)
-* `Amplitude Factor:` [Adjust the level of undistortion applied to individual tracks]
-	+ Range: -3 dB to +3 dB
-* `Console5Channel:` 
-	+ CPU cost: Higher than previous Consoles
-	+ Math operations: More advanced but may not be significantly different
-* `Console5Buss:` 
-	+ Slew factor handling: Applies a similar behavior, but backwards to the amplitude factor
-	+ Gain stage: Ideally +3 dB or less to avoid clipping
+* `Channel/Bus Gain:` Adjust the gain of individual channels or buses using the Console5DarkCh plugin.
+	+ Default setting: 0 dB
+	+ Recommended range: -3 dB to +3 dB
+* `Slew Factor:` Control the amount of "glue" and solidness added to the mix.
+	+ Default setting: Mid-range
+	+ Adjusting range: Warmth (high), Mid-range, Cool (low)
+* `Amplitude Factor:` Adjust the level of undistortion applied to individual tracks.
+	+ Default setting: 0 dB
+	+ Recommended range: -3 dB to +3 dB
 
-Caveats:
-
-* Console5DarkCh may introduce DC offset from sawtooth waveforms due to its interaction with slew rate handling.
-* Using Console5Buss on the master bus can help encode mixes slightly better, as superhigh frequencies are restricted.
 
 Best Use Cases:
-* Mixes that require a warmer and more solid sound
-* Buses and submixes where individual tracks need undistortion
-* Mastering chains where Console5DarkCh can add glue and depth to the mix
 
-Tips on Optimal Settings:
-
-* Frame a mix with Console5 in place and adjust settings as needed.
-* Keep unity gain between Channel and Bus plugins for optimal performance.
+* Mixes that require a warmer and more solid sound.
+* Buses and submixes where individual tracks need "undistortion".
+* Mastering chains where Console5DarkCh can add glue and depth to the mix.

@@ -1,30 +1,22 @@
 XRegion
 
-A plugin that applies distorted staggered bandpasses to sound signals for extreme sound mangling.
+Distorted staggered bandpasses for extreme sound mangling.
 
 Key Controls and Settings:
+
 * `First`: Sets the first frequency point for filtering.
-	+ Range: not specified
-	+ Type: frequency control
+	+ Range: [insert text]
+	+ Type: [insert text]
 * `Last`: Sets the last frequency point for filtering.
-	+ Range: not specified
-	+ Type: frequency control
+	+ Range: [insert text]
+	+ Type: [insert text]
 * `Nuke`: Increases the number of filtering poles, affecting gain and distortion.
-	+ Range: not specified
-	+ Type: control for engaging more poles of filtering
+	+ Range: [insert text]
+	+ Type: [insert text]
 * `Dry/Wet`: Balances the intensity of the effect by mixing it with an unprocessed signal.
 	+ Range: 0% to 100%
-	+ Type: blend control
-
-Caveats:
-* Can produce zipper noise when adjusting on the fly due to its experimental nature.
-* May not be suitable for all users, especially those seeking subtle effects.
 
 Best Use Cases:
 * Creating intense bandpass effects, such as distorting a snare sound.
 * Generating filter-sweepy, highly distorted effects.
 * Achieving an overdriven bass amp kind of tone.
-
-Tips on Optimal Settings:
-* To get a nice smooth distort, don't spread First and Last too wide or set them too high or low. Balance the result with Dry/Wet.
-* Use caution when adjusting Nuke, as it can increase gain significantly.

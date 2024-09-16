@@ -1,27 +1,25 @@
 Xorshift32 Noise Generator
 
 
-A noise generator using the Xorshift algorithm.
+A fast and simple algorithm for generating pseudorandom numbers used in audio processing.
 
 
 Key Controls and Settings:
 
 
-* `expon:` [insert text]
-	+ Range: [-127, 127]
-	+ Type: Integer
-* `xorbits:` The bitwise XOR operation used for generating random numbers
-	+ Range: [0, 31]
-	+ Type: Integer
+* `fpd:` Range: 0 to (2^32)-1
+	+ Type: integer
+* `expon:` Range: -62 to +62
+	+ Type: int
 
 
 Caveats:
-Most plugins will introduce small truncations in noise generation.
+Small truncations in noise generation can occur when used in various plugins.
 
 
 Best Use Cases:
-Use this code to add randomness to your audio processing algorithms without introducing truncations.
+For adding some randomness to input samples, ideal for audio processing applications.
 
 
 Tips on Optimal Settings:
-The optimal setting for `expon` is likely around 0, and the optimal setting for `xorbits` is likely around 31.
+Not applicable, as this code is designed to be efficient and fast.

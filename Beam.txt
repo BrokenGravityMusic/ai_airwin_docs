@@ -1,27 +1,12 @@
 Beam
 
-A wordlength reducer that seeks to heighten sonority by reinforcing certain waveform slope angles.
-
 Key Controls and Settings:
 
 * Focus control: Adjusts the frequency range emphasized by Beam, with lower settings encouraging focus on deeper sounds and higher settings highlighting treble.
-	+ Range: 0% to 100%
-	+ Type: controls emphasis on different frequencies
-* DeRez control: Fine-tunes sound quality without affecting noise floor.
-	+ Range: [insert text]
-	+ Type: [insert text]
-
-Caveats:
-
-* Noise floor can become unpredictable and loud, unlike other dither plugins like Dark that gate into silence or seamlessly blend into noise.
+	+ Range: 0.5 is a default setting targeting where human hearing is most sensitive.
+* DeRez control: Can be used to fine-tune the sound quality without affecting the noise floor.
 
 Best Use Cases:
 
 * Suitable for audio processing where a unique sonic maximizer effect is desired.
 * Emphasizing energy and depth in audio.
-* Creating a unique sonic character.
-
-Tips on Optimal Settings:
-
-* Experiment with different Focus settings to find the optimal balance between deeper and treble sounds.
-* Adjust DeRez control to fine-tune sound quality without affecting noise floor.

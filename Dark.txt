@@ -1,33 +1,15 @@
 Airwindows Dark Redux
 
-
-insert one-line description
+A novel audio processing plugin that analyzes the signal and predicts its trajectory, then applies dithering to maintain a smooth output.
 
 Key Controls and Settings:
 
-
-* `Dark`: Analyzes the audio signal's trajectory and suppresses high frequencies
-	+ Range: Adjustable based on analysis
-	+ Type: Dithering with intent
-* `DeRez` (in Dark Redux): Allows smooth reduction of wordlength
-	+ Range: 0-24 bits
-	+ Type: Bitcrushing effect
-
-Caveats:
-
-
-* Requires Monitoring to be switched off due to 24-bit wordlength reduction using NJAD
-
+* `Dither:` A control for adjusting the amount of dithering applied to the signal
+	+ Range: 0% to 100%
+* `DeRez:` A control for smoothly reducing the wordlength (bit depth) of the audio signal
+	+ Range: 1 to 24 bits
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
-
-
-* Rich black silence behind mixes
-* Creating old-school sampling effects or dark, gritty sounds
-
-
-Tips on Optimal Settings:
-
-
-* To achieve a lush bed of analog-rich sonics, use Dark Redux with DeRez control
-* For smooth bitcrushing effects, adjust DeRez range to desired level
+Creating rich, analog-like soundscapes and eliminating bright digital artifacts in mixes. Also useful for creating old-school sampling effects or dark, gritty sounds.

@@ -1,35 +1,20 @@
 BrightAmbience3
 
 A very bright gated reverb that adds undersampling for high sample rates and better feedback.
-
-Key Controls and Settings:
-
+`Key Controls and Settings:`
 * `Dry/Wet`: Adjusts the balance between the original sound and the reverb effect.
-	+ Range: 
-* `Decay Control`: Sets the rate at which the reverb decays over time. (Note: This control does not affect CPU efficiency.)
-	+ Range: 
-	+ Type: 
+	+ Range: N/A
+	+ Type: Blend control
 * `Sustain Control`: Sets the level of sustain, which is tied to maximum sample delay. Higher sample rates will result in shorter sustains and denser "shininess".
-	+ Range: 
-	+ Type: 
+	+ Range: N/A
+	+ Type: Level control
+* `Decay Control`: Sets the rate at which the reverb decays over time.
+	+ Range: N/A
+	+ Type: Time control
 * `Feedback Control`: Allows you to feed back the reverb effect at wider settings.
-	+ Range: 
-	+ Type: 
-
-Caveats:
-
-* The plugin is CPU-hungry due to its naive method of processing.
-* Running at high sample rates can help reduce CPU usage and maintain a consistent tone.
-* Feedback may introduce resonant qualities or droney effects, especially at wider reverb settings.
-
-Best Use Cases:
-
+	+ Range: N/A
+	+ Type: Level control
+`Best Use Cases:`
 * Adding a halo of shiny sound around mono content
 * Creating distinctively analog-feeling blurred delay effects
 * Using as a reverb effect at medium to wide settings
-
-Tips on Optimal Settings:
-
-* Adjust the Sustain Control to balance sustain and CPU efficiency.
-* Experiment with Feedback Control to achieve desired resonant or droney effects.
-* Run the plugin at high sample rates for optimal performance.

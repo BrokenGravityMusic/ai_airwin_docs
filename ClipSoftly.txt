@@ -2,18 +2,9 @@ ClipSoftly
 
 A softclipper that uses advanced techniques from ClipOnly2 to reshape the entire sound, making it bigger, fatter, and more tubby.
 
-Key Controls and Settings:
-* None (control-less)
-
-Caveats: None specified
-
-Best Use Cases:
 * Mastering: Designed for this purpose.
-* Saturation effect: Use to give your sound a larger, fatter tone.
+* Saturation effect: Give your sound a larger, fatter tone.
 * Building block: Incorporate into other plugins or use as a starting point for new versions.
 
 Tips on Optimal Settings:
-* No specific settings needed; simply enable the plugin and let it work its magic.
-* Use ClipSoftly in conjunction with other plugins to create unique soundscapes.
-* Apply ClipSoftly to entire mixes or masters to create a cohesive, fuller sound.
-* Be cautious when using ClipSoftly, as it will affect all samples and produce a significant change in the overall sound.
+No specific settings needed; simply enable the plugin and let it work its magic. Use in conjunction with other plugins to create unique soundscapes.

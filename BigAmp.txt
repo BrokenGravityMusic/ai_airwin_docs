@@ -1,27 +1,25 @@
 BigAmp
 
-An artificial amp simulator that allows for a wide range of tonal possibilities, including "unrealistic" sound manipulation.
-
 Key Controls and Settings:
 
 * Input level control: Adjusts the input signal to the amplifier.
+	+ Range: Not specified
+	+ Type: Control
 * Gain control: Sets the overall gain of the amplifier.
-* Tone controls (Tone Control, Bass, Mid, Treble): Adjusts the frequency response of the amplifier.
-	+ Tone Control: Adjusts the overall tone and character of the amplifier.
+	+ Range: Not specified
+	+ Type: Control
+* Tone controls (Bass, Mid, Treble): Adjusts the frequency response of the amplifier.
+	+ Range: Not specified
+	+ Type: Controls
 * Drive control: Adds overdrive or distortion to the output signal.
+	+ Range: Not specified
+	+ Type: Control
 * Character control: Affects the "feel" and tone of the amplifier, allowing for unusual tonal variations.
-* Cab Type: Selects from various virtual cabinet types to alter the tone.
-
-Caveats:
-May produce unusual or unconventional sounds when pushed beyond realistic parameters.
+	+ Range: Not specified
+	+ Type: Control
 
 Best Use Cases:
+Suitable for layering sounds, supplementing existing audio, and experimenting with unusual tones. Layering sounds for added depth and texture; Supplementing existing audio with a unique tone; Experimental music production where unconventional timbres are desired.
 
-* Layering sounds for added depth and complexity
-* Supplementing existing sounds with unique textures
-* Creating experimental or avant-garde audio effects
-
-Tips on Optimal Settings:
-Experiment with extreme tone and drive settings to achieve desired unconventional sounds.
-Combine BigAmp with other plugins or instruments to create unique sonic landscapes.
-Pay attention to cab type selection to alter the overall tone and character of the amplified sound.
+Tips on Optimal Settings: 
+Experiment with extreme gain and drive settings to achieve unique soundscapes. Adjust tone controls to suit specific musical genres or styles. Experiment with extreme control values to achieve unexpected and interesting results. Pay attention to gain staging to avoid distortion.

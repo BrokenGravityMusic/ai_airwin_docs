@@ -1,22 +1,24 @@
 Sidepass
 
-A highpass filter on the side channel, going up the full range from subs to highs.
+A simple utility plugin, a highpass filter on the side channel for creating mono mixes.
 
 Key Controls and Settings:
 
-* `Highpass Control`: Adjusts the cutoff frequency of the highpass filter.
-	+ Range: 0-100 (0 = flat, 100 = full range)
-	+ Note: Aware of sample rates to maintain consistent performance across different sampling frequencies.
-* `Threshold`: Sets the sensitivity of the highpass filter.
-* Dry/Wet Mix: Blend ratio between original and side-passed signal.
+* `Highpass Control`: Adjusts the cutoff frequency of the highpass filter (DC to 22K).
+	+ Range: 0-100
+* `Threshold` / `Cutoff`: Sets the sensitivity of the highpass filter or adjusts the frequency cutoff of the highpass filter.
+	+ Range: N/A
+* `Dry/Wet Mix`: Blend ratio between original and side-passed signal / Output gain control for the side channel.
+	+ Range: 0% to 100%
 
 Caveats:
 
 * Not very fancy, but can be a useful tool for mono-making.
 * Designed to work up the full range from subs to highs, so at full crank it'd be purely mono.
+* Aware of sample rates, so adjustments may be necessary across different sampling frequencies.
 
 Best Use Cases:
-Ideal for use in situations where a clear and distinct stereo image is desired, such as:
+Ideal for use in situations where a clear and distinct stereo image is desired:
 
 * Mixing and mastering
 * Surround sound production
@@ -26,3 +28,5 @@ Tips on Optimal Settings:
 
 * Adjust the Highpass Control to taste to achieve the desired level of high-frequency reduction.
 * Be mindful of sample rates when using Sidepass to maintain consistent performance.
+* Use 0.1 setting for subtle mono-ification effect at high sample rates (e.g., 44.1K or 96K).
+* Experiment with crank settings and dry/wet mix ratios to achieve desired balance between side-passed and original signal.

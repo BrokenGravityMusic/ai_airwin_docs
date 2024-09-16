@@ -1,20 +1,16 @@
-ChorusEnsemble
-
 A multi-tap mono chorus effect with a bank of chorus taps for a more complex, textured sound.
 
 Key Controls and Settings:
-
 * Tap spacing: Adjusts the distance between the chorus taps.
 * Interpolation mode: Selects from various interpolation modes to affect the chorusing effect.
-* Pre-sparkle level: Sets the amount of high-frequency boost before the chorusing process.
+* Number of Chorus Taps: Set the number of taps to achieve the desired texture.
 * Delay buffer size: Determines the size of the delay buffer used in the chorusing effect.
 
-Caveats:
-The plugin's behavior can be affected by setting adjustments, and may not always produce a desirable sound. Experimentation is necessary to achieve the desired result.
-
 Best Use Cases:
-
-Adding depth and complexity to pad sounds Creating lush backgrounds for music production
+* Adding depth and complexity to pad sounds
+* Creating lush backgrounds for music production
 
 Tips on Optimal Settings:
-Adjust the tap spacing to balance the amount of chorus and dry signal. Experiment with different interpolation modes to find the desired tone. Be cautious when adjusting the pre-sparkle level, as excessive boost can lead to an unnatural sound.
+* Adjust the tap spacing to balance the amount of chorus and dry signal.
+* Experiment with different interpolation modes to find the desired tone.
+* Be cautious when adjusting the pre-sparkle level, as excessive boost can lead to an unnatural sound.

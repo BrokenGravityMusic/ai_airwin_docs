@@ -1,24 +1,26 @@
 kCathedral3
 
+
 A giant cathedral-like space using Bezier undersampling with a 5x5 Householder matrix and additional controls for adjusting the reverb's sonic characteristics.
+
 
 Key Controls and Settings:
 
-* Dry/Wet Knob: Adjusts the balance between dry signal and reverb.
-	+ Range: [insert text]
-* Predelay Control: Sets the time before the reverb takes effect.
-	+ Range: [insert text]
-* Discontinuity Control (Top dB): Adjusts the discontinuity in the feedback loop to dial in realistic huge-space sustain.
-	+ Range: [insert text]
-* Regen Control: Controls regeneration for realistic RT60s, with a wide range and no infinite value.
-	+ Range: [insert text]
-* DeRez Control: A de-reverb control that reduces reverberation to achieve desired results.
+* `Dry/Wet Knob`: Adjusts the balance between dry signal and reverb.
+	+ Range: 
+* `Predelay Control`: Sets the time before the reverb takes effect.
+	+ Range: 
+* `Discontinuity (Top dB) Control`: Controls the discontinuity in the feedback loop to dial in realistic huge-space sustain.
+	+ Range: 
+* `Regen Control`: Controls regeneration for realistic RT60s, with a wide range and no infinite value.
+	+ Range: 
+* `DeRez Control`: A de-reverb control that reduces reverberation to achieve desired results.
+	+ Range: 
 
-Caveats:
-None specified.
 
 Best Use Cases:
-Ideal for creating deep, cathedral-like reverbers in various musical genres.
+Ideal for creating deep, cathedral-like reverberations in various musical genres and music production applications.
+
 
 Tips on Optimal Settings:
 Listen to the reverb and adjust the controls as needed to achieve the desired sound. Experiment with the Regen control to achieve realistic RT60s.

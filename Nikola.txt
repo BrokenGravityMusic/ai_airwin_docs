@@ -1,32 +1,21 @@
 Nikola
 
-One-line description: Audio Tesla Coil simulator with two modes
+An audio Tesla Coil simulator that fires bolts of lightning at audio rate, simulating industrial scrunch and noise effects.
 
 Key Controls and Settings:
 
-* `Voltage:` A control that combines two effects:
-	+ At low Voltage (e.g., 0-20%): Brighter, airier effect with little roar and sustaining industrial scrunch.
-	+ At high Voltage (e.g., 80-100%): Midrangey and distorted.
-	+ Range: Adjustable
-	+ Type: Impulse Response Generator
+* `Voltage:` A control that combines two different effects:
+	+ At low values (brighter): Adds airiness and a sustaining industrial scrunch effect.
+	+ At high values: Produces midrangey distortion and an unpredictable effect.
 * `Sample Rate:` Note: Nikola does not adapt to sample rates. It may sound different at higher sample rates (96K or 192k) and is best used at lower sample rates.
-* `Output:` Can be used to mangle individual tracks in an industrial way, or as a convolution reverb by retrigerring the 'zap' at every zero crossing.
-
-Caveats:
-
-* Nikola's behavior can be unpredictable, especially when using high Voltage or firing off multiple impulses.
-* Oversampling this plugin will not produce desirable results.
-* Undersampling Nikola might yield interesting effects, but this has not been extensively tested.
-* The plugin is legacy-based and does not adapt to sample rates.
 
 Best Use Cases:
 
-* Sound design purposes, such as creating industrial or otherworldly effects.
-* Mangling individual tracks in a creative and unpredictable way.
+* Sound design and experimentation, particularly when combined with other plugins like distortion and reverb.
+* Mangling individual tracks in a industrial way.
 * Creating convolution-style reverb effects by retrigerring the 'zap' at every zero crossing.
 
 Tips on Optimal Settings:
 
-* Experiment with different Voltage settings to find the perfect balance for your desired outcome.
-* Use Nikola in conjunction with distortion and reverb plugins to enhance its sonic characteristics.
-* To achieve the full Tesla Coil sound, turn Voltage up high and add distortion as needed.
+* To achieve the best results, turn Voltage up high and combine with distortion and reverb to create an immersive experience.
+* Experiment with different settings to produce unique, unpredictable effects.

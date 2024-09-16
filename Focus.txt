@@ -1,28 +1,21 @@
-Focus
-
-insert one-line description
+A plugin for enhancing mix clarity by targeting specific frequency ranges.
 
 Key Controls and Settings:
 
-* `Focus:` Adjusts the bandpass filter's center frequency and width
-	+ Range: [not specified]
-	+ Type: Frequency range control
-* `Output Level:` Sets the output level of the distorted signal
-	+ Range: [not specified]
-	+ Type: Volume control
-* `Dry/Wet:` Blends the original and distorted signals
+* Focus: controls the bandpass filtering and distortion
+	+ Range: low values result in broad-based overdrive, higher values narrow the distortion band
+	+ Type: bandpass filter
+* Output Level: sets the output level of the distorted signal
+	+ Range: adjustable
+	+ Type: gain control
+* Dry/Wet: blends the original and distorted signals
 	+ Range: 0% to 100%
-	+ Type: Blend control
-* `Distortion Algorithm:` Selects from five algorithms (Density, Drive, Spiral, Mojo, Dyno)
-	+ Options: [list all options]
-* `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+	+ Type: mix control
+* Distortion Algorithm: selects from five different algorithms (Density, Drive, Spiral, Mojo, Dyno)
+	+ Options: five distortion types
 
 Caveats:
-High Focus settings can produce aliasing if not monitored carefully. High Focus settings can result in saturated midrange tones.
+Focus is not an EQ; it's a tool for enhancing mix clarity by targeting specific frequency ranges. High Focus settings can result in saturated midrange tones.
 
 Best Use Cases:
-Adding depth and intensity to mixes, Locating specific frequencies or elements in the mix, Enhancing overall clarity and focus.
-
-Tips on Optimal Settings:
-Start with low Focus values for a broad-based overdrive effect, Gradually increase Focus to target specific frequency ranges, Use Output Level control to prevent midrange boosting, Experiment with different distortion algorithms to find the desired tone.
+Creating clarity by distorting specific frequency ranges, improving mix balance and focus, correcting midrange issues.

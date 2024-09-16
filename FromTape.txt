@@ -1,27 +1,21 @@
 FromTape
 
-A minimalist analog tape emulation that provides transparent treble softening without distortion.
+A minimalist analog tape emulation that provides transparent treble softening and adjustable highpass filtering.
 
 Key Controls and Settings:
 
-* `Weight (Highpass):` A filter with adjustable cutoff frequency to control bass level.
+* `Softer`: Adjusts the level of softening applied to the input signal.
 	+ Range: 
-	+ Effect: Cuts bass in a way that can increase the overall output level by up to 3dB.
-* `Softer:` A saturation control to soften digital edges.
+	+ Type: Treble softening control
+* `Weight (Highpass)`: Adjusts the cutoff frequency of a resonant highpass filter, cutting bass frequencies in such a way that they might be louder after processing.
 	+ Range: 
-	+ Effect: Softens peaks without introducing distortion, except when cranked to its maximum setting.
-* `Output Level Control:` Allows for buffering and adjusting the output level after processing.
+	+ Type: Highpass filter control
 
 Caveats:
-Clipping to a set level is only possible with the Softer control at its maximum setting.
-Using FromTape can result in increased output levels due to the highpass filter's effect on bass frequencies.
+Cranking Softer to its maximum setting can result in clipping and an unpleasant sound. The highpass may cause clean unclipped bass pre-FromTape to become 3dB louder post-processing, requiring additional gain reduction or buffering.
 
 Best Use Cases:
-Channel and bus processing: Suitable for use on individual tracks or groups where ToTape would be too heavy.
-Mastering: Can be used to soften digital edge while retaining clarity.
-Mixing: Can help take an overlimited mix and make the bass rounder and more open, giving a little crest factor back.
+Channels where a heavy plugin like ToTape is not feasible. Mixing and mastering applications where subtle treble softening and adjustable highpass filtering are desired. Enhancing the tonality of an overlimited mix by adding roundness and openness to the bass.
 
 Tips on Optimal Settings:
-Experiment with different Weight settings to find the optimal highpass cutoff frequency for your specific signal.
-Adjust Softer to taste, taking care not to overdo it as this can result in an undesirable sound.
-Use the output level control to buffer the signal and prevent bass cut levels from increasing by too much.
+Use Softer to taste, but avoid cranking it to its maximum setting for best results. Adjust Weight (Highpass) according to the specific audio material being processed. Employ output level control as necessary to prevent clipping or adjust gain staging.

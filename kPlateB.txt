@@ -1,17 +1,28 @@
 kPlateB
 
-A plate reverb plugin with a unique algorithm and topology, generating a 3x3 Householder matrix for allpasses and a 5x5 Householder matrix for delays.
+A plate reverb plugin with a unique algorithm and topology that generates a 3x3 Householder matrix for allpasses and a 5x5 Householder matrix for delays.
 
 Key Controls and Settings:
 
-* `Size:` Controls the size of the reverb space, affecting the decay time and overall sound. Range: [insert text]
-* `Damping:` Adjusts the high-frequency damping to balance brightness and clarity. Range: [insert text]
-* `Width:` Sets the stereo image width, from mono to wide stereo. Range: [insert text]
-* `Mix:` Blends the wet signal with the dry input. Range: 0-100%
-* Reverb Time: Adjusts the length of the reverb tail. Range: 0.1-10 seconds
+* `Size:` [insert text]
+	+ Range: 
+	+ Type: 
+* `Damping:` Adjusts the high-frequency damping to balance brightness and clarity.
+	+ Range: 
+	+ Type: 
+* `Width:` Sets the stereo image width, from mono to wide stereo.
+	+ Range: 
+	+ Type: 
+* `Mix:` Blends the wet signal with the dry input.
+	+ Range: 0% to 100%
+* Reverb Time (range: 0.1-10 seconds)
+	+ Adjusts the length of the reverb tail
+* Brightness (range: -20dB to +10dB)
+	+ Controls the EQ slope of the reverb sound
 
 Caveats:
 Due to its unique algorithm, kPlateB's sound may not be directly comparable to other plate reverbs or even the same reverb in a different setting.
+Adjusting controls may result in unpredictable changes to the overall sound.
 
 Best Use Cases:
 
@@ -20,4 +31,6 @@ Best Use Cases:
 * Enhancing the sense of depth and dimensionality in a mix
 
 Tips on Optimal Settings:
-Experiment with different Size settings to find the perfect balance between decay time and sound quality. Adjust Damping to taste, but be cautious of over-dampening which can lead to a washed-out sound. Use Width to create an interesting stereo image or blend into mono for a more intimate feel.
+Experiment with different Size settings to find the perfect balance between decay time and sound quality.
+Adjust Damping to taste, but be cautious of over-dampening which can lead to a washed-out sound.
+Use Width to create an interesting stereo image or blend into mono for a more intimate feel.

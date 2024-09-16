@@ -1,28 +1,18 @@
 Ensemble
 
 A mono flange effect that produces a unique and quirky sound, reminiscent of a cheesy string ensemble synthesizer from the 70s.
-
-Key Controls and Settings:
-
+`Key Controls and Settings:`
 * Sweep: A peculiar interpolation algorithm that applies an averaging function and subtle lift to highs for an analog-like effect.
 	+ Range: 
 * Pre-Sparkle: A treble boost that enhances high-frequency response.
-	+ Type: Boost
+	+ Range:
 * Energy: An Airwindows Energy-based setting that interacts with the sample rate, adjusting tonality and treble response accordingly.
-* Unique Modulation Algorithm: This plugin uses a special algorithm for its modulation effect.
-	+ Range: 
-* Depth: Adjust the depth of the modulation effect to control the richness and depth of the sound.
-	+ Range: 
-* Spread: Control the spread of the modulation effect to create a sense of width in the sound.
-	+ Range: 
-* Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+	+ Range:
+* Tap Adjustments: Allow for setting multiple chorus taps to achieve a more complex and textured sound.
+	+ Range:
 
-Caveats:
-Settings can be adjusted incorrectly, resulting in undesirable tone. Use caution when adjusting settings. Using this plugin may produce unpredictable results due to its unique design.
+Best Use Cases
+Ideal for creating distinctive pads, backgrounds, or texture-enhancing elements in music production.
 
-Best Use Cases:
-Ideal for creating distinctive pads, backgrounds, or texture-enhancing elements in music production; use Ensemble as a thickener for pads and backgrounds.
-
-Tips on Optimal Settings:
-Adjust Pre-Sparkle and Energy settings to enhance high-frequency response and suit your sample rate. Experiment with different settings of Depth and Spread to find the right balance for your sound. Adjust tap settings to create a rich, textured sound.
+Tips on Optimal Settings
+Adjust Pre-Sparkle and Energy settings to enhance high-frequency response and suit your sample rate.

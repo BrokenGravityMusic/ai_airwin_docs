@@ -1,21 +1,19 @@
 Sweeten
---------
 
-A plugin for generating second harmonic, similar to SingleEndedTriode and Inflamer (an artificial amp simulator).
-
-insert one-line description
+A plugin that generates super-clean second harmonic, similar to SingleEndedTriode and Inflamer (an artificial amp simulator).
 
 Key Controls and Settings:
 
-* `Second Harmonic Amount`: A single control with stepped-control, bit-shift-gain functionality.
-	+ Adjusting this control will increase or decrease the amount of second harmonic generated.
-	+ The optimal setting is where it's doing its thing but at no point is it ever distracting or sticking out as a mixing mistake.
-
-Caveats:
-None specified.
+* Second Harmonic Amount: A stepped-control knob that determines the amount of second harmonic added to the audio.
+	+ Turning it up will increase the warmth and sweetness. Note: The plugin uses bit-shift-gain technique to prevent overprocessing.
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
-Ideal for adding subtle nonlinearity to a sound, particularly in the midrange section of an EQ. Can be used to enhance or sweeten sounds that lack this characteristic.
+
+* Adding subtle nonlinearity to a sound or mix
+* Enhancing the midrange section of an EQ
+* Using in critical listening situations where a minimal, one-knob approach is desired
 
 Tips on Optimal Settings:
-Turn up until you can hear it a little too well, then drop back a step. This will prevent overprocessing and ensure the plugin is doing its thing without being distracting.
+Find the sweet spot where the second harmonic is noticeable but not distracting. Experiment with different settings to find the perfect balance for your mix.

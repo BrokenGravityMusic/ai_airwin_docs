@@ -1,20 +1,19 @@
 Silhouette
-
-Replaces the sound with raw noise sculpted to match its dynamics.
-
+`Replaces the sound with raw noise sculpted to match its dynamics.`
 Key Controls and Settings:
 
 * `Wet/Dry`: Controls the amount of noise injected into the sound, from 0 (no effect) to 1 (full replacement).
-	+ Range: 0% to 100%
-	+ Type: Blend control
-* `Gain`: Not mentioned as a control in this text. Assume default or minimal gain for best results.
-	+ Tip: Be cautious not to turn Wet/Dry up too high, as it can become obvious and overpower the original sound.
 
 Caveats:
-Silhouette is designed to replace the entire sound with noise, rather than adding texture or ambiance. It's intended for experimental use, where the goal is to create a wild, unexpected effect. This plugin may not work well with all types of audio content.
+Silhouette is designed to replace the entire sound with noise, rather than adding texture or ambiance.
+It's intended for experimental use, where the goal is to create a wild, unexpected effect.
 
 Best Use Cases:
-Experimental mixing and creative effects, illustrating loudness war concepts, generating subliminal noise for specific sonic textures.
+Experimental mixing and creative effects
+Illustrating loudness war concepts
+Generating subliminal noise for specific sonic textures
 
 Tips on Optimal Settings:
-Start with minimal Wet/Dry settings (around 0.1-0.2) to gauge the effect. Adjust the Wet/Dry control carefully, as it can quickly become overpowering. Use Silhouette sparingly and in context-sensitive mixing environments.
+Start with minimal Wet/Dry settings (around 0.1-0.2) to gauge the effect.
+Adjust the Wet/Dry control carefully, as it can quickly become overpowering.
+Use Silhouette sparingly and in context-sensitive mixing environments.

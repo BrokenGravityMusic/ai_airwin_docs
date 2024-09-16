@@ -1,25 +1,13 @@
 Infinity
 
-A MatrixVerb designed to sustain and layer sounds forever.
-
 Key Controls and Settings:
 
 * Filter: Sweep frequencies in and out, from deep space to bright and unnatural textures.
-	+ Range: [insert text]
-	+ Type: sweepable filter
 * Size control: Resize the space from gong-like tones to the depths of galaxies.
-	+ Range: [insert text]
-	+ Type: resizing control
 * Damping control: Apply a subtle darkening effect, useful for creating darker spaces.
-	+ Range: [insert text]
-	+ Type: darkening control
-* Dual mono effect: Adds sustain at distinct places in the stereo image, without changing the stereo mix.
-
-Caveats:
-The maximum level will stay under control, but it'll also tend to emphasize the most recent thing you did (as long as it's loud).
+* Dual Mono Effect: Adds sustain at distinct places in the stereo image.
 
 Best Use Cases:
-Creating ambient spaces that sustain and layer sounds forever, ideal for pads, sustained textures, or standalone instruments.
 
-Tips on Optimal Settings:
-Adjust the filter to control the frequency response of the sustained sound. Use the size control to vary the space from subtle to expansive. Experiment with the damping control to create different darkening effects. Take advantage of the dual mono effect to create distinct stereo images.
+Creating ambient spaces that sustain and layer sounds forever.
+Ideal for pads, sustained textures and as a standalone instrument or combined with other plugins.

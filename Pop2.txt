@@ -1,21 +1,19 @@
-Pop2
-
-Adds control and punch to audio signals.
+A software compressor that adds control and punch to audio signals.
 
 Key Controls and Settings:
 
 * `Level:` Adjust the overall compression level.
 * `Attack/Decay Speeds:`
-	+ Split out attack and decay speeds on this algorithm (as much as possible).
-	+ Recommended settings for a huge spikey attack are unknown, but experimenting is encouraged.
-* `Threshold:` The level above which compression occurs.
-* `Ratio:` The amount of compression applied to the audio signal.
+	+ Split out attack and decay speeds (as much as possible) on this crazy algorithm.
+* `Threshold`: The level above which compression occurs.
+* `Ratio`: The amount of compression applied to the audio signal.
+* `Makeup Gain`: Adjusts the overall gain of the compressed signal.
 
 Caveats:
-Must be used carefully to get the right sound happening. Not suitable for achieving a huge thunderous smashed sound, which will result in loud attack and backwards decay or other distortions.
+Must be used carefully to avoid unwanted effects. Not suitable for creating huge thunderous smashed sounds or achieving a similar effect, as this will result in loud attack and backwards decay or other distortions.
 
 Best Use Cases:
-Tracking with Pop2 can be used like Phil Collins' song production style, using it to modulate singing intensity. Doubling tracks and slapback echoes are recommended when using Pop2.
+Adding control and punch to specific elements in a mix, highlighting the attack of a sound, and creating a distorted 'splat' on the attack of a sound.
 
 Tips on Optimal Settings:
-Be aware of the potential for Pop2 to become overcompressed if not set correctly. Experimenting with different settings can help achieve the desired effect.
+Be aware of the potential for Pop2 to become overcompressed if not set correctly. Experimenting with different settings can help achieve the desired effect. Set level carefully to avoid unwanted effects, adjust attack and decay speeds to achieve desired effect, and use in conjunction with other plugins or hardware compressors for optimal results.

@@ -1,28 +1,22 @@
-ChromeOxide
-
 A dual-band tape emulation plugin that produces a vibey old tape sonic effect by saturating the lows and delaying the highs with a random noise warble.
 
 Key Controls and Settings:
 
 * Intensity: Controls the amount of noise effect used in the plugin.
-	+ Range: 
+	+ Range: Not specified
+	+ Type: Noise
 * Bias: Adjusts the delay time of the highs against the lows, sculpting phase aberrations and roll-off.
-	+ Range: 
-* Lows Saturation: Adjusts the level of saturation in the low frequency band.
-	+ Range: 
-* Highs Delay: Sets the amount of delay for the high frequency band.
-	+ Range: 10-20ms
-* Frequency Modulation (FM): Allows for frequency modulation of the highs against the lows.
-	+ Type: 
-
-Caveats:
-The plugin is not designed to produce extreme pitch wobbles or dropouts, but rather a subtle tape-like sound.
+	+ Range: Not specified
+	+ Type: Delay
+* Lows Saturation: Saturates the low-frequency band.
+	+ Range: Not specified
+	+ Type: Saturation
+* Highs Delay: Delays the high-frequency band.
+	+ Range: Not specified
+	+ Type: Delay
 
 Best Use Cases:
-
 Ideal for creating Boards of Canada-type sounds and mulch-core audio that emulates the tone of old cassette tapes. Suitable for adding a vintage vibe to tracks without overpowering them.
 
 Tips on Optimal Settings:
-* Adjust the Lows Saturation to 50-70% for a warm, saturated sound.
-* Set the Highs Delay to 10-20ms for a subtle delay effect.
-* Experiment with different Noise Warble Bias values and Intensity settings to achieve the desired phase aberrations and roll-off flavor.
+Adjust the Intensity and Bias controls to taste to achieve the desired level of noise effect and high-frequency delay. Use the Lows Saturation control to add a touch of saturation without overpowering the track.

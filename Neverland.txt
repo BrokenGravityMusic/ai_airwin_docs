@@ -1,22 +1,17 @@
 Neverland
 
-A re-release of a Neve-style color adder plugin, identical to its original version from 2007.
-
 Key Controls and Settings:
 
-* `Color Add`: Adjusts the overall color tone of the audio signal (range: -100 to 100).
-	+ Type: Color tone control
-* `Saturation`: Increases or decreases the brightness of the color tone (range: -100 to 100).
-	+ Type: Saturation control
-* `Gain`: Adjusts the overall level of the audio signal (range: -20 dB to +6 dB).
-	+ Type: Gain control
+* `Gain`: Adjusts the overall level of the signal. Range: -20 dB to +6 dB.
+	+ Type: Gain Control
+* `Saturation`: Controls the amount of color added to the signal. Range: 0% to 100%.
+	+ Type: Blend Control
 * `Mid Color`: Selects the color tone for the mid-frequency range. Options: Yellow, Orange, Red, Blue, Purple.
-	+ Type: Color tone selector
+	+ Range: N/A
+	+ Type: Selector
 * `High Frequency Color`: Selects the color tone for the high-frequency range. Options: Yellow, Green, Cyan, Violet.
-	+ Type: Color tone selector
-
-Caveats:
-This plugin is a re-release of an older version and does not have any new features or improvements.
+	+ Range: N/A
+	+ Type: Selector
 
 Best Use Cases:
 Restoring old mixes that used the original Neverland plugin.

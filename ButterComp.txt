@@ -5,27 +5,18 @@ A soft and smooth compressor that uses a unique, bipolar, interleaved compressio
 Key Controls and Settings:
 
 * `Attack:` Sets the time it takes for the compression to respond.
-	+ Type: Slow attack recommended
 * `Release:` Sets the time it takes for the compression to return to normal after a transient.
-	+ Type: Slow release recommended
-* `Compression Factor:` Adjusts the overall compression level.
-	+ Range: Subtle adjustments recommended
-* `Speed Control`: Allows for adjusting the compression factor.
-
-Caveats:
-
-* Not suitable for normal compressor tasks; best used as a "glue" compressor.
-* Can volume invert if slammed hard, resulting in quieter passages retaining their tone quality.
-* Best results are achieved with subtle adjustments.
+* Compression Factor: Adjusts the overall compression level.
+* Slow Attack and Release: Enables slow attack and release for a more subtle compression effect. (available in CStrip)
+* Interleaved Compressors: Four totally independent compressors per channel, two sensitive to positive swing and two to negative swing.
 
 Best Use Cases:
 
 * As a unique glue compressor for adding second harmonic tone to audio signals.
 * For adding an airy openness to high frequencies.
-* Ideal for delicate compression where you want to maintain the original sound quality.
 
 Tips on Optimal Settings:
 
-* Experiment with different compression factors and speed controls to achieve the desired sound.
-* Use ButterComp in moderation, as it can produce unexpected results when pushed too hard.
 * Start with subtle adjustments to achieve the desired effect.
+* Experiment with different compression factors and speed control to find the sweet spot.
+* Use ButterComp in moderation, as it can produce unexpected results when pushed too hard.

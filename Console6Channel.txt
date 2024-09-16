@@ -3,13 +3,14 @@ Console6Channel
 A new and intense digital mixing console that peaks at lower dB levels. Ideal for mixing into a digital mix buss replacement without an EQ-style sound.
 
 Key Controls and Settings:
-* None mentioned, but use as a single track processor with unity gain, or as part of a mix structure with multiple Console6Channel plugins on each sound source, followed by a Console6Buss plugin.
-* Input: Use to adjust the gain stage before hitting the Channel plugins.
-* Channel Plugins: One Console6Channel plugin per channel for "inverse square" algorithm effect.
 
-Caveats:
-Over-stressing the buss can lead to distortion. Gain staging is recommended before hitting the Channel plugins. Using other plugins inside Console may cause distortion or unusual effects. EQs will be more sensitive than usual to boosts and cuts when used in this configuration.
+* Input: The input level of the plugin.
+	+ Use to adjust the gain stage before hitting the Channel plugins.
+* Console6Buss Plugin: A digital mix buss replacement without an EQ-style sound.
+	+ Use after all Channel plugins to combine the signals.
 
-Best Use Cases: Mix into Console6Channel like an analog mixing console that can be overstressed, with gain stage before hitting the Channel plugins, one plugin per channel.
+Best Use Cases:
+Use one plugin per channel to apply the "inverse square" algorithm. Mix into Console6Channel like it's an analog mixing console that can be overstressed.
 
-Tips on Optimal Settings: Apply further color with other plugins outside Console if needed.
+Tips on Optimal Settings:
+Gain stage before hitting the Channel plugins, and use one plugin per channel.

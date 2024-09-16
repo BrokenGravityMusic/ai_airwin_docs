@@ -2,18 +2,24 @@ ResEQ2
 
 A single, sharp, sonorous mid peak that can be used to boost clarity and character in tracks.
 
-Key Controls and Settings:
-
 * `Sweepable Mid Peak`: A resonant frequency generator with a range of frequencies to choose from.
 	+ Adjusting the `Frequency` control allows you to select a specific midrange frequency to target.
 	+ The `Resonance` control increases the sharpness of the peak, adding character and clarity to the track.
 * `Gain`: Controls the overall level of the ResEQ2 output.
 
-Caveats:
-Not suitable for mixing live sound due to potential feedback issues. Can become "ringy" if resonance is increased too much; dial back if necessary.
-
 Best Use Cases:
-Adding clarity and character to tracks in post-production or mixing. Boosting specific midrange frequencies in instruments or vocals. Enhancing the overall energy of a track by targeting its presence peak.
+
+* Adding clarity and character to tracks in post-production or mixing.
+* Boosting specific midrange frequencies in instruments or vocals.
+* Enhancing the overall energy of a track by targeting its presence peak.
 
 Tips on Optimal Settings:
-Start with low gain (0.1-0.2) and gradually increase to desired level. Use "ow argh way too extreme" settings (e.g., 1.0) to dial in exactly what spot opens up an instrument or voice for maximum passion and sonority. Dial back the resonance if it becomes too sharp; start with low resonance and increase as needed.
+
+* Start with low gain (0.1-0.2) and gradually increase to desired level.
+* Use "ow argh way too extreme" settings (e.g., 1.0) to dial in exactly what spot opens up an instrument or voice for maximum passion and sonority.
+* Dial back the resonance if it becomes too sharp; start with low resonance and increase as needed.
+
+Caveats:
+
+* Not suitable for mixing live sound due to potential feedback issues.
+* Can become "ringy" if resonance is increased too much; dial back if necessary.

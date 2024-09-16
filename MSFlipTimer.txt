@@ -5,21 +5,12 @@ A utility plugin that periodically switches audio from stereo to mono every few 
 Key Controls and Settings:
 
 * Switch Time: Sets the interval (1-10 minutes) between switching from stereo to mono.
-	+ Range: 1 minute to 10 minutes
-	+ Type: Adjustable timer
+	+ Range: 1-10 minutes
+	+ Type: Time interval
 * Switch Duration: The time it takes for the switch to occur (about 0.1 seconds).
 	+ Range: Approximately 0.1 seconds
-	+ Type: Fixed duration
-* Mix behavior: When in stereo mode, audio data is passed through directly without alteration.
-
-Caveats:
-None specified.
+	+ Type: Time duration
 
 Best Use Cases:
-Ideal for mixing engineers who tend to over-manipulate stereo audio, forcing them to work with a consistent mono mix.
-Mixing and mastering situations where mono compatibility is crucial.
 
-Tips on Optimal Settings:
-Adjust Switch Time to balance the frequency of stereo-to-mono switches with your mixing workflow.
-Experiment with different Switch Durations to fine-tune the switching process for optimal sonic quality.
-Pay close attention to how MSFlipTimer affects your mix, making adjustments as needed.
+Ideal for mixing engineers who tend to over-manipulate stereo audio, forcing them to work with a consistent mono mix.

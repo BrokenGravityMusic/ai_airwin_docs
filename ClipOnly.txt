@@ -2,22 +2,17 @@ ClipOnly
 
 Suppresses digital clipping brightness without affecting unclipped samples.
 
-Key Controls and Settings:
-
-* None (no controls or adjustments needed)
+Key Controls and Settings: None.
 
 Caveats:
-The clip level combined with the anti-glare prevents 'digital reconstruction overs' in normal use.
-This plugin does not enhance loudness beyond what it already is, unlike some other clippers.
-It has a sophisticated enter/exit clip behavior that should not be considered when mixing into a safety clipper.
+The clip level combined with anti-glare prevents 'digital reconstruction overs' in normal use.
+Does not enhance loudness beyond what it already is, unlike some other clippers.
+Has a sophisticated enter/exit clip behavior that should not be considered when mixing into a safety clipper.
 
 Best Use Cases:
 General-purpose clipping and protection of audio signals from excessive peaks.
-Mixing into a safety clipper (or tracking into such a mix).
-Heavy load and severe clipping for effect without fussing or distraction.
 
 Tips on Optimal Settings:
-No adjustments are necessary or recommended. The plugin is designed to operate optimally with no controls or settings changes.
-Focus on the sounds you're making, rather than the plugin itself.
 Use the default settings for general-purpose clipping and signal protection.
-Can be used with heavy load and severe clipping for effect.
+
+This plugin can help prevent glare and harshness in audio signals, making it suitable for various use cases.

@@ -4,25 +4,15 @@ Converts stereo tracks to mid/side, applies processing, and then converts back t
 
 Key Controls and Settings:
 
-* Converts stereo track into mid/side on left and right channels
-	+ Range: N/A
-	+ Type: Function
-* Balances mid/side content for gain staging
-	+ Range: N/A
-	+ Type: Control
-* Reverses gain staging applied in conversion process
-	+ Range: N/A
-	+ Type: Button
-
-Caveats:
-None specified.
+* `Mid/Side Conversion:` Converts a stereo track into mid/side (on left and right channels) and back to stereo.
+	+ `Balance Mid/Side Content`: A control that balances the mid/side content for gain staging.
+	+ `Gain Staging Control`: Allows for gain staging of the M/S content before converting back to stereo.
+* `Mix:` A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
 
 * Wide stereo reverb with a fresh take.
 * Saturation of center and lively width using density plugins.
 * Routing techniques in DAW: send L and R to separate busses, merge back to stereo bus.
-
-Tips on Optimal Settings:
-Balance mid/side content for gain staging.
-Use EdIsDim as an intentional part of synth sound design.
+* Design synth patches heavy on left with odd stereo behaviors.

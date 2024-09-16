@@ -1,23 +1,14 @@
 LeadAmp
 
-A bright, loud, tubey amp sim with a clear, penetrating, vocal tone.
+An amp sim with a clear, penetrating, vocal tone.
 
 Key Controls and Settings:
 
-* `Highpass:` Sets the high-frequency boost or cut to taste.
-	+ Range: Not specified
-	+ Type: Boost or cut
-* `Gain Stages:` Cascading gain stages with ultrasonic filtering between them.
-	+ Range: Not specified
-	+ Type: Gain
-* `Cab Simulator:` Dynamically convolved, truncated tone color. (Note: No specific range or type listed)
-
-Caveats:
-* Best suited for 96k sample rate usage.
-* Ultrasonic filtering may not be optimal at lower sample rates.
+* `Highpass Filter:` Sets the high-frequency boost or cut to taste.
+* Gain Stages:
+	+ Cascading gain stages with ultrasonic filtering between them.
+	+ Ultrasonic filtering can be tuned to suppress aliasing at low sample rates (96k recommended).
+* Cab Simulator: Dynamically convolved, truncated tone color.
 
 Best Use Cases:
-Ideal for creating clear and penetrating lead tones, especially those with a vocal or Vox-like quality.
-
-Tips on Optimal Settings:
-None recommended. However, it's suggested to tune the ultrasonic filtering to suppress aliasing even at low sample rates (if using 96k is not possible).
+Ideal for creating clear and penetrating lead tones, especially those with a vocal or Vox-like quality. Suitable for lead guitar and dirt guitar tones with a clear, vocal quality.

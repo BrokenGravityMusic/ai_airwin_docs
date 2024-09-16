@@ -4,27 +4,18 @@ A digital ambience/echo plugin that produces series of echo taps with irregular 
 
 Key Controls and Settings:
 
-* `Echo Delay` (or Duration): Adjusts the duration of the echo taps.
-* `Prime Order` (or Prime Number Sequence): Sets the prime number sequence used to generate the delays.
-* `Sputter` (or Rate): Controls the level of irregularity in the delay intervals.
+* `Echo Delay`: Adjusts the duration of the echo taps.
+* `Sputter`: Controls the level of irregularity in the delay intervals.
 * `Width`: Adjusts the stereo widening effect.
 * `Dry Mix`: Blends the original signal with the delayed sound.
-
-Caveats:
-
-* Irregular echo taps can lead to unpredictable results when using with certain types of audio material.
-* The unique algorithm used by StarChild's delay generation can produce unpredictable results, especially when adjusting the Prime Order setting.
 
 Best Use Cases:
 
 * Creating ambient or atmospheric effects in music production.
 * Adding texture and interest to solo instruments or vocals.
 * Experimenting with unusual delay patterns and effects.
-* Creating unique digital ambience effects for sound design and music production.
-* Adding a distinctive, otherworldly voice to sounds or instruments.
 
 Tips on Optimal Settings:
 
-* Start by adjusting the Echo Delay (or Duration) and Sputter (or Rate) controls to achieve a desired balance between regularity and irregularity in the delays.
-* Experiment with different Prime Order settings to produce unique delay sequences.
-* Use the Width control to enhance or reduce the stereo widening effect.
+* Start by adjusting the Echo Delay and Sputter controls to achieve a desired balance between regularity and irregularity in the delays.
+* Experiment with different settings to produce unique results.

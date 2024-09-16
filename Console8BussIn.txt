@@ -1,38 +1,35 @@
 Console8BussIn
 
-Artificial bus console simulator that adds analog warmth to audio signals, suitable for use in a channel/submix/buss topology
+An artificial bus console simulator that adds analog warmth to audio signals, suitable for use in a channel/submix/buss topology.
 
 Key Controls and Settings:
 
-* Input Type: Selects whether the plugin processes as a channel, submix, or buss
-	+ Range: Not specified
-	+ Type: Selection menu
-* Analog Simulation: Enables or disables the analog simulation stage
-	+ Range: On/Off
-	+ Type: Toggle switch
-* Drive: Adjusts the overall gain of the plugin
-	+ Range: Not specified
-	+ Type: Control knob
-* EQ: A three-band equalizer with controls for low, mid, and high frequency adjustments
-	+ Range: Not specified
-	+ Type: Control knobs
-* Channel/Submix/Buss Selection: Choose the desired topology for the plugin's output
-	+ Range: Not specified
-	+ Type: Selection menu
-* Analog Simulation Type: Select from available analog simulation types (e.g. tube, transistor)
-	+ Range: Not specified
-	+ Type: Selection menu
+* `Input Type:` Selects whether the plugin processes as a channel, submix, or buss.
+	+ Options: Channel, Submix, Buss
+* `Analog Simulation:` Enables or disables the analog simulation stage.
+	+ Range: ON/OFF
+* `Drive:` Adjusts the overall gain of the plugin.
+	+ Range: 
+	+ Type: Gain control
+* `EQ:` A three-band equalizer with controls for low, mid, and high frequency adjustments.
+	+ Options:
+		- Low band: 
+		 + Range: 
+		 + Type: EQ control
+		- Mid band: 
+		 + Range: 
+		 + Type: EQ control
+		- High band: 
+		 + Range: 
+		 + Type: EQ control
 
-Caveats:
-Be cautious when adjusting the drive control to avoid over-driving the signal.
-The EQ section has a gentle slope to prevent harsh tone changes.
+Mix: A blend control for mixing the processed sound with the original.
+	+ Range: 0% to 100%
 
 Best Use Cases:
-Suitable for adding warmth to individual channels, submixes, or busses in a mix.
-Ideal for mixing and mastering chains to add warmth and character.
+Mixing: Console8BussIn is ideal for creating a console-inspired sound during mixing sessions.
+Mastering: It can also be used in mastering chains to add warmth and character.
 
 Tips on Optimal Settings:
 Start with the input type set to channel or submix, and adjust the EQ to taste.
 Experiment with different drive settings to find the perfect balance between tone and gain.
-Adjust the gain control carefully to avoid distortion.
-Experiment with different analog simulation types to find the desired tone.

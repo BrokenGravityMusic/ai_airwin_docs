@@ -5,23 +5,23 @@ A flexible tape echo plugin that offers substantial changes over its predecessor
 Key Controls and Settings:
 
 * `Delay Time`: Adjusts the delay time.
+	+ Range: Not specified
+	+ Type: Control
 * `Resonance`: Tightens or loosens the bandwidth of the bandpass filters.
-* `Region`: Selects the region to highlight for tone shaping.
-* `Frequency Control`: Adjusts the frequency response of the tone shaping.
-* `Dry/Wet Mix:` Sets the balance between the original and echoed audio.
+	+ Range: Not specified
+	+ Type: Control
+* `Dry/Wet Mix`: Sets the balance between the original and echoed audio.
 	+ Range: 0% to 100%
+	+ Type: Blend control
 * `Tape Flutter`: Modulates the tape speed based on the amplitude of the underlying track.
+	+ Range: Not specified
+	+ Type: Control
 
 Caveats:
-
-* May require a second to stabilize if used in tightly trimmed audio regions.
-* Using the plugin without glitches requires enabling it and giving it time to chase its desired setting.
-* Rough handling of the delay time control can lead to choppy sound.
+May require a second to stabilize if used in tightly trimmed audio regions. Rough handling of the delay time control can lead to choppy sound.
 
 Best Use Cases:
-
 Ideal for creating vintage sounds, subtle echoes, and reverb-like effects with tone shaping capabilities.
 
 Tips on Optimal Settings:
-
 Adjust the region and frequency controls to taste for optimal tone shaping results. Experiment with different dry/wet mixes to achieve the desired balance between original and echoed audio. Use the tape flutter feature subtly for a wavery and irregular effect, or crank it up for a more pronounced warbly quality.

@@ -1,25 +1,21 @@
 DeHiss
 
-Suppresses background hiss using a filtery gate approach.
+Suppresses background hiss using a filter-like gate approach.
 
 Key Controls and Settings:
 
 * `Lowpass Filter`: Adjusts the cutoff frequency of the lowpass filter to suppress quiet background noise.
+	+ Range: 100-200 Hz (start point for targeting low-frequency rumble and hiss)
 * `Dry/Wet`: Blend between original signal (dry) and filtered signal (wet).
 	+ Range: 0% to 100%
-* `Threshold`: Adjusts the level above which the lowpass filter is applied to quiet background noise.
-
-Caveats:
-None specified.
+	+ Adjusting this control allows for creative uses, such as subtle tone-shaping or adding character to a sound.
+* `Threshold` (optional): Adjusts the level above which the lowpass filter is applied to quiet background noise.
 
 Best Use Cases:
 
 * Suppressing background hiss from cheap USB condenser mics.
 * Creative tone-shaping or adding character to sounds.
-* Suppressing background hiss on recordings made with low-quality microphones or equipment.
+* Reducing unwanted noise in quiet audio recordings.
 
 Tips on Optimal Settings:
-
-* Start by adjusting the Lowpass Filter cutoff frequency to around 100-200 Hz to target low-frequency rumble and hiss.
-* Adjust the Dry/Wet blend to taste, using subtle amounts of filtering for a more natural sound.
-* Use Threshold to balance desired noise reduction and signal clarity.
+Start by adjusting the Lowpass Filter cutoff frequency to around 100-200 Hz to target low-frequency rumble and hiss. Adjust the Dry/Wet blend to taste, using subtle amounts of filtering for a more natural sound.

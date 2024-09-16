@@ -1,32 +1,30 @@
 Channel9
 
-A plugin that combines the features of Channel8 with ultrasonic filtering and new tone-shaping settings, allowing for more flexible mix sculpting.
+A channel strip emulator with ultrasonic filtering and two new tone-shaping settings inspired by Teac and Mackie consoles.
 
 Key Controls and Settings:
 
-* `Ultrasonic Filtering`: Controls the steepness of the filter, with options for Neve, SSL, API, Teac, and Mackie console models
-	+ Adjusts the cutoff point of the filter to simulate the characteristics of each console model
-* `Teac` and `Mackie` settings: Two new tone shaping algorithms inspired by classic consoles
-	+ Reshape sound in a way that's suitable for house/techno music
-	+ Control bright highs and deep bass frequencies
-* `Two-stage Drive Control`: Adjusts the overall distortion and warmth of the sound
-* `Highpass`: A newly improved high-pass filter for controlling low-end frequencies
-* `Slew clipping`: A type of clipping that adds character to the sound
-
-Caveats:
-None mentioned.
+* `Ultrasonic Filtering`: 
+	+ Controls the steepness of the filter, with options for Neve, SSL, API, Teac, and Mackie console models.
+	+ Adjusts the cutoff point of the filter to simulate the characteristics of each console model.
+* `Teac` and `Mackie` settings: 
+	+ Reshape sound in a way that's suitable for house/techno music.
+	+ Control bright highs and deep bass frequencies.
+* `Two-stage Drive Control`: 
+	+ Adjusts the overall distortion and warmth of the sound
+* `Highpass`: 
+	+ A newly improved high-pass filter for controlling low-end frequencies
+* `Slew Clipping`: 
+	+ Adds character to the sound
 
 Best Use Cases:
 
 * Mixing Console-style mixes: use Channel9 after ConsoleBuss
 * General mixing: use as a subtle distortion/fattener with tone-shaping capabilities
-* Adding subtle distortion and fattening to a mix
-* Shaping tone in a classic way, while minimizing interference with the original sound
 
 Tips on Optimal Settings:
 
-* Adjust the ultrasonic filtering cutoff point to taste, depending on your mix and desired sound.
+* Adjust the ultrasonic aliasing-filtering feature to taste, depending on your mix and desired sound.
 * Experiment with different drive levels and high-pass settings to find the perfect balance for your mix.
 * For a more aggressive sound, adjust the ultrasonic filtering control towards steeper cutoffs (Neve or API).
 * To achieve a brighter sound, use the Mackie setting.
-* Use in conjunction with other Airwindows plugins for added depth and character.

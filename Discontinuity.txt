@@ -4,26 +4,22 @@ A plugin that models air distortion under intense loudness, adding crackles and 
 
 Key Controls and Settings:
 
-* `Loudness Setting:` Adjusts the loudness at which the air distortion is applied (range 70 dB - 140 dB)
-	+ Type: Linear
-* `Air Pressure Setting:` Adjusts the pressure of the air, affecting the intensity of the crackles and distortion (range 0% - 100%)
-	+ Type: Knob
-* `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
-	+ Type: Knob
+* `Loudness Setting:` Adjusts the loudness at which the air distortion is applied (range 70 dB - 140 dB).
+	+ Type: Adjustment of loudness
+* `Air Pressure Setting:` Adjusts the pressure of the air, affecting the intensity of the crackles and distortion (range 0% - 100%).
+	+ Range: 0-100%
+	+ Type: Adjustment of pressure
+* `Mix:` A blend control for mixing the processed sound with the original.
 
 Caveats:
-
-* The plugin introduces latency due to its frequency modulation using sample buffers.
-* It's not suitable for applications where phase coherence is required.
+The plugin introduces latency due to its frequency modulation using sample buffers.
+It's not suitable for applications where phase coherence is required.
 
 Best Use Cases:
-
-* Adding air distortion to loud sounds in a mix.
-* Simulating real-world conditions on minimally miked instruments or submixes.
-* Enhancing the sound of distinct sounds that don't require perfect phase alignment.
+Adding air distortion to loud sounds in a mix.
+Simulating real-world conditions on minimally miked instruments or submixes.
+Enhancing the sound of distinct sounds that don't require perfect phase alignment.
 
 Tips on Optimal Settings:
-
-* Set the Loudness Setting to match the desired apparent loudness of the sound.
-* Experiment with different Air Pressure settings to find the optimal balance between air distortion and clarity.
+Set the Loudness Setting to match the desired apparent loudness of the sound.
+Experiment with different Air Pressure settings to find the optimal balance between air distortion and clarity.

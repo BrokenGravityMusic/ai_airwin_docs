@@ -4,17 +4,20 @@ Provides bass guitar tones with a bright channel, midrange, bass channel, and su
 
 Key Controls and Settings:
 
-* `Bright Channel:` Adjusts the brightness of the tone.
-* `Midrange:` A slider controlling the midrange frequency (dry signal).
-* `Bass Channel:` Produces a woolly tone with a noisy blur on high frequencies.
-	+ Range: Best used sparingly due to its characteristic, trashy sound.
-* `Sub Channel:` Does not work effectively and should be used as a special effect only.
+* Bright Channel: Adjusts the brightness of the tone.
+* Midrange: A slider controlling the midrange frequency (dry signal).
+* Bass Channel: Produces a woolly tone with a noisy blur on high frequencies.
+	+ Note: Best used sparingly due to its characteristic, trashy sound.
+* Sub Channel: Not functional; use as a special effect only.
 
 Caveats:
-The 'sub' channel does not work effectively and should be used as a special effect only. May not produce clean sub-octaves; use BassKit for cleaner results.
+
+* The sub channel does not work effectively and should be used as a special effect only.
+* May not produce clean sub-octaves; use BassKit for cleaner results.
 
 Best Use Cases:
 Ideal for adding bass guitar tones with a bright, woolly character to music productions.
 
 Tips on Optimal Settings:
 Use the midrange slider sparingly to maintain clarity in your mix. The bass channel is best used in moderation due to its characteristic sound.
+Sub channel should be used as a special effect only, and not for generating bass or low-end frequencies.

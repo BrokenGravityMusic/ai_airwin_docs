@@ -1,40 +1,39 @@
 PurestConsole3Buss
 
-A minimalist console emulator plugin with alternate algorithms for different sonic characters.
-
 Key Controls and Settings:
 
 * Input level adjustment
-	+ Range: not specified
-	+ Type: not specified
-* Algorithm selection: Choose from various console algorithms (default: minimalistic)
-	+ Range: not specified
-	+ Type: algorithm selection
-* Pre-dominant tone: Adjust the overall tone of the console sound (default: neutral)
-	+ Range: +3 dB to -3 dB
-	+ Type: tone adjustment
-* Cabinet resonance: Set the amount of resonant energy in the console cabinet (default: minimum)
-	+ Range: +6 dB to -6 dB
-	+ Type: resonance control
+	+ Range: 
+	+ Type: 
+* Drive control
+	+ Range: 
+	+ Type: 
+* Tone shaping (high-pass, low-pass, shelving filters)
+	+ Range: 
+	+ Type: 
+* Mix bus width setting
+	+ Range: 
+	+ Type: 
+* Algorithm selection: Choose from various console algorithms
+	+ Range: 
+	+ Type: 
+* Pre-dominant tone: Adjust the overall tone of the console sound
+	+ Range: 
+	+ Type: 
+* Cabinet resonance: Set the amount of resonant energy in the console cabinet
+	+ Range: 
+	+ Type: 
 * Dry: Adjusts the amount of direct signal passed through
-	+ Range: not specified
-	+ Type: gain control
+	+ Range: 
+	+ Type: 
 * Drive: Adds a controlled amount of distortion to the signal
-	+ Range: not specified
-	+ Type: distortion control
+	+ Range: 
+	+ Type: 
 * Tone: Shapes the frequency response of the console
-	+ Range: not specified
-	+ Type: tone shaping
+	+ Range: 
+	+ Type: 
 * Mix: Blends the levels of the dry and drive signals
 	+ Range: 0% to 100%
-	+ Type: blend control
-
-Caveats:
-Not suitable for extreme gain reduction or aggressive limiting. May not be compatible with certain plugin chains or effects processors.
 
 Best Use Cases:
-
-Ideal for minimalist and clean console sounds, suitable for mixing and mastering applications where a distinct console character is desired.
-
-Tips on Optimal Settings:
-Adjust input level to match the signal source. Experiment with different algorithm settings to find the optimal balance between clarity and character.
+Mixing and mastering applications where a minimalist console sound is desired, post-processing for film, TV, or live concert recordings, music production where a clean high-fidelity sound is required.

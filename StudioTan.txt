@@ -4,20 +4,28 @@ A plugin providing three algorithms for noise floor manipulation: StudioTan (sou
 
 Key Controls and Settings:
 
-* `Algorithm Selection`: Choose from three options: StudioTan, Dither Me Timbers, or Not Just Another Dither.
-	+ Each algorithm uses quantization, noise shaping, and Benford Realness statistics to refine tone and behavior.
-* `Bit Depth`: Select either 24-bit or 16-bit output.
-* `Noise Floor Adjustment`: Adjust the noise floor level for each algorithm.
-* `Quantization`: Enable or disable quantization for StudioTan and Dither Me Timbers algorithms.
-* `Benford Realness`: Enable or disable Benford Realness statistics for Not Just Another Dither algorithm.
+* `Algorithm`: Choose from three options: StudioTan, Dither Me Timbers, or Not Just Another Dither
+	+ Range: Select an algorithm to modify the tone and character of digital audio signals
+* `Bit Depth`: Select either 24-bit or 16-bit output
+	+ Range: Choose a bit depth for the output signal
+* `Noise Shaping`: Adjust the noise shaping behavior to refine tonal results
+	+ Range: Refine the tone and behavior by adjusting the noise shaping level
+* `Quantization` (for StudioTan and Dither Me Timbers): Enable or disable quantization
+	+ Type: Quantization setting for specific algorithms
+* `Benford Realness` (for Not Just Another Dither): Enable or disable Benford Realness statistics
+	+ Type: Statistics setting for specific algorithm
 
 Caveats:
-These plugins cannot produce signal outputs beyond -1 to 1, so they cannot prevent overs if your master is excessively hot. Do not use these plugins for scientific processing or critical applications where accurate data is required. Test tones will not produce sensible results; use them at your own risk.
+
+Cannot produce signal outputs beyond -1 to 1, so cannot prevent overs if mastering too hot.
 
 Best Use Cases:
-* Mastering raw analog captures to lower word lengths for CD using StudioTan.
-* Enhancing mixes with energy and spatiality using Dither Me Timbers.
-* Creating a holographic, hi-fi sound using Not Just Another Dither.
+
+Ideal for mixing and mastering raw analog captures to lower word lengths for CD.
+Use on mixes or as final dither in function if not strict definition.
 
 Tips on Optimal Settings:
-Experiment with different bit depths and algorithm settings to find the optimal tone for your mix or master. Pay attention to the noise floor level and adjust it according to the desired character of your audio signal.
+
+Adjust noise shaping behavior based on desired tonal results.
+Experiment with different algorithms and bit depths to find the best fit for your audio material.
+Pay attention to the noise floor level and adjust it according to the desired character of your audio signal.

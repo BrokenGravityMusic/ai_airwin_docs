@@ -1,25 +1,3 @@
-Remap
-
-An algorithm that heightens the peak energy and pointiness of audio signals, making them more impactful and engaging.
-
-Key Controls and Settings:
-
-* `Dry/Wet Control`: Adjusts the balance between the original audio signal and the remapped signal.
-	+ Turning up the Dry/Wet control adds more emphasis to the remapped signal, creating a fiercer crunchy punchiness.
-	+ Turning it down blends the original signal back in, maintaining a subtle effect.
-* `Remap Slider`: Controls the amount of re-mapping applied to the audio signal.
-	+ Values below 0.5 result in a very subtle effect, while values above 0.5 can create dramatic changes.
-* `Level Control`: Adjusts the overall gain of the processed signal.
-
-Caveats:
-Be cautious when using high levels of Remap, as it can introduce unwanted artifacts and distortion.
-Using high values of the Remap slider can lead to an over-the-top effect, requiring careful adjustment of the Dry/Wet control.
-Remap produces peaks above 0dB on full-scale content, so be warned: it's basically putting the dynamics back.
-
-Best Use Cases:
-Use Remap to add punch and energy to mixes that feel flat or congested.
-Apply Remap to individual tracks (e.g., drums, guitars, vocals) to bring out their natural tone and character.
-
-Tips on Optimal Settings:
-Find the focus point of the Remap slider by turning up the control until it becomes too much, then back it off to a more balanced setting.
+Using high levels of Remap can lead to an over-the-top effect, requiring careful adjustment of the Dry/Wet control and output level.
+Find the focus point of the Remap level control by turning up the control until it becomes too much, then back it off to a more balanced setting.
 Use output level and dry/wet controls to balance the remapped signal with the original audio.

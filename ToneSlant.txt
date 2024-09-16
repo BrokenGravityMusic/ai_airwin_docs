@@ -4,21 +4,15 @@ A super-transparent 'tilt EQ' with very low Q that produces an extremely transpa
 
 Key Controls and Settings:
 
-* Taps: Sets the number of samples in the average block (range: 1-100).
+* `Taps`: Sets the number of samples in the average block (1-100).
 	+ Range: 1-100
-	+ Type: sets the corner point of the tilt EQ response
-* Highs: Controls the brightness of the highs, with values ranging from -1 to +1.
-	+ Range: -1 to +1
-	+ Type: adjusts the frequency response of the tilt EQ
-* Dry/Wet Control: Allows for moderation of the effect by adjusting the blend between the original signal and the ToneSlant output.
-
-Caveats:
-ToneSlant is a low-pass filter that can introduce cancellation nodes, affecting tone and timbre. Applying extreme values to Taps and Highs can lead to unintended effects.
+	+ Type: Control
+* `Highs`: Adjusts the frequency response of the tilt EQ.
+	+ Setting to +1 brings in the brightest highs.
+	+ Setting to -1 nulls out high frequencies.
 
 Best Use Cases:
-* Extremely low Q treble rolloff above a set point with fixed dB/oct response
-* Total cancellation of high frequencies
-* Natural high-shelf controllable EQ
 
-Tips on Optimal Settings:
-Be cautious when applying ToneSlant, as it can "hide" and affect tone and timbre unexpectedly. Use ToneSlant for strong 'tilt' effects without equalizing the sound.
+* Treble rolloff above a set point with fixed dB/oct response.
+* Natural high-shelf controllable EQ.
+* Total cancellation of high frequencies.

@@ -1,26 +1,18 @@
 PowerSag2
 
-Models the problem of analog power supplies that can't source enough current to drive the output of the circuit.
+Emulates power supply limitations in analog modeling by simulating the problem of an analog circuit being unable to source enough current.
 
 Key Controls and Settings:
 
-* `Depth`: Adjusts the effect range.
-	+ Range: unknown
-	+ Type: effect adjustment
-* `Speed`: Controls the response time, creating a variety of compressive or distorative effects.
-	+ Range: unknown
-	+ Type: effect creation
-* `Inverse/Wet control`: Adds an inverse/wet control to hear what's being taken away, allowing for more nuanced sound sculpting.
-	+ Range: 0% to 100%
-	+ Type: blend control
-
-Caveats:
-None specified.
+* `Depth`: Adjusts the amount of effect applied to the sound.
+	+ Range: 
+* `Speed`: Controls the rate at which energy is drained from the sound, creating different types of compressive or distorting effects.
+	+ Type:
+* `Inverse/Wet Control`: Allows for inverse effect, where the plugin simulates the removal of energy from the sound.
+	+ Blend control for mixing the processed sound with the original
+		- Range: 
 
 Best Use Cases:
-Ideal for adding character and energy to sounds without pushing them forward in the mix. Great for creating a grungey or gatey effect. Add character and grind to sounds without making them fatiguing. Balance with traditional distortion and saturation for more energy and interest in mixes.
+Ideal for adding grind and character to sounds without pushing them forward. Can be used to create unique distortion effects by balancing with normal overdrive.
 
-Tips on Optimal Settings:
-* Exaggerate Depth and explore Speed to create various effects.
-* Return Depth to zero and sneak small amounts of it back in to achieve the desired effect.
-* Balance PowerSag2 with traditional distortion and saturation to get a lot of energy and character without making sounds too fatiguing.
+Return Depth to zero, then sneak small amounts back in to add desired effect. Use slow Speed for a tubey effect, or quick Speed for a big-console transistor effect. Balance the inverse control to blend the taken-away sound with the original.

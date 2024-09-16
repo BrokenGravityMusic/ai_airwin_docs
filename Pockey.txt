@@ -1,22 +1,18 @@
-Pockey
-
-Plugin designed to give a warm fuzzy texture like an old sampler or Pocket Operator for 12 bit lo-fi hiphop sounds
+A plugin designed to deliver warm fuzzy texture like an old sampler for 12 bit lo-fi hiphop sounds.
 
 Key Controls and Settings:
 
 * `Resolution Slider:` Adjusts the resolution from exactly 12 bit to progressively more lo-fi in an 'analog bitcrush' mode.
 	+ Lowest setting: Exactly 12 bit
-	+ Higher settings: Gradually builds, fading smoothly from higher resolutions to 4-bit
+	+ Higher settings: Gradually builds, fading smoothly from higher bitrates (up to CD-quality)
 * `Frequency Crush Effect:`
 	+ Uses edge-softening algorithm like PurestDrive for resonant and sonorous frequency crush.
 	+ Adjusts the level of digital nasty effects, with lower settings minimizing intrusion.
 
-Caveats:
-None specified.
-
 Best Use Cases:
-Ideal for lo-fi hiphop and similar genres that benefit from warm fuzzy textures. Also ideal for emulating 12-bit lo-fi hiphop sound in genres like chill lo-fi hip hop, where a warm fuzzy texture and crunchy louder sounds are desired.
+Ideal for lo-fi hiphop production and creating warm fuzzy texture in old sampler-style tracks.
 
 Tips on Optimal Settings:
 * For minimal intrusion, adjust frequency control to very lowest settings.
-* As you crank up the frequency crush effect, note the rowdier digital artifacts with a softening effect. Start with low resolution and frequency crush settings to preserve clarity, then gradually increase for desired lo-fi effect. Experiment with the edge-softening algorithm to achieve the right balance between harsh and resonant frequencies.
+* As you crank up the frequency crush effect, note the rowdier digital artifacts with a softening effect.
+Start with low resolution and frequency crush settings to preserve clarity, then gradually increase for desired lo-fi effect. Experiment with the edge-softening algorithm to achieve the right balance between harsh and resonant frequencies.

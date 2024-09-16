@@ -1,20 +1,14 @@
 PurestWarm
 
-Softest-possible saturation effect that adds tone and warmth to waveforms while maintaining signal integrity.
+A subtle tone shaper and warmth adder that applies a softest-possible-saturation effect, polarized to apply saturation on one half of the waveform and pass through the exact bits for the other half.
 
 Key Controls and Settings:
 
-* `Polarity Switch`: Choose which side of the waveform the saturation applies to.
-* `Saturation Intensity` (optional): Not available in PurestWarm. The plugin is designed to maintain signal integrity with a simple switch.
-
-Caveats:
-No way to get perfect integration of bypass and affected halves, as they switch off like a push-pull power amp.
-May produce an obvious effect, but one that's harmonious and doesn't get in the way.
+* `Polarity Switch`: Selects which side of the waveform to apply saturation.
+* `Intensity Control (0-1)`: Adjusts the amount of saturation applied to the selected polarity.
 
 Best Use Cases:
-Adding texture to waveforms that need a little sweetening without compromising signal integrity.
-Ideal for bass guitars where the string swings near the pickup, producing extra voltage on one side of the wave.
+Adding texture and warmth to waveforms that need subtle sweetening. Enhancing electric bass guitar tones by saturating the side of the waveform corresponding to the string swing near the pickup.
 
 Tips on Optimal Settings:
-Choose the polarity that best suits your sound.
-Experiment with different polarities to find the ideal balance for your specific track.
+Experiment with different polarity settings to find the optimal one for each sound. Adjust the intensity control to achieve the desired amount of saturation.

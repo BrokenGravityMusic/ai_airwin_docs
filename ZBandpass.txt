@@ -1,21 +1,20 @@
 ZBandpass
 
-A bandpass filter emulating the Emu e6400 Ultra bandpass, ideal for creating filtered sounds with a wide frequency range.
-
 Key Controls and Settings:
-
-* `Poles`: Adjusts output gain and allows for more headroom.
-	+ Lower values allow for more distorted sounds, while higher values provide cleaner results.
+* `Poles`: Adjusts output gain and allows for more headroom. Lower values allow for more distorted sounds, while higher values provide cleaner results.
+	+ Range: 
+	+ Type: Control
 * `Gain`: Sets the overall level of the filtered signal.
+	+ Range: 
+	+ Type: Control
 * `Cutoff Frequency`: Sets the center frequency of the bandpass, which determines the range of frequencies passing through the filter.
-
-Caveats:
-None specified.
+	+ Range: 
+	+ Type: Control
 
 Best Use Cases:
 Use ZBandpass to create filtered sounds with a wide frequency range. It's ideal for situations where you need to isolate and enhance specific frequencies within an audio signal.
 
 Tips on Optimal Settings:
-* Start by adjusting the Poles control to your desired level of distortion.
-* Balance the output gain using the Gain control to achieve the best possible results.
-* Experiment with different settings, including adjusting the Cutoff Frequency, to find the perfect balance between frequency isolation and overall sound quality.
+* Experiment with different Poles settings to achieve desired filter responses.
+* Adjust the Cutoff Frequency to target specific frequencies or create subtle tone variations.
+* Use the left half of the Poles control to increase output gain and balance distorted signals with dry audio.

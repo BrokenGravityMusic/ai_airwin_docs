@@ -1,21 +1,18 @@
 Desk
 
-A subtle analog modeling plugin that glues and thickens sounds, similar to a true analog console.
+A subtle analog modeling plugin that glues and thickens the sound, similar to a true analog console.
 
 Key Controls and Settings:
 
-* `Headroom`: Adjusts the maximum amount of gain before distortion, up to 30 dB.
-	+ Default value: 30 dB
-* `Tone Shaping`: Controls the amount of warm analog tone added to the sound.
+* Headroom: Adjusts the amount of headroom available before clipping.
+	+ Range: Up to 30 dB
+* Tone Shaping: Controls the amount of tone shaping applied to the signal.
 	+ Range: -20 dB to +10 dB
-
-Caveats:
-This plugin does not have elaborate tone colors or adjustable settings like some other plugins. It is designed for subtle analog modeling and may not be suitable for extreme processing needs.
 
 Best Use Cases:
 
-* Adding warmth and depth to individual channels, submixes, or busses.
-* Enhancing the overall sound of a mix by adding a subtle analog character.
+* Adding a subtle glue and thickness to individual channels or submixes.
+* Enhancing the overall sound of the 2-buss or master bus.
 
 Tips on Optimal Settings:
-Experiment with different amounts of tone shaping to find the desired level of warmness. Use headroom to push the gain without introducing distortion, but avoid excessive processing that can lead to digital sludge and glitter.
+To get the best results from Desk, use it in moderation. Applying too much processing can degrade the sound quality. Start with subtle adjustments and gradually increase the effect as needed to achieve your desired tone.

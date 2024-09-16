@@ -4,23 +4,20 @@ A super-reverb designed specifically for pads and space ambient music, capable o
 
 Key Controls and Settings:
 
-* `Replace`: Determines how much of the new sound coming in should replace the space currently in the reverb.
-	+ Range: 0-100
-* `Detune`: Shifts the pitch for both channels (quadraphonic pitch shift arrangement).
+* `Dry/Wet:` Mix of original audio with the reverb effect.
+	+ Type: Blend control
+* `Replace:` Amount of new sound coming in that replaces the existing space (0-100).
+	+ Range: 0% to 100%
+	+ Type: Blend control
+* `Detune:` Quadrature pitch shift for both channels, used to create maximum widening effects.
 	+ Range: ±12.7%
-	+ Type: Quadrature pitch shift
-* `Brightness`: Controls brightness going into and coming out of the reverb.
+	+ Type: Frequency shifter
+* `Brightness:` Controls brightness going into and out of the reverb (±18 dB default range).
 	+ Range: ±18 dB
-* `Bigness`: Reverb buffer size, affecting overall ambiance.
-	+ Note: Adjusting Bigness can result in crashing noises.
-
-Caveats:
-* Modifying Bigness can cause crashing noises that become infinite spaces.
+	+ Type: Gain control
 
 Best Use Cases:
-* Space ambient music
-* Pad synthesis and sound design
+Use for deep space ambient music, pads, and evolving ambient spaces. Also suitable for chorusing out huge synth pads or other mono sources.
 
 Tips on Optimal Settings:
-* For pads and normal use, set Replace to a high value and adjust Brightness and Bigness accordingly.
-* Use Detune to chorus out synth pads for unreasonably wide stereo fields.
+For maximum widening effects, use high Detune values. To create epic fields of reverb, set Replace to a higher value and adjust Brightness and Bigness accordingly.

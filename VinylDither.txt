@@ -1,28 +1,21 @@
 VinylDither
 
-A high-performance dither that converts digital noise to 'groove noise', mimicking the characteristics of analog vinyl records.
+Converts digital noise to 'groove noise' for a more vinyl-like sound.
 
-Key Controls and Settings:
+* `Error Threshold:` Sets the level at which error energy is released as burst and sparks, affecting the overall noise floor and crackling behavior.
+	+ Range: Not specified
+	+ Type: Dither setting
+* `Dither Type:` Selects between different dither algorithms to achieve the desired sonic character and characteristics (e.g., TPDF, SACD).
+	+ Range: Not specified
+	+ Type: Dither type
 
-* `Error Threshold`: Sets the level at which error energy is released as burst and sparks, affecting the overall noise floor and crackling behavior.
-	+ Range: [insert text]
-	+ Type: [insert text]
-* `Dither Type`: Selects between different dither algorithms to achieve the desired sonic character and characteristics (e.g., TPDF, SACD).
-	+ Range: [insert text]
-	+ Type: [insert text]
+Mix:
 
-Caveats:
-
-* May introduce unpredictable high-frequency overreaction if driven too hard.
-* Not suitable for applications requiring a featureless noise floor, as it produces a crackly, surface-noise-like sound.
-* High-Frequency Overreaction: VinylDither may produce loud crackling noises at high frequencies if driven too hard.
+* Range: 0% to 100%
 
 Best Use Cases:
 
-* Ideal for analogophile productions or mixing where a subtle vinyl feel is desired. Can be combined with other effects to create unique sonic characteristics.
-* Adding a subtle 'vinyl' feel to digital recordings, emulating the sound of analog tape or vinyl records, creating a warm, nostalgic sound for music production.
+Ideal for analogophile productions or mixing where a subtle vinyl feel is desired. Can be combined with other effects to create unique sonic characteristics.
 
 Tips on Optimal Settings:
-
-* Adjust the Error Threshold setting to balance the noise floor and crackling behavior according to the mix's needs.
-* Combine VinylDither with other plugins, such as elliptical EQ or groove wear emulation, for added vinyl-like characteristics. Start with default settings and adjust Depth and Frequency Response to taste.
+Adjust the Error Threshold setting to balance the noise floor and crackling behavior according to the mix's needs.

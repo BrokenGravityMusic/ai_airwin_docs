@@ -6,22 +6,11 @@ Key Controls and Settings:
 
 * Color Intensity: Adjusts the strength of the simulated color effect.
 	+ Range: 0-100
-	+ Type: Adjusts the level of added color to the signal
 * Distortion Amount: Controls the amount of distortion applied to the signal.
 	+ Range: 0-100
-	+ Type: Controls the level of distortion applied to the signal
-
-Mix:
-
-A blend control for mixing the processed sound with the original. Not mentioned in other versions.
-
-Caveats:
-None noted.
 
 Best Use Cases:
-
-Adding color and character to audio signals, particularly guitars or other instruments that benefit from subtle amp-like tones. Can also be used as a creative effect tool.
+Ideal for adding color or simulation to audio signals, or for distorting audio in music production.
 
 Tips on Optimal Settings:
-
-Experiment with different Color Intensity settings to find the right balance for your sound. Keep an eye on Distortion Amount and adjust as needed to avoid over-driving the signal. Pay attention to Input/Output Parameters to ensure optimal placement in the signal chain.
+Experiment with different Color Intensity and Distortion Amount settings to achieve the desired effect.

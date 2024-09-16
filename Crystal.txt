@@ -1,21 +1,16 @@
 Crystal
 
-Tone shaper and buss soft-clipper that applies a unique EQ behavior and saturation effect to audio signals.
+A tone shaper and buss soft-clipper that applies a unique EQ behavior and saturation effect to audio signals.
 
 Key Controls and Settings:
 
-* `Hardness:` Slider that defines the onset of clipping, controlling the "fatness" of the saturation effect (0-100)
-	+ Range: 0% to 100%
-	+ Type: Saturation control
-* `Personality:` Parameter that adds dynamic behavior to the tone shaper (0-100)
-	+ Range: 0% to 100%
-	+ Type: Tonal coloration control
-
-Caveats:
-None specified
+* Hardness: A slider that defines the onset of clipping, allowing you to control the "fatness" of the saturation effect (0-100)
+	+ Adjusting this control affects the tonal parameter.
+* Personality: A parameter that adds dynamic behavior to the tone shaper (0-100)
+	+ This control allows for manipulation of the treble-restricting EQ behavior, based on brickwall filter data set.
 
 Best Use Cases:
 Ideal for adding a unique EQ flavor and saturation effect to audio signals, particularly in buss processing. Suitable for applications where a specific tonal parameter is desired.
 
 Tips on Optimal Settings:
-Experiment with different Hardness settings to achieve desired levels of saturation and clipping onset. Adjust Personality to control the dynamic behavior of the tone shaper.
+Experiment with different Hardness settings to achieve desired levels of saturation and clipping onset. Adjust Personality to control the dynamic behavior of the tone shaper, exploring tonal colorations.

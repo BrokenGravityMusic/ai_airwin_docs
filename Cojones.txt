@@ -1,22 +1,19 @@
 Cojones
 
-A plugin that tracks the trajectory of a waveform over five samples, allowing for heightening or minimizing disparities to create a unique sound.
+A plugin that tracks the trajectory of a waveform (over five samples) to heighten or minimize disparities, resulting in a distinctive midrangey sonority.
 
 Key Controls and Settings:
 
-* `Cojones`: A control that boosts or minimizes waveform disparities.
-	+ Boosting Cojones can add a midrangey sonority.
-	+ Note: It's easy to apply too much Cojones, so start with small amounts.
-* Breathy: A three-sample control that adds a breathy quality to the sound.
-* Body: A control that beefs up or cuts bass and low mids.
-
-Caveats:
-Cojones is best used in moderation. Excessive use can produce unpleasant, trebly grit.
+* `Cojones`: Boosts or reduces the disparity in waveforms.
+	+ Adjusting this control will affect the overall sound quality.
+* `Breathy`: Adds a three-sample effect similar to Dither Me Timbers and StudioTan.
+	+ This control can be used to add energy to transients and attacks.
+* `Body`: Controls bass and low mids, beefing them up or cutting them out.
+	+ This control can be used to adjust the balance of low frequencies.
 
 Best Use Cases:
-
 * Add Cojones to your mix or master bus for a distinctive midrangey sonority.
 * Experiment with Cojones as an alternative to Dither Me Timbers or StudioTan, especially when used in non-output dither contexts.
 
 Tips on Optimal Settings:
-Start with small amounts of Cojones and gradually increase to avoid excessive boosting. Be cautious not to overapply the "mojo" effect.
+Start with small amounts of Cojones and gradually increase it to taste. Adjust the Breathy control carefully, as excessive use can make your sound too "breathless". Use the Body control to balance out low frequencies and avoid muddiness.

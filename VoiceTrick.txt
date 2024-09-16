@@ -1,30 +1,24 @@
 VoiceTrick
 
-A stereo plugin that exploits microphones and human ear quirks to allow recording vocals with monitor speakers or open-ear headphones, canceling out backing tracks.
-
 Key Controls and Settings:
 
-* Mix: Stereo mix output
-	+ Range: N/A (mono/mix toggle)
-	+ Type: Stereo/Mono switch
-* Mono: Convert stereo mix to mono
-	+ Range: Toggle on/off
-	+ Type: Switch
-* Filter: Optional low-pass filter (based on Airwindows Capacitor)
-	+ Range: N/A (on/off toggle)
-	+ Type: Switch
-* Phase Flip: Flip phase on one side of the stereo mix
-	+ Range: N/A (toggle on/off)
-	+ Type: Switch
+* `Mix Mono:` Toggles the mix into mono.
+	+ Type: Toggle button
+* `Filter (if desired):` Applies a low-pass filter to the mix.
+	+ Type: Filter
+* `Phase Flip:` Flips phase on one side of the stereo mix.
+	+ Type: Button
+* `EQ:` Uses a low-pass filter from Airwindows Capacitor to adjust room reverb.
+	+ Range: Adjustable
 
 Caveats:
 
-Results may vary depending on mic placement, room acoustics, and EQ settings. The plugin is not meant for end listeners and does not affect the sound quality.
+The plugin is not meant for end listeners and does not affect the sound quality. Results may vary depending on mic placement, room acoustics, and earpiece positioning (if using open-ear headphones). Latency can still be an issue if monitoring through a DAW with plugins or into a big dense mix.
 
 Best Use Cases:
 
-Vocal tracking with monitor speakers or open-ear headphones, especially in situations with high latency or dense mixes.
+Recording vocals without latency or headphones for better performance. Allowing singers to hear themselves as if singing a cappella.
 
 Tips on Optimal Settings:
 
-Place vocal mic exactly between two speakers, perfect mirror image, pointed away from the speakers and towards the vocalist. Adjust EQ to compensate for room reverb and darkening if needed. Use heavy sturdy stand to lock mic in place for best results.
+Place the vocal mic exactly between the two speakers, pointed away from the speakers and towards the vocalist. Adjust EQ to compensate for room reverb and darkening if needed.

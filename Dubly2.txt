@@ -1,38 +1,19 @@
-Dubly2
-
 A plugin that emulates a 1960s-1970s noise reduction machine, with simple algorithms and control knobs for tweaking the sound.
 
 Key Controls and Settings:
 
 * Encode:
-	+ Level: [adjusts brightness boost]
-		- Range: 
-	+ Frequency Control: [specifies brightness band for compression]
-		- Type: slider
+	+ Encode Level (slider): Adjusts brightness boost
+	+ Frequency Control (knob): Specifies brightness band for compression
 * Decode:
-	+ Level: [adjusts phase-inverted brightness boost]
-		- Range: 
-	+ Frequency Control: [adds phase-inverted effect, same as Encode]
-		- Type: knob
-* Dry/Wet Mix: [adjusts amount of processed audio in the mix]
-	+ Range: 0% to 100%
-* Six additional knobs for further tweaking:
-	+ Range: 
-	+ Type: 
-
-Caveats:
-
-* The highs get squished twice when using Dubly2.
-* Highs are compressed twice, which can lead to weird compression time constants.
+	+ Decode Level: Adjusts phase-inverted brightness boost
+	+ Frequency Control (same as Encode, adds phase-inverted effect)
+* Dry/Wet Mix (adjusts amount of processed audio in the mix)
 
 Best Use Cases:
 
-* Adding a "gloss and sparkle" effect to audio
-* Creating unusual midrange effects by tweaking Encode and Decode frequencies
-* Dialing in the sound of classic records by adjusting Encode and Decode settings
+Adding a "gloss and sparkle" effect to audio, Creating unusual midrange effects by tweaking Encode and Decode frequencies, Dialing in the sound of classic records by adjusting Encode and Decode settings
 
 Tips on Optimal Settings:
 
-* Experiment with Encode and Decode amounts to achieve desired tone quality
-* Adjust Frequency Controls together or separately for unique midrange effects
-* Use Dry/Wet Mix to balance processed audio with original sound
+Experiment with Encode and Decode amounts to achieve desired tone quality, Adjust Frequency Controls together or separately for unique midrange effects, Use Dry/Wet Mix to balance processed audio with original sound

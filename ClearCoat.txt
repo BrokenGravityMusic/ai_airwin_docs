@@ -1,31 +1,22 @@
 ClearCoat
 
-Selects a pre-defined reverb setting (17 options) using the top slider
-Controls the blend of dry and wet signal (0-100%) using the bottom slider
+A bright, airy ambiance generator for adding clarity and spatiality to individual tracks or submixes.
 
 Key Controls and Settings:
 
-* `Top Slider:` Selects a reverb setting (17 options)
-	+ Range: 1 to 17
-	+ Type: Pre-defined setting selection
-* `Bottom Slider:` Dry/Wet control
+* `Top Slider:` Selects a pre-defined reverb setting (17 options available)
+	+ Range: 1-17
+	+ Type: Setting selection
+* `Bottom Slider:` Dry/Wet control (0-100%)
 	+ Range: 0% to 100%
-	+ Type: Blend control for dry and wet signals
-* `SubTight Refinement:` Adjusts the brightness and sub-frequency cut in the feedback path
-	+ Range: [insert text]
-	+ Type: [insert type]
+	+ Type: Blend control
 
 Caveats:
-May not work as intended at extreme sample rates
-SubTight refinement may cause issues if not scaled correctly
+May not work as intended at extreme sample rates. SubTight refinement may cause issues if not scaled correctly.
 
 Best Use Cases:
 
-Adding bright ambiance to instruments or submixes
-Creating "nearfield reflections" for a more intense, refined sound
-Using as a Verb 1 with the upcoming kCathedral plugin
+Adding ambiance to individual tracks or submixes, creating a "nearfield reflections" effect for vocals or drums, and using as a Verb 1 in a mixing chain with another reverb plugin (e.g. kCathedral) as Verb 2.
 
 Tips on Optimal Settings:
-Adjust the top slider to select a desired setting (17 options)
-Use the bottom slider to control dry/wet mix balance (0-100%)
-Experiment with subtle adjustments to achieve the desired tone color
+Start by selecting a setting and adjusting the dry/wet slider to taste. Experiment with different settings to find the right tone color for your mix. Use the SubTight refinement to add brightness or cut low frequencies in the feedback path.

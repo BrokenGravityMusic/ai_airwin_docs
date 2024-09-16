@@ -1,17 +1,21 @@
-Overheads
-
-A plugin for compressing only part of the sound, specifically designed to isolate cymbals from drums.
-
 Key Controls and Settings:
 
-* Node/Sharp: Adjusts the delay gap to control the compression effect. Larger values allow deeper sounds to be compressed, while smaller values shift the cancellation up a little.
-* Compr: A compressor that drives the compression effect. Can be cranked up for more extreme effects or backed off for subtle compression.
-
-Caveats:
-High frequencies tend to slip through the cracks between the delay gap and are less affected by compression. Using Overheads on a sine wave at a precise level can unexpectedly convert it into a triangle wave.
+* Compr: Adjusts compression level
+	+ Range: [insert text]
+	+ Type: [insert text]
+* Sharp (Node control): Shifts the delay gap
+	+ Range: Larger values allow deeper sounds to be compressed, smaller values shift cancellation up a little
+	+ Type: [insert text]
+* Mix: A blend control for mixing the processed sound with the original
+	+ Range: 0% to 100%
 
 Best Use Cases:
-Mixing drum overheads to isolate cymbals from drums, creating unusual and unique soundscapes.
+
+* Compressing drum overheads while preserving cymbal sound
+* Creating unusual and unique soundscapes
 
 Tips on Optimal Settings:
-Start with a moderate 'Node/Sharp' setting to control the compression effect, then adjust as needed. For subtle compression effects, back off the 'Compr' control to only slightly clamp down the drums.
+
+* Start with low Compr values to avoid over-compressing the sound.
+* Adjust Sharp to fine-tune the compression effects, making sure not to over-limit specific frequencies.
+* Experiment with different settings to achieve unique sound results.

@@ -1,28 +1,24 @@
-TapeDelay
+Tape Delay Simulator
 
-An old school tape echo with pitch swerve effects.
+A vintage tape echo with pitch swerve effects, using a technique for tone shaping that's a simplified version of Iron Oxide.
 
 Key Controls and Settings:
 
 * `Delay Time Control`: Adjusts the delay time of the plugin, which can produce wild pitch bends when manipulated.
-	+ Range: Quarter to half second
-	+ Tip: Give the plugin a quarter to half second to stabilize before adjusting settings to avoid pitch zoops.
-* `Tone Shaping Control`: Affects the tone shape of the plugin using prime-numbered sample delay times, creating an averaging effect similar to convolution impulse combined with averaging.
-	+ Range: (no specific range mentioned)
-	+ Tip: Be careful not to reinforce artifacts when regenerating audio.
+	+ Tip: Give the plugin at least 1/4 second to stabilize before adjusting settings to avoid buffer smashings/dropouts.
+* `Tone Shaping Control`: Affects the tone shape of the plugin using prime-numbered sample delay times.
+	+ Range: 
+	+ Type: A simplified version of Iron Oxide
 * `Prime Number Delay Time`: Enables or disables the prime-number based tone shaping delay time.
 
-`Caveats:`
-
+Caveats:
 * Using this plugin on tightly trimmed audio regions may produce pitch zoops and instability if not given sufficient time to stabilize.
 * Aggressive manipulation of the delay time control can result in buffer smashings/dropouts.
 
-`Best Use Cases:`
-
+Best Use Cases:
 * Creating dubby effects with a decaying tone
 * Achieving a tape slapback or bright airy sound
 
-`Tips on Optimal Settings:`
-
+Tips on Optimal Settings:
 * Give the plugin sufficient time to stabilize before adjusting settings.
 * Be gentle when manipulating the delay time control to avoid buffer smashings and dropouts.

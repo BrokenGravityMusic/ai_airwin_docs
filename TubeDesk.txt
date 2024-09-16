@@ -4,17 +4,17 @@ A tube recording console type tone coloring plugin with a distinct flavor to how
 
 Key Controls and Settings:
 
-* Tone: Adjusts the overall tone character of the plugin.
-* Saturation: Controls the amount of distortion introduced by the plugin.
-* Rectifier Sag: Affects how dynamics work through the plugin, imparting an obvious rectifier sag.
-
-Caveats:
-None specific to TubeDesk. As with other Desk plugins, using it on auxes and submixes can help emulate running through a lot of circuitry.
+* `Tone`: Adjusts the overall tone character of the plugin.
+	+ Type: not specified
+* `Saturation`: Controls the amount of distortion introduced by the plugin.
+	+ Range: not specified
+* `Rectifier Sag`: Affects how dynamics work through the plugin, imparting an obvious rectifier sag.
+	+ Range: not specified
 
 Best Use Cases:
-Use on channels, auxes, or submixes where you want a distinct "analog modeling" tone. Ideal for adding a retro vibe to your recordings.
+Use on channels, auxes, or submixes where you want a distinct "analog modeling" tone.
+Ideal for adding a retro vibe to your recordings.
 
 Tips on Optimal Settings:
-* Start with low settings and gradually increase to taste.
-* Experiment with different combinations of Tone, Saturation, and Rectifier Sag to achieve the desired sound.
-* Place TubeDesk on auxes and submixes to better emulate running through a lot of circuitry.
+Start with low settings and gradually increase to taste.
+Experiment with different combinations of Tone, Saturation, and Rectifier Sag to achieve the desired sound.
