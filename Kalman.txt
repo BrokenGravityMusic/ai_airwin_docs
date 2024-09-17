@@ -3,13 +3,13 @@ Kalman Filter Plugin
 Key Controls and Settings:
 
 * `Inv:` [insert text]
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Wet:` [insert text]
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Blending both elements in balance allows for subtle texture shaping across a wide range of tonal possibilities. This makes Kalman suitable for nuanced sound design.

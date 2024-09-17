@@ -4,8 +4,8 @@ A mix-and-match plugin combining various Console algorithms, Channel functions, 
 
 Key Controls and Settings:
 * `Version:` Select from various Console versions (e.g., Console6, Console7, PurestConsole1-3) and modes (channel or buss)
-	+ Original Console algorithm
-	+ Console Zero
+    + Original Console algorithm
+    + Console Zero
 * `Channel/Buss`: Choose between using the plugin as a channel or buss function
 * `Oversampling`: Use oversampling capabilities for increased resolution
 * `Instance Count:` Adjust the number of EveryConsole instances for complex mixing scenarios

@@ -3,14 +3,14 @@ A cascaded biquad filter with steeper roll-off before resonance, ideal for steep
 Key Controls and Settings:
 
 * Frequency: Adjusts the frequency of each biquad filter.
-	+ Range: Not specified
-	+ Type: Frequency control
+    + Range: Not specified
+    + Type: Frequency control
 * Q: Sets the Q factor (bandwidth) for each biquad filter.
-	+ Range: Not specified
-	+ Type: Gain/Attenuation control
+    + Range: Not specified
+    + Type: Gain/Attenuation control
 * Inv/Dry/Wet: Controls the mix between the original signal and the processed signal. Note: This is a 3-band wet/dry/wet setup.
-	+ Range: Not specified
-	+ Type: Blend control
+    + Range: Not specified
+    + Type: Blend control
 
 Caveats:
 Be cautious when adjusting controls abruptly, as extreme settings may cause instability. The filters can be sensitive to specific Q factor settings and stacking configurations.

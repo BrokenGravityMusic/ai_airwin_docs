@@ -5,18 +5,18 @@ A digital lo-fi plugin emulating old-sampler style tonalities, designed to add p
 Key Controls and Settings:
 
 * Gain Trim: Adjusts the gain going into a stage of Spiral analog-style saturation
-	+ Type: Analog-style saturation
+    + Type: Analog-style saturation
 * Bitcrush: A hint of bitcrushing that splits into two separate frequency crushers, each set slightly different
-	+ Type: Bitcrushing
+    + Type: Bitcrushing
 * Frequency Crusher 1 & 2: Two separate frequency crushers with distinct settings
-	+ Type: Frequency crushers
+    + Type: Frequency crushers
 * Blend Output Gain: Adjusts the overall output gain and blends the two frequency crusher outputs
-	+ Range: 0% to 100%
-	+ Type: Output gain and blend control
+    + Range: 0% to 100%
+    + Type: Output gain and blend control
 * Dry/Wet: Controls the amount of blend in relation to the original signal
-	+ Type: Blend control
+    + Type: Blend control
 * Averaging Blur: Adds a slight averaging blur to the blend to emulate analog circuitry
-	+ Type: Averaging blur
+    + Type: Averaging blur
 
 Best Use Cases:
 Ideal for adding texture and punch to beats, particularly in genres like hip-hop or electronic music where a coarser, more opaque sound is desired.

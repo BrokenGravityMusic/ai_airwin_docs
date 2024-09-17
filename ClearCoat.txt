@@ -5,11 +5,11 @@ A bright, airy ambiance generator for adding clarity and spatiality to individua
 Key Controls and Settings:
 
 * `Top Slider:` Selects a pre-defined reverb setting (17 options available)
-	+ Range: 1-17
-	+ Type: Setting selection
+    + Range: 1-17
+    + Type: Setting selection
 * `Bottom Slider:` Dry/Wet control (0-100%)
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 
 Caveats:
 May not work as intended at extreme sample rates. SubTight refinement may cause issues if not scaled correctly.

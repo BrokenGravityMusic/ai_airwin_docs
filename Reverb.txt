@@ -5,11 +5,11 @@ A simplified and tuned plugin that simulates an optimum-sized reverb space, adap
 Key Controls and Settings:
 
 * `Size Control:` A single slider that adjusts the "bigness" of the reverb space. Adjusting this control allows for a quick optimization of the reverb size.
-	+ Range: Not specified
-	+ Type: Slider
+    + Range: Not specified
+    + Type: Slider
 * `Dry/Wet Mix:` Controls the balance between the dry (original) signal and the wet (reverberated) signal.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 
 Best Use Cases:
 

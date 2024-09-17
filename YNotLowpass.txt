@@ -5,10 +5,10 @@ A soft and smooth to nasty, edgy texture-varying low-pass filtering plugin.
 Key Controls and Settings:
 
 * `Resonant Edge`: A control that introduces a new way to internally distort filters.
-	+ Lower values result in slightly asymmetrical distortion for warm analog filter sounds.
-	+ Higher values produce aggressive and glitchy sounds similar to circuit bending.
+    + Lower values result in slightly asymmetrical distortion for warm analog filter sounds.
+    + Higher values produce aggressive and glitchy sounds similar to circuit bending.
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 No control smoothing, which may reduce CPU usage.

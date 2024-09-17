@@ -1,13 +1,13 @@
 Key Controls and Settings:
 
 * Compr: Adjusts compression level
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Sharp (Node control): Shifts the delay gap
-	+ Range: Larger values allow deeper sounds to be compressed, smaller values shift cancellation up a little
-	+ Type: [insert text]
+    + Range: Larger values allow deeper sounds to be compressed, smaller values shift cancellation up a little
+    + Type: [insert text]
 * Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

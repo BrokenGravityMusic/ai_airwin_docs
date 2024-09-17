@@ -3,13 +3,13 @@ Highpassed TPDF dither for quieter, airier sound with improved CPU efficiency.
 Key Controls and Settings:
 
 * `Bit Depth:` Switch between 24-bit and 16-bit operation.
-	+ Type: Switch
+    + Type: Switch
 * `DeRez:` Control to adjust the high-pass filtering quality.
-	+ Range: 
-	+ Type: Control
+    + Range: 
+    + Type: Control
 * Highpass Filter: Enables/disables highpass filtering for a smoother sound.
-	+ Range: 
-	+ Type: Switch
+    + Range: 
+    + Type: Switch
 
 Caveats:
 Use with 24-bit audio for optimal results. May affect perceptions of brightness and tonal quality in mixes.

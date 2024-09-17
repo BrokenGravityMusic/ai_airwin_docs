@@ -3,13 +3,13 @@ Isolator2
 Key Controls and Settings:
 
 * `Type`: Select from lowpass, highpass, or shelf filter.
-	+ Range: 
+    + Range: 
 * `Resonance`: Adjusts the amount of resonance added to the filter.
-	+ Range: 
+    + Range: 
 * `Smoothing`: Smooths the filter coefficients for automation and improved movement.
-	+ Range: 
+    + Range: 
 * `Cutoff`: Sets the frequency at which the filter begins to attenuate or boost signals.
-	+ Range: 
+    + Range: 
 
 Best Use Cases:
 Ideal for creating narrow, high-resonance sounds as a "synth filter" tone, or for adding edge to filter sweeps. Suitable for music production and mixing, post-production audio work, such as film and video game sound design.

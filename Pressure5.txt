@@ -5,20 +5,20 @@ A compressor with adjustable vari-mu and 'new york' peak-retaining behaviors, fe
 Key Controls and Settings:
 
 * `Mewiness`: Manages the ratio engagement intensity.
-	+ Range: N/A
-	+ Type: Control
+    + Range: N/A
+    + Type: Control
 * `PawClaw`: Adjusts how 'mewiness' handles transients, allowing for extra squishing on 'Paw' or letting them through more on 'Claw'.
-	+ Range: N/A
-	+ Type: Control
+    + Range: N/A
+    + Type: Control
 * `Speed`: A wide speed range for dense and distorted sounds.
-	+ Range: N/A
-	+ Type: Control
+    + Range: N/A
+    + Type: Control
 * `Output Control`: Boosts into a built-in ClipOnly2 for chunky hard clipping drive.
-	+ Range: N/A
-	+ Type: Boost (with built-in ClipOnly2)
+    + Range: N/A
+    + Type: Boost (with built-in ClipOnly2)
 * `ClipOnly2`: Suppresses brightness of digital clipping without affecting unclipped samples.
-	+ Range: N/A
-	+ Type: Built-in effect
+    + Range: N/A
+    + Type: Built-in effect
 
 Best Use Cases:
 Final buss comp/clip stage for mixing and mastering.

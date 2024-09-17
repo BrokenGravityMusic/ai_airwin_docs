@@ -5,16 +5,16 @@ A highpass filter plugin designed to mimic the sound and behavior of the Emu E64
 Key Controls and Settings:
 
 * `Slope:` Adjusts the steepness of the highpass filter.
-	+ Range: Not specified, but implies a range of options for user adjustment
-	+ Type: Numerical control
+    + Range: Not specified, but implies a range of options for user adjustment
+    + Type: Numerical control
 * `Frequency:` Sets the cutoff frequency of the highpass filter.
-	+ Range: Not specified, but implies a range of frequencies for user selection
-	+ Type: Frequency setting
+    + Range: Not specified, but implies a range of frequencies for user selection
+    + Type: Frequency setting
 * `Q:` Adjusts the resonance or "attack" characteristic of the highpass filter.
-	+ Range: Not specified, but implies a range of options for user adjustment
-	+ Type: Numerical control
+    + Range: Not specified, but implies a range of options for user adjustment
+    + Type: Numerical control
 * `Hard-Clip:` Enables a hard-clipping effect, similar to the original device.
-	+ Range: On/Off toggle
+    + Range: On/Off toggle
 
 Best Use Cases:
 Aggressive filtering and sound design in electronic music genres such as DnB and techno. Creating unique and aggressive sounds for tracks and effects processing.
@@ -27,13 +27,13 @@ Mackity
 Key Controls and Settings:
 
 * `Insert Point:` Plug into halfway to emulate the effects of running audio through the original Mackie 1202.
-	+ Range: Not specified, but implies a range of options for user adjustment
-	+ Type: Numerical control
+    + Range: Not specified, but implies a range of options for user adjustment
+    + Type: Numerical control
 * `Intensity:` Adjusts the level of "spongy slam" and "gleaming brain-fry overload".
-	+ Range: Not specified, but implies a range of options for user adjustment
-	+ Type: Numerical control
+    + Range: Not specified, but implies a range of options for user adjustment
+    + Type: Numerical control
 * `EQ Matching:` Not over-processed, allowing for a more intense and raw sound.
-	+ Range: On/Off toggle
+    + Range: On/Off toggle
 
 Best Use Cases:
 Electronic music production, particularly DnB and underground genres. Adding character to audio tracks by emulating vintage mixer behavior.

@@ -4,9 +4,9 @@ uLawEncode
 Key Controls and Settings:
 
 * Gain control: Adjusts the overall level of the encoded signal.
-	+ Default value: 1.0
+    + Default value: 1.0
 * Wet/Dry control: Controls the amount of encoded signal blended with the original audio.
-	+ Default value: 1.0
+    + Default value: 1.0
 
 Best Use Cases:
 

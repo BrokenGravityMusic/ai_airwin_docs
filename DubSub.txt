@@ -4,17 +4,17 @@ A fully featured bass doctor plugin.
 
 `Key Controls and Settings:`
 * `Treble Grind`: Bass guitar presence circuit with Inverse/Out control for subtracting or adding distortion.
-	+ Controls: Inverse, Out (0-100), Dry/Wet ratio.
+    + Controls: Inverse, Out (0-100), Dry/Wet ratio.
 * `Crossover`: Determines signal split between Treble Grind and bass sections.
-	+ Tip: Set low to make it track bass better.
+    + Tip: Set low to make it track bass better.
 * `Bass Drive`: Adjustable Head Bump control for main bass section.
-	+ Control: Level (0-100).
+    + Control: Level (0-100).
 * `Bass Voicing`: Controls depth of bass boost.
-	+ Control: Level (0-100).
+    + Control: Level (0-100).
 * `Sub Drive`: Adjustable drive control for octave-divided bass section.
-	+ Control: Level (0-100).
+    + Control: Level (0-100).
 * `Sub Voicing`: Controls depth of sub-bass boost.
-	+ Control: Level (0-100).
+    + Control: Level (0-100).
 * `Sub Inv/Out`: Attenuverter for subtracting or adding sub-bass signal.
 
 `Best Use Cases:`

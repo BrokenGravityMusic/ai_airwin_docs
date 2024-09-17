@@ -5,7 +5,7 @@ Feedforward reverb with blur delay and glitch topping capabilities.
 Key Controls and Settings:
 
 * `Thick`: Control for blurriness of echo, also determines the number of delays used (0 = full-length echoes, > 0 = blur delay)
-	+ Adjusting this control while regenerating creates a blur effect that can be swept from direct echo to chamber reverb.
+    + Adjusting this control while regenerating creates a blur effect that can be swept from direct echo to chamber reverb.
 * `Size`: Delay time control
 * `Regeneration`: Amount of regeneration in the reverb network
 

@@ -5,17 +5,17 @@ A distortion plugin that adds grit and crunch to sounds.
 Key Controls and Settings:
 
 * Highpass: Adjusts the high-frequency response of the distortion.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Output Trim: Attenuates or boosts the overall level of the distorted sound.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Dry/Wet: Blends the original and distorted signals for varying degrees of effect.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Drive Amount: Sets the intensity of the distortion, with higher values increasing grit and crunch.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 

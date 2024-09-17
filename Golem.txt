@@ -6,9 +6,9 @@ Key Controls and Settings:
 
 * Input Balancer: Adjusts the relative levels of the left and right channels.
 * Delay Control: Applies a delay to either the left or right channel, allowing for fine-tuned phase relationships between mics. Delay can be inverted or increased in range.
-	+ Range: Option to increase the range of available delays.
+    + Range: Option to increase the range of available delays.
 * Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

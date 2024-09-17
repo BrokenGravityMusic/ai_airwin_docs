@@ -5,16 +5,16 @@ A dual-mono reverb plugin that utilizes BitShiftGain and Midiverb's algorithm to
 Key Controls and Settings:
 
 * Sample Rate: High sample rate capability for accurate sound at 96k or 192k.
-	+ Type: Configuration
+    + Type: Configuration
 * Bright Control: Configurable highs roll-off using bit shifts, allowing for varying degrees of brightness (0-100%).
-	+ Range: 0% to 100%
-	+ Type: Bit shift control
+    + Range: 0% to 100%
+    + Type: Bit shift control
 * Feedback: Regeneration control with options for full, 1/2, 1/4, 1/8, and 1/16 level regenerations.
-	+ Range: Full, 1/2, 1/4, 1/8, 1/16
-	+ Type: Bit shift regeneration
+    + Range: Full, 1/2, 1/4, 1/8, 1/16
+    + Type: Bit shift regeneration
 * Allpass Filter Count: 26 allpasses with different increasing prime lengths.
-	+ Range: 1 to 26
-	+ Type: Configuration
+    + Range: 1 to 26
+    + Type: Configuration
 
 Caveats:
 Undersampling for high sample rates may affect plugin performance.

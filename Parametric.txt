@@ -4,9 +4,9 @@ The Low Mid band extends into the bass.
 Key Controls and Settings:
 
 * Three bands of EQ, each with frequency, gain, and bandwidth controls.
-	+ Frequency control: Adjusts the center frequency of each band.
-	+ Gain control: Boosts or cuts the level of each band.
-	+ Bandwidth control: Tightens or widens the resonance of each filter.
+    + Frequency control: Adjusts the center frequency of each band.
+    + Gain control: Boosts or cuts the level of each band.
+    + Bandwidth control: Tightens or widens the resonance of each filter.
 
 Best Use Cases:
 Detailed tone shaping for individual tracks or submixes. Adding energy and power around dynamics to enhance the overall sound.

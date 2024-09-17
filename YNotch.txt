@@ -5,10 +5,10 @@ Key Controls and Settings:
 * `ResEdge`: A smoothing control that can be lowered to 0 for a softer tone or turned up for more edge. Defaults to 0.1.
 * `Frequency`: Sets the filter frequency, ranging from "zero" to "one", acting like DC to Nyquist at any sample rate.
 * `Filter Type`: Selects one of four common biquad options:
-	+ Lowpass
-	+ Highpass
-	+ Bandpass
-	+ Notch
+    + Lowpass
+    + Highpass
+    + Bandpass
+    + Notch
 * `Resonance`: A control that can be used to dial in an extreme low or high cut, as well as adjust the sharpness or dullness of the filter edge.
 * `Mix:` A blend control for mixing the processed sound with the original
 

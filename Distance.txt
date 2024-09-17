@@ -5,7 +5,7 @@ Simulates high frequency attenuation through air, creating a sense of distance o
 Key Controls and Settings:
 
 * `Dry/Wet Control:` Adjusts the balance between the original signal and the plugin's effect, ranging from 0 (dry) to 100 (wet).
-	+ Turning up the Dry/Wet control increases the plugin's impact on the sound.
+    + Turning up the Dry/Wet control increases the plugin's impact on the sound.
 * 
 Caveats:
 Not suitable for mastering or 2-buss applications due to intense coloration. Best used in creative mixing contexts.

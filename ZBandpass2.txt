@@ -7,17 +7,17 @@ Emulates a bandpass filter with coefficient interpolation, similar to the Emu e6
 Key Controls and Settings:
 
 * `Gain:` Adjusts the overall gain of the plugin.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * `Output Level:` Sets the output level, useful for padding the signal if needed. 0.1 gives unity gain.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * `Input Level:` Sets the input level to prevent excessive gain or distortion.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * `Coefficient Interpolation:` Enables or disables coefficient interpolation for smoother performance.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 
 Caveats:
 May introduce distortion and zipper noise, especially when run at high levels.

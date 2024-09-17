@@ -5,8 +5,8 @@ A clean amp simulator intended to produce a high-powered sound reminiscent of a 
 Key Controls and Settings:
 
 * `EQ`: A wide-range equalizer that can be rolled off significantly, with the ability to make the sound extra bright and spiky.
-	+ Range: Not specified
-	+ Type: Three-band EQ
+    + Range: Not specified
+    + Type: Three-band EQ
 * `Mix:` None (use as separate plugin)
 
 Best Use Cases:

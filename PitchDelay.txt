@@ -16,8 +16,8 @@ A pitch-shifting version of TapeDelay2, with a fixed pitch shift instead of flut
 Key Controls and Settings:
 
 * `Pitch Shift:` controls the amount of pitch shifting
-	+ Shifting up creates shrill, crazy sounds
-	+ Shifting down can drop pitch to nothing or create reverse buffer looping effects
+    + Shifting up creates shrill, crazy sounds
+    + Shifting down can drop pitch to nothing or create reverse buffer looping effects
 * `Regeneration:` controls the amount of feedback and can be set to total feedback in a usable way
 * `Filter (from TapeDelay2):` shapes the overall tone and resonance
 * `Dry/Wet Mix:` adjusts the level of pitch-shifted sound relative to the original sound

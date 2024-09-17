@@ -2,8 +2,8 @@ A seven-stage ultrasonic filter designed to be used at high sample rates (e.g. 9
 
 Key Controls and Settings:
 * Stage A-G: Seven stages of filtering, each with its own resonance value that can be adjusted.
-	+ Type: Filter
-	+ Range: Adjustable resonance values for each stage
+    + Type: Filter
+    + Range: Adjustable resonance values for each stage
 * Mix: Placement across multiple stages is recommended
 
 Best Use Cases:

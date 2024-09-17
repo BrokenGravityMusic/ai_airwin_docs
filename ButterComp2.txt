@@ -5,17 +5,17 @@ A four-way compressor plugin that uses interleaved compressors to modify both po
 Key Controls and Settings:
 
 * Output Level Control: Adjusts the overall compression effect.
-	+ Range: 
-	+ Type: Gain adjustment
+    + Range: 
+    + Type: Gain adjustment
 * Dry/Wet Mix: Blends the compressed signal with the original input signal.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * Release Modification: Slows the release when the signal is hot, adjustable on a sample-by-sample basis.
-	+ Range: 
-	+ Type: Time adjustment
+    + Range: 
+    + Type: Time adjustment
 * Interleaved Compressors: Four compressors working in parallel to modify both positive and negative waveform components.
-	+ Range: 
-	+ Type: On/off switch
+    + Range: 
+    + Type: On/off switch
 
 Best Use Cases:
 Ideal for ambiences and reverb tails, where the plugin's ability to balance waveforms and soak up treble detail will enhance the overall sound. Also suitable for glueing tracks together or reshaping tonal balances.

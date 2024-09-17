@@ -5,9 +5,9 @@ A VST plugin that simulates guitar amp and distortion effects.
 Key Controls and Settings:
 
 * Color Intensity: Adjusts the strength of the simulated color effect.
-	+ Range: 0-100
+    + Range: 0-100
 * Distortion Amount: Controls the amount of distortion applied to the signal.
-	+ Range: 0-100
+    + Range: 0-100
 
 Best Use Cases:
 Ideal for adding color or simulation to audio signals, or for distorting audio in music production.

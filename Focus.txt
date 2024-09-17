@@ -3,16 +3,16 @@ A plugin for enhancing mix clarity by targeting specific frequency ranges.
 Key Controls and Settings:
 
 * Focus: controls the bandpass filtering and distortion
-	+ Range: low values result in broad-based overdrive, higher values narrow the distortion band
-	+ Type: bandpass filter
+    + Range: low values result in broad-based overdrive, higher values narrow the distortion band
+    + Type: bandpass filter
 * Output Level: sets the output level of the distorted signal
-	+ Range: adjustable
-	+ Type: gain control
+    + Range: adjustable
+    + Type: gain control
 * Dry/Wet: blends the original and distorted signals
-	+ Range: 0% to 100%
-	+ Type: mix control
+    + Range: 0% to 100%
+    + Type: mix control
 * Distortion Algorithm: selects from five different algorithms (Density, Drive, Spiral, Mojo, Dyno)
-	+ Options: five distortion types
+    + Options: five distortion types
 
 Caveats:
 Focus is not an EQ; it's a tool for enhancing mix clarity by targeting specific frequency ranges. High Focus settings can result in saturated midrange tones.

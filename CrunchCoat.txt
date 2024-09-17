@@ -6,11 +6,11 @@ A digital reverb that takes the ClearCoat bright ambience reverb into unknown te
 Key Controls and Settings:
 
 * `Undersample Rate`: Reduces sample rate from original to approximately 40 Hz.
-	+ Range: Adjustable
-	+ Type: Undersampling
+    + Range: Adjustable
+    + Type: Undersampling
 * `Interpolation Method`: Sets the interpolation method for the waveform (straight lines between points).
-	+ Range: Selectable options
-	+ Type: Interpolation mode
+    + Range: Selectable options
+    + Type: Interpolation mode
 
 Caveats:
 Undersampling may introduce "square-wavey" or pointy waveform distortion. Input filtering is primitive, adding color and texture but potentially producing soft waves or spikes.

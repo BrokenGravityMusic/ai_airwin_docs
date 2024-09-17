@@ -3,14 +3,14 @@ A plugin that simulates a classic iron oxide tone.
 Key Controls and Settings:
 
 * `Input Trim`: Adjusts the signal level entering the plugin.
-	+ Range: N/A
-	+ Type: Gain control
+    + Range: N/A
+    + Type: Gain control
 * `IPS Control`: Controls the plugin's tone shaping.
-	+ Range: N/A
-	+ Type: Tone-shaping control
+    + Range: N/A
+    + Type: Tone-shaping control
 * `Output Trim`: Adjusts the signal level exiting the plugin.
-	+ Range: N/A
-	+ Type: Gain control
+    + Range: N/A
+    + Type: Gain control
 
 Best Use Cases:
 Ideal for making electronic music that requires clean handling of synthetic tones, or for those who prefer a grunge-free sound.

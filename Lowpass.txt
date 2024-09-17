@@ -6,11 +6,11 @@ Key Controls and Settings:
 
 * Cutoff: Controls the frequency at which the rolloff occurs.
 * Soft/Hard (or Loose/Tight): A unique parameter that controls how the IIR filters are fed audio. Adjusting this parameter can alter the tone-character modification, providing two different textures at deeper cut settings.
-	+ Range: Center position has no effect; offset from center changes tone-character modification.
-	+ Type: Interleaved IIR filter design.
+    + Range: Center position has no effect; offset from center changes tone-character modification.
+    + Type: Interleaved IIR filter design.
 * Dry/Wet: Allows you to blend the original and processed signals.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 
 Best Use Cases:
 Ideal for adding depth and coloration to huge synth pads or orchestral tracks. Also useful for texture shaping in various musical contexts.

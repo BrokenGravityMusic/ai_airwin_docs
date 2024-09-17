@@ -5,14 +5,14 @@ A digital ambience/echo plugin adapted to high sample rates, producing a series 
 Key Controls and Settings:
 
 * `Delay Time:` Adjusts the duration of the echoes. Can range from short, crisp delays to stretched textures.
-	+ Default: 100ms
-	+ Range: 10ms to 1s
+    + Default: 100ms
+    + Range: 10ms to 1s
 * `Granularity:` Controls the texture and graininess of the delay line.
-	+ Default: Medium
-	+ Range: Fine to Coarse
+    + Default: Medium
+    + Range: Fine to Coarse
 * `Widen:` Allows for stereo widening, expanding the soundstage.
-	+ Default: Off
-	+ Options: On or Off
+    + Default: Off
+    + Options: On or Off
 
 Best Use Cases:
 Ideal for creating distinctive, otherworldly sounds and textures. Suitable for ambient, experimental, and electronic music productions where a unique sound is desired.

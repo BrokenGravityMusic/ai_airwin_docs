@@ -5,11 +5,11 @@ A utility that swaps Left and Right channels every few minutes, sweeping them ac
 Key Controls and Settings:
 
 * `Swap Interval`: Set the number of minutes between swaps (1-10)
-	+ Range: 1-10 minutes
-	+ Type: Time interval control
+    + Range: 1-10 minutes
+    + Type: Time interval control
 * `Sweep Time`: Adjust the time taken for the swap operation (~0.1 seconds)
-	+ Range: Approximately 0.1 seconds
-	+ Type: Time duration control
+    + Range: Approximately 0.1 seconds
+    + Type: Time duration control
 
 Best Use Cases:
 Ideal for solo artists, musicians, or sound designers who want to check the balance of their audio material by flipping channel assignments.

@@ -6,9 +6,9 @@ Key Controls and Settings:
 
 * `Input Level`: Adjusts the input gain of the plugin. Range: -∞ to +6 dB.
 * `Filter Type`: Selects from different filter types (e.g., Butterworth, Chebyshev) for tone shaping. Options:
-	+ Range: 20 Hz to 20 kHz.
+    + Range: 20 Hz to 20 kHz.
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Drive (knob):` Add drive to the filtered signal.
 
 Caveats:

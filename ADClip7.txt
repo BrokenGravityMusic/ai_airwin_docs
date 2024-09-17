@@ -8,9 +8,9 @@ Key Controls and Settings:
 * `Soften Control`: Manages high frequencies to prevent digital glare and fizz, balances energy-fill algorithms for bass and highs.
 * `Enhance Control`: Lets you switch between "analog clip" energy and added reinforcements.
 * `Mode Selector (popup or multi-function control)`:
-	+ `Normal Mode`: Boost makes things louder; Soften manages high frequencies to prevent digital glare and fizz.
-	+ `Gain-Matched Mode`: Used for setting the slam level or suppressing intersample peaks.
-	+ `Clip Only Mode`: Combines algorithm outputs at their respective loudnesses, with Softness and Enhance levels controllable.
+    + `Normal Mode`: Boost makes things louder; Soften manages high frequencies to prevent digital glare and fizz.
+    + `Gain-Matched Mode`: Used for setting the slam level or suppressing intersample peaks.
+    + `Clip Only Mode`: Combines algorithm outputs at their respective loudnesses, with Softness and Enhance levels controllable.
 
 Best Use Cases:
 

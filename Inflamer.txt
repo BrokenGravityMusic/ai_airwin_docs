@@ -1,12 +1,12 @@
 Key Controls and Settings:
 
 * `Drive`: Adjusts the drive level using bit shifts (very accurate divisions by powers of 2). 
-	+ Range: 0 to 6 dB, stepped increments.
-	+ Control method: Adjust in 6 dB steps.
+    + Range: 0 to 6 dB, stepped increments.
+    + Control method: Adjust in 6 dB steps.
 * `Effect`: A dry/wet control that blends the two waveshapers. 
-	+ Range: -∞ to +∞, continuous adjustments.
+    + Range: -∞ to +∞, continuous adjustments.
 * `Curve`: Adjusts the blend between two simple waveshapers, with a range from 0 to 1 and stepped increments of 0.2 (effectively 6 dB steps). Note that some settings may result in a slight volume drop when used at unity gain.
-	+ Control method: Select a value between 0 and 1.
+    + Control method: Select a value between 0 and 1.
 
 Best Use Cases:
 

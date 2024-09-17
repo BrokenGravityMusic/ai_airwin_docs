@@ -5,9 +5,9 @@ A tone shaper and buss soft-clipper that applies a unique EQ behavior and satura
 Key Controls and Settings:
 
 * Hardness: A slider that defines the onset of clipping, allowing you to control the "fatness" of the saturation effect (0-100)
-	+ Adjusting this control affects the tonal parameter.
+    + Adjusting this control affects the tonal parameter.
 * Personality: A parameter that adds dynamic behavior to the tone shaper (0-100)
-	+ This control allows for manipulation of the treble-restricting EQ behavior, based on brickwall filter data set.
+    + This control allows for manipulation of the treble-restricting EQ behavior, based on brickwall filter data set.
 
 Best Use Cases:
 Ideal for adding a unique EQ flavor and saturation effect to audio signals, particularly in buss processing. Suitable for applications where a specific tonal parameter is desired.

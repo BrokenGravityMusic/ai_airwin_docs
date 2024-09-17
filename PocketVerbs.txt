@@ -5,16 +5,16 @@ A reverb plugin with multiple rooms to switch between, including chambers, rooms
 Key Controls and Settings:
 
 * `Feedback`: Adjusts the regeneration amount.
-	+ Can do full, 1/2, 1/4, 1/8, and 1/16 level regenerations.
-	+ Sets the feedback and uses the bit shift amount nearest below the setting.
+    + Can do full, 1/2, 1/4, 1/8, and 1/16 level regenerations.
+    + Sets the feedback and uses the bit shift amount nearest below the setting.
 * Reverb Type:
-	+ Chambers
-	+ Rooms
-	+ Springs
-	+ PaulStretch-type effect
-	+ Zarathustra (dark, distant, vast)
+    + Chambers
+    + Rooms
+    + Springs
+    + PaulStretch-type effect
+    + Zarathustra (dark, distant, vast)
 * `Gating effect`:
-	+ Can be used to create a "gated reverb" effect
+    + Can be used to create a "gated reverb" effect
 
 Best Use Cases:
 Ideal for creating unique and spacey reverbs, adding depth and space to individual tracks or submixes, creating unique drum sounds with the gating effect, and experimenting with unconventional effects using the PaulStretch-like algorithm.

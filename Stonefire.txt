@@ -3,17 +3,17 @@ Stonefire
 Key Controls and Settings:
 
 * `Air:` 
-	+ Use like in Air3; can cut back super-highs for a natural effect or boost for a sparkly aura
-	+ Custom algorithm for high sample rates
+    + Use like in Air3; can cut back super-highs for a natural effect or boost for a sparkly aura
+    + Custom algorithm for high sample rates
 * `Fire:` 
-	+ Use as an attitude knob and midrange control
-	+ Boost for attention-grabbing sounds
-	+ Crossover with Stone: only one can be louder
+    + Use as an attitude knob and midrange control
+    + Boost for attention-grabbing sounds
+    + Crossover with Stone: only one can be louder
 * `Stone:` 
-	+ Use like the bedrock of your sound
-	+ Lean on it for a heavy, sputtering foundation
-	+ Cut to control unwieldy bass or add weight without adding 'bass boost'
-	+ Range control adjusts tone and presentation
+    + Use like the bedrock of your sound
+    + Lean on it for a heavy, sputtering foundation
+    + Cut to control unwieldy bass or add weight without adding 'bass boost'
+    + Range control adjusts tone and presentation
 
 Best Use Cases:
 Use Air like in Air3; balance Fire and Stone controls for tone shaping; dial Range control to match desired sound characteristics.

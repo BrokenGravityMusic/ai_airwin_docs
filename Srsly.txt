@@ -3,8 +3,8 @@ A psychoacoustic stereo processor, similar in effect to a Hughes SRS processor.
 Key Controls and Settings:
 
 * `Q control:` adjusts the effectiveness of the processor
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Caveats:
 May not accurately replicate the sound of a real Hughes SRS processor.

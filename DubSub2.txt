@@ -3,13 +3,13 @@ A plugin that mimics the sound of a tape machine head bump, with a unique IIR fi
 Key Controls and Settings:
 
 * `Head Bump Frequency`: Set to control the frequency of the head bump notch.
-	+ Range: Not specified
-	+ Type: 
+    + Range: Not specified
+    + Type: 
 * `Bandpass Resonance Q`: Use the golden ratio (approximately 1.618) for optimal results in creating a consistent head bump sound like real analog tape machines.
-	+ Range: Not specified
-	+ Type: 
+    + Range: Not specified
+    + Type: 
 * `Stacked Bandpasses`: Adjust the resonance and Q values for the bandpasses to achieve desired tone and rejection of unwanted DC energy.
-	+ Note: Requires careful adjustment to avoid phase shifting and cancellation around the bandpass frequency.
+    + Note: Requires careful adjustment to avoid phase shifting and cancellation around the bandpass frequency.
 
 Caveats:
 The algorithm can be unstable, prone to growl or distortion if not controlled properly. 

@@ -5,11 +5,11 @@ A plugin that tracks the trajectory of a waveform (over five samples) to heighte
 Key Controls and Settings:
 
 * `Cojones`: Boosts or reduces the disparity in waveforms.
-	+ Adjusting this control will affect the overall sound quality.
+    + Adjusting this control will affect the overall sound quality.
 * `Breathy`: Adds a three-sample effect similar to Dither Me Timbers and StudioTan.
-	+ This control can be used to add energy to transients and attacks.
+    + This control can be used to add energy to transients and attacks.
 * `Body`: Controls bass and low mids, beefing them up or cutting them out.
-	+ This control can be used to adjust the balance of low frequencies.
+    + This control can be used to adjust the balance of low frequencies.
 
 Best Use Cases:
 * Add Cojones to your mix or master bus for a distinctive midrangey sonority.

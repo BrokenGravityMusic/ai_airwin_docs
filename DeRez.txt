@@ -6,9 +6,9 @@ Analog-style bit and sample rate crusher with continuous adjustments.
 Key Controls and Settings:
 
 * `Frequency`: Control for continuously sweeping sample-rate crushing
-	+ To adjust: Slide the control down to change the frequency
+    + To adjust: Slide the control down to change the frequency
 * `Resolution`: Control for continuously sweeping bit crushing
-	+ To adjust: Slide the control down to change the resolution
+    + To adjust: Slide the control down to change the resolution
 * `Bit Crunching Algorithm`: A floating-point algorithm at high resolution, which can sweep through any size of 'bit' without transition points
 
 

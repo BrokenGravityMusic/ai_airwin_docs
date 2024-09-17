@@ -6,8 +6,8 @@ Key Controls and Settings:
 
 * `Level:` Adjusts the overall gain.
 * `Blend:` A crossfade control that transitions between Channel 6 (Spiral) and Channel 5 (Density) algorithms, affecting the amount of saturation and fatness added to the sound.
-	+ Up to 100%: Same as Channel 6, with improved slew clipping.
-	+ From 100% to 200%: Fades into Channel 5's Density algorithm.
+    + Up to 100%: Same as Channel 6, with improved slew clipping.
+    + From 100% to 200%: Fades into Channel 5's Density algorithm.
 
 Best Use Cases:
 Ideal for situations where a balance between clean, saturated, and fat sounds is desired. Perfect for upgrading from previous Channel plugins.

@@ -5,20 +5,20 @@ A compressor plugin that uses different math (squaring the input signal) and han
 Key Controls and Settings:
 
 * Threshold: Adjusts the level above which compression occurs.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Ratio: Determines the amount of compression applied.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Attack: Time it takes for compression to kick in after a transient.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Release: Time it takes for compression to return to normal after a transient has passed.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Input Method: Can use either the signal alone or its square, changing the plugin's behavior.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 Suitable for compressing signals where brief transients need special handling. May be used as an alternative to Pressure or other compressors for unique sound characteristics.

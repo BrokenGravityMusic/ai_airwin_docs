@@ -5,23 +5,23 @@ Converts the plugin's output to an 8-channel submix, bus or aux topology with an
 Key Controls and Settings:
 
 * Channel/Bus: Selects the destination for the converted output (submix, bus, or aux).
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Analog Simulation:
-	+ Enabled by default
-	+ Various parameters available for adjustment within this plugin.
+    + Enabled by default
+    + Various parameters available for adjustment within this plugin.
 * Mix Bus Topology:
-	+ Selects the type of bus topology (e.g., channel, submix, buss) for processing.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Selects the type of bus topology (e.g., channel, submix, buss) for processing.
+    + Range: [insert text]
+    + Type: [insert text]
 * Analog Simulation Level:
-	+ Adjusts the intensity of the analog simulation effect.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Adjusts the intensity of the analog simulation effect.
+    + Range: [insert text]
+    + Type: [insert text]
 * Bus Size:
-	+ Sets the number of channels in the simulated bus.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Sets the number of channels in the simulated bus.
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 

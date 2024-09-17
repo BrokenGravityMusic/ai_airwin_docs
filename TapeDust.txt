@@ -5,7 +5,7 @@ A specialty plugin that adds treble-erode noise, specifically designed for creat
 Key Controls and Settings:
 
 * `Level`: Adjusts the overall level of the noise.
-	+ Note: The plugin is sensitive to the type of signal being processed. Cranking up the Level may produce unexpected results.
+    + Note: The plugin is sensitive to the type of signal being processed. Cranking up the Level may produce unexpected results.
 * `Drive Control`: Boosts the noise level; turn up for more slam and dirt
 * `Slew Rate/Slew`: Controls how aggressively the noise hits high frequencies or rapidly moving signals.
 

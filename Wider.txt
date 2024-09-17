@@ -5,13 +5,13 @@ A stereo space adjuster that manipulates the mid and side channels using the Den
 Key Controls and Settings:
 
 * `Mid Boost/Cut`: Adjusts the level of the mid channel, boosting or cutting it to affect its position in space.
-	+ Range: 0.1-10 dB
-	+ Type: Uses the Density algorithm
+    + Range: 0.1-10 dB
+    + Type: Uses the Density algorithm
 * `Side Boost/Cut`: Adjusts the level of the side channel, similarly affecting its position in space.
-	+ Range: 0.1-10 dB
-	+ Type: Uses the Density algorithm
+    + Range: 0.1-10 dB
+    + Type: Uses the Density algorithm
 * `Time Delay and Interpolation`: A small delay (down to sub-sample) applied to the least forward mid or side channel, causing a delicate roll-off and spatial adjustment.
-	+ Range: Sub-sample resolution
+    + Range: Sub-sample resolution
 
 Best Use Cases:
 Redesigning stereo soundfields, making tiny corrections to enhance transparency, and transforming sources in a convincing and musical way.

@@ -3,11 +3,11 @@ A flexible reverb plugin with filter controls and acoustic space simulation.
 Key Controls and Settings:
 
 * `Filter Controls:` 
-	+ Low-pass filter: controls low-end frequency response
-	+ High-pass filter: controls high-end frequency response
+    + Low-pass filter: controls low-end frequency response
+    + High-pass filter: controls high-end frequency response
 * `Acoustic Space Simulation:`
-	+ Space size: sets room size and ambiance
-	+ Reverb time: sets decay time of reverb
+    + Space size: sets room size and ambiance
+    + Reverb time: sets decay time of reverb
 * `Sample Rate:` sets buffer length based on sample rate (44.1K, 48K, 88.2K, or 96K)
 
 Best Use Cases:

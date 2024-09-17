@@ -3,8 +3,8 @@ YLowpass
 A low-pass filter plugin with interpolated coefficients, reducing zipper noise, and double ultrasonic filtering.
 
 * `Resonant Edge`: Adjusts the internal distortion of filters, affecting sound warmth and edginess. Normal position is around 0.1.
-	+ Less than normal: Produces a slightly asymmetrical distortion for warm analog filter sounds.
-	+ Greater than normal: Allows for more aggressive, glitchy sounds.
+    + Less than normal: Produces a slightly asymmetrical distortion for warm analog filter sounds.
+    + Greater than normal: Allows for more aggressive, glitchy sounds.
 * `Filter Cutoff`: Sets the low-pass filter cutoff frequency.
 * `Gain`: Adjusts the overall gain of the plugin.
 

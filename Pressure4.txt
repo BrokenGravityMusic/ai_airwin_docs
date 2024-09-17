@@ -7,11 +7,11 @@ A compressor adjustable between vari-mu and 'new york' peak-retaining behaviors.
 Key Controls and Settings:
 
 * `µ-iness control:` Adjusts the compressive behavior, allowing for a range of dynamic effects.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Speed control:` Changes the rate at which the compressor responds to audio input, affecting texture and tone.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Linked stereo mode:` A special mode that uses diade bridges in hardware compressors to create a natural and fluid compression effect.
 
 

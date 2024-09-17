@@ -5,7 +5,7 @@ A compressor with curve-style compression and phase rotators, designed to emulat
 Key Controls and Settings:
 
 * `Compressors:` 5 curve-like compressors in series
-	+ Adjust the individual compressor settings to shape the overall compression response.
+    + Adjust the individual compressor settings to shape the overall compression response.
 * Dry/Wet control: Allows adjustment of the compressed signal's blend with the original input
 
 Best Use Cases:

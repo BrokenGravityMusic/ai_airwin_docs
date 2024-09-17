@@ -5,14 +5,14 @@ A special buss compressor with no threshold point that uses a high-resolution si
 Key Controls and Settings:
 
 * `Gain Boost`: A 6dB clean boost that doubles the gain for medium signal levels.
-	+ Range: Up to 6dB
-	+ Type: Clean gain adjustment based on signal level
+    + Range: Up to 6dB
+    + Type: Clean gain adjustment based on signal level
 * `Clipper`: An output clipper to prevent transient attacks from poking out.
-	+ Range: On/Off
-	+ Type: Optional output limiter
+    + Range: On/Off
+    + Type: Optional output limiter
 * `Stereo Linking`: Allows for true (linked) stereo operation.
-	+ Range: On/Off
-	+ Type: True stereo processing
+    + Range: On/Off
+    + Type: True stereo processing
 
 Best Use Cases:
 * Mixing into the compressor as a buss-comp or limiter form for maximum explosiveness and impressiveness.

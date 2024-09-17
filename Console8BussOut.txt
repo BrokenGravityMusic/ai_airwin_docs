@@ -1,13 +1,13 @@
 Key Controls and Settings:
 
 * `Topology:` Choose the desired topology for the plugin's output (channel, submix, or buss)
-	+ Type: Channel/Submix/Buss
+    + Type: Channel/Submix/Buss
 * `Analog Simulation:` Select from various analog simulation modes (e.g. preamp, EQ, compressor) to add depth to your sound
-	+ Range: N/A
-	+ Type: Analog Simulation type
+    + Range: N/A
+    + Type: Analog Simulation type
 * Gain Staging: Adjust the gain level of the simulated signal
-	+ Range: N/A
-	+ Type: Gain Staging
+    + Range: N/A
+    + Type: Gain Staging
 
 Best Use Cases:
 

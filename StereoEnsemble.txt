@@ -5,17 +5,17 @@ Simulates stereo imaging by adding echoes with time offsets between left and rig
 Key Controls and Settings:
 
 * `Input Type:` [mono or stereo] selection to choose the type of input
-	+ Range: N/A
-	+ Type: Selection
+    + Range: N/A
+    + Type: Selection
 * `Delay Time (left):` Adjusts the time offset for left channel echoes
-	+ Range: unknown
-	+ Type: unknown
+    + Range: unknown
+    + Type: unknown
 * `Delay Time (right):` Adjusts the time offset for right channel echoes
-	+ Range: unknown
-	+ Type: unknown
+    + Range: unknown
+    + Type: unknown
 * `Ensemble Level:` Controls the overall level of ensemble-y goodness added to the input signal
-	+ Range: N/A
-	+ Type: unknown
+    + Range: N/A
+    + Type: unknown
 
 Best Use Cases:
 Ideal for music producers seeking a vintage-inspired ensemble sound with precise stereo control, such as in mixing and mastering applications.

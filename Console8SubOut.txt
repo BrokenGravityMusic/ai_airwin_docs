@@ -4,24 +4,24 @@ Console8SubOut
 Key Settings and Controls:
 
 * Ultrasonic filtering: Enabled at 24k sample rate
-	+ Range: switches off at lower sample rates
-	+ Type: toggle (enabled/disabled)
+    + Range: switches off at lower sample rates
+    + Type: toggle (enabled/disabled)
 * Distributed highpass filtering:
-	+ Emulation of real analog gear: enabled/disabled toggle
-	+ Range: none specified
-	+ Type: toggle (enabled/disabled)
+    + Emulation of real analog gear: enabled/disabled toggle
+    + Range: none specified
+    + Type: toggle (enabled/disabled)
 * Distributed treble softening:
-	+ Gradiated effect across the mix topology
-	+ Range: adjustable via gain staging
-	+ Type: control with adjustable gain
+    + Gradiated effect across the mix topology
+    + Range: adjustable via gain staging
+    + Type: control with adjustable gain
 * Wordlength reducer:
-	+ Hybrid mode combining Ten Nines process and Airwindows Dark
-	+ Range: 24-bit mode only
-	+ Type: toggle (enabled/disabled)
+    + Hybrid mode combining Ten Nines process and Airwindows Dark
+    + Range: 24-bit mode only
+    + Type: toggle (enabled/disabled)
 * Faders on ChannelOut, SubOut, and BussOut:
-	+ 0.5 as unity gain reference point
-	+ Fade down to zero at levels below 0.5
-	+ Boosts by approximately 12dB at levels above 0.5 (channel and submixes)
+    + 0.5 as unity gain reference point
+    + Fade down to zero at levels below 0.5
+    + Boosts by approximately 12dB at levels above 0.5 (channel and submixes)
 
 Caveats:
 

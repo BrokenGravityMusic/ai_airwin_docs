@@ -5,17 +5,17 @@ Emulates a high-pass filter with coefficient interpolation, mimicking the behavi
 Key Controls and Settings:
 
 * `Input`: Set to 0.1 for unity gain, adjust as needed.
-	+ Range: Adjust input level
-	+ Type: Input level control
+    + Range: Adjust input level
+    + Type: Input level control
 * `Output`: Pad or amplify the signal using this control.
-	+ Range: Vary output level
-	+ Type: Output level control
+    + Range: Vary output level
+    + Type: Output level control
 * `Wet Control` (Highpass Frequency): Emulate a high-pass filter with coefficient interpolation.
-	+ Range: Adjust cutoff frequency
-	+ Type: Highpass filter cutoff control
+    + Range: Adjust cutoff frequency
+    + Type: Highpass filter cutoff control
 * `Gain and Distortion`: Set high for aggressive filtering.
-	+ Range: Vary gain and distortion
-	+ Type: Gain and distortion control
+    + Range: Vary gain and distortion
+    + Type: Gain and distortion control
 
 Caveats:
 Uninitialized variable in previous version fixed. Keep input and output levels low to avoid excessive distortion.

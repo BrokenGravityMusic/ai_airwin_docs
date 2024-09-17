@@ -3,8 +3,8 @@ Console7
 Key Controls and Settings:
 
 * `Gain Control:` Default to 0.772 (unity gain), flexible staging allows pushing channels into the red while maintaining a smooth sound
-	+ Range: -96 dB to +3 dB
-	+ Type: Fader control
+    + Range: -96 dB to +3 dB
+    + Type: Fader control
 * `Mixing:` Channels now have dedicated seed values for dithering, each producing unique noise; ultrasonic filtering removes aliasing at every stage of processing
 
 Best Use Cases:

@@ -3,7 +3,7 @@ BiquadOneHalf
 Key Controls and Settings:
 
 * Set the frequency twice as high as you would using Biquad.
-	+ Frequency range: up to 1/4 Nyquist (dependent on sampling frequency)
+    + Frequency range: up to 1/4 Nyquist (dependent on sampling frequency)
 * Best used for filtering in bass or midrange frequencies.
 
 Best Use Cases:

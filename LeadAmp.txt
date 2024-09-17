@@ -6,8 +6,8 @@ Key Controls and Settings:
 
 * `Highpass Filter:` Sets the high-frequency boost or cut to taste.
 * Gain Stages:
-	+ Cascading gain stages with ultrasonic filtering between them.
-	+ Ultrasonic filtering can be tuned to suppress aliasing at low sample rates (96k recommended).
+    + Cascading gain stages with ultrasonic filtering between them.
+    + Ultrasonic filtering can be tuned to suppress aliasing at low sample rates (96k recommended).
 * Cab Simulator: Dynamically convolved, truncated tone color.
 
 Best Use Cases:

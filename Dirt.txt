@@ -3,14 +3,14 @@ A soft-clip distortion with a softer clip than Edge, designed for use with ITB g
 Key Controls and Settings:
 
 * Highpass: Adjusts the high-frequency cutoff of the input signal.
-	+ Range: 25k to deep bass
-	+ Type: Hypersonic-style filter
+    + Range: 25k to deep bass
+    + Type: Hypersonic-style filter
 * Lowpass: Sets the low-frequency cutoff of the output signal, also functions as an ultrasonic filter to reduce aliasing.
-	+ Range: 25k down to deep bass
-	+ Type: Hypersonic-style filter
+    + Range: 25k down to deep bass
+    + Type: Hypersonic-style filter
 * Gain: Controls the overall gain of the distortion effect.
-	+ Range: unknown
-	+ Type: unknown
+    + Range: unknown
+    + Type: unknown
 * Output and Dry/Wet: Used for blending the distorted signal with the original.
 
 Caveats:

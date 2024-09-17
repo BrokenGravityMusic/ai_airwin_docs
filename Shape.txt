@@ -3,13 +3,13 @@ Shape
 Key Controls and Settings:
 
 * Shape control:
-	+ 0.5: no effect
-	+ 1.0: stretching out the peaks of the waveform
-	+ 0.0: squishing the peaks of the waveform
+    + 0.5: no effect
+    + 1.0: stretching out the peaks of the waveform
+    + 0.0: squishing the peaks of the waveform
 * Offset control:
-	+ 0.5: no offset
-	+ 0.0: negative offset
-	+ 1.0: positive offset
+    + 0.5: no offset
+    + 0.0: negative offset
+    + 1.0: positive offset
 
 Best Use Cases:
  

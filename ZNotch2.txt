@@ -8,11 +8,11 @@ Key Controls and Settings:
 
 
 * Coefficient Interpolation: A feature that allows for smooth movement of the filter's coefficients.
-	+ Range: N/A
-	+ Type: [insert type]
+    + Range: N/A
+    + Type: [insert type]
 * Filter Type: selects the type of notch filter (e.g. low-pass, high-pass)
-	+ Range: N/A
-	+ Type: N/A
+    + Range: N/A
+    + Type: N/A
 
 Best Use Cases:
 

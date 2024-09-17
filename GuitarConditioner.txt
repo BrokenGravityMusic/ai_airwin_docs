@@ -5,9 +5,9 @@ A tone shaping plugin using a parallel matrix arrangement with Slew and Highpass
 Key Controls and Settings:
 
 * `Tone Matrix:` A combination of Slew and Highpass in a parallel matrix arrangement.
-	+ `Slew Levels:` Two separate levels of Slew clipping with different voicings:
-		- `High Slew Level:` Set to Tight tone shaping behavior for extreme lows.
-		- `Low Slew Level:` Set to Loose rolloff for the proper texture on boosted mids circuit.
+    + `Slew Levels:` Two separate levels of Slew clipping with different voicings:
+        - `High Slew Level:` Set to Tight tone shaping behavior for extreme lows.
+        - `Low Slew Level:` Set to Loose rolloff for the proper texture on boosted mids circuit.
 * `Dry/Wet Control:` A blend control to balance the effect of the Tone Matrix.
 * `Highpass Tone:` Selects the tone shaping behavior for extreme lows, with options for "Tight" or "Loose" rolloff.
 * `Mid Boost:` Adjusts the amount of midrange boost used to create a distinct texture.

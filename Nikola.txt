@@ -5,8 +5,8 @@ An audio Tesla Coil simulator that fires bolts of lightning at audio rate, simul
 Key Controls and Settings:
 
 * `Voltage:` A control that combines two different effects:
-	+ At low values (brighter): Adds airiness and a sustaining industrial scrunch effect.
-	+ At high values: Produces midrangey distortion and an unpredictable effect.
+    + At low values (brighter): Adds airiness and a sustaining industrial scrunch effect.
+    + At high values: Produces midrangey distortion and an unpredictable effect.
 * `Sample Rate:` Note: Nikola does not adapt to sample rates. It may sound different at higher sample rates (96K or 192k) and is best used at lower sample rates.
 
 Best Use Cases:

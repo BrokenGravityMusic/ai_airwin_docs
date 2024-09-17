@@ -6,15 +6,15 @@ Key Controls and Settings:
 
 * Output bit depth: Choose between 16-bit and 24-bit output
 * Reference sounds:
-	+ SubsOnly: Highlights deep subs
-	+ SlewOnly: Highlights bright highs
-	+ PeaksOnly: Enhances peak energy and highlights loud signals
+    + SubsOnly: Highlights deep subs
+    + SlewOnly: Highlights bright highs
+    + PeaksOnly: Enhances peak energy and highlights loud signals
 * Cans variations: Four options for headphone mixing with crossfeed effects
 * Mono and side checks: Options for monitoring mono and stereo signals separately
 * Narrowed-bandwidth checks:
-	+ Aurat: Narrows bandwidth to specific frequency ranges
-	+ One-side mono versions: Simulates a real mono mix-check speaker
+    + Aurat: Narrows bandwidth to specific frequency ranges
+    + One-side mono versions: Simulates a real mono mix-check speaker
 * Utilities:
-	+ VoiceTrick: Outputs mono with one speaker out of phase, suitable for vocal tracking without headphones
+    + VoiceTrick: Outputs mono with one speaker out of phase, suitable for vocal tracking without headphones
 
 Best Use Cases: For monitoring mixes in different ways, such as checking balance and peak energy. Ideal for use with headphone mixing and vocal tracking.

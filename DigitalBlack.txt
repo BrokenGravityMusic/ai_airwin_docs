@@ -5,11 +5,11 @@ A staccato gate designed to tighten up direct-recorded tracks by fading into neg
 Key Controls and Settings:
 
 * Threshold: Set the level above which the gate will operate.
-	+ Range: unknown
-	+ Type: unknown
+    + Range: unknown
+    + Type: unknown
 * Dry/Wet Control: Adjust the amount of original signal mixed with the gated signal.
-	+ Range: unknown
-	+ Type: unknown
+    + Range: unknown
+    + Type: unknown
 
 Best Use Cases:
 Ideal for tightening up staccato direct-recorded tracks, such as DI guitars, kick drums, and individual drum mics.

@@ -8,16 +8,16 @@ Key Controls and Settings:
 
 
 * `Filter1:` [insert text]
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Filter2:` [insert text]
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Resolution: A high-resolution buss (5,366,870,912 times better than standard floats) to maintain accuracy and prevent truncation errors.
 
 Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 Hypersonic might not suit everyone's taste due to its more complex design.

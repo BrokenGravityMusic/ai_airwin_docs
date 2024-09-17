@@ -5,16 +5,16 @@ A console-like encode/decode pair that simulates the extreme compression of uLaw
 Key Controls and Settings:
 
 * `Mode:` Select between "encode" or "decode" modes.
-	+ Type: Mode
+    + Type: Mode
 * `Input/Output:` Choose whether to input or output a signal.
-	+ Range: Input/Output selection
-	+ Type: Switch
+    + Range: Input/Output selection
+    + Type: Switch
 * `Bit Depth:` Set the bit depth for encoding (default: 8 bits).
-	+ Range: 1-16 bits
-	+ Type: Slider
+    + Range: 1-16 bits
+    + Type: Slider
 * `Sampling Rate:` Set the sampling rate (default: 8000 Hz).
-	+ Range: 8 kHz, 11.025 kHz, 22.05 kHz
-	+ Type: Dropdown
+    + Range: 8 kHz, 11.025 kHz, 22.05 kHz
+    + Type: Dropdown
 
 Best Use Cases:
 

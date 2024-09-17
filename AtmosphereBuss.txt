@@ -5,15 +5,15 @@ A console5 based ambiance generator, creating and controlling the overall ambian
 Key Controls and Settings:
 
 * `Distance:` Adjusts the perceived distance of sound sources within the mix.
-	+ Type: Console5 processing algorithm
+    + Type: Console5 processing algorithm
 * `Width:` Controls the stereo image width and ambiance.
-	+ Type: Console5 processing algorithm
+    + Type: Console5 processing algorithm
 * `Level:` Sets the overall level of the ambiance effect.
-	+ Type: Console5 processing algorithm
+    + Type: Console5 processing algorithm
 * Mix Level Control: Sets the overall level of the processed signal.
-	+ Type: Console5 processing algorithm
+    + Type: Console5 processing algorithm
 * Acoustic Distance Control/Acoustic Size Control: Adjusts the acoustic distance effect/ Changes the sonic character of the atmosphere effect.
-	+ Type: Console5 processing algorithm
+    + Type: Console5 processing algorithm
 
 Best Use Cases:
 

@@ -3,17 +3,17 @@ MultiBandDistortion
 Key Controls and Settings:
 
 * `Stability`: A slider controlling the level of stability in the effect. Lower values result in a more choppy and unpredictable sound.
-	+ Range: 0-100
-	+ Type: Slider
+    + Range: 0-100
+    + Type: Slider
 * `Band Gain`: Sets the gain for each band (see below).
-	+ Range: -20 to +20 dB
-	+ Type: Knob
+    + Range: -20 to +20 dB
+    + Type: Knob
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
-	+ Type: Slider
+    + Range: 0% to 100%
+    + Type: Slider
 * `Band1-4`: Separate distortion control for four frequency bands (low, mid-low, high-mid, and high).
-	+ Range: -20 to +20 dB
-	+ Type: Knob
+    + Range: -20 to +20 dB
+    + Type: Knob
 
 Best Use Cases:
 * Creating extreme, high-energy effects in electronic dance music (EDM) or other genres that require a heavily distorted sound.

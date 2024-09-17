@@ -5,10 +5,10 @@ A plugin that models air distortion under intense loudness, adding crackles and 
 Key Controls and Settings:
 
 * `Loudness Setting:` Adjusts the loudness at which the air distortion is applied (range 70 dB - 140 dB).
-	+ Type: Adjustment of loudness
+    + Type: Adjustment of loudness
 * `Air Pressure Setting:` Adjusts the pressure of the air, affecting the intensity of the crackles and distortion (range 0% - 100%).
-	+ Range: 0-100%
-	+ Type: Adjustment of pressure
+    + Range: 0-100%
+    + Type: Adjustment of pressure
 * `Mix:` A blend control for mixing the processed sound with the original.
 
 Caveats:

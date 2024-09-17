@@ -5,16 +5,16 @@ Distorted staggered bandpasses for extreme sound mangling.
 Key Controls and Settings:
 
 * `First`: Sets the first frequency point for filtering.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Last`: Sets the last frequency point for filtering.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Nuke`: Increases the number of filtering poles, affecting gain and distortion.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Dry/Wet`: Balances the intensity of the effect by mixing it with an unprocessed signal.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 * Creating intense bandpass effects, such as distorting a snare sound.

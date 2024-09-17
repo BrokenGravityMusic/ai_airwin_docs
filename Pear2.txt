@@ -5,7 +5,7 @@ A filter plugin based on the Holt algorithm, offering a highpass/lowpass shelf w
 Key Controls and Settings:
 * `Cutoff`: Smoothed control to adjust the cutoff frequency of the filter.
 * `Poles`: Adjusts the number of poles in the filter (switchable to restrict or add poles).
-	+ `Restrict Poles`: Switches off the ability to sweep the poles count.
+    + `Restrict Poles`: Switches off the ability to sweep the poles count.
 * `Nonlin`: Control for adding nonlinearity to the filter's output, which affects the tone and dynamics of the sound.
 
 Best Use Cases:

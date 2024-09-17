@@ -5,14 +5,14 @@ A high-pass filter plugin that can produce varying textures from smooth to edgy,
 Key Controls and Settings:
 
 * Type: The type of filtering (smooth to edgy)
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * Frequency Cut-off: Adjusts the frequency at which filtering begins
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * Resonance: Boosts or cuts specific frequencies for a more detailed sound
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 
 Best Use Cases:
 Ideal for adding high-pass filtering effects to audio signals, such as enhancing clarity and reducing low-end noise.

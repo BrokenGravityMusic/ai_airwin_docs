@@ -5,11 +5,11 @@ A dither-making toolkit that allows you to customize the sound of the noise.
 Key Controls and Settings:
 
 * Middle sliders:
-	+ Set to -1 and +1 for DoublePaul-style high-pitched tone
-	+ Adjust other sliders to tailor the sound of the noise
+    + Set to -1 and +1 for DoublePaul-style high-pitched tone
+    + Adjust other sliders to tailor the sound of the noise
 * Highpass control:
-	+ Gentle or obvious tonal shaping
-	+ Can be darkened while preserving dither functionality
+    + Gentle or obvious tonal shaping
+    + Can be darkened while preserving dither functionality
 
 Best Use Cases:
 Tailoring custom dither noises for specific audio applications, mixing and mastering.

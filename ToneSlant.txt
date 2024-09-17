@@ -5,11 +5,11 @@ A super-transparent 'tilt EQ' with very low Q that produces an extremely transpa
 Key Controls and Settings:
 
 * `Taps`: Sets the number of samples in the average block (1-100).
-	+ Range: 1-100
-	+ Type: Control
+    + Range: 1-100
+    + Type: Control
 * `Highs`: Adjusts the frequency response of the tilt EQ.
-	+ Setting to +1 brings in the brightest highs.
-	+ Setting to -1 nulls out high frequencies.
+    + Setting to +1 brings in the brightest highs.
+    + Setting to -1 nulls out high frequencies.
 
 Best Use Cases:
 

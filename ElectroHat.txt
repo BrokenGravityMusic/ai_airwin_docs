@@ -3,11 +3,11 @@ ElectroHat
 Key Controls and Settings:
 
 * Control Voltage (CV): feeds some sort of CV to the plugin, can be amplitude modulated for effects.
-	+ Range: N/A
-	+ Type: Not specified
+    + Range: N/A
+    + Type: Not specified
 * Underlying Signal: accepts a square wave tone, which will be rectified to positive only, simulating a control voltage.
-	+ Range: N/A
-	+ Type: Square wave
+    + Range: N/A
+    + Type: Square wave
 
 Best Use Cases:
 Ideal for generating hi-hat tones with unique characteristics and imperfections.

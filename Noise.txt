@@ -5,14 +5,14 @@ Generates brownian-motion noise without excessive DC offset, allowing for deep r
 Key Controls and Settings:
 
 * Dry/Wet: Adjusts the balance between the input sound and the generated noise.
-	+ Range: Not specified
-	+ Type: Blend control
+    + Range: Not specified
+    + Type: Blend control
 * Distance: Affects both the dry and wet signals, blending and darkening them together.
-	+ Range: Not specified
-	+ Type: Control for balancing and darkening combined signal
+    + Range: Not specified
+    + Type: Control for balancing and darkening combined signal
 * Trigger Threshold: Sets the sensitivity of the plugin to track incoming rhythms.
-	+ Range: Not specified
-	+ Type: Control for tracking incoming rhythms
+    + Range: Not specified
+    + Type: Control for tracking incoming rhythms
 
 Best Use Cases:
 Ideal for adding deep rumble or subsonic effects, or for generating brownian-motion noise that closely tracks incoming rhythms.

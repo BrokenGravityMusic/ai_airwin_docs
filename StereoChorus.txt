@@ -5,10 +5,10 @@ A basic stereo chorus plugin with some unique interpolation tricks.
 Key Controls and Settings:
 
 * `Chorus Speed:` Adjusts the speed of the chorus effect.
-	+ Effect: Scales the intensity of all settings to feel equally intense at different speeds.
+    + Effect: Scales the intensity of all settings to feel equally intense at different speeds.
 * `Depth:` Sets the overall depth or width of the chorus effect.
 * `Stereo Spread:` Adjusts the panning or stereo imaging of the chorus effect.
-	+ Interpolation Tricks: Uses staggered delay pairs with time offsets between left and right channels to create interesting stereo images.
+    + Interpolation Tricks: Uses staggered delay pairs with time offsets between left and right channels to create interesting stereo images.
 
 Best Use Cases:
 Use as a basic stereo chorus effect in situations where you want a simple, yet effective chorus sound. May be particularly useful when paired with other effects, such as reverb or delay.

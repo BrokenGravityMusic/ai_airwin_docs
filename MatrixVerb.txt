@@ -5,13 +5,13 @@ A wildly adjustable, strangely colorful reverb plugin with deep and flexible spa
 Key Controls and Settings:
 
 * Damping: Adjusts the reverb decay from almost infinite to very damped.
-	+ Range: 0-100
+    + Range: 0-100
 * Overall Tone Control: Handles the brightness of the reverb.
-	+ Range: -10 dB to 10 dB
+    + Range: -10 dB to 10 dB
 * Flavor Control: Affects the tonality, leaning towards platey, springy, or neutral sounds.
-	+ Range: 0.0 to 1.0
+    + Range: 0.0 to 1.0
 * Room Size: Allows for unreasonably large spaces even at high sample rates (96k).
-	+ Range: Small to enormous
+    + Range: Small to enormous
 * Dry/Wet Mix: Blends the wet reverb with the original dry signal.
 
 Best Use Cases:

@@ -5,11 +5,11 @@ A tube recording console type tone coloring plugin with a distinct flavor to how
 Key Controls and Settings:
 
 * `Tone`: Adjusts the overall tone character of the plugin.
-	+ Type: not specified
+    + Type: not specified
 * `Saturation`: Controls the amount of distortion introduced by the plugin.
-	+ Range: not specified
+    + Range: not specified
 * `Rectifier Sag`: Affects how dynamics work through the plugin, imparting an obvious rectifier sag.
-	+ Range: not specified
+    + Range: not specified
 
 Best Use Cases:
 Use on channels, auxes, or submixes where you want a distinct "analog modeling" tone.

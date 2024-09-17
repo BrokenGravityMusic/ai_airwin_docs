@@ -5,9 +5,9 @@ A continuous-bit and sample-rate crusher with adjustable frequency and resolutio
 Key Controls and Settings:
 
 * Frequency control: Adjusts the sample-rate crushing continuously.
-	+ To adjust: Slide the Frequency control down to continuously sweep the sample-rate crushing.
+    + To adjust: Slide the Frequency control down to continuously sweep the sample-rate crushing.
 * Resolution control: Adjusts the bit crushing continuously.
-	+ To adjust: Slide the Resolution control down to continuously sweep the bit crushing.
+    + To adjust: Slide the Resolution control down to continuously sweep the bit crushing.
 * Algorithm: Does a simple samplerate crush with soft transitions, and a bit crush by chopping away bit-sized amounts and then truncating
 
 Best Use Cases:

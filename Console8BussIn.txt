@@ -5,26 +5,26 @@ An artificial bus console simulator that adds analog warmth to audio signals, su
 Key Controls and Settings:
 
 * `Input Type:` Selects whether the plugin processes as a channel, submix, or buss.
-	+ Options: Channel, Submix, Buss
+    + Options: Channel, Submix, Buss
 * `Analog Simulation:` Enables or disables the analog simulation stage.
-	+ Range: ON/OFF
+    + Range: ON/OFF
 * `Drive:` Adjusts the overall gain of the plugin.
-	+ Range: 
-	+ Type: Gain control
+    + Range: 
+    + Type: Gain control
 * `EQ:` A three-band equalizer with controls for low, mid, and high frequency adjustments.
-	+ Options:
-		- Low band: 
-		 + Range: 
-		 + Type: EQ control
-		- Mid band: 
-		 + Range: 
-		 + Type: EQ control
-		- High band: 
-		 + Range: 
-		 + Type: EQ control
+    + Options:
+        - Low band: 
+         + Range: 
+         + Type: EQ control
+        - Mid band: 
+         + Range: 
+         + Type: EQ control
+        - High band: 
+         + Range: 
+         + Type: EQ control
 
 Mix: A blend control for mixing the processed sound with the original.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Mixing: Console8BussIn is ideal for creating a console-inspired sound during mixing sessions.

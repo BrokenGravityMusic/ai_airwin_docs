@@ -5,7 +5,7 @@ An emulation of the input stage of a vintage Mackie 1202 mixer, providing a spon
 Key Controls and Settings:
 
 * Drive: Controls the intensity of the Mackie-style overdrive. Can be adjusted to achieve a range of tonal colors.
-	+ Range: 0.1 to 10
+    + Range: 0.1 to 10
 * Insert Point: Simulates the effect of plugging into the insert points on the back of the original Mackie 1202, allowing for mid-signal manipulation.
 
 Best Use Cases:

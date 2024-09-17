@@ -5,13 +5,13 @@ A classic 2-buss compressor designed for demanding conditions, offering spot-on 
 Key Controls and Settings:
 
 * `Threshold`: Adjusts the point at which compression begins.
-	+ Range: Below a 2/1 ratio
+    + Range: Below a 2/1 ratio
 * `Speed`: Controls the attack time of the compressor.
-	+ Type: Swing and spring-back behavior
+    + Type: Swing and spring-back behavior
 * `Ratio`:
-	+ Stage 1: Up to 2/1 ratio for maximum transparency
-	+ Stage 2-3: From 2/1 to 4/1 ratio, offering various behaviors and a clean sound
-	+ Stage 3 (max): Approximate 16/1 ratio, introducing tone change and allowing for extreme compression
+    + Stage 1: Up to 2/1 ratio for maximum transparency
+    + Stage 2-3: From 2/1 to 4/1 ratio, offering various behaviors and a clean sound
+    + Stage 3 (max): Approximate 16/1 ratio, introducing tone change and allowing for extreme compression
 * `Mix:` Not applicable
 
 Caveats:

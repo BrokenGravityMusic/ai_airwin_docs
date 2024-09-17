@@ -4,13 +4,13 @@ Facet
 Key Controls and Settings:
 
 * `Clip Point`: Adjusts the level at which the sharp corner is introduced.
-	+ Higher values introduce sharper corners, but still allow peaks to exceed 0 dB.
-	+ Lower values result in gentler corners, with the option for hard clipping near silence.
+    + Higher values introduce sharper corners, but still allow peaks to exceed 0 dB.
+    + Lower values result in gentler corners, with the option for hard clipping near silence.
 * `Corner Angle`: Changes the angle of the clip point's knee.
-	+ Higher values create a more pronounced 'corner' effect.
+    + Higher values create a more pronounced 'corner' effect.
 * `Knee Shape`: Alters the shape of the transfer function's knee, affecting how the clip interacts with peaks.
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 * Adding a unique type of distortion to individual tracks or buses.

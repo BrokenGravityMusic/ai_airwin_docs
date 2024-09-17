@@ -1,14 +1,14 @@
 Key Controls and Settings:
 
 * Threshold control: Sets the minimum level of crash noise required to activate the volume boost.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Dry/Wet control: Adjusts the balance between the original overhead sound and the amplified crash sound.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Volume control: Controls the overall volume boost applied to the overhead sound when the threshold is exceeded.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 Metal mixers looking to add crash cymbal sounds to their mixes without introducing unwanted jazz drummer or classic rock influences.

@@ -3,10 +3,10 @@ Tape
 Key Controls and Settings:
 
 * `Input Gain`: Adjusts the signal level going into the plugin.
-	+ Range: 
+    + Range: 
 * `Head Bump`: Simulates physical tape head bump, can be adjusted to control buildup.
-	+ Range: 0% to 100%
-	+ Default: 0.5 (Redux update)
+    + Range: 0% to 100%
+    + Default: 0.5 (Redux update)
 * `Spiral Overdrive`: Uses Spiral algorithm for overdriven tone.
 * `Mix Control`: Blend between clean and overdriven signal.
 

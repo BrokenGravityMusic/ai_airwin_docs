@@ -5,17 +5,17 @@ Simulates a Quad Eight console with accurate modeling of its characteristics and
 Key Controls and Settings:
 
 * `Gain`: Adjusts the overall volume level.
-	+ Range: -∞ to +20 dB
-	+ Default: 0 dB
+    + Range: -∞ to +20 dB
+    + Default: 0 dB
 * `Bass Cut`: Sets the low-frequency cut-off point.
-	+ Range: 10 Hz to 1 kHz
-	+ Default: 50 Hz
+    + Range: 10 Hz to 1 kHz
+    + Default: 50 Hz
 * `Treble Lift`: Adjusts the high-frequency response.
-	+ Range: -∞ to +20 dB
-	+ Default: 0 dB
+    + Range: -∞ to +20 dB
+    + Default: 0 dB
 * `Saturation`: Adds a warm, analog-like distortion.
-	+ Range: 0% to 100%
-	+ Default: 0%
+    + Range: 0% to 100%
+    + Default: 0%
 
 Best Use Cases:
 Use ConsoleLABuss for mixing and mastering tasks where a classic Quad Eight console tone is desired. Suitable for rock, pop, and other genres that benefit from a warm, analog sound.

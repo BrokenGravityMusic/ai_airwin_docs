@@ -5,11 +5,11 @@ Heavy amp simulator with a Mesa-y tone, ideal for chugging guitars.
 Key Controls and Settings:
 
 * `Gain:` Adjusts the overall gain of the plugin.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Dry/Wet Control:` Blends dry AMP sound against the cab sim, and dry guitar sound against the amp sim.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Caveats:
 Truncated cab emulation means minimal cabinet rumble or overhang. This plugin is designed for heavy rock tones and may not be suitable for other genres.

@@ -5,17 +5,17 @@ A saturation/antisaturation plugin that allows for tonal shaping and repositioni
 Key Controls and Settings:
 
 * `Stage`: Adjusts the number of stages used for bulk up tone.
-	+ Default value: 10
-	+ Range: 1-20
+    + Default value: 10
+    + Range: 1-20
 * `Saturate/Unsatrate`: Controls whether saturation or antisaturation is applied to the signal.
-	+ Default value: Saturate
-	+ Options: Saturate, Unsaturate, Blend
+    + Default value: Saturate
+    + Options: Saturate, Unsaturate, Blend
 * `Gain`: Adjusts the output gain of the saturated/distorted signal.
-	+ Default value: 0 dB
-	+ Range: -100 dB to +20 dB
+    + Default value: 0 dB
+    + Range: -100 dB to +20 dB
 * `Highpass cutoff`: Sets the highpass frequency for the distorted signal.
-	+ Default value: 500 Hz
-	+ Range: 50 Hz to 20000 Hz
+    + Default value: 500 Hz
+    + Range: 50 Hz to 20000 Hz
 
 Best Use Cases:
 Density is ideal for reshaping tones, creating saturation/antisaturation effects, and adding articulation to murky sounds. It's also useful for producing fat, distorted tones or lean, thin tones.

@@ -7,8 +7,8 @@ A high-end vocal de-esser that perfectly rejects non-essential audio frequencies
 Key Controls and Settings:
 
 * Sample Comparison Window: A slider that controls the window size for sample comparison.
-	+ Lower values: More similar to original DeEss, higher isolation of ess sounds.
-	+ Higher values: Better rejection of faint softening in other content.
+    + Lower values: More similar to original DeEss, higher isolation of ess sounds.
+    + Higher values: Better rejection of faint softening in other content.
 * Filter Control: Allows shaping a better EQ on targeted sibilance sounds.
 
 

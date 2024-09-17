@@ -8,12 +8,12 @@ Key Controls and Settings:
 
 
 * `Delay1:` 
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Delay2:` 
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Darkness:` A control for simulating room decay
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Highpass:` A tone-shaping control
-	+ Range: 0 dB to -24 dB
+    + Range: 0 dB to -24 dB

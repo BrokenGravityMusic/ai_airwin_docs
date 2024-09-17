@@ -4,11 +4,11 @@ PurestAir
 Key Controls and Settings:
 
 * `Boost/Cut:` Adjusts the air-band boost or cut.
-	+ Range: Not specified
-	+ Type: Boost/Cut
+    + Range: Not specified
+    + Type: Boost/Cut
 * `Limit Intensity:` Sets the maximum intensity of treble before limiting occurs.
-	+ Range: Not specified
-	+ Type: Limit
+    + Range: Not specified
+    + Type: Limit
 
 Best Use Cases:
 

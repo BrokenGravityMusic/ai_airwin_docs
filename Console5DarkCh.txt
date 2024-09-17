@@ -4,14 +4,14 @@ Console5DarkCh
 Key Controls and Settings:
 
 * `Channel/Bus Gain:` Adjust the gain of individual channels or buses using the Console5DarkCh plugin.
-	+ Default setting: 0 dB
-	+ Recommended range: -3 dB to +3 dB
+    + Default setting: 0 dB
+    + Recommended range: -3 dB to +3 dB
 * `Slew Factor:` Control the amount of "glue" and solidness added to the mix.
-	+ Default setting: Mid-range
-	+ Adjusting range: Warmth (high), Mid-range, Cool (low)
+    + Default setting: Mid-range
+    + Adjusting range: Warmth (high), Mid-range, Cool (low)
 * `Amplitude Factor:` Adjust the level of undistortion applied to individual tracks.
-	+ Default setting: 0 dB
-	+ Recommended range: -3 dB to +3 dB
+    + Default setting: 0 dB
+    + Recommended range: -3 dB to +3 dB
 
 
 Best Use Cases:

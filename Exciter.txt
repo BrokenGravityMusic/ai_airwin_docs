@@ -5,14 +5,14 @@ An Aural Exciter plugin that can be used to add subtle or extreme transient emph
 Key Controls and Settings:
 
 * `Frequency`: Adjusts the frequency band being emphasized.
-	+ Range: Hz
+    + Range: Hz
 * `Amount`: Sets the level of effect applied to the signal.
-	+ Type: 0-100% control
-	+ Range: 
+    + Type: 0-100% control
+    + Range: 
 * `Soft Clip`: Distorts the extracted frequency band using a soft clipping function (e.g. sin()).
-	+ Type: Soft clip amount
+    + Type: Soft clip amount
 * `Band Filter`: Sharp band filter for extracting certain types of information.
-	+ Type: Bandpass feature
+    + Type: Bandpass feature
 
 Caveats:
 Cranking up the effect too high can result in obvious crunch or distortion.

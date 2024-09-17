@@ -3,13 +3,13 @@ Adds harmonics to audio signals using a Chebyshev filter, generating sine waves 
 Key Controls and Settings:
 
 * Harmonic multipliers (up to 13th harmonic)
-	+ Adjust the level of each harmonic frequency
-	+ Range: 
-	+ Type: 
+    + Adjust the level of each harmonic frequency
+    + Range: 
+    + Type: 
 * Attenuverter (dry-wet control with inverse-dry-wet):
-	+ Blend original audio with enhanced signal
-	+ Range: 
-	+ Type: 
+    + Blend original audio with enhanced signal
+    + Range: 
+    + Type: 
 
 Caveats:
 * Harmonic addition can result in aliasing if input frequencies exceed the sampling rate

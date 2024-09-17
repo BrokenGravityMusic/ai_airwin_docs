@@ -3,15 +3,15 @@ An analog coloration plugin that provides distinctive tone shaping and saturatio
 Key Controls and Settings:
 
 * Drive Control: A boost control for adding slam and dirt to the sound
-	+ Range: [not specified]
-	+ Type: Soft and textured
+    + Range: [not specified]
+    + Type: Soft and textured
 * Treble Choke: A unique brightness conditioner that adds a rich, high-frequency character to the sound
-	+ Warning: overcranking can generate uncontrolled DC and produce undesirable effects
+    + Warning: overcranking can generate uncontrolled DC and produce undesirable effects
 * Power Sag Control: Adjusts the power supply sag behavior, affecting the tone and saturation of the plugin
-	+ Range: [not specified]
-	+ Type: Allows simulation of tube power supply sag behaviors
+    + Range: [not specified]
+    + Type: Allows simulation of tube power supply sag behaviors
 * Frequency Control: Shifts the area of interest for the power sag behavior, affecting high-frequency characteristics
-	+ Range: [not specified]
+    + Range: [not specified]
 
 Best Use Cases:
 Desk4 is ideal for adding distinctive analog coloration and saturation to a mix. It's particularly useful for:

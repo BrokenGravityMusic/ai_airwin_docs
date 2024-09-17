@@ -3,14 +3,14 @@ A Chebyshev filter that adds harmonics to audio signals.
 Key Controls and Settings:
 
 * Harmonic multiplier: adjusts the harmonic frequency multiples (twice, three, four times the original frequency, etc.)
-	+ Range: not specified
-	+ Type: not specified
+    + Range: not specified
+    + Type: not specified
 * Attenuverter: controls the level of added harmonics
-	+ Range: not specified
-	+ Type: not specified
+    + Range: not specified
+    + Type: not specified
 * Dry/Wet control: mixes the original audio with the filtered output
-	+ Range: 0% to 100%
-	+ Type: Blend
+    + Range: 0% to 100%
+    + Type: Blend
 
 Caveats:
 Perfect aliasing-free harmonic enhancement is only achieved if no frequencies multiplied by the filter's output exceed the sampling rate. If higher frequencies do exceed the sampling rate, aliasing will occur but the filter will resist adding extra harmonics to minimize its effect.

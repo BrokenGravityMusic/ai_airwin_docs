@@ -5,13 +5,13 @@ A plugin for creating very bright gated reverbs with a distinct sound that diffe
 Key Controls and Settings:
 
 * `Dry/Wet`: Blend control for mixing original and reverb sound.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Decay`: Adjust the decay time (note: will not help with CPU hungriness).
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Sustain`: Adjust the sustain level, tied to maximum sample delay. Higher sample rates yield shorter sustains and denser shininess.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Sample Rate`: Higher sample rates (e.g., 96K) will give you shorter sustains and denser shininess.
 
 Best Use Cases:

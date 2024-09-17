@@ -5,14 +5,14 @@ A subtle 'analogifier' that applies saturation boosts, highpass filtering, and s
 Key Controls and Settings:
 
 * `Drive`: Adjusts the amount of saturation boost (range: ?? to ???)
-	+ Range: not specified
-	+ Type: knob
+    + Range: not specified
+    + Type: knob
 * `Flavors`:
-	- Channel 1
-	- Channel 2
-	- Channel 3
-	+ Range: not applicable
-	+ Type: selector
+    - Channel 1
+    - Channel 2
+    - Channel 3
+    + Range: not applicable
+    + Type: selector
 
 Best Use Cases:
 

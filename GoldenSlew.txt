@@ -3,17 +3,17 @@ GoldenSlew
 Key Controls and Settings:
 
 * `Slew`: Adjusts the amount of slew clipping applied by each stage.
-	+ Range: 0.0 - 1.0
-	+ Type: Control
-	+ Setting: Adjusts the amount of slew clipping.
+    + Range: 0.0 - 1.0
+    + Type: Control
+    + Setting: Adjusts the amount of slew clipping.
 * `Threshold`: The level above which slew clipping is applied.
-	+ Range: Unknown
-	+ Type: Control
-	+ Setting: Adjusts the threshold for slew clipping to kick in.
+    + Range: Unknown
+    + Type: Control
+    + Setting: Adjusts the threshold for slew clipping to kick in.
 * `Chain Count`: The number of stages in the slew clipper chain.
-	+ Range: 1 - unknown (default: unknown)
-	+ Type: Control
-	+ Setting: Adjusts the number of stages used for slew clipping.
+    + Range: 1 - unknown (default: unknown)
+    + Type: Control
+    + Setting: Adjusts the number of stages used for slew clipping.
 
 Caveats:
 * Cranking the Slew control to 1.0 can result in sample and hold, which may be undesirable on audio signals.

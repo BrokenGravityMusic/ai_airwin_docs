@@ -4,7 +4,7 @@ Key Controls and Settings:
 
 * `Level:` Adjust the overall compression level.
 * `Attack/Decay Speeds:`
-	+ Split out attack and decay speeds (as much as possible) on this crazy algorithm.
+    + Split out attack and decay speeds (as much as possible) on this crazy algorithm.
 * `Threshold`: The level above which compression occurs.
 * `Ratio`: The amount of compression applied to the audio signal.
 * `Makeup Gain`: Adjusts the overall gain of the compressed signal.

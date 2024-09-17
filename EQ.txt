@@ -5,17 +5,17 @@ A three-band lossless equalizer with highpass and lowpass filters, allowing for 
 Key Controls and Settings:
 
 * `Lowcut (Hz):` Adjusts the low-pass filter frequency.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Highshelf (dB):` Boosts or cuts frequencies above the high-cut filter.
-	+ Range: 0% to 100%
-	+ Type: 
+    + Range: 0% to 100%
+    + Type: 
 * `Midcut (Hz):` Sets the mid-band filter frequency.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Gain (dB):` Overall output gain for the plugin.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 

@@ -5,12 +5,12 @@ Emulates power supply limitations in analog modeling by simulating the problem o
 Key Controls and Settings:
 
 * `Depth`: Adjusts the amount of effect applied to the sound.
-	+ Range: 
+    + Range: 
 * `Speed`: Controls the rate at which energy is drained from the sound, creating different types of compressive or distorting effects.
-	+ Type:
+    + Type:
 * `Inverse/Wet Control`: Allows for inverse effect, where the plugin simulates the removal of energy from the sound.
-	+ Blend control for mixing the processed sound with the original
-		- Range: 
+    + Blend control for mixing the processed sound with the original
+        - Range: 
 
 Best Use Cases:
 Ideal for adding grind and character to sounds without pushing them forward. Can be used to create unique distortion effects by balancing with normal overdrive.

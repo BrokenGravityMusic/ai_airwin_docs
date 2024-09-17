@@ -5,17 +5,17 @@ A plugin that adds independent delays and feedback to the StereoDoubler's pitch-
 Key Controls and Settings:
 
 * `Pitch Shifter:` Adjusts the pitch of the audio in both channels.
-	+ Range: Not specified
-	+ Type: Pitch-shifting algorithm
+    + Range: Not specified
+    + Type: Pitch-shifting algorithm
 * `Delay L/R Taps:` Sets the delay time for the left and right channels independently.
-	+ Range: Not specified
-	+ Type: Delay time control
+    + Range: Not specified
+    + Type: Delay time control
 * `Feedback Ratio:` Sets the ratio for direct (pitch-shifting) and inverse/crossfeed feedback, using the Golden Ratio (0.618...).
-	+ Range: 0 to 1.0
-	+ Type: Feedback ratio control
+    + Range: 0 to 1.0
+    + Type: Feedback ratio control
 * `Crossfeed Amount:` Controls the amount of crossfeed between channels.
-	+ Range: Not specified
-	+ Type: Crossfeed control
+    + Range: Not specified
+    + Type: Crossfeed control
 
 Best Use Cases:
 

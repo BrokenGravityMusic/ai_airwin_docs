@@ -5,16 +5,16 @@ A super-reverb designed specifically for pads and space ambient music, capable o
 Key Controls and Settings:
 
 * `Dry/Wet:` Mix of original audio with the reverb effect.
-	+ Type: Blend control
+    + Type: Blend control
 * `Replace:` Amount of new sound coming in that replaces the existing space (0-100).
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * `Detune:` Quadrature pitch shift for both channels, used to create maximum widening effects.
-	+ Range: ±12.7%
-	+ Type: Frequency shifter
+    + Range: ±12.7%
+    + Type: Frequency shifter
 * `Brightness:` Controls brightness going into and out of the reverb (±18 dB default range).
-	+ Range: ±18 dB
-	+ Type: Gain control
+    + Range: ±18 dB
+    + Type: Gain control
 
 Best Use Cases:
 Use for deep space ambient music, pads, and evolving ambient spaces. Also suitable for chorusing out huge synth pads or other mono sources.

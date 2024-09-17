@@ -5,11 +5,11 @@ Applies a simple IIR highpass, distortion using the Spiral algorithm, and slew c
 Key Controls and Settings:
 
 * `API/Neve/SSL`: Selects the distortion model used by Channel6.
-	+ API: Uses the original Density algorithm for its saturation model.
-	+ Neve: Uses the Spiral algorithm for its distortion model (default).
+    + API: Uses the original Density algorithm for its saturation model.
+    + Neve: Uses the Spiral algorithm for its distortion model (default).
 * `Drive/Dry/Wet`: Adjusts the level of dry signal blended with the distorted signal.
-	+ Drive: Controls the amount of distortion added to the signal.
-	+ Wet: Controls the amount of processed signal mixed with the dry signal.
+    + Drive: Controls the amount of distortion added to the signal.
+    + Wet: Controls the amount of processed signal mixed with the dry signal.
 * Highpass: Applies a gentle highpass using an IIR filter, adjustable in steepness.
 * Slew Clipping: Sets the slew clipping level to avoid unwanted distortion, adjustable in settings.
 

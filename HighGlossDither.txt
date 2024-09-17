@@ -8,11 +8,11 @@ Key Controls and Settings:
 
 
 * `Level`: Adjusts the overall level of the effect. Range: -100 dB to 0 dB.
-	+ Type: Control
+    + Type: Control
 * `Frequency Response`: Adjusts the frequency response curve of the effect. Range: Flat, Boost Low, Boost High.
-	+ Type: Control
+    + Type: Control
 * `Dither Type`: Selects between quadratic residue sequence and true randomness for generating noise.
-	+ Type: Control
+    + Type: Control
 
 
 Best Use Cases:

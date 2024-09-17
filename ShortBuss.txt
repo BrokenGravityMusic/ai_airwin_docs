@@ -6,12 +6,12 @@ Key Controls and Settings:
 
 * `Balance`: Adjusts the balance between even harmonics.
 * `Reverse Balance`: Applies reverse ShortBuss, fighting even harmonics and trying to take them away.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Asymmetry`: Adjusts the level of asymmetry in the waveform.
 * `Second Harmonic`: Controls the amount of second harmonic added or removed from the signal.
-	+ Range: 0% to 100%
-	+ Type: [insert text]
+    + Range: 0% to 100%
+    + Type: [insert text]
 
 Best Use Cases:
 

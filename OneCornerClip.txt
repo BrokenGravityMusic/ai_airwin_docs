@@ -3,17 +3,17 @@ OneCornerClip
 Key Controls and Settings:
 
 * `Input Gain`: Adjusts the volume of the incoming audio.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Threshold: Sets the maximum output level before clipping occurs.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Ratio/Onset Control: Controls the amount of compression or expansion applied to the waveform, or slows down/speeds up the onset time of clipping.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Slope/Departure Control: Sets the rate at which the waveform clips, with higher values resulting in a more gradual curve, or adjusts the time taken for the waveform to snap back into place after clipping.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 

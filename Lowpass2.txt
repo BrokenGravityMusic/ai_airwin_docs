@@ -5,11 +5,11 @@ A variable-slope lowpass filter with adjustable cutoff frequency, using interlea
 Key Controls and Settings:
 
 * `Filter Control`: Adjusts the cutoff frequency from complete silence to wide open.
-	+ Goes from complete silence to wide open no matter what sample rate you're at
-	+ Interacts with Soft/Hard slider to vary the cutoff based on input sample value
+    + Goes from complete silence to wide open no matter what sample rate you're at
+    + Interacts with Soft/Hard slider to vary the cutoff based on input sample value
 * `Soft/Hard Slider`: Varies the cutoff frequency based on input sample value, allowing for subtle tone color modifications.
-	+ Can roll off harder for peaks of sound or let them through more
-	+ Has two distinct tone colors and special effects at four poles of filter
+    + Can roll off harder for peaks of sound or let them through more
+    + Has two distinct tone colors and special effects at four poles of filter
 * `Poles Control`: Selects from zero to four poles of filter, affecting the strength and sharpness of the roll-off.
 
 Caveats:

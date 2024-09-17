@@ -4,8 +4,8 @@ A gain and pan control plugin that uses bit shifts to apply 6 dB increments, all
 
 Key Controls and Settings:
 * `Bits`: Select the number of bits to shift for gain and/or pan.
-	+ Adjusting this setting will apply a precise 6 dB or other multiple of 6 dB gain/loss adjustment to the selected tracks.
-	+ When used for pan, applies a shift to the stereo field with no law applied (no 3 dB pan law).
+    + Adjusting this setting will apply a precise 6 dB or other multiple of 6 dB gain/loss adjustment to the selected tracks.
+    + When used for pan, applies a shift to the stereo field with no law applied (no 3 dB pan law).
 * `Gain Shift`: Adjusts the gain by precise 6 dB increments using bit shifting.
 * `Pan Shift`: Adjusts the pan position by precise bit shifting, resulting in a "steppy" positioning with no pan law.
 

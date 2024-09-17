@@ -3,18 +3,18 @@ Dubly
 Simulates the retro vibe of classic noise reduction processing, adding a magical aura to audio signals.
 
 * `Level`: Adjusts the overall effect level.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Retro Vibe` (Distortion): A simple distortion stage used in place of tape emulation.
-	+ Threshold: Sets the point at which distortion begins.
-	+ Ratio: Controls the amount of compression applied to the distorted signal.
-	+ Gain: Adds or reduces the overall gain of the distorted signal.
-	+ Range: 
-	+ Type: 
+    + Threshold: Sets the point at which distortion begins.
+    + Ratio: Controls the amount of compression applied to the distorted signal.
+    + Gain: Adds or reduces the overall gain of the distorted signal.
+    + Range: 
+    + Type: 
 * `Filter`: A low-pass filter used to simulate the frequency response of vintage noise reduction systems.
-	+ Frequency: Sets the cutoff frequency of the filter.
-	+ Range: 
-	+ Type: 
+    + Frequency: Sets the cutoff frequency of the filter.
+    + Range: 
+    + Type: 
 
 Caveats:
 Using high settings for Distortion and Gain can lead to an overly bright, hyped sound. Be cautious when adjusting these controls.

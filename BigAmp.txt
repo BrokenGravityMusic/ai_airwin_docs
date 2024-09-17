@@ -3,20 +3,20 @@ BigAmp
 Key Controls and Settings:
 
 * Input level control: Adjusts the input signal to the amplifier.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * Gain control: Sets the overall gain of the amplifier.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * Tone controls (Bass, Mid, Treble): Adjusts the frequency response of the amplifier.
-	+ Range: Not specified
-	+ Type: Controls
+    + Range: Not specified
+    + Type: Controls
 * Drive control: Adds overdrive or distortion to the output signal.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * Character control: Affects the "feel" and tone of the amplifier, allowing for unusual tonal variations.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 
 Best Use Cases:
 Suitable for layering sounds, supplementing existing audio, and experimenting with unusual tones. Layering sounds for added depth and texture; Supplementing existing audio with a unique tone; Experimental music production where unconventional timbres are desired.

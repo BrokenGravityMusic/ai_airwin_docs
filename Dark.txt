@@ -5,11 +5,11 @@ A novel audio processing plugin that analyzes the signal and predicts its trajec
 Key Controls and Settings:
 
 * `Dither:` A control for adjusting the amount of dithering applied to the signal
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `DeRez:` A control for smoothly reducing the wordlength (bit depth) of the audio signal
-	+ Range: 1 to 24 bits
+    + Range: 1 to 24 bits
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Creating rich, analog-like soundscapes and eliminating bright digital artifacts in mixes. Also useful for creating old-school sampling effects or dark, gritty sounds.

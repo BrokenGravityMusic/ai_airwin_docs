@@ -3,9 +3,9 @@ A plate reverb plugin with an all-tube sound, distinct from other plate reverbs 
 
 * `Internal Saturation Algorithms:` A unique saturation algorithm that contributes to the plugin's distinctive sound.
 * `Reverb Matrices:` Pre-set matrices tailored to achieve the desired target sound.
-	+ Range: Adjust to suit specific sound
+    + Range: Adjust to suit specific sound
 * `Tube Circuitry:` Implemented through software coding, resulting in a distinctly different internal saturation algorithm compared to other k-plate plugins.
-	+ Type: Software-based tube circuitry
+    + Type: Software-based tube circuitry
 
 Best Use Cases:
 Ideal for music genres that benefit from a warm, deep plate reverb sound. Suitable for use in mixing and mastering applications where a classic plate sound is desired.

@@ -5,21 +5,21 @@ A compressor that fades between compressing and soft clipping, offering a unique
 Key Controls and Settings:
 
 * `Fade`: Adjusts the balance between compression and soft clipping.
-	+ Type: Control
+    + Type: Control
 * `Threshold`: Sets the input level above which compression occurs.
-	+ Range: 
-	+ Type: Threshold
+    + Range: 
+    + Type: Threshold
 * `Ratio`: Determines the amount of compression applied to the signal.
-	+ Range: 
-	+ Type: Ratio
+    + Range: 
+    + Type: Ratio
 * `Cleanness`: Controls the amount of "cleanness" added to the sound, allowing for a more dynamic springy quality.
-	+ Range: 
-	+ Type: Cleanness
+    + Range: 
+    + Type: Cleanness
 * `Soft Clip Threshold`: Sets the level at which soft clipping begins.
-	+ Range: 
-	+ Type: Soft Clip Threshold
+    + Range: 
+    + Type: Soft Clip Threshold
 * Mix: A blend control for mixing the processed sound with the original.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Ideal for use on individual tracks or stems where a loud, punchy sound is desired with a unique character. Also suitable for buss compression and mastering applications.

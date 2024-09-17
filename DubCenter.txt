@@ -3,14 +3,14 @@ DubCenter
 A version of DubSub with mono bass reinforcement, allowing for extreme low-end enhancement without filtering the original audio or mid/side processing.
 `Key Controls and Settings:`
 * Treble Grind:
-	+ Inverse/Out control: Allows subtracting as well as adding the treble distortion.
-	+ Zero control: Sets the middle point of the treble distortion.
+    + Inverse/Out control: Allows subtracting as well as adding the treble distortion.
+    + Zero control: Sets the middle point of the treble distortion.
 * Crossover: Determines what frequency range is sent to the bass sections.
 * Bass Drive: Adjusts the gain of the main bass section.
 * Bass Voicing: Controls the depth of the bass boost.
 * Bass Inv/Out: Allows subtracting as well as adding the bass content.
 * Sub Drive, Sub Voicing, and Sub Inv/Out:
-	+ Similar to the bass section but working on an octave-divided version.
+    + Similar to the bass section but working on an octave-divided version.
 
 [Best Use Cases:] Sound reinforcement, vinyl mastering, or any scenario where stereo bass is unnecessary. Ideal for adding mono low-end enhancement without altering the original audio or mid/side processing.
 `Tips on Optimal Settings:`

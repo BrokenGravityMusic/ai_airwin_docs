@@ -5,7 +5,7 @@ A mid/side conversion utility plugin for converting stereo tracks into mid/side 
 Key Controls and Settings:
 
 * `Mid/Side Balance`: A control for balancing the mid and side content, allowing gain staging of M/S content.
-	+ Adjusting this control can gain stage the M/S content into your plugin or reverse the gain staging applied by EdIsDim
+    + Adjusting this control can gain stage the M/S content into your plugin or reverse the gain staging applied by EdIsDim
 * Gain Staging: Allows reversal of gain staging applied to mid/side content.
 
 Best Use Cases:

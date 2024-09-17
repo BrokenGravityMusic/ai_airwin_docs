@@ -5,11 +5,11 @@ A lowpass filter simulator that emulates the sound of an Emu e6400 Ultra lowpass
 Key Controls and Settings:
 
 * `Cutoff Frequency:` Adjusts the frequency below which audio signals are attenuated. Range: 10 Hz to 22 kHz.
-	+ Type: Adjustable parameter
+    + Type: Adjustable parameter
 * `Resonance:` Boosts or cuts specific frequencies around the cutoff point. Range: -100 dB to +10 dB.
-	+ Type: Adjustable parameter
+    + Type: Adjustable parameter
 * `Slope:` Selects the steepness of the lowpass filter's slope. Options: 6 dB/octave, 12 dB/octave, 18 dB/octave, and 24 dB/octave.
-	+ Type: Dropdown selection
+    + Type: Dropdown selection
 
 Best Use Cases:
 

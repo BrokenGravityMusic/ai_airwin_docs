@@ -5,17 +5,17 @@ A console simulator plugin that adds warmth and richness to audio signals.
 Key Controls and Settings:
 
 * `Input Gain:` Adjusts the input level of the plugin.
-	+ Range: 
-	+ Type: Input gain control
+    + Range: 
+    + Type: Input gain control
 * `Color Control:` Affects the overall tone and character of the simulated console.
-	+ Range: 
-	+ Type: Tone control
+    + Range: 
+    + Type: Tone control
 * `Width:` Adjusts the stereo image width of the affected signal.
-	+ Range: 
-	+ Type: Stereo imaging control
+    + Range: 
+    + Type: Stereo imaging control
 * `Level:` Sets the overall output level of the plugin.
-	+ Range: 
-	+ Type: Output level control
+    + Range: 
+    + Type: Output level control
 
 Channel Gain: Adjusts the overall gain of each channel (1-100).
 Master Bus Compressor: Global dynamic range control (threshold, ratio, attack, release).

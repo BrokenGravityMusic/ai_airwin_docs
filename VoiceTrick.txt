@@ -3,13 +3,13 @@ VoiceTrick
 Key Controls and Settings:
 
 * `Mix Mono:` Toggles the mix into mono.
-	+ Type: Toggle button
+    + Type: Toggle button
 * `Filter (if desired):` Applies a low-pass filter to the mix.
-	+ Type: Filter
+    + Type: Filter
 * `Phase Flip:` Flips phase on one side of the stereo mix.
-	+ Type: Button
+    + Type: Button
 * `EQ:` Uses a low-pass filter from Airwindows Capacitor to adjust room reverb.
-	+ Range: Adjustable
+    + Range: Adjustable
 
 Caveats:
 

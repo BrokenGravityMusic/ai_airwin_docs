@@ -5,11 +5,11 @@ A minimalist console simulator.
 Key Controls and Settings:
 
 * Bus Level: Adjusts the overall level of the simulated bus.
-	+ Range: N/A
-	+ Type: Gain control
+    + Range: N/A
+    + Type: Gain control
 * Preamp Gain: Controls the gain applied to each channel before the console stage.
-	+ Range: -∞ dB to +10 dB
-	+ Type: Gain control
+    + Range: -∞ dB to +10 dB
+    + Type: Gain control
 
 Best Use Cases:
 Ideal for tracking and mixing applications where a realistic console sound is desired. Also suitable for live sound applications, small studio consoles, or when working with simple audio signals that require minimal processing.

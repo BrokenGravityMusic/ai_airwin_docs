@@ -5,23 +5,23 @@ A distortion effect that selectively reduces mid-range frequencies while preserv
 Key Controls and Settings:
 
 * `Mids Cutoff:` Adjusts the frequency cutoff for the mids, allowing more or less of the original signal to pass through.
-	+ Range: Unknown
-	+ Type: Frequency cutoff
+    + Range: Unknown
+    + Type: Frequency cutoff
 * `Distortion Level:` Sets the intensity of distortion applied to the midrange frequencies.
-	+ Range: Unknown
-	+ Type: Distortion level
+    + Range: Unknown
+    + Type: Distortion level
 * `Dry Highs:` Controls how much of the high frequencies from the original signal are allowed to pass through, unaffected by distortion.
-	+ Range: Unknown
-	+ Type: Frequency cutoff
+    + Range: Unknown
+    + Type: Frequency cutoff
 * `Bass Presence:` Adds a hint of bass to the output for definition.
-	+ Range: Unknown
-	+ Type: Bass level
+    + Range: Unknown
+    + Type: Bass level
 * `High Pass Threshold:` Determines the frequency above which the distorted signal is attenuated.
-	+ Range: Unknown
-	+ Type: Frequency cutoff
+    + Range: Unknown
+    + Type: Frequency cutoff
 * `Averaging Filter Amount:` Controls the amount of high-frequency suppression in the distortion artifacts (note: not available in this version).
-	+ Range: Unknown
-	+ Type: Filter level
+    + Range: Unknown
+    + Type: Filter level
 
 Best Use Cases:
 

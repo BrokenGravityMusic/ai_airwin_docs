@@ -5,19 +5,19 @@ A compressor designed to produce a highly exaggerated sound by severely compress
 Key Controls and Settings:
 
 * Threshold: Sets the level above which compression begins. Adjust carefully to achieve desired effect.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * Ratio: Determines the amount of compression applied. Higher ratios produce more extreme effects.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * Attack: Controls how quickly the compressor responds to changes in signal level. Short attacks can create a "bursting" effect.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * Release: Sets how long it takes for the compressor to recover after a transient has passed. Longer releases can produce a "smashed" sound.
-	+ Range: 
-	+ Type:
+    + Range: 
+    + Type:
 * Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Ideal for creating unique, overcompressed sounds reminiscent of 80s Genesis and Phil Collins productions. Suitable for use on individual tracks or in mixing situations where a distinctive sound is desired.

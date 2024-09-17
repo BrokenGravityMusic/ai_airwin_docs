@@ -5,11 +5,11 @@ A highpass/lowpass shelf filter with a unique algorithmic implementation, offeri
 Key Controls and Settings:
 
 * `Nodes`: Adjusts the number of filter nodes, affecting the EQ point and tone.
-	+ Range: Stepped values
-	+ Type: Algorithmically controlled
+    + Range: Stepped values
+    + Type: Algorithmically controlled
 * `Inv/Wet`: A dual-control setting for highpassing or lowpassing, acting as a shelving control on the filter.
-	+ Range: 0% to 100%
-	+ Type: Balanced signal blend
+    + Range: 0% to 100%
+    + Type: Balanced signal blend
 
 Best Use Cases:
 Ideal for adding clarity and depth to audio signals, particularly in desk filtering applications. Suitable for use in Console versions of Console Zero and future iterations.

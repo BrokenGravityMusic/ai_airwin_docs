@@ -6,7 +6,7 @@ Key Controls and Settings:
 
 * `Gain Staging`: Works with the trim control to fit the result into the mix.
 * `Filtering`: Five individually ultrasonic-filtered stages of slamming, allowing for gentle filtering between individual stages.
-	+ Ultrasonic filtering between individual stages, rather than super-filtering all at once.
+    + Ultrasonic filtering between individual stages, rather than super-filtering all at once.
 * `Number of Gain Stages`: Five gain stages of the same processing in Console7Channel.
 
 Best Use Cases:

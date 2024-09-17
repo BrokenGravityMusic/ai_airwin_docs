@@ -4,11 +4,11 @@ A monitoring plugin that combines SlewOnly with ultrasonic filtering to solo bri
 
 Key Controls and Settings:
 * `Stack Count`: Sets the number of SlewOnly instances to stack (1-3)
-	+ Range: 1-3
-	+ Type: Selectable dropdown or dial
+    + Range: 1-3
+    + Type: Selectable dropdown or dial
 * `Ultrasonic Filter Cutoff`: Sets the cutoff frequency for ultrasonic filtering (25k - 5k Hz)
-	+ Range: 25k - 5k Hz
-	+ Type: Knob or slider
+    + Range: 25k - 5k Hz
+    + Type: Knob or slider
 
 Caveats:
 - Stacking multiple SlewOnly instances can result in extreme calibrated volume adjustments.

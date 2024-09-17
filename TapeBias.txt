@@ -3,9 +3,9 @@ TapeBias
 Key Controls and Settings:
 
 * `Bias Level:` Adjusts the amount of bias applied (0-1 range).
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Type:` Selects between underbiasing or overbiasing.
-	+ Type: Toggle for Underbias or Overbias modes
+    + Type: Toggle for Underbias or Overbias modes
 * `Slew Rate:` Adjusts the rate at which the bias frequency is introduced into the signal.
 
 Caveats:

@@ -5,16 +5,16 @@ A plugin featuring millisecond, sample, and subsample delays, with the addition 
 Key Controls and Settings:
 
 * Millisecond Delay: 0-100 ms control
-	+ Range: up to 100 ms
-	+ Type: time adjustment
+    + Range: up to 100 ms
+    + Type: time adjustment
 * Sample Delay: 0-10 samples control
-	+ Range: 0-10 samples
-	+ Type: sample-based delay
+    + Range: 0-10 samples
+    + Type: sample-based delay
 * Subsample Trim: 0-1 sample control
-	+ Range: 0-1 sample
-	+ Type: subsample timing trim
+    + Range: 0-1 sample
+    + Type: subsample timing trim
 * Inverse/Dry/Wet Control: Affects how much of the delayed signal is mixed with the original
-	+ Range: variable mix levels
+    + Range: variable mix levels
 
 Caveats:
 

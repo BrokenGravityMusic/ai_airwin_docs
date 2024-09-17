@@ -6,8 +6,8 @@ Key Controls and Settings:
 
 * `Delay Time`: Controls the time of the delay taps.
 * `Mix Sliders`:
-	+ `Inverted Tap Mix`: Blends two inverted delay taps to cut bass while averaging out comb-filter effects.
-	+ `Phase Tap Mix`: Reinforces bass by blending two in-phase delay taps.
+    + `Inverted Tap Mix`: Blends two inverted delay taps to cut bass while averaging out comb-filter effects.
+    + `Phase Tap Mix`: Reinforces bass by blending two in-phase delay taps.
 * `Headroom Control`: Adjusts distortion levels, producing a slightly leaned-out tone.
 
 Best Use Cases:

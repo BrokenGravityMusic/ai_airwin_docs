@@ -7,14 +7,14 @@ A plugin that softens audio, rolls off highs, and generates a unique bright quan
 Key Controls and Settings:
 
 * `Gain:`
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Threshold:` The loudness level at which the effect occurs
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Output Bit Depth:` Allows users to select the desired output bit depth for testing purposes
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 
@@ -34,14 +34,14 @@ A plugin that brightens audio and merges it with the noise floor, creating a uni
 Key Controls and Settings:
 
 * `Gain:`
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Threshold:` The loudness level at which the effect occurs
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Output Bit Depth:` Allows users to select the desired output bit depth for testing purposes
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 
@@ -60,8 +60,8 @@ A feature that allows users to adjust the loudness level for testing purposes.
 Key Controls and Settings:
 
 * `Shift:`
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 

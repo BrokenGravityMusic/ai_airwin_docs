@@ -3,17 +3,17 @@ ToTape5
 Key Controls and Settings:
 
 * `Louder` (gain soak): controls level reduction due to tape saturation. Defaults to 0.25, can be set to 0 for added purity.
-	+ Range: 0% to 1.00
-	+ Type: Gain control
+    + Range: 0% to 1.00
+    + Type: Gain control
 * `Softer` (treble softening): controls treble reduction. Defaults to 0, can be increased to 0.1-0.2 for a more "old" tape machine tone.
-	+ Range: 0% to 100%
-	+ Type: Gain control
+    + Range: 0% to 100%
+    + Type: Gain control
 * `Fatter` (head bump): controls low-end warmth and fullness. Defaults to 0, can be increased to 0.1-0.2 for emphasis on roundness and fullness.
-	+ Range: 0% to 100%
-	+ Type: Gain control
+    + Range: 0% to 100%
+    + Type: Gain control
 * `Flutter`: adds a subtle "spaciness" or "atmosphere" effect. Defaults to 0 (off). Use small amounts (around 0.1) for realism.
-	+ Range: 0% to 100%
-	+ Type: Control
+    + Range: 0% to 100%
+    + Type: Control
 
 Caveats:
 

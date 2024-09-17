@@ -3,17 +3,17 @@ A tone coloring plugin that gives more of an analog feel using a saturation func
 Key Controls and Settings:
 
 * `Saturation`: A good-sounding saturation function to add warmth.
-	+ Control: Saturation Drive (0-100%)
-	+ Range: 0% to 100%
-	+ Type: Knob
+    + Control: Saturation Drive (0-100%)
+    + Range: 0% to 100%
+    + Type: Knob
 * `Slew Clipper`: A calibrated slew clipper to approximate analog limitations.
-	+ Control: Slew Amount (0-100%)
-	+ Range: 0% to 100%
-	+ Type: Knob
+    + Control: Slew Amount (0-100%)
+    + Range: 0% to 100%
+    + Type: Knob
 * Highpass: To approximate the tone coloration of a recording console.
-	+ Control: HP Frequency (-24 dB/oct to +24 dB/oct)
-	+ Range: -24 dB/oct to +24 dB/oct
-	+ Type: Slider
+    + Control: HP Frequency (-24 dB/oct to +24 dB/oct)
+    + Range: -24 dB/oct to +24 dB/oct
+    + Type: Slider
 
 Best Use Cases:
 Use Channel4 on individual tracks or busses to add warmth, character, and analog feel to your mix. Ideal for giving a retro or vintage sound to instruments, drums, or vocals.

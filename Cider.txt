@@ -5,11 +5,11 @@ A tone coloring plugin that adds warmth and character to audio signals.
 Key Controls and Settings:
 
 * Input: The audio signal to be processed.
-	+ Tone Control: Adjusts the overall tone of the output. Type: [not specified].
-	+ Warmth: Adds a warm, analog sound to the output.
-	+ Character: Adds unique tone coloring characteristics to the output.
-	+ High Shelf Filter: Controls high-frequency content. Range: 20 Hz to 20000 Hz. Boost/Cut: Up to 6 dB/octave.
-	+ Low Shelf Filter: Controls low-frequency content. Range: 20 Hz to 20000 Hz. Boost/Cut: Up to 6 dB/octave.
+    + Tone Control: Adjusts the overall tone of the output. Type: [not specified].
+    + Warmth: Adds a warm, analog sound to the output.
+    + Character: Adds unique tone coloring characteristics to the output.
+    + High Shelf Filter: Controls high-frequency content. Range: 20 Hz to 20000 Hz. Boost/Cut: Up to 6 dB/octave.
+    + Low Shelf Filter: Controls low-frequency content. Range: 20 Hz to 20000 Hz. Boost/Cut: Up to 6 dB/octave.
 
 Best Use Cases:
 Adding warmth and character to vocal recordings or individual tracks/group of tracks to mix/master music that requires a warm, vintage tone. Adding depth and weight to drum sounds by using the low shelf filter.

@@ -4,8 +4,8 @@ A digital tone control simulator with a unique "steely" character.
 Key Controls and Settings:
 
 * Character Control: Affects the plugin's tone and frequency response. Increasing this control can lead to bass cancellation at high levels.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Caveats:
 Bass cancellation occurs when the Character Control is raised to high levels, which may not be desirable in all situations.

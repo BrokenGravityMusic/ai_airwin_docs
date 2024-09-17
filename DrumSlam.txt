@@ -3,12 +3,12 @@ Airwindows
 Key Controls and Settings:
 
 * Emotional vulnerability: A range from heartfelt to introspective, allowing readers to connect on a personal level.
-	+ Type: Reflective storytelling
+    + Type: Reflective storytelling
 * Determination and resilience: A range from 0% (giving up) to 100% (maintaining work schedule), showcasing the creator's commitment to their craft.
-	+ Type: Commitment to work and community
+    + Type: Commitment to work and community
 * Nostalgia and humor: A blend of lighthearted moments, witty remarks, and self-deprecation, making the update more relatable and entertaining.
-	+ Range: 0% (no humor) to 100% (full-on comedic)
-	+ Type: Humor and wit
+    + Range: 0% (no humor) to 100% (full-on comedic)
+    + Type: Humor and wit
 
 Best Use Cases:
 

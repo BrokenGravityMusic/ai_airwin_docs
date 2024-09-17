@@ -5,10 +5,10 @@ A pile of curve-style compressors in series for dynamic range control.
 Key Controls and Settings:
 
 * Multiple Compressors: A series of 5 curve-style compressors in a chain
-	+ Each compressor can be adjusted independently, but no additional settings are provided
+    + Each compressor can be adjusted independently, but no additional settings are provided
 * Dry/Wet Control: A blend between the original signal and the compressed signal
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 
 Best Use Cases:
 As a 'safety compressor' for aggressively smashed sounds, like drums

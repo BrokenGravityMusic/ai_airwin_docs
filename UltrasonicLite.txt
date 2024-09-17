@@ -4,10 +4,10 @@ A one-stage filter simulator designed for use in digital mixes, enhancing high-f
 Key Controls and Settings:
 
 * `Filter Type:` Select from various filter types (e.g. low-pass, high-pass)
-	+ Adjusts the cutoff frequency of the filter
+    + Adjusts the cutoff frequency of the filter
 * `Frequency`: Adjusts the frequency range of the filter (e.g., 10 kHz to 20 kHz)
-	+ Sets the overall gain level of the filter's output
-	+ Selects the steepness of the filter's slope (e.g., -6 dB/octave, -12 dB/octave)
+    + Sets the overall gain level of the filter's output
+    + Selects the steepness of the filter's slope (e.g., -6 dB/octave, -12 dB/octave)
 * `Resonance`: Adjust the resonance of the filter
 
 

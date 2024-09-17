@@ -3,14 +3,14 @@ ADClip8
 Key Controls and Settings:
 
 * `Mode`: Select from Normal, Gain Matched, Clip Only, Afterburner, Explode, Nuke, Apocalypse, or Apotheosis.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Ceiling`: A ceiling control to dial back the maximum clipping level
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Stage`: Selects the number of clipping stages
-	+ Range: 1-6 stages
-	+ Type: [insert text]
+    + Range: 1-6 stages
+    + Type: [insert text]
 
 Best Use Cases:
 

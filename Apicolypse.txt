@@ -5,11 +5,11 @@ A drop-in replacement for old mixes, Apicolypse is a color adder that works simi
 Key Controls and Settings:
 
 * `Hardness:` A control that ranges from 0 (Density algorithm) to 1.0 (straight digital clipping). Intermediate settings create a hybrid between clean and soft-clipped sounds.
-	+ Setting Hardness to 0 yields the Density algorithm.
-	+ Setting Hardness to 1.0 results in straight digital clipping at the extreme.
+    + Setting Hardness to 0 yields the Density algorithm.
+    + Setting Hardness to 1.0 results in straight digital clipping at the extreme.
 * `Mix:` A control that determines the onset of clipping when using intermediate settings of Hardness (between 0 and 1.0).
-	+ Range: Soft-clipping kicks in at this level.
-	+ Type: The point where soft-clipping transitions into clipping.
+    + Range: Soft-clipping kicks in at this level.
+    + Type: The point where soft-clipping transitions into clipping.
 
 Best Use Cases:
 Apicolypse is suitable for re-mastering old mixes or adding color to existing material that lacks depth and character.

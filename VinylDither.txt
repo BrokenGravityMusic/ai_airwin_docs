@@ -3,11 +3,11 @@ VinylDither
 Converts digital noise to 'groove noise' for a more vinyl-like sound.
 
 * `Error Threshold:` Sets the level at which error energy is released as burst and sparks, affecting the overall noise floor and crackling behavior.
-	+ Range: Not specified
-	+ Type: Dither setting
+    + Range: Not specified
+    + Type: Dither setting
 * `Dither Type:` Selects between different dither algorithms to achieve the desired sonic character and characteristics (e.g., TPDF, SACD).
-	+ Range: Not specified
-	+ Type: Dither type
+    + Range: Not specified
+    + Type: Dither type
 
 Mix:
 

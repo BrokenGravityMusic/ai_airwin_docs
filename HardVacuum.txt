@@ -3,11 +3,11 @@ A tube style saturation effects plugin with a warmth control that brings in seco
 Key Controls and Settings:
 
 * Warmth Control: adjusts the amount of second harmonic and nonlinearity.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Aura Control: brings out sparkly highs and hot searing overtones.
-	+ Range: 0% to 100%
-	+ Type: 
+    + Range: 0% to 100%
+    + Type: 
 
 Best Use Cases:
 

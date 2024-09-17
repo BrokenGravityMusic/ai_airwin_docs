@@ -3,7 +3,7 @@ A deep noise tone source capable of generating brownian-motion noise without exc
 Key Controls and Settings:
 
 * `Algorithm`: Generates random noise wander with equally positive and negative amounts being added or subtracted.
-	+ Adjusting the algorithm can change the noise's bassy rumble quality, making it revert to zero more often for a less bassy tone.
+    + Adjusting the algorithm can change the noise's bassy rumble quality, making it revert to zero more often for a less bassy tone.
 * `Dry/Wet`: Blend and darken underlying sounds with the generated noise.
 * `Distance`: Applies to both dry and wet signals, controlling their balance.
 

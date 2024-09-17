@@ -2,7 +2,7 @@ Dual-mono reverb plugin based on BitShiftGain and Midiverb that uses bit shifts 
 
 Key Controls and Settings:
 * `Bit Shift Amount`: Selects the amount of gain change in 6 dB increments.
-	+ Used for regeneration and high-frequency roll-off.
+    + Used for regeneration and high-frequency roll-off.
 * `Feedback`: Sets the feedback level for regeneration. The actual regeneration will be the nearest lower value to prevent reverb runaway.
 * `Bright Control`: Adjusts the degree of treble rolloff, with 100% being no roll-off and 0% being full roll-off.
 * `Regeneration Level`: Selects the regeneration level, with options for full, 1/2, 1/4, 1/8, and 1/16 levels.

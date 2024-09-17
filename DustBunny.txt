@@ -3,11 +3,11 @@ DustBunny
 Key Controls and Settings:
 
 * `Bunny Control:` Adjusts the level of distortion and scrunch.
-	+ Range: 0-100%
-	+ Default: 50%
+    + Range: 0-100%
+    + Default: 50%
 * `Gain Trim:` Optional gain adjustment before applying DustBunny.
-	+ Range: -20dB to +10dB
-	+ Default: 0dB
+    + Range: -20dB to +10dB
+    + Default: 0dB
 
 Caveats:
 Avoid using on the 2-buss or in mastering due to unpredictable results. High levels can cause jittery behavior.

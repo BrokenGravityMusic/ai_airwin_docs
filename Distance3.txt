@@ -5,11 +5,11 @@ A plugin that combines the best parts of Distance and Discontinuity, darkening s
 Key Controls and Settings:
 
 * Interleaved Stage Count: Adjusts the number of interleaved stages between Distance and Discontinuity processors
-	+ Increasing this value will combine the effects in a more interesting way, but may also increase computational demand
+    + Increasing this value will combine the effects in a more interesting way, but may also increase computational demand
 * Distance Gain: Adjusts the gain of the Distance processor
-	+ Use to balance the overall level of the effect
+    + Use to balance the overall level of the effect
 * Discontinuity Drive: Adjusts the drive of the Discontinuity processor
-	+ Use to control the amount of distortion and loudness added by Discontinuity
+    + Use to control the amount of distortion and loudness added by Discontinuity
 
 Caveats:
 * Using high values for Interleaved Stage Count may increase computational demand

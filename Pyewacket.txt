@@ -3,23 +3,23 @@ Pyewacket
 Key Controls and Settings:
 
 * `Peak Energy Control:` Adjusts the amount of peak energy brought forward in the soundstage.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Threshold`: Adjusts the level above which compression begins.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Ratio`: Sets the amount of gain reduction for signals exceeding the threshold.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Attack`: Controls how quickly compression responds to sudden changes in signal level.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Release`: Determines how quickly compression returns to its normal state after a transient has passed.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Brickwall Filter Behavior:` Activates or deactivates the brickwall filter behavior, which helps to control the transient definition.
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 
 Best Use Cases:
 

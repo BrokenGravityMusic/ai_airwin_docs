@@ -3,14 +3,14 @@ An optimized Airwindows echo plugin with four evenly spaced taps that can be use
 Key Controls and Settings:
 
 * `Delay Time`: Sets the overall delay time for all echoes simultaneously.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Tap Level 1-4`: Adjustable delay time for each of the four echoes, equally spaced in time.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Master Volume`: Sets the overall volume of the echoes.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Caveats:
 The delay time slider is not smoothed to allow for abrupt frequency changes, making it ideal for automation rather than live adjustment.

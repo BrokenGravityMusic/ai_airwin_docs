@@ -6,7 +6,7 @@ Key Controls and Settings:
 
 * `On/Off`: Switch SlewOnly on/off.
 * `Dual Pole Filtering`: Use multiple instances of SlewOnly to apply two-pole filtering for stereo imaging and clarity enhancement
-	+ Type: On/Off toggle or instance count
+    + Type: On/Off toggle or instance count
 
 Caveats:
 Switching back to normal sound after using SlewOnly may result in an incredibly dull sound due to its brightening effect. Rest your ears for a moment before resuming work when switching back.

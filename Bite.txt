@@ -5,9 +5,9 @@ An unusual edge-maker that adds a midrange edge to audio signals.
 Key Controls and Settings:
 
 * `Edge Control`: Adjusts the level of midrange edge added to or removed from the signal.
-	+ Turning clockwise adds a harshening factor, while counterclockwise reduces midrange edge.
+    + Turning clockwise adds a harshening factor, while counterclockwise reduces midrange edge.
 * `Sample Rate Compensation`: Controls how much the edge is affected by high sample rates.
-	+ High sample rates produce a more trebly edge.
+    + High sample rates produce a more trebly edge.
 
 Caveats:
 

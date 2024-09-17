@@ -5,9 +5,9 @@ A subtle analog modeling plugin that glues and thickens the sound, similar to a 
 Key Controls and Settings:
 
 * Headroom: Adjusts the amount of headroom available before clipping.
-	+ Range: Up to 30 dB
+    + Range: Up to 30 dB
 * Tone Shaping: Controls the amount of tone shaping applied to the signal.
-	+ Range: -20 dB to +10 dB
+    + Range: -20 dB to +10 dB
 
 Best Use Cases:
 

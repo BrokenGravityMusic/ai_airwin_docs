@@ -3,10 +3,10 @@ BrightAmbience2
 Key Controls and Settings:
 
 * `Delay Tap Selection`: Selects the delay taps using a series of prime numbers.
-	+ Can be used to specify a range of entries (e.g., entries 40-60) for a little ambient blur.
-	+ Total 489 entries available, which can create a half-second or more delay at 96k.
+    + Can be used to specify a range of entries (e.g., entries 40-60) for a little ambient blur.
+    + Total 489 entries available, which can create a half-second or more delay at 96k.
 * `Regeneration`: Controls the level of regeneration, ranging from clean digital slapback to fuzzy ambient slapback or sparkly atmosphere.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Offset`: Alternates delay taps left and right, creating a dual-mono ambience with center signals spread to the sides.
 
 Best Use Cases:

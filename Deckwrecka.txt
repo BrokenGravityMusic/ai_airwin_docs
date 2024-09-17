@@ -5,17 +5,17 @@ Fattens and dirties up beats, providing a thunderous overdrive effect with huge,
 Key Controls and Settings:
 
 * `Gain:` Adjusts the overall gain level of the plugin.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Drive:` Controls the amount of overdrive distortion added to the signal.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Bass Fattening:` Boosts or cuts low frequencies for extra weight and presence.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Dirt & Grunge:` A blend control that adds various types of dirt, grunge, and overdrive to the signal.
-	+ Range: Not specified
-	+ Type: Blend control
+    + Range: Not specified
+    + Type: Blend control
 
 Caveats:
 Be cautious with high drive settings as they can lead to unwanted clipping. Use sparingly on sensitive audio sources to avoid overpowering them.

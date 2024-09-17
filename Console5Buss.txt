@@ -3,18 +3,18 @@ Console5Buss
 Key Controls and Settings:
 
 * `Bus Saturation`: Adjusts the saturation level of the simulated bus.
-	+ Range: 0-100%
-	+ Default: 50%
+    + Range: 0-100%
+    + Default: 50%
 * `Warmth Control`: Adjusts the warmth and character of the simulated console.
-	+ Range: -10 to +10
-	+ Default: 0
+    + Range: -10 to +10
+    + Default: 0
 * `Gain`: Adjusts the overall gain of the plugin.
-	+ Range: -20 dB to +20 dB
-	+ Default: 0 dB
+    + Range: -20 dB to +20 dB
+    + Default: 0 dB
 * Drive: Adjusts the amount of warmth added to the signal.
-	+ Turning up increases the richness and warmth.
+    + Turning up increases the richness and warmth.
 * Color: Controls the tone and character of the console emulation.
-	+ Turning up adds more color and definition.
+    + Turning up adds more color and definition.
 * Level: Sets the overall gain and presence of the console simulation.
 
 Caveats:

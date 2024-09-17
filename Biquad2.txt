@@ -7,11 +7,11 @@ A biquad filter with sweepable characteristics and a "synthy" sound.
 Key Controls and Settings:
 
 * `Q:` Adjusts the peak resonance of the filter.
-	+ Range: 1 to 1000
-	+ Type: Resonance
+    + Range: 1 to 1000
+    + Type: Resonance
 * `Cutoff Frequency:` Sets the cutoff frequency of the filter.
-	+ Range: Smoothed at low Q and frequencies
-	+ Type: Cutoff point
+    + Range: Smoothed at low Q and frequencies
+    + Type: Cutoff point
 
 Best Use Cases:
 Use Biquad2 for applications where a biquad filter with sweepable characteristics is desired, but be aware of its limitations. It's ideal for situations where the Q value remains above 1 and the cutoff frequency does not require sharp changes.
@@ -27,5 +27,5 @@ The filter's performance is limited due to the nature of biquad filters, which c
 
 
 Resonance (Low/High Pass): Adjusts the resonant characteristics of the filter, applying a distortion effect to achieve an "overdriving filter effect".
-	+ Range: 
-	+ Type: Distortion effect
+    + Range: 
+    + Type: Distortion effect

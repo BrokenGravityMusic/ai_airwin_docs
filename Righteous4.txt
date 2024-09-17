@@ -3,14 +3,14 @@ The Spiral algorithm is used for noise shaping and dithering.
 Key Controls and Settings:
 
 * `Target LUFS:` A slider to set the target loudness level
-	+ Range: -30 dB to 0 dB
-	+ Type: Linear scale
+    + Range: -30 dB to 0 dB
+    + Type: Linear scale
 * `ADClip:` Clipping control for peak-energy handling
-	+ Range: -∞ dB to +3 dB (where +3 dB is just below clipping)
-	+ Type: Linear scale
+    + Range: -∞ dB to +3 dB (where +3 dB is just below clipping)
+    + Type: Linear scale
 * `ShortBuss:` Saturation level for the Spiral algorithm's output
-	+ Range: 0% to 100%
-	+ Type: Linear scale
+    + Range: 0% to 100%
+    + Type: Linear scale
 
 Caveats:
 - Pushing mixes beyond target LUFS levels can result in audible distortion.

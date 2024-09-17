@@ -5,11 +5,11 @@ Simulates tape flutter as a subtle, dynamic effect, reacting to the input wavefo
 Key Controls and Settings:
 
 * Rate Control: Adjusts the rate of warbling/flopping in response to the input signal.
-	+ Range: Not specified
-	+ Default value: 0.5 (adjust to bring a delicate aura of retro magic or crank it up for more treble energy)
+    + Range: Not specified
+    + Default value: 0.5 (adjust to bring a delicate aura of retro magic or crank it up for more treble energy)
 * Flutter Algorithm Settings:
-	+ Reacts directly to the input waveform, creating a regular warble with test tones
-	+ Can produce aggressive flutter when pushed too far
+    + Reacts directly to the input waveform, creating a regular warble with test tones
+    + Can produce aggressive flutter when pushed too far
 
 Best Use Cases:
 

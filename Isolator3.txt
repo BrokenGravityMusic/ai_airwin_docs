@@ -7,11 +7,11 @@ A filter that combines low-passing and high-passing functionality on one control
 Key Controls and Settings:
 
 * `Iso`: A single slider control that adjusts the crossover point between low- and high-passing frequencies. Middle position is full-range.
-	+ Range: 
-	+ Type: Crossover frequency control
+    + Range: 
+    + Type: Crossover frequency control
 * `Band Narrower`: Adjusts the band-pass characteristics of the filter.
-	+ Range: 
-	+ Type: Band-pass control
+    + Range: 
+    + Type: Band-pass control
 
 Caveats:
 

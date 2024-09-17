@@ -5,11 +5,11 @@ A distortion plugin that models air molecule distortion, allowing for extreme no
 Key Controls and Settings:
 
 * `Distortion Level`: Adjusts the overall distortion amount, from subtle to extreme.
-	+ Range: 0-100
-	+ Default value: Not specified
+    + Range: 0-100
+    + Default value: Not specified
 * `Compress/Release Control`:
-	+ `Compress Time`: Sets the time for compressing air molecules.
-	+ `Release Time`: Controls the speed at which compressed air molecules rebound.
+    + `Compress Time`: Sets the time for compressing air molecules.
+    + `Release Time`: Controls the speed at which compressed air molecules rebound.
 * `Heat Control`: Increases heat when air molecules are compressed, affecting distortion sound.
 
 Caveats:

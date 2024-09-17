@@ -5,11 +5,11 @@ A mastering highpass filter that allows setting by ear only.
 Key Controls and Settings:
 
 * `Cutoff Frequency`: A 0-1 slider controlling the cutoff frequency of the highpass filter.
-	+ Range: 0 to 1
-	+ Type: Slider
+    + Range: 0 to 1
+    + Type: Slider
 * `Slope Control`: Continuously adjusts the highpass slope using up to six poles (staggered), allowing smooth adjustment of how many poles and how steep the slope.
-	+ Pole Count: Adjusts the number of poles used in the filtering process.
-	+ Dry/Wet Control: Internally adjusts the dry/wet ratio for each pole added.
+    + Pole Count: Adjusts the number of poles used in the filtering process.
+    + Dry/Wet Control: Internally adjusts the dry/wet ratio for each pole added.
 
 Caveats:
 * Depending on settings, transparent cutting of extreme low frequencies may give rise to higher peaks. Gain stage or use limiting/clipping as needed.

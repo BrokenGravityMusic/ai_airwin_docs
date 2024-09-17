@@ -8,9 +8,9 @@ Key Controls and Settings:
 
 
 * `fpd:` Range: 0 to (2^32)-1
-	+ Type: integer
+    + Type: integer
 * `expon:` Range: -62 to +62
-	+ Type: int
+    + Type: int
 
 
 Caveats:

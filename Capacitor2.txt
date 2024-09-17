@@ -5,9 +5,9 @@ A plugin that adds analog modeling and mojo to the original Capacitor algorithm,
 Key Controls and Settings:
 
 * `NonLin:` A control that allows you to crank up the distortedness from minimal to extreme. Sensitive to input level.
-	+ Type: Distortion control
+    + Type: Distortion control
 * `Dry/Wet`:
-	+ Type: Balance control
+    + Type: Balance control
 
 Best Use Cases:
 

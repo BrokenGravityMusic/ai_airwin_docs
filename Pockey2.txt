@@ -5,19 +5,19 @@ A plugin that generates lo-fi hiphop sounds using integer bitcrushing and freque
 Key Controls and Settings:
 
 * `BitDepth`: Adjusts the bit depth from 4 to 16 bits.
-	+ Range: 4-16
-	+ Type: Integer selection
+    + Range: 4-16
+    + Type: Integer selection
 * `DeFreq`: Regulates the amount of rez added to the sound.
-	+ Range: Adjustable intensity
-	+ Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
+    + Range: Adjustable intensity
+    + Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
 * `Rez`: Controls the level of bitcrushing, with higher values resulting in more extreme effects.
-	+ Range: Adjustable intensity
-	+ Type: Integer selection
+    + Range: Adjustable intensity
+    + Type: Integer selection
 * `Frequency Crush`: Adjusts the tone and amount of frequency crushing.
-	+ Range: Adjustable intensity
-	+ Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
+    + Range: Adjustable intensity
+    + Type: Steppy control at lower sample rates (44.1k), broader range at higher sample rates (96k)
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

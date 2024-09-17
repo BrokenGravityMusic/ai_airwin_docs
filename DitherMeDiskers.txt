@@ -7,11 +7,11 @@ A plugin that generates a type of noise, known as "dither", used to reduce quant
 Key Controls and Settings:
 
 * `Bit Depth:` Sets the resolution of the dither signal (set to 16-bit by default)
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 * `Noise Shape:` Adjusts the spectral shape of the dither signal
-	+ Range: [insert range]
-	+ Type: [insert type]
+    + Range: [insert range]
+    + Type: [insert type]
 
 
 Best Use Cases:

@@ -5,15 +5,15 @@ A plugin providing three algorithms for noise floor manipulation: StudioTan (sou
 Key Controls and Settings:
 
 * `Algorithm`: Choose from three options: StudioTan, Dither Me Timbers, or Not Just Another Dither
-	+ Range: Select an algorithm to modify the tone and character of digital audio signals
+    + Range: Select an algorithm to modify the tone and character of digital audio signals
 * `Bit Depth`: Select either 24-bit or 16-bit output
-	+ Range: Choose a bit depth for the output signal
+    + Range: Choose a bit depth for the output signal
 * `Noise Shaping`: Adjust the noise shaping behavior to refine tonal results
-	+ Range: Refine the tone and behavior by adjusting the noise shaping level
+    + Range: Refine the tone and behavior by adjusting the noise shaping level
 * `Quantization` (for StudioTan and Dither Me Timbers): Enable or disable quantization
-	+ Type: Quantization setting for specific algorithms
+    + Type: Quantization setting for specific algorithms
 * `Benford Realness` (for Not Just Another Dither): Enable or disable Benford Realness statistics
-	+ Type: Statistics setting for specific algorithm
+    + Type: Statistics setting for specific algorithm
 
 Caveats:
 

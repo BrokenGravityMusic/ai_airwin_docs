@@ -3,7 +3,7 @@ Beam
 Key Controls and Settings:
 
 * Focus control: Adjusts the frequency range emphasized by Beam, with lower settings encouraging focus on deeper sounds and higher settings highlighting treble.
-	+ Range: 0.5 is a default setting targeting where human hearing is most sensitive.
+    + Range: 0.5 is a default setting targeting where human hearing is most sensitive.
 * DeRez control: Can be used to fine-tune the sound quality without affecting the noise floor.
 
 Best Use Cases:

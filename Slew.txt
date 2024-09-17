@@ -5,11 +5,11 @@ A slew clipper that darkens treble in an unusual way.
 Key Controls and Settings:
 
 * Control: Slew Threshold
-	+ Adjusts the level above which slewing occurs
+    + Adjusts the level above which slewing occurs
 * Control: Slew Attack Time
-	+ Sets the time it takes for slewing to reach maximum effect
+    + Sets the time it takes for slewing to reach maximum effect
 * Control: Slew Release Time
-	+ Sets the time it takes for slewing to decay back to normal
+    + Sets the time it takes for slewing to decay back to normal
 
 Best Use Cases:
 Morphing and transforming percussive sounds or hats

@@ -5,9 +5,9 @@ A multi-stage slew clipper that creates a gluing and taming of bright digital hi
 Key Controls and Settings:
 
 * Stages: Number of stages used in the slew clipping effect (default: 14)
-	+ Adjusting this control allows you to balance the amount of processing applied to your audio.
+    + Adjusting this control allows you to balance the amount of processing applied to your audio.
 * Maximum Slew: Maximum slew value for each stage (default varies by sample)
-	+ This setting determines how much the sound is "clipped" or shaped at each stage.
+    + This setting determines how much the sound is "clipped" or shaped at each stage.
 
 Caveats:
 

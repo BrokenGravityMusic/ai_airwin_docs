@@ -9,6 +9,6 @@ Key Controls and Settings:
 * `Mid`: Adjust the mid channel level.
 * `Side`: Adjust the side channel level.
 * `Master`: Adjust the overall master level.
-	+ Range: Use same noise shaping to floating point buss as in PurestGain
+    + Range: Use same noise shaping to floating point buss as in PurestGain
 * Mix: A blend control for mixing the processed sound with the original (note: not explicitly listed in this plugin, but mentioned elsewhere)
-	+ Range: 0% to 100%
+    + Range: 0% to 100%

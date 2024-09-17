@@ -5,10 +5,10 @@ A programmable dither plugin that uses a combination of noise samples to create 
 Key Controls and Settings:
 
 * `Sample Delay`: adjusts the delay time for the noise sample
-	+ 1 sample: PaulDither (very bright one-pole highpass)
-	+ 2 samples: silky texture (still very bright)
-	+ 4 samples: TapeDither (nice softer noise)
-	+ 8 samples: dark, flangey dither (CassetteDither or "TapeDither for 96K")
+    + 1 sample: PaulDither (very bright one-pole highpass)
+    + 2 samples: silky texture (still very bright)
+    + 4 samples: TapeDither (nice softer noise)
+    + 8 samples: dark, flangey dither (CassetteDither or "TapeDither for 96K")
 * `Reinforce Lows`: adjusts the low-frequency response of the dither
 * `Flange Note`: tunes the flangey note of the dither to match your track
 

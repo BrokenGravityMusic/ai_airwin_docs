@@ -3,13 +3,13 @@ A biquad filter with texture-varying filtering capabilities.
 Key Controls and Settings:
 
 * `ResEdge:` A control that affects the sharpness of the filter edge.
-	+ Range: 0% (softer tone) to infinite
-	+ Type: Distortion control
+    + Range: 0% (softer tone) to infinite
+    + Type: Distortion control
 * `Resonance:` A control that affects the resonant frequency of the filter.
-	+ Range: 0% (flat response) to 100%
-	+ Type: Resonance control
+    + Range: 0% (flat response) to 100%
+    + Type: Resonance control
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 No control smoothing is applied, resulting in slightly more CPU efficiency but potentially more erratic behavior. The filter tone can become aggressively unnatural and glitchy at high ResEdge values.

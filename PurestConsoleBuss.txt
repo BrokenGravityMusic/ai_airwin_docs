@@ -3,23 +3,23 @@ PurestConsoleBuss
 Key Controls and Settings:
 
 * `Input Level Control:` Adjusts the signal level entering the plugin.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Output Level Control:` Adjusts the signal level exiting the plugin.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Pre-Delay:` Adjusts the time between the input signal and the start of the console simulation (0-100 ms).
-	+ Range: 0-100 ms
-	+ Type: Time
+    + Range: 0-100 ms
+    + Type: Time
 * `Characterization:` Selects from different types of console character (e.g., warm, cool, neutral) to match your desired sound.
-	+ Range: [insert text]
-	+ Options: [insert options]
+    + Range: [insert text]
+    + Options: [insert options]
 * `Gain:` Adjusts the overall level of the console buss.
-	+ Range: -100 dB to +10 dB
-	+ Default: 0 dB
+    + Range: -100 dB to +10 dB
+    + Default: 0 dB
 * `Coloration:` Controls the amount of coloration added by the console buss.
-	+ Range: 0% to 100%
-	+ Default: 0%
+    + Range: 0% to 100%
+    + Default: 0%
 
 Best Use Cases:
 Ideal for use as a clean, uncolored console bus in mixing and mastering applications. Suitable for mastering stages, post-processing, or whenever a clean and uncolored signal path is required.

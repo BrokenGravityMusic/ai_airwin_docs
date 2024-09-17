@@ -5,9 +5,9 @@ A cascaded biquad filter providing steeper roll-off before resonance.
 Key Controls and Settings:
 
 * `Resonance`: Controls the peak frequency response of the filter.
-	+ Range: "impossibly high" to full bandwidth
+    + Range: "impossibly high" to full bandwidth
 * `Cutoff Steepness`: Sets the steepness of the low-pass roll-off.
-	+ Note: Stacked filters allow for twice as much cutoff steepness before resonance.
+    + Note: Stacked filters allow for twice as much cutoff steepness before resonance.
 
 Best Use Cases:
 

@@ -5,14 +5,14 @@ A plugin that creates a unique sound by using minimalist processing techniques, 
 Key Controls and Settings:
 
 * `Bit Shifter:` A control for shifting bits without altering the mantissa
-	+ Range: -24 dB to 0 dB
-	+ Type: Linear
+    + Range: -24 dB to 0 dB
+    + Type: Linear
 * `Simple Average:` A control for filtering using simple averaging
-	+ Range: Off to 1.00
-	+ Type: Linear
+    + Range: Off to 1.00
+    + Type: Linear
 * `Saturation Level:` A control for setting the saturation level
-	+ Range: 0% to 100%
-	+ Type: Linear
+    + Range: 0% to 100%
+    + Type: Linear
 
 Best Use Cases:
 This plugin will appeal to users who want a unique sound that prioritizes minimalism and preserving the original audio information. It's ideal for those who want to create mixes that sound like life, not like a DAW.

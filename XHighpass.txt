@@ -7,11 +7,11 @@ A digital EQ with a distorted high-pass filter, inspired by retro sampler DSP.
 Key Controls and Settings:
 
 * Frequency: Adjusts the cutoff frequency of the high-pass filter (range: 20 Hz to 22 kHz).
-	+ Type: Frequency control
+    + Type: Frequency control
 * Resonance: Boosts or attenuates frequencies around the cutoff point (range: -12 dB to +24 dB).
-	+ Type: Gain control
+    + Type: Gain control
 * Output Gain: Adjusts the overall output level of the plugin.
-	+ Type: Level control
+    + Type: Level control
 
 Caveats:
 High levels of distortion can cause "zapping" noises and clipping.

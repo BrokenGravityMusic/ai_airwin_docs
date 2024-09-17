@@ -5,14 +5,14 @@ An Emu e6400 style Airwindows Region filter with coefficient smoothing.
 Key Controls and Settings:
 
 * `Poles`: Adjusts the number of poles in the filter.
-	+ Higher values create more aggressive effects.
-	+ Lower values produce softer effects.
+    + Higher values create more aggressive effects.
+    + Lower values produce softer effects.
 * `Filter Stages`: A series of bandpass filters used to distort audio.
-	+ Adjust the number of stages by changing the filter configuration.
+    + Adjust the number of stages by changing the filter configuration.
 * `Bandpass Frequencies`: Set the frequencies for each stage to stagger the distortion effect.
-	+ Adjust the low and high pass frequencies to target specific frequency ranges.
+    + Adjust the low and high pass frequencies to target specific frequency ranges.
 * `Gain`: Controls the overall gain of the filter.
-	+ Use to balance with dry signal and achieve desired tone.
+    + Use to balance with dry signal and achieve desired tone.
 
 Best Use Cases:
 Producing aggressive and textural bandpass-y effects, creating heavy bass tones with midrange articulation, experimenting with dynamic control movements to achieve unique sounds.

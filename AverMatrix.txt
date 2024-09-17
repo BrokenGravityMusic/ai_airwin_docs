@@ -7,9 +7,9 @@ Key Controls and Settings:
 * `Taps`: Adjust the number of input samples to average (1-10).
 * `Poles`: Set the number of poles for filtering (1-10), affecting frequency response.
 * `Inv/Dry/Wet`: Select mode:
-	+ 0: Regular averaging
-	+ 100: Highpass filter with inverted wet signal
-	+ Intermediate values: Subtle treble lift or high-frequency boost
+    + 0: Regular averaging
+    + 100: Highpass filter with inverted wet signal
+    + Intermediate values: Subtle treble lift or high-frequency boost
 
 Best Use Cases:
 

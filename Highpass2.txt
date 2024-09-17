@@ -5,13 +5,13 @@ Variable-slope high/lowpass filters with adjustable slope and tone doctoring.
 Key Controls and Settings:
 
 * `Filter Control`: Adjusts the cutoff frequency, allowing for a fully open or heavily filtered sound regardless of sample rate.
-	+ Range: From complete silence to wide open
-	+ Type: Adjustable
+    + Range: From complete silence to wide open
+    + Type: Adjustable
 * `Loose/Tight Slider (Highpass2):` Interacts with Filter Control to vary the cutoff based on input signal value, allowing for subtle filtering or dramatic effects.
-	+ Range: Loose (less filtering) to Tight (more filtering)
+    + Range: Loose (less filtering) to Tight (more filtering)
 * `Poles`: Selects the number of poles for filtering (0-4).
-	+ Default: 4
-	+ Type: Adjustable
+    + Default: 4
+    + Type: Adjustable
 
 Caveats:
 

@@ -5,12 +5,12 @@ A combination compressor-gate plugin that allows for hyper-compression and gatin
 Key Controls and Settings:
 
 * `Compression`
-	+ Speed: controls the attack and release of the compressor (lower values = slower compression, higher values = faster compression)
-	+ Intensity: controls the overall compression ratio (higher values = more compression)
+    + Speed: controls the attack and release of the compressor (lower values = slower compression, higher values = faster compression)
+    + Intensity: controls the overall compression ratio (higher values = more compression)
 * `Gate`
-	+ Threshold: sets the level above which the gate will be triggered
-	+ Ratio: sets the amount of reduction when the gate is triggered
-	+ Release: controls how quickly the gate will re-open after closing
+    + Threshold: sets the level above which the gate will be triggered
+    + Ratio: sets the amount of reduction when the gate is triggered
+    + Release: controls how quickly the gate will re-open after closing
 
 Best Use Cases:
 * Shaping and tightening sounds for clarity and definition

@@ -5,9 +5,9 @@ A plugin that adds a "Presence" effect to Spiral, allowing onset transients to p
 Key Controls and Settings:
 
 * `Presence:` A slider (crossfader) that blends between the original Spiral circuit and the circuit with one-sample delay on the sense circuit.
-	+ 0: Original Spiral circuit
-	+ Full: Circuit with one-sample delay on the sense circuit, allowing onset transients to pass through
-	+ Midway: Balanced blend of both circuits, producing a peaking effect at exactly 0 dB
+    + 0: Original Spiral circuit
+    + Full: Circuit with one-sample delay on the sense circuit, allowing onset transients to pass through
+    + Midway: Balanced blend of both circuits, producing a peaking effect at exactly 0 dB
 * `Pre and Post Gain:` Controls for adjusting the gain before and after the signal processing
 * `Highpass:` A high-pass filter to remove low-frequency content
 * `Dry/Wet Mix:` A control for blending the processed signal with the original dry signal

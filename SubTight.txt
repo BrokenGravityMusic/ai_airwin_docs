@@ -5,9 +5,9 @@ A variation on the Creature algorithm used to tighten sub-lows.
 Key Controls and Settings:
 
 * `Steepness`: A control that affects the strength of SubTight's effect, making it more aggressive in refining the low end.
-	+ Range: Non-linear
+    + Range: Non-linear
 * `Trim`: A control that adjusts the amount of "weakness" or "flabbiness" removed from the bass.
-	+ Range: Not specified
+    + Range: Not specified
 
 Caveats:
 

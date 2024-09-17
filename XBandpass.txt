@@ -3,13 +3,13 @@ A digital equalizer with a bandpass filter response, inspired by retro sampler D
 
 Key Controls and Settings:
 * `Frequency`: Adjusts the center frequency of the bandpass filter. Range: 20 Hz to 20000 Hz.
-	+ Type: Adjustable Frequency Control
+    + Type: Adjustable Frequency Control
 * `Q Factor`: Sets the resonance or "Q" factor of the filter, affecting its peakiness. Range: 0.1 to 10.
-	+ Type: Adjustable Q Control
+    + Type: Adjustable Q Control
 * `Gain`: Controls the overall level of the filtered signal. 
-	+ Type: Gain Control
+    + Type: Gain Control
 * `Mix:` A blend control for mixing the processed sound with the original.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 * May produce zipper noise when adjusting settings on the fly due to its CPU-efficient design.

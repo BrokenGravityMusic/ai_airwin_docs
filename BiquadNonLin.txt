@@ -3,7 +3,7 @@ BiquadNonLin
 Key Controls and Settings:
 
 * `Type:` 
-	+ Range: 0 (lowpass) to 1 (bandpass)
+    + Range: 0 (lowpass) to 1 (bandpass)
 * `Inv/Wet control:` Use Inv instead of Wet for highpasses or notches
 * `NonLinearity:` Set to high values (e.g. 0.5) for more obvious effects
 

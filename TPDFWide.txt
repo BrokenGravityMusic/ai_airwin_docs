@@ -5,14 +5,14 @@ A high-quality Triangular Probability Density Function (TPDF) dither plugin with
 Key Controls and Settings:
 
 * `DeRez:` A setting that allows you to adjust the bit depth of the dither, ranging from low-bit realms (with a 'regulation' TPDF dither) to normal operation (24 or 16 bit modes)
-	+ Range: Low-bit to 0
-	+ Type: Bit depth control
+    + Range: Low-bit to 0
+    + Type: Bit depth control
 * `Bit Mode:` Output bit depth selection, with options for 16/24-bit
-	+ Range: 16-bit to 24-bit
-	+ Type: Output format
+    + Range: 16-bit to 24-bit
+    + Type: Output format
 * `Channel Check:` The plugin checks if the two stereo channels have the same random values. If they are, it rerolls one channel to maintain randomness and prevent mono dither.
-	+ Range: Off/On
-	+ Type: Randomization control
+    + Range: Off/On
+    + Type: Randomization control
 
 Caveats:
 Using low DeRez values can introduce DC offset. High DeRez values may affect soundstage and wideness.

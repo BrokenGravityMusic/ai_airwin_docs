@@ -5,11 +5,11 @@ A tiny amp simulator with low gain, designed for clean, articulate effects or hi
 Key Controls and Settings:
 
 * Gain: Adjusts the overall gain of the amplifier.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * Dry/Wet Control:
-	+ Stage 1 (Cab Sim): A special control that provides one stage of dry/wet mixing for the cab simulation.
-	+ Stage 2 (Amp Sim): Another stage controls the amp simulation.
+    + Stage 1 (Cab Sim): A special control that provides one stage of dry/wet mixing for the cab simulation.
+    + Stage 2 (Amp Sim): Another stage controls the amp simulation.
 
 Best Use Cases:
 

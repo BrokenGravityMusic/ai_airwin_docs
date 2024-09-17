@@ -5,13 +5,13 @@ A multi-purpose plugin that can tame pointy sounds or make drums explode. It's a
 Key Controls and Settings:
 
 * `Amount`: Adjusts the amount of smoothing applied to the signal.
-	+ Range: 0-100%
-	+ Type: Adjust to subtle for removing stray edges, aggressive for explosive effects
+    + Range: 0-100%
+    + Type: Adjust to subtle for removing stray edges, aggressive for explosive effects
 * `Output Level`: Sets the output level of the smoothed signal.
-	+ Range: -24.8 dB to +6.0 dB
+    + Range: -24.8 dB to +6.0 dB
 * `Dry/Wet`: Blends the original and smoothed signals.
-	+ Range: 0-100%
-	+ Type: Increase dry for more original sound, increase wet for more smoothing
+    + Range: 0-100%
+    + Type: Increase dry for more original sound, increase wet for more smoothing
 
 Best Use Cases:
 * Softening spikes in audio signals, such as spikey acoustic guitars or overly edgy mics

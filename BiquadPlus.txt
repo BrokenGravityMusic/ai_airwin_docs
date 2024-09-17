@@ -5,13 +5,13 @@ A biquad filter with added zipper noise suppression for smoother sound processin
 Key Controls and Settings:
 
 * `Filter Type`: Select the type of biquad filter to use.
-	+ Range: Various types (e.g. low-pass, high-pass)
+    + Range: Various types (e.g. low-pass, high-pass)
 * `Cutoff Frequency`: Adjust the cutoff frequency of the filter
-	+ Type: Numeric value
+    + Type: Numeric value
 * `Resonance`: Set the resonance of the filter, affecting its tone and emphasis on specific frequencies
-	+ Type: Numeric value
+    + Type: Numeric value
 * `Smoothing`: Control the amount of zipper noise suppression applied to the filter output
-	+ Range: Not specified
+    + Range: Not specified
 
 Best Use Cases:
 Designing fixed filters or tuning EQs in a mix

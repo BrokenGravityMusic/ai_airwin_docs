@@ -3,17 +3,17 @@ Drive
 Key Controls and Settings:
 
 * `Highpass:` A high-pass filter to control low-end rumble.
-	+ Range: Not specified
-	+ Type: Filter
+    + Range: Not specified
+    + Type: Filter
 * `Output Trim:` Adjusts the overall output level of the plugin.
-	+ Range: Not specified
-	+ Type: Level control
+    + Range: Not specified
+    + Type: Level control
 * `Dry/Wet:` Blends the original signal with the distorted signal.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * `Mode:` Select from different distortion modes (Mojo, Dyno)
-	+ Range: Not specified
-	+ Type: Mode selector
+    + Range: Not specified
+    + Type: Mode selector
 
 Best Use Cases:
 Use Drive when you want to create angry, gritty, or crunching overdrive effects on individual tracks such as bass, snare drum, or other sound sources.

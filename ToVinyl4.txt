@@ -5,13 +5,13 @@ A vinyl-mastering simulator that adds several vinyl-type colors to your audio, i
 Key Controls and Settings:
 
 * `Bass Reformatter`: A multipole IIR filter that reshapes the bass, making it more mono or tightening up the center. Adjustable parameters include:
-	+ Range: [adjustable]
-	+ Type: [multipole IIR filter]
+    + Range: [adjustable]
+    + Type: [multipole IIR filter]
 * `Acceleration Limiter`: A treble-reducer algorithm that zeroes in on transients and zaps them ruthlessly. Adjustable parameters include:
-	+ Threshold: [adjustable]
-	+ Attack/Release: [adjustable]
+    + Threshold: [adjustable]
+    + Attack/Release: [adjustable]
 * `Groove Wear`: A control that simulates the effects of a stylus traveling down a vinyl groove, introducing inertia and slight distortion. Adjustable parameters include:
-	+ Amount: [adjustable]
+    + Amount: [adjustable]
 
 Best Use Cases:
 

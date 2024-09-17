@@ -3,12 +3,12 @@ Console7Crunch
 Key Controls and Settings:
 
 * UltrasonX filters (five instances in each signal path):
-	+ Two on each channel
-	+ Two on the submix
-	+ One on the 2-buss
-	+ Can be used as 'pre-brightening' or 'complementary darkening' ones
+    + Two on each channel
+    + Two on the submix
+    + One on the 2-buss
+    + Can be used as 'pre-brightening' or 'complementary darkening' ones
 * Filtering order:
-	+ Can be adjusted to suit individual needs
+    + Can be adjusted to suit individual needs
 
 Caveats:
 

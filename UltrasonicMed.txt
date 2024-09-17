@@ -3,11 +3,11 @@ A two-stage supersonic filter for use in digital mixes, designed to clean up top
 Key Controls and Settings:
 
 * `Number of stages:` Choose between one (Lite) or two (Medium) stages of filtering.
-	+ Range: 1-2
-	+ Type: Selection
+    + Range: 1-2
+    + Type: Selection
 * `Frequency response:` The filters start at a higher frequency to preserve more high-end content.
-	+ Range: Adjustable (default is approximately 20k Hz)
-	+ Type: Frequency cutoff
+    + Range: Adjustable (default is approximately 20k Hz)
+    + Type: Frequency cutoff
 
 Caveats:
 

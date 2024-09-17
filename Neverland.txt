@@ -3,15 +3,15 @@ Neverland
 Key Controls and Settings:
 
 * `Gain`: Adjusts the overall level of the signal. Range: -20 dB to +6 dB.
-	+ Type: Gain Control
+    + Type: Gain Control
 * `Saturation`: Controls the amount of color added to the signal. Range: 0% to 100%.
-	+ Type: Blend Control
+    + Type: Blend Control
 * `Mid Color`: Selects the color tone for the mid-frequency range. Options: Yellow, Orange, Red, Blue, Purple.
-	+ Range: N/A
-	+ Type: Selector
+    + Range: N/A
+    + Type: Selector
 * `High Frequency Color`: Selects the color tone for the high-frequency range. Options: Yellow, Green, Cyan, Violet.
-	+ Range: N/A
-	+ Type: Selector
+    + Range: N/A
+    + Type: Selector
 
 Best Use Cases:
 Restoring old mixes that used the original Neverland plugin.

@@ -7,11 +7,11 @@ A distortion plugin that combines a distortion and anti-distortion circuit to re
 Key Controls and Settings:
 
 * `Aggro:` A knob that controls the level of distortion and raspiness in the output sound.
-	+ Range: Subtle to extreme
-	+ Type: Knob
+    + Range: Subtle to extreme
+    + Type: Knob
 * Distorts quiet samples minimally, while amplifying medium samples significantly. 
-	+ Range: 0% to 100%
-	+ Type: 
+    + Range: 0% to 100%
+    + Type: 
 * The plugin can be used on any type of audio, from percussive noises to instruments and vocals.
 
 Best Use Cases:

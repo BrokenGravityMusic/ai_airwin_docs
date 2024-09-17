@@ -3,37 +3,37 @@ PurestConsole3Buss
 Key Controls and Settings:
 
 * Input level adjustment
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Drive control
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Tone shaping (high-pass, low-pass, shelving filters)
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Mix bus width setting
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Algorithm selection: Choose from various console algorithms
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Pre-dominant tone: Adjust the overall tone of the console sound
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Cabinet resonance: Set the amount of resonant energy in the console cabinet
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Dry: Adjusts the amount of direct signal passed through
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Drive: Adds a controlled amount of distortion to the signal
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Tone: Shapes the frequency response of the console
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Mix: Blends the levels of the dry and drive signals
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Mixing and mastering applications where a minimalist console sound is desired, post-processing for film, TV, or live concert recordings, music production where a clean high-fidelity sound is required.

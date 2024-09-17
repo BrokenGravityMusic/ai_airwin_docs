@@ -2,20 +2,20 @@ Edge
 A seven-stage distortion with Hypersonic filtering and tone shaping controls.
 `Key Controls and Settings:`
 * `Gain`: Adjust the overall gain of the plugin.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * `Lowpass`: Set the cutoff frequency for the lowpass filter (25k to deep bass).
-	+ Range: 25k to deep bass
-	+ Type: Filter control
+    + Range: 25k to deep bass
+    + Type: Filter control
 * `Highpass`: Dial in the highpass filter to control the input frequency range.
-	+ Range: Not specified
-	+ Type: Filter control
+    + Range: Not specified
+    + Type: Filter control
 * `Output`: Control the level of the final output signal.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * `Dry/Wet`: Blend the original dry sound with the processed wet sound when used as a hard clipper.
-	+ Range: 0% to 100%
-	+ Type: Mix control
+    + Range: 0% to 100%
+    + Type: Mix control
 `Best Use Cases:`
 Ideal for guitar-grade distortion, high-gain situations, and as a component in the DI Guitar system (combined with other plugins like Cabs).
 `Caveats:`

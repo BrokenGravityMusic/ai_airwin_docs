@@ -5,8 +5,8 @@ A saturation plugin that adds intensity and fire to audio, reshaping waveforms w
 Key Controls and Settings:
 
 * Adjusts the character of the effect
-	+ `Mastered Clip Level`: Adjusts the maximum allowed peak level for the audio signal. Range: Not specified.
-	+ `Intersample Peak Maximum`: Sets the maximum allowable intersample peak level. Range: Not specified.
+    + `Mastered Clip Level`: Adjusts the maximum allowed peak level for the audio signal. Range: Not specified.
+    + `Intersample Peak Maximum`: Sets the maximum allowable intersample peak level. Range: Not specified.
 
 Best Use Cases:
 Ideal for adding subtle intensity and fire to audio, similar to Remap but with a different character.

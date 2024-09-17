@@ -6,10 +6,10 @@ A highpass filter with soft and smooth to nasty, edgy texture-varying filtering.
 Key Controls and Settings:
 
 * ResEdge: Adjusts the resonant edge for a slightly asymmetrical distortion, producing warm analog sounds at lower settings or aggressive glitchy sounds at higher settings.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

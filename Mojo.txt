@@ -2,9 +2,9 @@ A plugin that adds weight and loudness to sounds, making them fatter and more en
 
 Key Controls and Settings:
 * Curve Factor: A control that modifies the algorithm's behavior, adding complexity and character to the sound.
-	+ Adjusting this control affects how much fatness and energy are added to the sound.
+    + Adjusting this control affects how much fatness and energy are added to the sound.
 * Input Gain: A control for increasing or decreasing the overall loudness of the sound.
-	+ Mojo can soak up input gain like nothing I've seen.
+    + Mojo can soak up input gain like nothing I've seen.
 
 Caveats:
 * Mojo is not a clean plugin, it thickens and fattens the sound without changing EQ.

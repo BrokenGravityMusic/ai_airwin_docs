@@ -3,14 +3,14 @@ SoftGate
 Key Controls and Settings:
 
 * Fade Time: Adjusts the speed at which the noise floor is faded away.
-	+ Range: 0 to 10 seconds
-	+ Type: Time-based fade
+    + Range: 0 to 10 seconds
+    + Type: Time-based fade
 * Gate Level: Sets the threshold level for the gate (from -50 to 0 dB).
-	+ Type: Threshold-based gate
+    + Type: Threshold-based gate
 * Link Mode: Stereo-linked mode, allowing separate left and right channel processing.
-	+ Type: Stereo-linking option
+    + Type: Stereo-linking option
 * Mix: A blend control for balancing the processed signal with the raw input.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

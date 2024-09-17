@@ -5,17 +5,17 @@ A flexible tape echo plugin that offers substantial changes over its predecessor
 Key Controls and Settings:
 
 * `Delay Time`: Adjusts the delay time.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * `Resonance`: Tightens or loosens the bandwidth of the bandpass filters.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 * `Dry/Wet Mix`: Sets the balance between the original and echoed audio.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * `Tape Flutter`: Modulates the tape speed based on the amplitude of the underlying track.
-	+ Range: Not specified
-	+ Type: Control
+    + Range: Not specified
+    + Type: Control
 
 Caveats:
 May require a second to stabilize if used in tightly trimmed audio regions. Rough handling of the delay time control can lead to choppy sound.

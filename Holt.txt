@@ -3,11 +3,11 @@ A synth-like resonant lowpass filter focused on bass frequencies.
 Key Controls and Settings:
 
 * `Cutoff Frequency:` Sets the frequency below which the filter begins to affect the audio.
-	+ Adjusting this control will make the plugin go from a sophisticated lowpass on upper mids and highs to an extreme low-frequency version.
+    + Adjusting this control will make the plugin go from a sophisticated lowpass on upper mids and highs to an extreme low-frequency version.
 * `Resonance:` Controls the peakiness of the filter's response at the cutoff frequency.
-	+ Higher resonance settings can make the plugin self-resonate.
+    + Higher resonance settings can make the plugin self-resonate.
 * `Dry/Wet Control:` Mixes between the dry (unfiltered) audio and the filtered audio.
-	+ Can be used to tame the plugin's low-frequency madness.
+    + Can be used to tame the plugin's low-frequency madness.
 
 Caveats:
 The poles control can affect the overall processing load.

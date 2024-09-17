@@ -6,11 +6,11 @@ Key Controls and Settings:
 
 * `Dry/Wet`: Blend of original signal with processed signal.
 * `Atmosphere`: High frequency attenuation, can be used to create a sense of distance or extreme loudness.
-	+ Range: 0.1% to 100%
-	+ Low settings (0.1 or less): Equivalent to a natural sound
-	+ High settings: Can produce an unnatural, extreme loudness sound due to slew clipping
+    + Range: 0.1% to 100%
+    + Low settings (0.1 or less): Equivalent to a natural sound
+    + High settings: Can produce an unnatural, extreme loudness sound due to slew clipping
 * `Darken`: Controls low-frequency dynamics, helps to create a realistic sound when combined with high Atmosphere settings.
-	+ Range:
+    + Range:
 
 Caveats:
 Using extreme settings can result in unnatural, distorted sounds. The plugin is not suitable for mastering or 2-buss applications due to its intensely colored nature.

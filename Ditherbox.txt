@@ -5,17 +5,17 @@ A switchable selection of dithers in 16 and 24 bit, plus monitoring tools.
 Key Controls and Settings:
 
 * `Dither Type`: Choose from various Airwindows dither plugins
-	+ Range: Select the most suitable dither type for your needs
-	+ Type: Varies by selection
+    + Range: Select the most suitable dither type for your needs
+    + Type: Varies by selection
 * `Bit Depth`: Switch between 16-bit and 24-bit output
-	+ Range: Select based on output requirements (e.g. CD-quality 16-bit)
-	+ Type: Binary (16/24 bit)
+    + Range: Select based on output requirements (e.g. CD-quality 16-bit)
+    + Type: Binary (16/24 bit)
 * Monitoring Tools:
-	+ SlewOnly: Calibrated playback for Slew-only content
-	+ SubsOnly: Calibrated playback for Subs-only content
-	+ Silhouette: Calibrated noise replacement to evaluate dynamic behavior
-		- Range: Varies by selection
-		- Type: Noise replacement
+    + SlewOnly: Calibrated playback for Slew-only content
+    + SubsOnly: Calibrated playback for Subs-only content
+    + Silhouette: Calibrated noise replacement to evaluate dynamic behavior
+        - Range: Varies by selection
+        - Type: Noise replacement
 
 Best Use Cases:
 

@@ -5,12 +5,12 @@ A plugin that provides a wide range of time modulation effects, including vibrat
 Key Controls and Settings:
 
 * Main Vibrato Control:
-	+ Speed: Adjusts the speed of the main vibrato effect.
-	+ Depth: Sets the amount of vibrato applied to the audio signal.
-	+ Inverse Mode: Reverses the direction of the vibrato or flange effect.
+    + Speed: Adjusts the speed of the main vibrato effect.
+    + Depth: Sets the amount of vibrato applied to the audio signal.
+    + Inverse Mode: Reverses the direction of the vibrato or flange effect.
 * FM Vibrato Control:
-	+ Speed: Controls the speed of the FM modulation.
-	+ Depth: Adjusts the amount of FM modulation applied to the main vibrato.
+    + Speed: Controls the speed of the FM modulation.
+    + Depth: Adjusts the amount of FM modulation applied to the main vibrato.
 
 Caveats:
 

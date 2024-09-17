@@ -5,17 +5,17 @@ A take on tape echo into chamber echo, producing a dirty, aggressive, and wild s
 Key Controls and Settings:
 
 * Regeneration: Adjusts the amount of feedback and echo. Cranking it up can cause distortion and infinite echo.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Bass Cut: Filters out low frequencies. Cranking it up causes harder filtering than the real Abbey Road STEED unit.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Delay Time: Sets the delay time for the echo effect. Cranking it all the way to the left for minimum delay may increase CPU usage. Adjusting this control can also cause wild pitch modulations.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Predelay: Sets the initial delay before the main echo effect kicks in
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Caveats:
 Cranking Regeneration or Bass Cut too high can cause distortion and instability.

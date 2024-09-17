@@ -5,12 +5,12 @@ A parametric EQ plugin using stacked biquad filters to create steep Butterworth 
 Key Controls and Settings:
 
 * Frequency: sets the frequency for all three filters in parallel.
-	+ Range: [insert text]
-	+ Type: linear
+    + Range: [insert text]
+    + Type: linear
 * Q: sets the quality factor for each filter, affects the roll-off slope.
-	+ Range: 
+    + Range: 
 * Boost/Nonlinearity: adds nonlinearity to the bandpass response.
-	+ Range: 
+    + Range: 
 
 Caveats:
 The biquads can be fussy about extreme settings and sudden changes in slider positions. Be careful when adjusting the sliders abruptly.

@@ -3,11 +3,11 @@ CloudCoat
 Key Controls and Settings:
 
 * `Sustain:` Controls the amount of feedback in the effect.
-	+ Minimum value: 0 (no sustain)
-	+ Maximum value: 1 (maximum sustain)
+    + Minimum value: 0 (no sustain)
+    + Maximum value: 1 (maximum sustain)
 * `Depth:` Controls the spaciousness and metallic qualities of the effect.
-	+ Minimum value: 0 (minimum depth)
-	+ Maximum value: 10 (maximum depth)
+    + Minimum value: 0 (minimum depth)
+    + Maximum value: 10 (maximum depth)
 
 Caveats:
 With sustain set to 0, CloudCoat produces a cloudy, diffuse texture. Increasing sustain creates a more roomy and spacious sound.

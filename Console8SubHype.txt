@@ -5,7 +5,7 @@ A brightness and high-mid softening plugin for channels, submixes, or busses.
 Key Controls and Settings:
 
 * No controls; replaces Console8SubIn.
-	+ Swappable with Console8ChannelHype and Console8BussHype for different stages of processing.
+    + Swappable with Console8ChannelHype and Console8BussHype for different stages of processing.
 
 Best Use Cases:
 * On individual channels for direct effect

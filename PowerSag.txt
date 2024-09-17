@@ -5,11 +5,11 @@ Emulates power supply limitations in analog modeling, creating a compressey or d
 Key Controls and Settings:
 
 * `Depth`: Control the amount of compression or distortion.
-	+ Range: Adjusts the level of power supply limitation
-	+ Type: Exaggerate Depth to create compressey or distortey effects
+    + Range: Adjusts the level of power supply limitation
+    + Type: Exaggerate Depth to create compressey or distortey effects
 * `Speed`: Controls how quickly the power supply is drained.
-	+ Range: Extremely slow speed creates a tubey effect, very quick speed creates a big-console transient effect
-	+ Type: Adjusts the rate at which the plugin sucks energy out of the sound
+    + Range: Extremely slow speed creates a tubey effect, very quick speed creates a big-console transient effect
+    + Type: Adjusts the rate at which the plugin sucks energy out of the sound
 
 Mix: Not applicable.
 

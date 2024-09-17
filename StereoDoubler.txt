@@ -7,8 +7,8 @@ Key Controls and Settings:
 * `Note`: Pitch shift amount in semitones.
 * `Trim`: Unquantized pitch shifting offset (use with caution).
 * `Tightness`:
-	+ Turning up: Shortens buffer size, creates harsh de-rezzing bitscrunch sound or tightly tracked, robotic effects.
-	+ Turning down: Expands buffer size, creates smooth legato effects, but can lead to decoupling and pitch-delay artifacts.
+    + Turning up: Shortens buffer size, creates harsh de-rezzing bitscrunch sound or tightly tracked, robotic effects.
+    + Turning down: Expands buffer size, creates smooth legato effects, but can lead to decoupling and pitch-delay artifacts.
 * `Feedback`: Adds feedback to the pitch shifted signal.
 
 Best Use Cases:

@@ -7,20 +7,20 @@ A primitive pitch shifter with time-stretch artifacts that produces a high-res i
 Key Controls and Settings:
 
 * `Note Interval Control`: Adjusts note intervals in half-steps (range: -24 to +24).
-	+ Range: six octave range
-	+ Type: sets the pitch shift
+    + Range: six octave range
+    + Type: sets the pitch shift
 * `Pure Pitch Bend Control`: Pure pitch bend control (stacks with Note Interval Control for high/low bends, range: -24 to +24).
-	+ Range: six octave range
-	+ Type: sets a pure pitch bend
+    + Range: six octave range
+    + Type: sets a pure pitch bend
 * `Sample Buffer Size Control`: Specifies the buffer size as a musical note (six octave range), affecting pitch shift capabilities.
-	+ Range: six octave range
-	+ Type: sets the buffer size
+    + Range: six octave range
+    + Type: sets the buffer size
 * `Feedback Control`: Regenerates sound at high levels, creating Eventide-like noises or adding harmonic density.
-	+ Range: variable
-	+ Type: adds regenerative feedback
+    + Range: variable
+    + Type: adds regenerative feedback
 * `Dry/Wet Control`: Balances original sound with processed sound (range: 0% to 100%).
-	+ Range: 0% to 100%
-	+ Type: blends the processed sound with the original
+    + Range: 0% to 100%
+    + Type: blends the processed sound with the original
 
 
 Best Use Cases:

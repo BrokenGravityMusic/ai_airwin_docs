@@ -3,14 +3,14 @@ Melt
 A wobbly chorusy weird diffuse effect that utilizes a delay buffer with pitch-shifting and tonal modulation.
 `Key Controls and Settings:`
 * `Moving Average Delay`: A delayed moving average section, where start and end points can be read from the delay buffer.
-	+ Start and End Points: Control points for the moving average section.
-	+ Wobble Amount: Amplitude of wobble in the moving average section.
+    + Start and End Points: Control points for the moving average section.
+    + Wobble Amount: Amplitude of wobble in the moving average section.
 * `Pitch-Shifting`:
-	+ Pitch Shift Depth: Controls the amount of pitch-shifting applied to the delayed signal.
-	+ Wobble Amount (again): Controls the amount of tonal modulation and volume change while pitching.
+    + Pitch Shift Depth: Controls the amount of pitch-shifting applied to the delayed signal.
+    + Wobble Amount (again): Controls the amount of tonal modulation and volume change while pitching.
 * `Dry/Wet Mix`:
-	+ Dry Signal: Blend control for the dry signal mixed with the processed signal.
-	+ Wet Signal: Blend control for the processed signal mixed with the original dry signal.
+    + Dry Signal: Blend control for the dry signal mixed with the processed signal.
+    + Wet Signal: Blend control for the processed signal mixed with the original dry signal.
 `Best Use Cases:`
 Ideal for creating strange retro ambience effects, or more traditional chorusy sounds. Can also be used on pads and other instruments to add dark and diffuse texture.
 `Tips on Optimal Settings:`

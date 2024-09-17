@@ -5,7 +5,7 @@ A lowpass/highpass filter with a unique tone for DAYS, offering an analog-synth-
 Key Controls and Settings:
 
 * `Frequency Control`: Adjusts the cutoff frequency between highpass and lowpass modes.
-	+ Reaches 1 (full crank) seamlessly bypasses itself while still calculating the filtered signal
+    + Reaches 1 (full crank) seamlessly bypasses itself while still calculating the filtered signal
 * `High/Low Mode Switcher`: Selects between highpass and lowpass filtering.
 * `Dry/Wet Mix Control`: Adjusts the balance between the filtered and dry signals.
 

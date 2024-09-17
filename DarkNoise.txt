@@ -5,9 +5,9 @@ Generates midrangey or bassier noise directly without filtering.
 Key Controls and Settings:
 
 * `List size:` The number of random values used to generate output.
-	+ Adjusting this value affects the brightness of the top-end and overall tone.
+    + Adjusting this value affects the brightness of the top-end and overall tone.
 * `Midrange control:` A setting that adjusts the midrange character of the noise.
-	+ Lower settings produce a brighter, more trebly sound, while higher settings make it more bassy.
+    + Lower settings produce a brighter, more trebly sound, while higher settings make it more bassy.
 * `Gate threshold:` The level above which the output is gated (silenced) to prevent DC offset buildup.
 
 Caveats:

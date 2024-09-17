@@ -5,11 +5,11 @@ A utility plugin that periodically switches audio from stereo to mono every few 
 Key Controls and Settings:
 
 * Switch Time: Sets the interval (1-10 minutes) between switching from stereo to mono.
-	+ Range: 1-10 minutes
-	+ Type: Time interval
+    + Range: 1-10 minutes
+    + Type: Time interval
 * Switch Duration: The time it takes for the switch to occur (about 0.1 seconds).
-	+ Range: Approximately 0.1 seconds
-	+ Type: Time duration
+    + Range: Approximately 0.1 seconds
+    + Type: Time duration
 
 Best Use Cases:
 

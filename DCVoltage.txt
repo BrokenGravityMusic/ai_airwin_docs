@@ -5,11 +5,11 @@ An analog-style DC control voltage simulator, useful for creating and modulating
 Key Controls and Settings:
 
 * `Value:` Adjusts the level of the simulated DC voltage.
-	+ Range: Adjustable to various levels
-	+ Type: Slider
+    + Range: Adjustable to various levels
+    + Type: Slider
 * `Meters:` Displays the current value of the simulated DC voltage, useful for metering and canceling out DC offsets.
-	+ Range: Adjustable to display current value
-	+ Type: Meter
+    + Range: Adjustable to display current value
+    + Type: Meter
 
 Best Use Cases:
 

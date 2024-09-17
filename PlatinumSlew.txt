@@ -4,17 +4,17 @@ Key Controls and Settings:
 
 * Input: The audio signal to be processed.
 * Rate of Change: Adjusts the algorithm's ability to alter transients and subsonics. Higher values produce more pronounced effects.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Slew Setting: Adjusts the amount of slew clipping applied to the input signal. Cranking it up can lead to sample and hold behavior.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Transients: Controls the transients of the high-end.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Bass Response: Adjusts the subsonics (bass) response.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Caveats:
 Cranking Slew to 1.0 can result in sample and hold, trapping energy. Use with caution when applying extreme settings, especially on audio signals that will be amplified or used for low-frequency effects.

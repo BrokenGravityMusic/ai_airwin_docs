@@ -3,12 +3,12 @@ Hombre
 Key Controls and Settings:
 
 * Delay 1 and Delay 2: Two calibrated delay taps that can be tweaked to thicken and diffuse tones.
-	+ Delay Time: Adjust the time between the two delays to achieve desired texture and thickness.
-	+ Phase: Flip the phase of one or both delays to cancel or reinforce low frequencies.
-	+ Range: Select which frequency range to reflect (highs, lows, full-range).
-	+ Strength: Adjust the level of the delayed signal to add punch and juice to the dry signal.
+    + Delay Time: Adjust the time between the two delays to achieve desired texture and thickness.
+    + Phase: Flip the phase of one or both delays to cancel or reinforce low frequencies.
+    + Range: Select which frequency range to reflect (highs, lows, full-range).
+    + Strength: Adjust the level of the delayed signal to add punch and juice to the dry signal.
 * Mix: Blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 Using Hombre with long delay times can result in muddy or unclear audio. Combining Hombre with other plugins that affect low frequencies can lead to phase issues.

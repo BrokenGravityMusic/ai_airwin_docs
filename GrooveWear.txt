@@ -5,7 +5,7 @@ Key Controls and Settings:
 
 * `Intensity`: Controls the amount of slew averaging done by each stage.
 * `Dry/Wet`: A control for adjusting the amount of effect added progressively across four stages. Increases from pristine to deep groove wear.
-	+ Specify how much wet signal is mixed with the dry signal at each stage.
+    + Specify how much wet signal is mixed with the dry signal at each stage.
 * `Stage`: The number of processing stages used for the effect (default: 4).
 
 Best Use Cases

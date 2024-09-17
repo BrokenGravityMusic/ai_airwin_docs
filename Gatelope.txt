@@ -1,9 +1,9 @@
 Key Controls and Settings:
 
 * Threshold: Adjusts the level at which the gate starts to operate.
-	+ Recommended method of use: find the proper gating threshold with this top slider.
+    + Recommended method of use: find the proper gating threshold with this top slider.
 * Attack Speed: Fine-tune the speed at which the gate responds to input changes.
-	+ May be adjusted depending on where you find the optimal threshold point.
+    + May be adjusted depending on where you find the optimal threshold point.
 * Treble Sustain: Regulate how long high-frequency signals are sustained after the gate closes.
 * Bass Sustain: Control how long low-frequency signals are sustained after the gate closes.
 * Dry/Wet Ratio: Blend the original signal with the gated effect to achieve a balanced sound.

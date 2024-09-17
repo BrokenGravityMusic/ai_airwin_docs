@@ -5,11 +5,11 @@ A stereo tripler with extra wideness and GlitchShifter processing, capable of do
 Key Controls and Settings:
 
 * `Dry/Wet`: Blends the original signal with the widened effect.
-	+ Increase to introduce the effect and overpower 'dry' (mono signal).
-	+ Fades out mid content of added stereo stuff for hyper-wide effect.
+    + Increase to introduce the effect and overpower 'dry' (mono signal).
+    + Fades out mid content of added stereo stuff for hyper-wide effect.
 * `Tightness Control`: Adjusts pitch shifting and widening.
-	+ Increase to glitch or revert to dry, or turn down for unpredictable echoey effect.
-	+ Tighten up for controlled vagueness or tie to rhythmic elements.
+    + Increase to glitch or revert to dry, or turn down for unpredictable echoey effect.
+    + Tighten up for controlled vagueness or tie to rhythmic elements.
 
 Best Use Cases:
 

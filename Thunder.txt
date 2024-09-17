@@ -5,16 +5,16 @@ A compressor plugin that retains or exaggerates subsonic bass when driven hard.
 Key Controls and Settings:
 
 * Threshold: Adjusts the level at which compression begins.
-	+ Range: 
+    + Range: 
 * Ratio: Sets the amount of compression applied to the signal.
-	+ Range: 
+    + Range: 
 * Attack: Controls how quickly the compressor responds to changes in the input signal.
-	+ Range: 
+    + Range: 
 * Release: Determines how long it takes for the compressor to return to its normal state after the input signal decreases.
-	+ Range: 
+    + Range: 
 * Mix: Blends the original and compressed signals.
-	+ Range: A blend control for mixing the processed sound with the original
-		- Range: 0% to 100%
+    + Range: A blend control for mixing the processed sound with the original
+        - Range: 0% to 100%
 
 Transform Factor: Adjusts the sensitivity and behavior of the compressor's subsonic bass modulation.
 

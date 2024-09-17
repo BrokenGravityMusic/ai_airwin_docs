@@ -5,7 +5,7 @@ A console emulation plugin with various tone colors and a dynamic convolution mo
 Key Controls and Settings:
 
 * Model Selection: Choose from Dark, Rock, Lush, Vibe, Holo, Punch, Steel, or Tube.
-	+ Each model has its own unique tone characteristics.
+    + Each model has its own unique tone characteristics.
 * Drive Control: Adjust the drive level to shape the tone.
 * Dry/Wet Control: Blend the plugin's output with the original sound.
 

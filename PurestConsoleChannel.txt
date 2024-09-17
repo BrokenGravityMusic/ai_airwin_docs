@@ -5,9 +5,9 @@ A plugin that provides a clean dynamics encode/decode system without the tone-ch
 Key Controls and Settings:
 
 * Channels: inputSample = sin(inputSample)
-	+ Strips down to simple amplitude encode/decode
+    + Strips down to simple amplitude encode/decode
 * Buss: inputSample = asin(inputSample)
-	+ Cancels out completely and doesn't touch the sound unless multiple channels are mixing
+    + Cancels out completely and doesn't touch the sound unless multiple channels are mixing
 
 Properties:
 - Goes for math functions which include complementary sin() and asin()

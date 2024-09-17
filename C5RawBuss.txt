@@ -3,11 +3,11 @@ Console 5 Algorithm
 Key Controls and Settings:
 
 * `DC Suppression:` A toggle switch to enable or disable gentle DC suppression (optional)
-	+ Range: On/Off
-	+ Type: Toggle
+    + Range: On/Off
+    + Type: Toggle
 * `Threshold:` Adjusts the level at which DC correction is applied (dB)
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Gain Structure:
 C5RawBuss should be placed after gain staging and EQ, as it is not intended to correct low-frequency imbalances caused by these processes.

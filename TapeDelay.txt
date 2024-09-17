@@ -5,10 +5,10 @@ A vintage tape echo with pitch swerve effects, using a technique for tone shapin
 Key Controls and Settings:
 
 * `Delay Time Control`: Adjusts the delay time of the plugin, which can produce wild pitch bends when manipulated.
-	+ Tip: Give the plugin at least 1/4 second to stabilize before adjusting settings to avoid buffer smashings/dropouts.
+    + Tip: Give the plugin at least 1/4 second to stabilize before adjusting settings to avoid buffer smashings/dropouts.
 * `Tone Shaping Control`: Affects the tone shape of the plugin using prime-numbered sample delay times.
-	+ Range: 
-	+ Type: A simplified version of Iron Oxide
+    + Range: 
+    + Type: A simplified version of Iron Oxide
 * `Prime Number Delay Time`: Enables or disables the prime-number based tone shaping delay time.
 
 Caveats:

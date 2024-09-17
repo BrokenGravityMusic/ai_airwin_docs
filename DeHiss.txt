@@ -5,10 +5,10 @@ Suppresses background hiss using a filter-like gate approach.
 Key Controls and Settings:
 
 * `Lowpass Filter`: Adjusts the cutoff frequency of the lowpass filter to suppress quiet background noise.
-	+ Range: 100-200 Hz (start point for targeting low-frequency rumble and hiss)
+    + Range: 100-200 Hz (start point for targeting low-frequency rumble and hiss)
 * `Dry/Wet`: Blend between original signal (dry) and filtered signal (wet).
-	+ Range: 0% to 100%
-	+ Adjusting this control allows for creative uses, such as subtle tone-shaping or adding character to a sound.
+    + Range: 0% to 100%
+    + Adjusting this control allows for creative uses, such as subtle tone-shaping or adding character to a sound.
 * `Threshold` (optional): Adjusts the level above which the lowpass filter is applied to quiet background noise.
 
 Best Use Cases:

@@ -5,9 +5,9 @@ Saturation plugin that adds subtle tone and character, ideal for adding warmth a
 Key Controls and Settings:
 
 * `Intensity`: A slider control from 0 to 1 that determines how much saturation is applied.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * `Apply`: The combination of the dry and saturated signals, calculated dynamically based on frequency content.
-	+ Type: Blend control
+    + Type: Blend control
 
 Best Use Cases:
 Ideal for adding subtle saturation to individual tracks or busses, preserving airy highs and subtleties while enhancing dense material. Suitable for a wide range of genres and musical styles.

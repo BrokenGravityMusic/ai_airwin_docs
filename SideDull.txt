@@ -7,8 +7,8 @@ A lowpass filter applied solely to the side channel, mono-ing highs and down.
 Key Controls and Settings:
 
 * Setting: The plugin is aware of sample rates, so if you're at a 0.1 setting at 44.1K, it ought to be doing the same thing at 0.1 at 96K.
-	+ Range: Adjusts the frequency cutoff for the lowpass filter (DC to 22K).
-	+ Type: Increase or decrease the setting value to adjust the frequency cutoff.
+    + Range: Adjusts the frequency cutoff for the lowpass filter (DC to 22K).
+    + Type: Increase or decrease the setting value to adjust the frequency cutoff.
 
 Best Use Cases:
 

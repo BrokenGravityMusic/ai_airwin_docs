@@ -4,11 +4,11 @@ Teenage Engineering TX-6 digital mixer and Airwindows Balanced software setup
 Key Controls and Settings:
 
 * Input: 
-	+ Range: High-quality audio input capability
-	+ Type: Analog-to-Digital Converter (ADC)
+    + Range: High-quality audio input capability
+    + Type: Analog-to-Digital Converter (ADC)
 * Airwindows Balanced Software:
-	+ Range: Full range of balanced inputs converted to high-quality mono output
-	+ Type: Audio software plugin for conversion of balanced signals
+    + Range: Full range of balanced inputs converted to high-quality mono output
+    + Type: Audio software plugin for conversion of balanced signals
 
 Caveats:
 

@@ -5,11 +5,11 @@ A minimalist analog tape emulation that provides transparent treble softening an
 Key Controls and Settings:
 
 * `Softer`: Adjusts the level of softening applied to the input signal.
-	+ Range: 
-	+ Type: Treble softening control
+    + Range: 
+    + Type: Treble softening control
 * `Weight (Highpass)`: Adjusts the cutoff frequency of a resonant highpass filter, cutting bass frequencies in such a way that they might be louder after processing.
-	+ Range: 
-	+ Type: Highpass filter control
+    + Range: 
+    + Type: Highpass filter control
 
 Caveats:
 Cranking Softer to its maximum setting can result in clipping and an unpleasant sound. The highpass may cause clean unclipped bass pre-FromTape to become 3dB louder post-processing, requiring additional gain reduction or buffering.

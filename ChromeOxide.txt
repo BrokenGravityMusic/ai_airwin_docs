@@ -3,17 +3,17 @@ A dual-band tape emulation plugin that produces a vibey old tape sonic effect by
 Key Controls and Settings:
 
 * Intensity: Controls the amount of noise effect used in the plugin.
-	+ Range: Not specified
-	+ Type: Noise
+    + Range: Not specified
+    + Type: Noise
 * Bias: Adjusts the delay time of the highs against the lows, sculpting phase aberrations and roll-off.
-	+ Range: Not specified
-	+ Type: Delay
+    + Range: Not specified
+    + Type: Delay
 * Lows Saturation: Saturates the low-frequency band.
-	+ Range: Not specified
-	+ Type: Saturation
+    + Range: Not specified
+    + Type: Saturation
 * Highs Delay: Delays the high-frequency band.
-	+ Range: Not specified
-	+ Type: Delay
+    + Range: Not specified
+    + Type: Delay
 
 Best Use Cases:
 Ideal for creating Boards of Canada-type sounds and mulch-core audio that emulates the tone of old cassette tapes. Suitable for adding a vintage vibe to tracks without overpowering them.

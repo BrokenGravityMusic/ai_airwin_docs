@@ -8,8 +8,8 @@ Key Controls and Settings:
 * `Glitter`: Treble-boost band 2 (similar to Energy2's 'Rat' band)
 * `Air`: Treble-boost band 3 (broader, softer air band)
 * `Dry/Wet`: Control for balancing the Energy style of increasing the effect with traditional Dry/Wet control
-	+ Up to 0.75: Full volume dry signal
-	+ Between 0.75 and 1: Dry signal fades away as wet signal increases
+    + Up to 0.75: Full volume dry signal
+    + Between 0.75 and 1: Dry signal fades away as wet signal increases
 
 Best Use Cases:
 

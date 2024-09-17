@@ -5,8 +5,8 @@ A tone control plugin that uses an averaging filter based on prime-numbered dela
 Key Controls and Settings:
 
 * Tone shaping: Adjusts the filtering curve of the plugin.
-	+ To roll off highs, decrease the tone level.
-	+ To create a highpass, subtract the tone effect from the original signal.
+    + To roll off highs, decrease the tone level.
+    + To create a highpass, subtract the tone effect from the original signal.
 * Prime number selection: Selects from a set of prime numbers used to calculate the delay times.
 * Averaging settings: Adjusts the averaging process, affecting the tone and ambience produced by the plugin.
 

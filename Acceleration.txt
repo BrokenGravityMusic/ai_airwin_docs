@@ -9,14 +9,14 @@ Key Controls and Settings:
 * Adjustment: Adjusts the amount of acceleration limiting applied to the signal.
 
 Range:
-	+ Amount control: Not specified
-	+ Dry/Wet control: Not specified
-	+ Adjustment: Not specified
+    + Amount control: Not specified
+    + Dry/Wet control: Not specified
+    + Adjustment: Not specified
 
 Type:
-	+ Amount control: Not specified
-	+ Dry/Wet control: Not specified
-	+ Adjustment: Not specified
+    + Amount control: Not specified
+    + Dry/Wet control: Not specified
+    + Adjustment: Not specified
 
 Best Use Cases:
 

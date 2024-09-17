@@ -5,20 +5,20 @@ A pure, subtle compression effect with no gain or transition points, ideal for g
 Key Controls and Settings:
 
 * `Threshold:` -60 dB to 0 dB
-	+ Range: -60 dB to 0 dB
-	+ Type: Control
+    + Range: -60 dB to 0 dB
+    + Type: Control
 * `Ratio:` Adjust the compression ratio from 1x to 10x
-	+ Range: 1x to 10x
-	+ Type: Control
+    + Range: 1x to 10x
+    + Type: Control
 * `Attack Time:` Control the time it takes for the compressor to respond to loud signals (1 ms to 100 ms)
-	+ Range: 1 ms to 100 ms
-	+ Type: Control
+    + Range: 1 ms to 100 ms
+    + Type: Control
 * `Release Time:` Set the time it takes for the compressor to recover after a signal has passed (10 ms to 500 ms)
-	+ Range: 10 ms to 500 ms
-	+ Type: Control
+    + Range: 10 ms to 500 ms
+    + Type: Control
 * `Makeup Gain:` Adjust the output gain to compensate for compression (-24 dB to 0 dB)
-	+ Range: -24 dB to 0 dB
-	+ Type: Control
+    + Range: -24 dB to 0 dB
+    + Type: Control
 
 Best Use Cases:
 Ideal for gentle level balancing, subtle compression, and mixing/mastering applications where a pure, uncolored effect is desired.

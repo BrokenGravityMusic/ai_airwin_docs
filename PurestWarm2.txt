@@ -5,14 +5,14 @@ Adds softest-possible-saturation effect to one side of the waveform while passin
 Key Controls and Settings:
 
 * `Side 1 Dry/Wet Control`: Adjusts the amount of saturation applied to the positive side of the waveform, ranging from 0 (bypass) to 100% (full saturation).
-	+ Low values: minimal or no effect
-	+ High values: maximum saturation
+    + Low values: minimal or no effect
+    + High values: maximum saturation
 * `Left Dry/Wet`: Controls the amount of saturation applied to the positive half of the waveform.
-	+ Low values: minimal or no effect
-	+ High values: maximum saturation
+    + Low values: minimal or no effect
+    + High values: maximum saturation
 * `Right Dry/Wet`: Controls the amount of saturation applied to the negative half of the waveform, ranging from 0 (bypass) to 100% (full saturation).
-	+ Low values: minimal or no effect
-	+ High values: maximum saturation
+    + Low values: minimal or no effect
+    + High values: maximum saturation
 
 Best Use Cases:
 Ideal for adding subtle warmth and texture to waveforms, especially electric bass guitars where the string swings near the pickup.

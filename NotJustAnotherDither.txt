@@ -2,14 +2,14 @@ NotJustAnotherDither
 
 Key Controls and Settings:
 * `Bit Switch`: Switch between 16-bit and 24-bit operation (defaults to 24)
-	+ Range: 16-bit/24-bit
-	+ Type: Toggle
+    + Range: 16-bit/24-bit
+    + Type: Toggle
 * `DeRez Control`: Adjustable control for low-bit NJAD audio or auditioning noise floor behavior
-	+ Range: Not specified
-	+ Type: Adjuster
+    + Range: Not specified
+    + Type: Adjuster
 * `Output Levels`: Low output levels without extra energy from the noise shaper
-	+ Range: Not specified
-	+ Type: Slider
+    + Range: Not specified
+    + Type: Slider
 
 Best Use Cases:
 Ideal for output formats, but can be used repeatedly in processing with caution. Use a normal TPDF if no tonal balance change is desired.

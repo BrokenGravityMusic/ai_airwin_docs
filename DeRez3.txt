@@ -8,10 +8,10 @@ Key Controls and Settings:
 
 
 * Rate: Influences the sampling rate and reconstruction process
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Dry/Wet Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 

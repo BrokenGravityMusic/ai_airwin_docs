@@ -5,14 +5,14 @@ A general-purpose reverb/ambience plugin that uses soft undersampling to produce
 Key Controls and Settings:
 
 * `Undersample Factor:` controls the level of undersampling
-	+ Range: exact divisor of sample rate (to avoid 'antique digital' artifacts)
-	+ Type: select an exact divisor for optimal results
+    + Range: exact divisor of sample rate (to avoid 'antique digital' artifacts)
+    + Type: select an exact divisor for optimal results
 * `Regen:` wide-ranging control for infinite reverbs or extremely short ambiences
-	+ Range: adjust to achieve desired sustain or ambiance duration
-	+ Type: control infinite sustain and regeneration across various settings
+    + Range: adjust to achieve desired sustain or ambiance duration
+    + Type: control infinite sustain and regeneration across various settings
 * `Predelay:` sets the delay time for short ambiences
-	+ Range: adjust to place the reverb or ambiance exactly where needed
-	+ Type: control the position of short ambiences in time
+    + Range: adjust to place the reverb or ambiance exactly where needed
+    + Type: control the position of short ambiences in time
 
 Best Use Cases:
 General-purpose reverb/ambience plugin, ideal for applications where infinite sustain or short ambiences are needed.

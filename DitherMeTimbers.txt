@@ -5,14 +5,14 @@ A filter that darkens and deepens the most delicate subtleties of the digital wa
 Key Controls and Settings:
 
 * Latency: adjustable delay (output stage)
-	+ Range: [insert text]
+    + Range: [insert text]
 * Micro-Environment Size: controls the size of the micro-environment considered for rounding
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Noise Shaping: adjusts the amount of noise added to the output
-	+ Range: [insert text]
+    + Range: [insert text]
 * Treble Darkening: controls the amount of treble reduction in the output
-	+ Range: [insert text]
+    + Range: [insert text]
 
 Best Use Cases:
 Adding depth and organic tone to ambient or distant sounds

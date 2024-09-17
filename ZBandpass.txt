@@ -2,14 +2,14 @@ ZBandpass
 
 Key Controls and Settings:
 * `Poles`: Adjusts output gain and allows for more headroom. Lower values allow for more distorted sounds, while higher values provide cleaner results.
-	+ Range: 
-	+ Type: Control
+    + Range: 
+    + Type: Control
 * `Gain`: Sets the overall level of the filtered signal.
-	+ Range: 
-	+ Type: Control
+    + Range: 
+    + Type: Control
 * `Cutoff Frequency`: Sets the center frequency of the bandpass, which determines the range of frequencies passing through the filter.
-	+ Range: 
-	+ Type: Control
+    + Range: 
+    + Type: Control
 
 Best Use Cases:
 Use ZBandpass to create filtered sounds with a wide frequency range. It's ideal for situations where you need to isolate and enhance specific frequencies within an audio signal.

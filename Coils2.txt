@@ -2,13 +2,13 @@ Coils2
 
 Key Controls and Settings:
 * `Saturation:` Determines what happens outside the 'resonant band'. It clamps down, not boosting into maximum overload. Turning it up all the way creates a bandpass effect.
-	+ Range: 0% to 100%
-	+ Type: controls amount of overload and distortion
+    + Range: 0% to 100%
+    + Type: controls amount of overload and distortion
 * `Cheapness:` Narrows the band in which the transformer's putting out clean, pure sound. Increasing Cheapness distorts and loses lows and highs, and introduces a hysteresis effect of magnetizing the transformer core.
-	+ Range: 0% to 100%
-	+ Type: controls frequency range where transformer produces clean sound
+    + Range: 0% to 100%
+    + Type: controls frequency range where transformer produces clean sound
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 * Shaping and sculpting existing audio, such as on a 2-buss to tighten lows and give more impact and vibe.

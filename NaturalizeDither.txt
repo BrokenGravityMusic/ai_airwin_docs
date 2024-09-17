@@ -3,11 +3,11 @@ Deterministic dither that uses Benford Realness calculations for each sample, er
 Key Controls and Settings:
 
 * `Benford's Law settings:`
-	+ `byn[0] = 1000;`: Weighting factor for '1' as the first digit.
-	+ `byn[1] = 301;`: Weighting factor for '2' as the first digit.
-	+ ... (similar settings for `byn[9]`)
+    + `byn[0] = 1000;`: Weighting factor for '1' as the first digit.
+    + `byn[1] = 301;`: Weighting factor for '2' as the first digit.
+    + ... (similar settings for `byn[9]`)
 * `Sample direction control:`
-	+ Truncates each sample up or down to the nearest value, then applies Benford's Law calculation.
+    + Truncates each sample up or down to the nearest value, then applies Benford's Law calculation.
 
 Best Use Cases:
 Ideal for use in any genre at any sample rate, adding no tonal color and producing a quiet noise floor that "hides" behind reverb tails.

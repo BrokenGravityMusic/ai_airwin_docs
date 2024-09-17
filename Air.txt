@@ -5,8 +5,8 @@ Simulates a bright EQ effect, requiring 44.1K sample rate.
 Key Controls and Settings:
 
 * Sample Rate: Set to 44.1K for optimal performance.
-	+ Range: Not applicable (fixed)
-	+ Type: Integer
+    + Range: Not applicable (fixed)
+    + Type: Integer
 * No additional controls or settings are specified.
 
 Caveats:

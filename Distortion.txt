@@ -7,10 +7,10 @@ Key Controls and Settings:
 * `Presets`: Select from various preset algorithms, such as Focus.
 * `Mode`: Choose from different modes, including Mojo, Dyno, Density, Drive, and Spiral.
 * `Sample Rate`: Adjust the sample rate to control the plugin's behavior:
-	+ At 44.1k: Averaging stage before distortion, darkening output but interfering with aliasing.
-	+ At higher rates (96k or 192k): More poles of simple averaging used after distortion, softening tone and increasing aliasing rejection.
+    + At 44.1k: Averaging stage before distortion, darkening output but interfering with aliasing.
+    + At higher rates (96k or 192k): More poles of simple averaging used after distortion, softening tone and increasing aliasing rejection.
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Warm overdrive effects in music production, especially at high sample rates. Creating distinct, softer sounds without clarity from multi-pole biquad rolloffs.

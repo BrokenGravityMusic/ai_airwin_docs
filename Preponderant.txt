@@ -3,16 +3,16 @@ A tone intensifier and balancer plugin that focuses on maximizing resonant sonor
 Key Controls and Settings:
 
 * `Resonance`: Turn up to hear what frequency ranges Preponderant is focusing on.
-	+ Range: Unknown
-	+ Type: Adjustment control
+    + Range: Unknown
+    + Type: Adjustment control
 * `Wet:` Adjust the balance between the processed sound and the original sound.
-	+ Range: Unknown
-	+ Type: Adjustment control
+    + Range: Unknown
+    + Type: Adjustment control
 * `Narrow`, `Medium`, `Wide`:
-	+ Use these controls to select frequency bands (each band is twice as wide as the previous one).
-	+ Set them to areas in your sound, such as midrange or specific frequencies.
-	+ Range: Unknown
-	+ Type: Frequency selection control
+    + Use these controls to select frequency bands (each band is twice as wide as the previous one).
+    + Set them to areas in your sound, such as midrange or specific frequencies.
+    + Range: Unknown
+    + Type: Frequency selection control
 
 Best Use Cases:
  

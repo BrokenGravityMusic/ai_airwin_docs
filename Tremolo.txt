@@ -5,11 +5,11 @@ A plugin that uses fluctuating saturation curves to achieve a distinctive "tubey
 Key Controls and Settings:
 
 * `Saturation Curve`: Adjusts the curve of saturation used for the tremolo effect. Higher values add more density and thickness to the sound.
-	+ Range: 0-100%
-	+ Type: Saturation
+    + Range: 0-100%
+    + Type: Saturation
 * `Antisaturation Curve`: Adjusts the curve of antisaturation used for the lean parts of the sound. Lower values help preserve transient attacks.
-	+ Range: 0-100%
-	+ Type: Antisaturation
+    + Range: 0-100%
+    + Type: Antisaturation
 
 Best Use Cases:
 

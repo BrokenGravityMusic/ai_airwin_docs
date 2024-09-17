@@ -3,69 +3,69 @@ Tychobrahe Plugin Suite
 Key Controls and Settings:
 
 * `Dithers`:
-	+ HighImpact: 
-		- Range: 
-		- Type: 
-	+ Dark: 
-		- Range: 
-		- Type: 
+    + HighImpact: 
+        - Range: 
+        - Type: 
+    + Dark: 
+        - Range: 
+        - Type: 
 
 * `Dynamics`:
-	+ Pop2: 
-		- Range: 
-		- Type: 
-	+ Pressure5: 
-		- Range: 
-		- Type: 
+    + Pop2: 
+        - Range: 
+        - Type: 
+    + Pressure5: 
+        - Range: 
+        - Type: 
 
 * `Effects`:
-	+ Dubly2: 
-		- Range: 
-		- Type: 
-	+ GalacticVibe: 
-		- Range: 
-		- Type: 
+    + Dubly2: 
+        - Range: 
+        - Type: 
+    + GalacticVibe: 
+        - Range: 
+        - Type: 
 
 * `Filter`:
-	+ Parametric EQs (e.g., Baxandall2, Pear2): 
-		- Range: 
-		- Type: 
+    + Parametric EQs (e.g., Baxandall2, Pear2): 
+        - Range: 
+        - Type: 
 
 * `Lo-Fi`:
-	+ Tape simulation effects (e.g., Flutter2, DeRez3): 
-		- Range: 
-		- Type: 
+    + Tape simulation effects (e.g., Flutter2, DeRez3): 
+        - Range: 
+        - Type: 
 
 * `Noise`:
-	+ Noise generators (e.g., Noise, Texturize): 
-		- Range: 
-		- Type: 
+    + Noise generators (e.g., Noise, Texturize): 
+        - Range: 
+        - Type: 
 
 * `Reverb`:
-	+ Plate reverbs (e.g., kPlateD, kCathedral3): 
-		- Range: 
-		- Type: 
+    + Plate reverbs (e.g., kPlateD, kCathedral3): 
+        - Range: 
+        - Type: 
 
 * `Saturation`:
-	+ Tube and transistor simulators (e.g., Creature, Tube2): 
-		- Range: 
-		- Type: 
+    + Tube and transistor simulators (e.g., Creature, Tube2): 
+        - Range: 
+        - Type: 
 
 * `Stereo`:
-	+ Stereo widening and imaging effects (e.g., Srsly, Wider): 
-		- Range: 
-		- Type: 
+    + Stereo widening and imaging effects (e.g., Srsly, Wider): 
+        - Range: 
+        - Type: 
 
 * `Tone Color`:
-	+ Buss coloration effects (e.g., BussColors4, Channel9): 
-		- Range: 
-		- Type: 
+    + Buss coloration effects (e.g., BussColors4, Channel9): 
+        - Range: 
+        - Type: 
 
 Utility:
 
 * Metering and monitoring tools (e.g., Monitoring3, MidSide): 
-		- Range: 
-		- Type: 
+        - Range: 
+        - Type: 
 * Utility processing units (e.g., BitShiftGain, DCVoltage): 
-		- Range: 
-		- Type:
+        - Range: 
+        - Type:

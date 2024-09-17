@@ -3,8 +3,8 @@ Channel5
 Key Controls and Settings:
 
 * Output Level Control: 
-	+ Range: 0.0 to 1.0
-	+ Type: Controls the output level of the plugin
+    + Range: 0.0 to 1.0
+    + Type: Controls the output level of the plugin
 
 Live Air Denormalizing:
 + A permanent noise signal is always present, unless the result with the signal is digital black, in which case it is subtracted again

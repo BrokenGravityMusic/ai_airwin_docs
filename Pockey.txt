@@ -3,11 +3,11 @@ A plugin designed to deliver warm fuzzy texture like an old sampler for 12 bit l
 Key Controls and Settings:
 
 * `Resolution Slider:` Adjusts the resolution from exactly 12 bit to progressively more lo-fi in an 'analog bitcrush' mode.
-	+ Lowest setting: Exactly 12 bit
-	+ Higher settings: Gradually builds, fading smoothly from higher bitrates (up to CD-quality)
+    + Lowest setting: Exactly 12 bit
+    + Higher settings: Gradually builds, fading smoothly from higher bitrates (up to CD-quality)
 * `Frequency Crush Effect:`
-	+ Uses edge-softening algorithm like PurestDrive for resonant and sonorous frequency crush.
-	+ Adjusts the level of digital nasty effects, with lower settings minimizing intrusion.
+    + Uses edge-softening algorithm like PurestDrive for resonant and sonorous frequency crush.
+    + Adjusts the level of digital nasty effects, with lower settings minimizing intrusion.
 
 Best Use Cases:
 Ideal for lo-fi hiphop production and creating warm fuzzy texture in old sampler-style tracks.

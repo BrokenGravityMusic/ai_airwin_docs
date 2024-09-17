@@ -5,17 +5,17 @@ A channel strip plugin that emulates the tone shaping capabilities of a classic 
 Key Controls and Settings:
 
 * Fader: Adjusts overall gain
-	+ Range: Real-time control, up to 20 dB
-	+ Type: Gain stage with unique pan switching network
+    + Range: Real-time control, up to 20 dB
+    + Type: Gain stage with unique pan switching network
 * Treble: Adjusts high-frequency response
-	+ Range: Boost or cut, adjustable
-	+ Type: High-frequency EQ section
+    + Range: Boost or cut, adjustable
+    + Type: High-frequency EQ section
 * Mid Boost (Sweepable): Enhances midrange frequency response with a boost-only characteristic
-	+ Range: 0.0 to +10 dB
-	+ Type: Sweepable mid-boost EQ stage
+    + Range: 0.0 to +10 dB
+    + Type: Sweepable mid-boost EQ stage
 * Bass: Controls low-frequency response
-	+ Range: Cut or boost, adjustable
-	+ Type: Low-frequency EQ section
+    + Range: Cut or boost, adjustable
+    + Type: Low-frequency EQ section
 * Pan Switching Network: A special panning scheme similar to LCR panning but with an "evil cousin" twist
 
 Best Use Cases:

@@ -5,9 +5,9 @@ Analog tone simulator with optional gentle DC suppression.
 Key Controls and Settings:
 
 * `Centering Force`: A control that defaults to 0.0, which is the 'Xmas Morning' setting.
-	+ Turning it up to 0.7 or 0.8 simulates the first bugfix, where some bass is removed to fix DC problems.
-	+ Cranked up, it's a highpass with a gentle slope that can be used to tighten non-bass tracks.
-	+ Keeping it at 0.5 or below reacts slowly and won't touch bass frequencies.
+    + Turning it up to 0.7 or 0.8 simulates the first bugfix, where some bass is removed to fix DC problems.
+    + Cranked up, it's a highpass with a gentle slope that can be used to tighten non-bass tracks.
+    + Keeping it at 0.5 or below reacts slowly and won't touch bass frequencies.
 
 Best Use Cases:
 * For users who want the original Console5 tone algorithm back.

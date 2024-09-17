@@ -3,8 +3,8 @@ ResEQ2
 A single, sharp, sonorous mid peak that can be used to boost clarity and character in tracks.
 
 * `Sweepable Mid Peak`: A resonant frequency generator with a range of frequencies to choose from.
-	+ Adjusting the `Frequency` control allows you to select a specific midrange frequency to target.
-	+ The `Resonance` control increases the sharpness of the peak, adding character and clarity to the track.
+    + Adjusting the `Frequency` control allows you to select a specific midrange frequency to target.
+    + The `Resonance` control increases the sharpness of the peak, adding character and clarity to the track.
 * `Gain`: Controls the overall level of the ResEQ2 output.
 
 Best Use Cases:

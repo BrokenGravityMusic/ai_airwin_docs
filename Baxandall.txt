@@ -3,17 +3,17 @@ A general-purpose EQ with a two-band filter that allows for subtle, gentle boost
 Key Controls and Settings:
 
 * `Lowpass:` A boost or cut control adjusting low-frequency response.
-	+ Range: -∞ to +3 dB (or more)
-	+ Type: Low-pass filter
+    + Range: -∞ to +3 dB (or more)
+    + Type: Low-pass filter
 * `Highpass:` A boost or cut control adjusting high-frequency response.
-	+ Range: -∞ to +3 dB (or more)
-	+ Type: High-pass filter
+    + Range: -∞ to +3 dB (or more)
+    + Type: High-pass filter
 * `Boost/Cut Amount:` Determines the intensity of tonal shaping, from subtle to extreme.
-	+ Range: 0% to 100%
-	+ Type: Boost/cut control
+    + Range: 0% to 100%
+    + Type: Boost/cut control
 * `Midrange Notch:` Affects midrange frequency response, developing a notch as boosts become more intense.
-	+ Range: -∞ to +3 dB (or more)
-	+ Type: Midrange filter
+    + Range: -∞ to +3 dB (or more)
+    + Type: Midrange filter
 
 Caveats:
 Using extreme boosts may develop an inverse lowpass effect, resulting in a mids notch. Double boosts or extreme cuts may require additional adjustments to achieve desired results.

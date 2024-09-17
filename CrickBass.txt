@@ -3,9 +3,9 @@ CrickBass
 Key Controls and Settings:
 
 * `Drive`: Adjusts the gain level for both BigAmp (neck pickup) and LilAmp (bridge pickup) simulations.
-	+ Recommended to balance gain levels between neck and bridge pickups.
+    + Recommended to balance gain levels between neck and bridge pickups.
 * `Tone`: Adjusts the midrange articulation and tone quality of both simulations.
-	+ Recommended to match with snare drum percussive noises.
+    + Recommended to match with snare drum percussive noises.
 
 Best Use Cases:
 

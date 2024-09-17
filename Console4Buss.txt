@@ -5,22 +5,22 @@ A complete, in-the-box (ITB) mixing console simulator that allows for precise co
 Key Controls and Settings:
 
 * `Input Level`: Adjusts the level of individual inputs.
-	+ Range: [insert range]
-	+ Type: Linear
+    + Range: [insert range]
+    + Type: Linear
 * `Gain`: Boosts or cuts overall gain for each channel.
-	+ Range: [insert range]
-	+ Type: Linear
+    + Range: [insert range]
+    + Type: Linear
 * `Pan`: Pans signals left or right to create spatial effects.
-	+ Range: Left - Center - Right
+    + Range: Left - Center - Right
 * `Highpass Filter (HPF)`: Attenuates low frequencies to reduce rumble and hum.
-	+ Range: 20 Hz - 200 Hz
-	+ Type: Bell
+    + Range: 20 Hz - 200 Hz
+    + Type: Bell
 * `Peak Limiter`: Prevents sudden spikes in volume that can damage equipment.
-	+ Range: Off - 3 dB - 6 dB
-	+ Type: Peak
+    + Range: Off - 3 dB - 6 dB
+    + Type: Peak
 * `Master Bus`: Adjusts the overall output level of the mixing console.
-	+ Range: 0 dB - 6 dB
-	+ Type: Linear
+    + Range: 0 dB - 6 dB
+    + Type: Linear
 
 Best Use Cases:
 Use Console4Buss to simulate and compare different mixing consoles, console chains, or effects setups in your DAW. Ideal for producers, engineers, and musicians who want to experiment with various mixing techniques without affecting the original audio material.

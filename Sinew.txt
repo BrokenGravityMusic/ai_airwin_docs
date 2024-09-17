@@ -5,11 +5,11 @@ Morphs and transforms percussive sounds, adding a unique "grind" to instruments 
 Key Controls and Settings:
 
 * `Threshold:` Adjusts the level at which slew clipping engages.
-	+ Range: 
-	+ Type: control
+    + Range: 
+    + Type: control
 * `Slew:` Sets the rate at which the clipper darkens treble in an unusual way. Can be adjusted for extreme values.
-	+ Range: 
-	+ Type: control
+    + Range: 
+    + Type: control
 
 Best Use Cases:
 

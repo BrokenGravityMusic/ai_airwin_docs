@@ -5,17 +5,17 @@ A plugin simulating the Mackie distortion with added treble and bass controls.
 Key Controls and Settings:
 
 * Gain: Adjusts the overall gain level of the plugin.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Treble: Controls the high-frequency response.
-	+ Range: -24 dB to +12 dB
-	+ Step size: 1 dB
+    + Range: -24 dB to +12 dB
+    + Step size: 1 dB
 * Bass: Controls the low-frequency response.
-	+ Range: -24 dB to +12 dB
-	+ Step size: 1 dB
+    + Range: -24 dB to +12 dB
+    + Step size: 1 dB
 * Distortion Level: Adjusts the amount of distortion applied to the signal.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 

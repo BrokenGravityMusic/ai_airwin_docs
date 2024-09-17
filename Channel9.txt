@@ -5,17 +5,17 @@ A channel strip emulator with ultrasonic filtering and two new tone-shaping sett
 Key Controls and Settings:
 
 * `Ultrasonic Filtering`: 
-	+ Controls the steepness of the filter, with options for Neve, SSL, API, Teac, and Mackie console models.
-	+ Adjusts the cutoff point of the filter to simulate the characteristics of each console model.
+    + Controls the steepness of the filter, with options for Neve, SSL, API, Teac, and Mackie console models.
+    + Adjusts the cutoff point of the filter to simulate the characteristics of each console model.
 * `Teac` and `Mackie` settings: 
-	+ Reshape sound in a way that's suitable for house/techno music.
-	+ Control bright highs and deep bass frequencies.
+    + Reshape sound in a way that's suitable for house/techno music.
+    + Control bright highs and deep bass frequencies.
 * `Two-stage Drive Control`: 
-	+ Adjusts the overall distortion and warmth of the sound
+    + Adjusts the overall distortion and warmth of the sound
 * `Highpass`: 
-	+ A newly improved high-pass filter for controlling low-end frequencies
+    + A newly improved high-pass filter for controlling low-end frequencies
 * `Slew Clipping`: 
-	+ Adds character to the sound
+    + Adds character to the sound
 
 Best Use Cases:
 

@@ -6,8 +6,8 @@ Key Controls and Settings:
 
 * `Filter Type`: Choose between lowpass and highpass.
 * `Frequency Control`: Adjusts the cutoff frequency of the filter, allowing for accurate control over the full Nyquist range. Midrange always in the middle of the control. Seamless bypasses itself at maximum frequency while still calculating the filtered signal.
-	+ Range: 0 to max sample rate
-	+ Type: logarithmic scale
+    + Range: 0 to max sample rate
+    + Type: logarithmic scale
 * `Treble and Bass`: Controls for shelving or output gain, designed for instant response.
 
 Caveats:

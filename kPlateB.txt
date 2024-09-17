@@ -5,20 +5,20 @@ A plate reverb plugin with a unique algorithm and topology that generates a 3x3 
 Key Controls and Settings:
 
 * `Size:` [insert text]
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Damping:` Adjusts the high-frequency damping to balance brightness and clarity.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Width:` Sets the stereo image width, from mono to wide stereo.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Mix:` Blends the wet signal with the dry input.
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * Reverb Time (range: 0.1-10 seconds)
-	+ Adjusts the length of the reverb tail
+    + Adjusts the length of the reverb tail
 * Brightness (range: -20dB to +10dB)
-	+ Controls the EQ slope of the reverb sound
+    + Controls the EQ slope of the reverb sound
 
 Caveats:
 Due to its unique algorithm, kPlateB's sound may not be directly comparable to other plate reverbs or even the same reverb in a different setting.

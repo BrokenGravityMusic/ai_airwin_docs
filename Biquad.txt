@@ -5,9 +5,9 @@ A flexible and powerful tool that provides four common biquad options: lowpass, 
 Key Controls and Settings:
 
 * `Filter Type:` 
-	+ Options: Lowpass, Highpass, Bandpass, Notch
+    + Options: Lowpass, Highpass, Bandpass, Notch
 * `Frequency:` 
-	+ Range: DC to Nyquist frequency
+    + Range: DC to Nyquist frequency
 
 Caveats:
 Requires a signal between -1 and 1 (or lower than 0dBFS in the DAW) for optimal performance.

@@ -3,14 +3,14 @@ A bandpassy tape simulator with input trim, tape speed control, and output trim,
 Key Controls and Settings:
 
 * `Input Trim:` Adjusts the signal level before the tape simulation.
-	+ Range: [-20 dB to 6 dB]
-	+ Type: Linear
+    + Range: [-20 dB to 6 dB]
+    + Type: Linear
 * `Tape Speed Control:` Sets the tape speed, affecting the tone and saturation of the plugin.
-	+ Range: [30 Hz to 900 Hz]
-	+ Type: Logarithmic
+    + Range: [30 Hz to 900 Hz]
+    + Type: Logarithmic
 * `Output Trim:` Adjusts the signal level after the tape simulation.
-	+ Range: [-20 dB to 6 dB]
-	+ Type: Linear
+    + Range: [-20 dB to 6 dB]
+    + Type: Linear
 
 Best Use Cases:
 Ideal for musicians looking to create an aggressive tone with a vintage analog feel. Suitable for use in music production workflows where high sample rates are used.

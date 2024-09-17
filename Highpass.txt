@@ -2,7 +2,7 @@ A time warp filter that creates retro midrangey sounds, suitable for mixing appl
 
 Key Controls and Settings:
 * `Soft/Hard (or Loose/Tight)`: Controls how the IIR filters are fed audio. Adjusting this parameter affects tone-character modification on a sample-by-sample basis.
-	+ Adjusting away from center position can cut extreme treble at shallow settings. At deeper cut settings, it gives two different textures that keep a hint of 'air' right up top.
+    + Adjusting away from center position can cut extreme treble at shallow settings. At deeper cut settings, it gives two different textures that keep a hint of 'air' right up top.
 * `Dry/Wet`: A blend control that allows you to mix the filtered sound with the original audio.
 
 Best Use Cases:

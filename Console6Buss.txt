@@ -5,11 +5,11 @@ Simulates a high-gain console with peak level control, designed to add intensity
 Key Controls and Settings:
 
 * `Gain`: Adjusts the overall gain of the simulated console.
-	+ Range: Not specified
-	+ Type: Gain
+    + Range: Not specified
+    + Type: Gain
 * `Peak Level`: Sets the maximum allowed signal level, useful for preventing distortion or clipping.
-	+ Range: 0 dB to -12 dB (recommended)
-	+ Type: Peak limiting
+    + Range: 0 dB to -12 dB (recommended)
+    + Type: Peak limiting
 
 May introduce coloration or distortion if pushed too hard; be mindful of the peak level setting to avoid unwanted effects.
 

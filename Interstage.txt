@@ -5,11 +5,11 @@ A mastering-grade acceleration limiter that targets digital behavior causing Gib
 Key Controls and Settings:
 
 * `Threshold`: Adjusts the level at which acceleration begins.
-	+ Range: N/A
-	+ Type: [insert type]
+    + Range: N/A
+    + Type: [insert type]
 * `Slew Limit`: Controls the amount of clipping applied to the signal, with lower values allowing for more subtle limiting.
-	+ Range: N/A
-	+ Type: [insert type]
+    + Range: N/A
+    + Type: [insert type]
 
 Best Use Cases:
 Use to clean up excessively digital bass and treble, particularly when working with ITB mixes or edgy source material.

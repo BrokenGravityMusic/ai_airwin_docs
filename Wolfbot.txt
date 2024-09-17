@@ -3,17 +3,17 @@ Wolfbot
 Key Controls and Settings:
 
 * `Highpass Kalman Filter:` Adjusts the high-pass response of the bandpass filter.
-	+ Type: Knob
-	+ Range: Adjustable (not specified)
-	+ Effect: Filters out frequencies above or below the set point
+    + Type: Knob
+    + Range: Adjustable (not specified)
+    + Effect: Filters out frequencies above or below the set point
 * `Saturation Amount:` Sets the amount of saturation added to the output signal.
-	+ Type: Knob
-	+ Range: Adjustable (not specified)
-	+ Effect: Adds warmth and character to the sound
+    + Type: Knob
+    + Range: Adjustable (not specified)
+    + Effect: Adds warmth and character to the sound
 * `Bandpass Control:` Adjusts the bandpass frequency.
-	+ Type: Knob
-	+ Range: Adjustable (not specified)
-	+ Effect: Filters out frequencies above or below the set point
+    + Type: Knob
+    + Range: Adjustable (not specified)
+    + Effect: Filters out frequencies above or below the set point
 
 Best Use Cases:
 * Mixing and mastering music, particularly for low-end frequencies and kick drums.

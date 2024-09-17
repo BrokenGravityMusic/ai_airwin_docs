@@ -3,11 +3,11 @@ A plugin that emulates a 1960s-1970s noise reduction machine, with simple algori
 Key Controls and Settings:
 
 * Encode:
-	+ Encode Level (slider): Adjusts brightness boost
-	+ Frequency Control (knob): Specifies brightness band for compression
+    + Encode Level (slider): Adjusts brightness boost
+    + Frequency Control (knob): Specifies brightness band for compression
 * Decode:
-	+ Decode Level: Adjusts phase-inverted brightness boost
-	+ Frequency Control (same as Encode, adds phase-inverted effect)
+    + Decode Level: Adjusts phase-inverted brightness boost
+    + Frequency Control (same as Encode, adds phase-inverted effect)
 * Dry/Wet Mix (adjusts amount of processed audio in the mix)
 
 Best Use Cases:

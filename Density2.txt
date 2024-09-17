@@ -5,11 +5,11 @@ Key Controls and Settings:
 * `Gain`: Adjusts the overall gain of the plugin. A value of 0 is unity gain.
 * Dry/Wet Mix: Adjusts the balance between the original signal and the plugin's processed output. Range: 0% to 100%.
 * Density Amount: Controls the amount of density added to the signal. Range: -20 dB to 0 dB.
-	+ Input gain control
-	+ Output level control
-	+ Dithering mode selection (floating point or noise shaping)
+    + Input gain control
+    + Output level control
+    + Dithering mode selection (floating point or noise shaping)
 * Mix: A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Suitable for use as an alternate tone in mixing and mastering scenarios where the original Density plugin is not desired or has been used extensively.

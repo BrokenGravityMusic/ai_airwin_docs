@@ -4,11 +4,11 @@ Key Controls and Settings:
 
 * `Type:` Not adjustable.
 * `Gain:` Adjusts the overall gain of the amplifier. Turning up can result in a more intense tone.
-	+ Range: N/A
-	+ Type: Gain control
+    + Range: N/A
+    + Type: Gain control
 * `Dry/Wet Control:` Blend control that allows you to mix the raw signal with the processed signal.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * `Zero latency:` Allows tracking through the plugin without delay.
 
 Best Use Cases:

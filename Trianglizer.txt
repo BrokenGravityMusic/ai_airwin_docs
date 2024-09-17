@@ -3,13 +3,13 @@ A waveshaper that transforms sines into triangles or triangle-like waves, also c
 Key Controls and Settings:
 
 * `Tri/Fat Control`: Adjusts the shape of the output wave from a sharp triangle to a rounded trapezoid.
-	+ Range: From sharp triangle (Tri) to rounded trapezoid (Fat)
-	+ Type: Parameter control
+    + Range: From sharp triangle (Tri) to rounded trapezoid (Fat)
+    + Type: Parameter control
 * `Dry-Wet Control`: Blends the original signal with the processed signal to control the amount of effect applied.
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Caveats:
 The plugin's ability to transform sines into triangles or add saturation is dependent on the input level, with louder signals producing sharper triangle-like waves and softer signals producing rounder shapes.

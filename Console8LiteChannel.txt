@@ -3,11 +3,11 @@ Console8LiteChannel
 Key Controls and Settings:
 
 * `Mix Buss:` Adjusts the overall gain of the plugin's output.
-	+ Range: -30 dB to +6 dB
-	+ Default Value: 0 dB
+    + Range: -30 dB to +6 dB
+    + Default Value: 0 dB
 * `Channel EQ (High/Mid/Low):` Adjusts the tone of the individual frequency ranges.
-	+ Each band has a Q value (bandwidth) that can be adjusted.
-	+ High, Mid, and Low bands have separate gain controls.
+    + Each band has a Q value (bandwidth) that can be adjusted.
+    + High, Mid, and Low bands have separate gain controls.
 
 Best Use Cases
 

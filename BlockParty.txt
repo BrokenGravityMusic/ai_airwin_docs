@@ -5,14 +5,14 @@ A moderately saturated analog limiter with OneCornerClip-like behaviors.
 Key Controls and Settings:
 
 * `Threshold:` Kicked down low initially, then expands to full scale.
-	+ Range: Interactive with audio input
-	+ Type: Determines compression level
+    + Range: Interactive with audio input
+    + Type: Determines compression level
 * `Gain:` Offers a lot of gain for peak limiting or slamming into effect.
-	+ Range: Not specified
-	+ Type: Allows for peak limiting or heavy compression
+    + Range: Not specified
+    + Type: Allows for peak limiting or heavy compression
 * `Dry/Wet:` Blends between uncompressed (dry) and compressed (wet) output.
-	+ Range: 0% to 100%
-	+ Type: Controls the amount of processed audio mixed with the original signal
+    + Range: 0% to 100%
+    + Type: Controls the amount of processed audio mixed with the original signal
 
 Caveats:
 

@@ -5,8 +5,8 @@ A resonant lowpass EQ that averages the rate of change OF the rate of the wavefo
 Key Controls and Settings:
 
 * `Dry/Wet control`: Adjusts the amount of effect applied to the signal, with full wet enhancing the resonant quality.
-	+ Range: 0% to 100%
-	+ Tip: Explore half-wet or barely-wet settings for optimal results.
+    + Range: 0% to 100%
+    + Tip: Explore half-wet or barely-wet settings for optimal results.
 * `Resonance control`: Sets the degree of resonance in the lowpass EQ.
 
 Best Use Cases:

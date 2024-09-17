@@ -3,13 +3,13 @@ A bass-cab-like resonant lowpass filter that produces a distinctive, synth-filte
 Key Controls and Settings:
 
 * `Poles`: Sets the number of poles in the multipole arrangement (dry to 8 poles, 48 dB per octave)
-	+ Type: Frequency response control
+    + Type: Frequency response control
 * `Resonance`: Controls the resonance amount
-	+ Range: No resonance to intense resonant effects
+    + Range: No resonance to intense resonant effects
 * `Dry/Wet`: Blend between the dry signal and the filtered output
-	+ Type: Signal blend control
+    + Type: Signal blend control
 * `Output Level`: Adjusts the overall level of the output
-	+ Type: Volume control
+    + Type: Volume control
 
 Best Use Cases:
 

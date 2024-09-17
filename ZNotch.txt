@@ -1,6 +1,6 @@
 Key Controls and Settings:
 * `Poles`: Adjusts the number of poles (or zero-crossings) in the filter. Zeroing this control will allow you to add color to the dry signal.
-	+ Range: 0-5
+    + Range: 0-5
 * `Cut`: Sets the frequency at which the notch is applied, with deeper cuts possible into the bass range. Range: 20 Hz - 22 kHz
 * `Drive`: Adds overdrive to the filtered tone, allowing for subtle character addition. Range: ?
 * `Q (Resonance)`: Adjusts the width of the notch. Range: 0.1-100

@@ -5,12 +5,12 @@ A plugin that applies output clipping from Emu e6400 style Z filters, similar to
 Key Controls and Settings:
 
 * `Level`: Adjusts the overall level of the effect.
-	+ Type: Fader
+    + Type: Fader
 * `Distortion`: Sets the amount of distortion applied by the plugin. Values above 0.1 produce a distorted sound, similar to the Emu e6400's Z filters.
-	+ Range: 0% to 100%
-	+ Type: Slider
+    + Range: 0% to 100%
+    + Type: Slider
 * `Output Level`: Reduces the output level of the plugin, as it produces a hot signal.
-	+ Range: -10dB to +10dB
+    + Range: -10dB to +10dB
 
 Best Use Cases:
 Adding energy and grind to synth waves, particularly in drum and bass genres. Enhancing the sound of digital audio productions to make them more similar to analog recordings.

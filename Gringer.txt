@@ -5,15 +5,15 @@ A full-wave rectifier plugin, similar to a Green Ringer guitar effect, that appl
 Key Controls and Settings:
 
 * Top control (shelves):
-	+ Lowpass
-	+ Highpass
-	+ Bandpass
-	+ Notch
+    + Lowpass
+    + Highpass
+    + Bandpass
+    + Notch
 * Frequency setting:
-	+ Range from zero to one (in "amount of the audio range")
-	+ Zero not really DC, One not really Nyquist frequency (half the sample rate)
+    + Range from zero to one (in "amount of the audio range")
+    + Zero not really DC, One not really Nyquist frequency (half the sample rate)
 * Biquad bandpasses:
-	+ VERY wide bandwidth
+    + VERY wide bandwidth
 
 Caveats:
 

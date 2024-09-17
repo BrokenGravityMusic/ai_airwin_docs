@@ -7,23 +7,23 @@ Emulates the sound of classic tape machines with a range of controls for precise
 Key Controls and Settings:
 
 * `Highs Cutoff:` Sets the high-frequency cutoff for the tape saturation effect.
-	+ Range: [not specified]
-	+ Type: Frequency cutoff
+    + Range: [not specified]
+    + Type: Frequency cutoff
 * `Dubly Decode (Frequency & Amount):` Helps smooth out compressed sounds and control the texture of your audio.
-	+ Range: Not specified ( frequency & amount)
-	+ Type: Compressor
+    + Range: Not specified ( frequency & amount)
+    + Type: Compressor
 * `Tape Drive (Boost/Pad):` Adjusts the gain of the tape drive, allowing for clean gain or loudening of the signal.
-	+ Range: 0% to ?
-	+ Type: Gain control
+    + Range: 0% to ?
+    + Type: Gain control
 * `Flutter:` Emulates the "3D tape" effect, where tape bends laterally and stretches.
-	+ Range: Not specified
-	+ Type: Effect (can be bypassed)
+    + Range: Not specified
+    + Type: Effect (can be bypassed)
 * `Bias:` Sets the biasing of the tape machine, which can help control unpleasant tizzy highs.
-	+ Range: Not specified
-	+ Type: Bias adjustment
+    + Range: Not specified
+    + Type: Bias adjustment
 * `Head Bump:` Emulates the sound of tape machine head bumps.
-	+ Range: Not specified
-	+ Type: Bass effect (with built-in highpass filter)
+    + Range: Not specified
+    + Type: Bass effect (with built-in highpass filter)
 
 Best Use Cases:
 

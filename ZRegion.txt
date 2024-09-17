@@ -5,11 +5,11 @@ A digital filtering plugin emulating an Emu e6400 style Airwindows Region filter
 Key Controls and Settings:
 
 * `Filter Stages:` A series of bandpass filters that can be staggered in frequency.
-	+ To adjust, simply move the controls up or down to change the filter frequencies.
+    + To adjust, simply move the controls up or down to change the filter frequencies.
 * `Gain:` Allows for internal distortion when boosting gain.
-	+ Use with caution as excessive gain can lead to clipping.
+    + Use with caution as excessive gain can lead to clipping.
 * `Ordering:` Adjusts the order in which the filters are applied.
-	+ Experiment with different orders to achieve unique effects.
+    + Experiment with different orders to achieve unique effects.
 
 Caveats:
 Be cautious when adjusting Filter Stage frequencies, as excessive changes can lead to unwanted effects. Excessive gain can also lead to clipping and distortion.

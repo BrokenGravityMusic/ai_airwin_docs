@@ -3,13 +3,13 @@ XLowpass
 Key Controls and Settings:
 
 * `Distortion`: A control for adjusting the amount of internal distortion in the plugin.
-	+ Adjusting this control will affect the overall tone and character of the EQ.
+    + Adjusting this control will affect the overall tone and character of the EQ.
 * `Filter Type`: A selection menu for choosing between different biquad filter types (e.g. lowpass).
-	+ This setting determines the type of filtering applied to the audio signal.
+    + This setting determines the type of filtering applied to the audio signal.
 * `Stage Count`: A control for adjusting the number of stages in the internal distortion circuit.
-	+ Increasing this value will add more complexity and character to the distortion.
+    + Increasing this value will add more complexity and character to the distortion.
 * `Cutoff Frequency`: A control for adjusting the cutoff frequency of the lowpass filter.
-	+ Adjusting this value will affect the tone and resonance of the filtered signal.
+    + Adjusting this value will affect the tone and resonance of the filtered signal.
 
 Best Use Cases:
 

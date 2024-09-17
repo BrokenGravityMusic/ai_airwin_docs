@@ -7,14 +7,14 @@ An artificial simulation of the tone shaping characteristics of a classic MCI co
 Key Controls and Settings:
 
 * Tone Shaping Control: Adjusts the warmth and clarity of the plugin's output.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Low Cut Filter: A 6 dB/octave low-pass filter to remove unwanted low-end frequencies.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * High End Shape: A high-pass filter with a -3 dB point at 10 kHz, simulating the high-frequency response of an MCI console.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 
 Best Use Cases:
 Suitable for mixing and mastering applications where a warm, vintage tone is desired.

@@ -5,11 +5,11 @@ A hidden-noise plugin for adding mid-side sonic texture to audio signals.
 Key Controls and Settings:
 
 * `Bright:` Adjusts high-frequency emphasis.
-	+ Turning up Bright adds more energy, while pushing too far can hyped-up high frequencies.
+    + Turning up Bright adds more energy, while pushing too far can hyped-up high frequencies.
 * `Punchy:` Controls the sound's fullness or spikiness.
-	+ Softer settings produce a fuller sound, while cranking Punchy creates a choppy effect.
+    + Softer settings produce a fuller sound, while cranking Punchy creates a choppy effect.
 * `Dry/Wet:` Adjusts the blend of original and processed audio.
-	+ Settings below 0.5 keep the noise entirely inaudible, allowing for a subliminal effect.
+    + Settings below 0.5 keep the noise entirely inaudible, allowing for a subliminal effect.
 
 Best Use Cases:
 - Add subtle texture and interest to flat or synthetic audio elements.

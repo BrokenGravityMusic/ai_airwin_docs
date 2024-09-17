@@ -5,10 +5,10 @@ Converts stereo tracks to mid/side, applies processing, and then converts back t
 Key Controls and Settings:
 
 * `Mid/Side Conversion:` Converts a stereo track into mid/side (on left and right channels) and back to stereo.
-	+ `Balance Mid/Side Content`: A control that balances the mid/side content for gain staging.
-	+ `Gain Staging Control`: Allows for gain staging of the M/S content before converting back to stereo.
+    + `Balance Mid/Side Content`: A control that balances the mid/side content for gain staging.
+    + `Gain Staging Control`: Allows for gain staging of the M/S content before converting back to stereo.
 * `Mix:` A blend control for mixing the processed sound with the original
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 

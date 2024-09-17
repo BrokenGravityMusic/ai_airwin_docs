@@ -5,14 +5,14 @@ A dynamic convolution plugin that simulates an analog effect using LA-2A convolu
 Key Controls and Settings:
 
 * Character slider: Adjusts the tonal effect, allowing for accentuation or reduction of bass
-	+ Range: Not specified
-	+ Type: Tonally adjustable
+    + Range: Not specified
+    + Type: Tonally adjustable
 * Drive slider: Adds crunch to the signal
-	+ Range: Not specified
-	+ Type: Texture-enhancing
+    + Range: Not specified
+    + Type: Texture-enhancing
 * Dry/Wet control: Blends the original and processed signals
-	+ Range: 0% to 100%
-	+ Type: Blend control
+    + Range: 0% to 100%
+    + Type: Blend control
 
 Best Use Cases:
 Adding unique color and character to audio signals where a typical sound is undesirable.

@@ -5,11 +5,11 @@ A plugin for centered bass reinforcement with subs fill, designed to be clean an
 Key Controls and Settings:
 
 * `Bass Reinforcement:` Adds mono-only bass to the dry signal, similar to a head bump in ToTape.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * `Subs Fill:` A simplified and optimized control for adding subs content to the mix.
-	+ `Filters:` Rearranged from DubSub/DubCenter, deeper and more filtered.
-	+ Use SubsOnly to test the sub output before mastering or using on full tracks.
+    + `Filters:` Rearranged from DubSub/DubCenter, deeper and more filtered.
+    + Use SubsOnly to test the sub output before mastering or using on full tracks.
 * `Mix:` Not applicable, as this plugin uses bass and sub augmentation only as additions to dry signal.
 
 Best Use Cases:

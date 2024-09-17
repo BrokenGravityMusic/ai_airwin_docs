@@ -3,14 +3,14 @@ A plugin for designing explosive transients.
 Key Controls and Settings:
 
 * Input Trim: Adjusts the input level (-1.0 to 1.0 dB)
-	+ Range: -1.0 to 1.0
-	+ Type: Input adjustment
+    + Range: -1.0 to 1.0
+    + Type: Input adjustment
 * Point control: Affects the output, with 'dry' being 0.0 (range -1.0 to 1.0)
-	+ Range: -1.0 to 1.0
-	+ Type: Transient effect design
+    + Range: -1.0 to 1.0
+    + Type: Transient effect design
 * Reaction Speed: Controls the plugin's response (range 0.0 to 1.0)
-	+ Range: 0.0 to 1.0
-	+ Type: Response control
+    + Range: 0.0 to 1.0
+    + Type: Response control
 
 Caveats:
 Can produce unstable results when pushed too far, and may damage audio or ears if misused.

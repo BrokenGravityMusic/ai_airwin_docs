@@ -5,14 +5,14 @@ A distorted digital EQ with a notch filter topology, combining biquad filters wi
 Key Controls and Settings:
 
 * Notch frequency: Sets the frequency of the notch filter.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Dry/Wet Control: Balances the intensity of the effect.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * Nuke (Saturation): Increases the saturation of the signal, affecting only the stuff outside the notch.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 

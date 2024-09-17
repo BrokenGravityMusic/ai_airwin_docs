@@ -5,14 +5,14 @@ A soft slew saturator that applies an unbounded sin() function to slew clipping,
 Key Controls and Settings:
 
 * `Depth`: Adjusts the number of soft slew saturators, with up to 32 stacked at high sample rates.
-	+ Range: Low to moderate settings for more manageable results
-	+ Type: Gain control
+    + Range: Low to moderate settings for more manageable results
+    + Type: Gain control
 * `Inv (Inverse)`: A control that creates an interesting cancellation effect when used in phase.
-	+ Range: 
-	+ Type: Filtering effect
+    + Range: 
+    + Type: Filtering effect
 * `Wet/Dry blend`: Allows adjusting the mix of processed and original audio.
-	+ Range: 0% to 100%
-	+ Type: Mix control
+    + Range: 0% to 100%
+    + Type: Mix control
 
 Caveats:
 The plugin's interaction with sample rate is unusual and must be scaled up with the square root of the sample rate multiplier. It becomes increasingly difficult to control at high gain settings.

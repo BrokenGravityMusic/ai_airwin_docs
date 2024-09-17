@@ -1,15 +1,15 @@
 Key Controls and Settings:
 
 * `Hard`: A control that affects the rate-crusher and bit-crusher algorithms. When set to zero, it changes the way intermediate samples are incorporated.
-	+ Range: 0% to 100%
-	+ Type: Texture adjustment
+    + Range: 0% to 100%
+    + Type: Texture adjustment
 * `Dry/Wet`: Blends the output with the original audio.
-	+ Range: 
-	+ Type: Blend control
+    + Range: 
+    + Type: Blend control
 * Soft/Halfway/Hard settings:
-	+ Soft: Engages uLaw encoding and decoding in a non-linear way, producing 'steps' in loud parts and small 'steps' in quiet parts.
-	+ Halfway: Enables wet/dry balance on the uLaws inside the plugin, adding volume and grunge to the output.
-	+ Hard: Maxes out at 100% with the previous algorithm, but can be automated for a unique effect.
+    + Soft: Engages uLaw encoding and decoding in a non-linear way, producing 'steps' in loud parts and small 'steps' in quiet parts.
+    + Halfway: Enables wet/dry balance on the uLaws inside the plugin, adding volume and grunge to the output.
+    + Hard: Maxes out at 100% with the previous algorithm, but can be automated for a unique effect.
 
 Best Use Cases:
 Use DeRez2 to dial in vintage-digital tonalities that are totally satisfying and convincing. Create darkening and texture effects similar to classic samplers.

@@ -5,17 +5,17 @@ An artificial bass amp simulator that emulates the SansAmp Bass DI rackmount RBI
 Key Controls and Settings:
 
 * `Low`: Adjusts low frequency response.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Mid`: Shapes midrange frequency presence.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Treble`: Adjusts high-frequency content.
-	+ Range: Not specified
-	+ Type: Not specified
+    + Range: Not specified
+    + Type: Not specified
 * `Overdrive`: Regulates the amount of internal distortion applied to the signal.
-	+ Range: 0% to ? (Note: not specified in original text)
-	+ Type: Internal overdrive
+    + Range: 0% to ? (Note: not specified in original text)
+    + Type: Internal overdrive
 
 Locked to 44.1K sampling rate for optimal performance.
 The plugin's behavior may deviate from traditional EQ controls due to its unique filtering characteristics.

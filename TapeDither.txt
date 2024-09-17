@@ -6,8 +6,8 @@ Key Controls and Settings:
 
 
 * `Delay Time:` Powers-of-two delay times (1, 2, 4, 8 samples) produce a more pleasing tone.
-	+ Range: 1 sample to 8 samples
-	+ Type: Integer value
+    + Range: 1 sample to 8 samples
+    + Type: Integer value
 
 Best Use Cases:
 

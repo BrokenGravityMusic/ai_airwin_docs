@@ -5,18 +5,18 @@ A plate reverb plugin using multiple Householder feedforward matrices, filtering
 Key Controls and Settings:
 
 * `Room Size`: Adjusts the size of the plate reverb space (0-100%).
-	+ Type: Continuous
+    + Type: Continuous
 * `Low Cut`: Sets the low-frequency cutoff for the plate reverb.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `High Cut`: Sets the high-frequency cutoff for the plate reverb.
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 * `Mix`: Balances the blend between dry sound and plate reverb effect (0% to 100%).
-	+ Type: Slider
+    + Type: Slider
 * `Decay Time`: Adjusts the reverb tail length in milliseconds (ms) (10-500 ms).
-	+ Range: [insert text]
-	+ Type: [insert text]
+    + Range: [insert text]
+    + Type: [insert text]
 
 Best Use Cases:
 

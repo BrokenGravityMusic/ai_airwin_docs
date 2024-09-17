@@ -5,9 +5,9 @@ A new and intense digital mixing console that peaks at lower dB levels. Ideal fo
 Key Controls and Settings:
 
 * Input: The input level of the plugin.
-	+ Use to adjust the gain stage before hitting the Channel plugins.
+    + Use to adjust the gain stage before hitting the Channel plugins.
 * Console6Buss Plugin: A digital mix buss replacement without an EQ-style sound.
-	+ Use after all Channel plugins to combine the signals.
+    + Use after all Channel plugins to combine the signals.
 
 Best Use Cases:
 Use one plugin per channel to apply the "inverse square" algorithm. Mix into Console6Channel like it's an analog mixing console that can be overstressed.

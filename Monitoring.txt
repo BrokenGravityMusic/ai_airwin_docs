@@ -10,19 +10,19 @@ Settings for extreme monitoring situations:
 Monitoring Options:
 
 * Vinyl: traditional lathe electronics-style roll-off
-	+ Bandwidth limiting: ultra-broad bandpass filtering
+    + Bandwidth limiting: ultra-broad bandpass filtering
 * Aurat: narrow bandpass filtering, simulating output of one-driver mix check speakers
 
 Crossfeed Algorithms:
 
 * Cans A: subtle crossfeed for mixing and easy listening (uses allpasses from PeaksOnly)
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * Cans B: more obvious crossfeed for late-night checks or when fatigued
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * Cans C: stronger, but still normal crossfeed algorithm
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 * Cans D: 'headphones energy redistributor' that attacks exaggerated stereo while maintaining some characteristics of Peaks monitoring
-	+ Range: 0% to 100%
+    + Range: 0% to 100%
 
 Best Use Cases:
 Monitor extreme signal levels, use with headphones for accurate mixing and mastering.

@@ -1,10 +1,10 @@
 Key Controls and Settings:
 
 * Compressor controls: adjust to shape dynamics
-	+ Type: simultaneous two-and-three-sample-interleaved compressors
+    + Type: simultaneous two-and-three-sample-interleaved compressors
 * Bass Bloom control: allows passing subsonics or bass notes through uncompressed
-	+ Range: variable (to taste)
-	+ Type: pass-through control
+    + Range: variable (to taste)
+    + Type: pass-through control
 
 Best Use Cases:
 

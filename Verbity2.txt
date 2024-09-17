@@ -5,17 +5,17 @@ A powerful reverb plugin that excels at generating complex, realistic reverbs wi
 Key Controls and Settings:
 
 * `Number of Banks:` Choose from 1-5 banks of matrices
-	+ Type: Matrix size control
+    + Type: Matrix size control
 * `Feedback Mode:` 
-	+ Range: Mono to Stereo
-	+ Type: Feedback type selection (Mono, Hybrid, Stereo)
+    + Range: Mono to Stereo
+    + Type: Feedback type selection (Mono, Hybrid, Stereo)
 * `Mulch:` Control for naturalness factor and absorption of extreme lows
-	+ Range: 0% to 100%
-	+ Type: Naturalness and absorption control
+    + Range: 0% to 100%
+    + Type: Naturalness and absorption control
 * `Stage:` Choose one of five Householder matrix stages
-	+ Type: Matrix stage selection
+    + Type: Matrix stage selection
 * `Bank Size:` Select from five banks of matrices per stage
-	+ Type: Bank size control
+    + Type: Bank size control
 
 Best Use Cases:
 

@@ -5,14 +5,14 @@ A plugin that upgrades the original Console8ChannelHype to a channel/submix/buss
 Key Controls and Settings:
 
 * `Topology:` Switch between Console8ChannelHype (default) and Channel/Submix/Buss modes.
-	+ Type: Dropdown menu
+    + Type: Dropdown menu
 * `Analog Simulation:` Toggle on/off for simulated warmth and character.
-	+ Range: On/Off
-	+ Type: Toggle switch
+    + Range: On/Off
+    + Type: Toggle switch
 * `Gain:` Adjust the overall gain level of the plugin.
-	+ Type: Fader or slider
+    + Type: Fader or slider
 * `Trim:` Fine-tune individual channel gains.
-	+ Type: Fader or slider
+    + Type: Fader or slider
 
 Caveats:
 Analog simulation may introduce noise or artifacts in certain situations. Topology changes may affect overall signal flow and headroom.

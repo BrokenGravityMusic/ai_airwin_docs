@@ -5,11 +5,11 @@ A sophisticated tube simulator with input trim and advanced processing, designed
 Key Controls and Settings:
 
 * `Input Trim:` 
-	+ Range: 0.0 - 1.0
-	+ Default: 0.5
+    + Range: 0.0 - 1.0
+    + Default: 0.5
 * `TUBE Control:` Adjusts the amount of distortion and saturation.
-	+ Range: 
-	+ Type: 
+    + Range: 
+    + Type: 
 * Mix: A blend control for mixing the processed sound with the original
 
 Caveats:

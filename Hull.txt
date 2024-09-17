@@ -4,11 +4,11 @@ Hull
 Key Controls and Settings:
 
 * `Bright`: A dry/wet control for adjusting the balance between filtered and unfiltered audio.
-	+ Range: Hard left gives darkening, hard right subtracts output giving highpass
-	+ Type: Dry/Wet
+    + Range: Hard left gives darkening, hard right subtracts output giving highpass
+    + Type: Dry/Wet
 * `Freq`: Adjusts the cutoff frequency of the filter.
-	+ Range: Adjusts averaging window size and cutoff frequency
-	+ Type: Frequency Cutoff
+    + Range: Adjusts averaging window size and cutoff frequency
+    + Type: Frequency Cutoff
 
 Caveats:
 High Freq values can result in significant CPU usage, especially at high sample rates. The filter produces artifacts and accentuates unwanted audio content when used for sound effects or noise reduction.

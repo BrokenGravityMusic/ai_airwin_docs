@@ -3,8 +3,8 @@ BitShiftGain
 Key Controls and Settings:
 
 * `Number of Bits to Shift`: Selects the number of bits to shift up or down, resulting in a corresponding gain or cut.
-	+ Range: 1-24
-	+ Type: Step-wise increment
+    + Range: 1-24
+    + Type: Step-wise increment
 * `Direction`: Determines whether to apply a boost (shift up) or pad (shift down).
 
 Best Use Cases:
